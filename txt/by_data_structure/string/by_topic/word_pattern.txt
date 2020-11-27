@@ -10,6 +10,8 @@ References:
 
 2   0290    https://leetcode.com/problems/word-pattern/
 
+3   1023    https://leetcode.com/problems/camelcase-matching/
+
 5   0291    https://leetcode.com/problems/word-pattern-ii/
 
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

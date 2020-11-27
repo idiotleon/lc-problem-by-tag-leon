@@ -116,6 +116,7 @@ References:
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
 3   0966    https://leetcode.com/problems/vowel-spellchecker/
+3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1055    https://leetcode.com/problems/shortest-way-to-form-string/
 3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/

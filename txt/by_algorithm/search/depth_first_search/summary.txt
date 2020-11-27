@@ -142,7 +142,6 @@ References:
 3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
 3   1020    https://leetcode.com/problems/number-of-enclaves/
-3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1034    https://leetcode.com/problems/coloring-a-border/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/

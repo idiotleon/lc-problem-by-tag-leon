@@ -30,7 +30,6 @@ References:
 3   0756    https://leetcode.com/problems/pyramid-transition-matrix/
 3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
-3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1079    https://leetcode.com/problems/letter-tile-possibilities/
 3   1087    https://leetcode.com/problems/brace-expansion/
 3   1215    https://leetcode.com/problems/stepping-numbers/
