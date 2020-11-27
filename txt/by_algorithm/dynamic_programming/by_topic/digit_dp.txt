@@ -1,0 +1,22 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Topic
+# Digit DP
+
+2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+
+3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+
+4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
+4   1067    https://leetcode.com/problems/digit-count-in-range/
+
+5   0233    https://leetcode.com/problems/number-of-digit-one/
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
+
+6   1397    https://leetcode.com/problems/find-all-good-strings/

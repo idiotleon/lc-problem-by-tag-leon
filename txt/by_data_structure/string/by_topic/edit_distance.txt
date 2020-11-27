@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Topic
+# Edit Distance
+
+3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
+
+4   0072    https://leetcode.com/problems/edit-distance/
+4   1062    https://leetcode.com/problems/longest-repeating-substring/

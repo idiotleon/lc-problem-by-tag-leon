@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+    
+### Sort
+# Quick Select
+
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
+2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+
+5   0324    https://leetcode.com/problems/wiggle-sort-ii/
+
+
+Resource:
+    https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132

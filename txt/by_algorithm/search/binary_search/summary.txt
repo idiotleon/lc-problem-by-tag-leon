@@ -1,0 +1,113 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/binary-search/
+    https://github.com/huanminwu/LeetCode
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+This serves the list of all the LC problems related to Binary Search, regardless of sub-categories
+
+### Binary Search
+
+1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
+
+2   0035    https://leetcode.com/problems/search-insert-position/
+2   0074    https://leetcode.com/problems/search-a-2d-matrix/
+2   0278    https://leetcode.com/problems/first-bad-version/ 
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   0392    https://leetcode.com/problems/is-subsequence/
+2   0475    https://leetcode.com/problems/heaters/
+2   0658    https://leetcode.com/problems/find-k-closest-elements/
+2   0704    https://leetcode.com/problems/binary-search/
+2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
+2   1237    https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+
+3   0029    https://leetcode.com/problems/divide-two-integers/
+3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
+3   0050    https://leetcode.com/problems/count-complete-tree-nodes/   https://leetcode.com/problems/powx-n/
+3   0069    https://leetcode.com/problems/sqrtx/
+3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3   0162    https://leetcode.com/problems/find-peak-element/
+3   0167    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
+3   0275    https://leetcode.com/problems/h-index-ii/
+3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0436    https://leetcode.com/problems/find-right-interval/
+3   0367    https://leetcode.com/problems/valid-perfect-square/
+3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0436    https://leetcode.com/problems/find-right-interval/
+3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   0702    https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   0875    https://leetcode.com/problems/koko-eating-bananas/
+3   0911    https://leetcode.com/problems/online-election/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   0981    https://leetcode.com/problems/time-based-key-value-store/
+3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+4   0081    https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0240    https://leetcode.com/problems/search-a-2d-matrix-ii/
+4   0287    https://leetcode.com/problems/find-the-duplicate-number/
+4   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0540    https://leetcode.com/problems/single-element-in-a-sorted-array/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
+4   0975    https://leetcode.com/problems/odd-even-jump/
+4   1011    https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+4   1300    https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+
+5   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
+5   0327    https://leetcode.com/problems/count-of-range-sum/
+5   0354    https://leetcode.com/problems/russian-doll-envelopes/
+5   0483    https://leetcode.com/problems/smallest-good-base/
+5   0493    https://leetcode.com/problems/reverse-pairs/
+5   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+5   1044    https://leetcode.com/problems/longest-duplicate-substring/
+5   1095    https://leetcode.com/problems/find-in-mountain-array/
+5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+
+
+
+Resources:
+    https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/
+    https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-of-solutions-for-problems-%22reducible%22-to-LeetCode-378
+    https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485044&idx=1&sn=e6b95782141c17abe206bfe2323a4226&chksm=9bd7f87caca0716aa5add0ddddce0bfe06f1f878aafb35113644ebf0cf0bfe51659da1c1b733&scene=21#wechat_redirect
+
+    # Termination Conditions: while(left < right) vs while(left <= right)
+    https://stackoverflow.com/a/30928332/6061609
+
+    # Search Range/Scope: right = (arr.length) vs (arr.length - 1)
+
+    # Duplicates
+
+    # From left vs from right
+
+    # Target is not in the array at all
+
+    # K closest
+
+    # Jump

@@ -1,0 +1,23 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Set
+# TreeSet
+
+2   0475    https://leetcode.com/problems/heaters/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+3   1488    https://leetcode.com/problems/avoid-flood-in-the-city/
+
+4   0220    https://leetcode.com/problems/contains-duplicate-iii/
+4   0264    https://leetcode.com/problems/ugly-number-ii/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+5   0480    https://leetcode.com/problems/sliding-window-median/

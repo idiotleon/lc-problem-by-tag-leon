@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Games
+## Other
+
+2   0292    https://leetcode.com/problems/nim-game/
+2   1025    https://leetcode.com/problems/divisor-game/
+
+3   0289    https://leetcode.com/problems/game-of-life/
+
+4   0174    https://leetcode.com/problems/dungeon-game/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0486    https://leetcode.com/problems/predict-the-winner/

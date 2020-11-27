@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Games
+## Snake Game
+
+3   0353    https://leetcode.com/problems/design-snake-game/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/

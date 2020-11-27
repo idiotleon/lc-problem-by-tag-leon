@@ -1,0 +1,54 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Technique
+# Sorting
+
+1   0506    https://leetcode.com/problems/relative-ranks/
+1   1051    https://leetcode.com/problems/height-checker/
+
+2   0280    https://leetcode.com/problems/wiggle-sort/
+2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+2   0791    https://leetcode.com/problems/custom-sort-string/
+2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   0945    https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1122    https://leetcode.com/problems/relative-sort-array/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
+2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+
+3   0015    https://leetcode.com/problems/3sum/
+3   0016    https://leetcode.com/problems/3sum-closest/
+3   0056    https://leetcode.com/problems/merge-intervals/
+3   0075    https://leetcode.com/problems/sort-colors/
+3   0259    https://leetcode.com/problems/3sum-smaller/
+3   0435    https://leetcode.com/problems/non-overlapping-intervals/
+3   0444    https://leetcode.com/problems/sequence-reconstruction/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0853    https://leetcode.com/problems/car-fleet/
+3   0912    https://leetcode.com/problems/sort-an-array/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   0969    https://leetcode.com/problems/pancake-sorting/
+3   1057    https://leetcode.com/problems/campus-bikes/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
+
+4   0018    https://leetcode.com/problems/4sum/
+4   0179    https://leetcode.com/problems/largest-number/
+4   0296    https://leetcode.com/problems/best-meeting-point/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0954    https://leetcode.com/problems/array-of-doubled-pairs/
+
+
+
+
+## Bucket Sort
+
+2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/

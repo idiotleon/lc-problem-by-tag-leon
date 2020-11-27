@@ -1,0 +1,33 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## Array
+# Subarray
+
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
+
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
+4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
+4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

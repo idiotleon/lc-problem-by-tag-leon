@@ -1,0 +1,27 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Word Pattern
+# KMP Algorithm
+
+2   0028    https://leetcode.com/problems/implement-strstr/
+2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
+
+3   0459    https://leetcode.com/problems/repeated-substring-pattern/
+3   0686    https://leetcode.com/problems/repeated-string-match/
+3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
+
+4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+
+5   0214    https://leetcode.com/problems/shortest-palindrome/
+
+6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/
+
+
+
+Resources:
+    https://blog.csdn.net/v_JULY_v/article/details/7041827

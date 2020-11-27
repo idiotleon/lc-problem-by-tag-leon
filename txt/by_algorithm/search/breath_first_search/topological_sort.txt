@@ -1,0 +1,23 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Breadth First Search
+# Topological Sort
+
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0444    https://leetcode.com/problems/sequence-reconstruction/
+3   0743    https://leetcode.com/problems/network-delay-time/
+3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+
+
+Resources:
+    https://www.youtube.com/watch?v=M6SBePBMznU
+    https://www.youtube.com/watch?v=Qqgck2ijUjU

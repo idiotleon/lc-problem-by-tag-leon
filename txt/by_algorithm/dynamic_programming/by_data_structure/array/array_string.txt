@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## Array
+# Array - String
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/

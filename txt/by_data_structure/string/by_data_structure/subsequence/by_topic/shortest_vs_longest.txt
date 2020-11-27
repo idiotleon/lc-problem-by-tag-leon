@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Subsequence
+# Longest vs Shortest
+
+3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/

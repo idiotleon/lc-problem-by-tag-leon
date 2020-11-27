@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Breadth First Search
+
+2   0433    https://leetcode.com/problems/minimum-genetic-mutation/
+
+3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+3   1087    https://leetcode.com/problems/brace-expansion/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+
+4   0139    https://leetcode.com/problems/word-break/
+4   0854    https://leetcode.com/problems/k-similar-strings/

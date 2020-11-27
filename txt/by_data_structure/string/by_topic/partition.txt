@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## By Topic
+# Partition
+
+3   0131    https://leetcode.com/problems/palindrome-partitioning-i/
+
+4   0132    https://leetcode.com/problems/palindrome-partitioning-ii/

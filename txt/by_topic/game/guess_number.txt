@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Game
+## Guess
+
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+
+3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
+
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/

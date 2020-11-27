@@ -1,0 +1,60 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Depth First Search
+# Array - 1 Dimensional
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0078    https://leetcode.com/problems/subsets/
+2   0090    https://leetcode.com/problems/subsets-ii/
+2   0784    https://leetcode.com/problems/letter-case-permutation/
+
+3   0039    https://leetcode.com/problems/combination-sum/
+3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0046    https://leetcode.com/problems/permutations/
+3   0047    https://leetcode.com/problems/permutations-ii/
+3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
+3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0491    https://leetcode.com/problems/increasing-subsequences/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0582    https://leetcode.com/problems/kill-process/
+3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+3   1273    https://leetcode.com/problems/delete-tree-nodes/
+3   1306    https://leetcode.com/problems/jump-game-iii/
+3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0368    https://leetcode.com/problems/largest-divisible-subset/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0457    https://leetcode.com/problems/circular-array-loop/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0740    https://leetcode.com/problems/delete-and-earn/4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   1340    https://leetcode.com/problems/jump-game-v/
+4   1361    https://leetcode.com/problems/validate-binary-tree-nodes/
+4   1537    https://leetcode.com/problems/get-the-maximum-score/
+
+5   0403    https://leetcode.com/problems/frog-jump/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
+6   0679    https://leetcode.com/problems/24-game/
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

@@ -1,0 +1,108 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Two Pointers
+# Summary
+
+1   0067    https://leetcode.com/problems/add-binary/
+1   0125    https://leetcode.com/problems/valid-palindrome/
+1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
+1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
+1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+1   0905    https://leetcode.com/problems/sort-array-by-parity/
+1   1056    https://leetcode.com/problems/confusing-number/
+1   1470    https://leetcode.com/problems/shuffle-the-array/
+
+2   0002    https://leetcode.com/problems/add-two-numbers/
+2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   0246    https://leetcode.com/problems/strobogrammatic-number/
+2   0290    https://leetcode.com/problems/word-pattern/
+2   0408    https://leetcode.com/problems/valid-word-abbreviation/
+2   0443    https://leetcode.com/problems/string-compression/
+2   0567    https://leetcode.com/problems/permutation-in-string/
+2   0844    https://leetcode.com/problems/backspace-string-compare/
+2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
+2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   0941    https://leetcode.com/problems/valid-mountain-array/
+2   0925    https://leetcode.com/problems/long-pressed-name/
+2   0942    https://leetcode.com/problems/di-string-match/
+2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
+2   1099    https://leetcode.com/problems/two-sum-less-than-k/
+2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1176    https://leetcode.com/problems/diet-plan-performance/
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
+2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
+2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+3   0011    https://leetcode.com/problems/container-with-most-water/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0167    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0238    https://leetcode.com/problems/product-of-array-except-self/
+3   0281    https://leetcode.com/problems/zigzag-iterator/
+3   0360    https://leetcode.com/problems/sort-transformed-array/
+3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
+3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0680    https://leetcode.com/problems/valid-palindrome-ii/
+3   0696    https://leetcode.com/problems/count-binary-substrings/
+3   0763    https://leetcode.com/problems/partition-labels/description/
+3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
+3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
+3   0838    https://leetcode.com/problems/push-dominoes/
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0922    https://leetcode.com/problems/sort-array-by-parity-ii/
+3   0948    https://leetcode.com/problems/bag-of-tokens/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   0986    https://leetcode.com/problems/interval-list-intersections/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1055    https://leetcode.com/problems/shortest-way-to-form-string/
+3   1089    https://leetcode.com/problems/duplicate-zeros/
+3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
+3   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
+3   1229    https://leetcode.com/problems/meeting-scheduler/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+
+4   0018    https://leetcode.com/problems/4sum/
+4   0042    https://leetcode.com/problems/trapping-rain-water/
+4   0076    https://leetcode.com/problems/minimum-window-substring/
+4   0148    https://leetcode.com/problems/sort-list/
+4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0287    https://leetcode.com/problems/find-the-duplicate-number/
+4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+4   0481    https://leetcode.com/problems/magical-string/
+4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0809    https://leetcode.com/problems/expressive-words/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   1537    https://leetcode.com/problems/get-the-maximum-score/
+
+
+
+Resources:
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
+    https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/hua-dong-chuang-kou-ji-qiao-jin-jie

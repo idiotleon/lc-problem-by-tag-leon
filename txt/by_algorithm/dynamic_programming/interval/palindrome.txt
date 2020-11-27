@@ -1,0 +1,15 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## Interval
+# Palindrome
+
+0005    https://leetcode.com/problems/longest-palindromic-subsequence/
+0516    https://leetcode.com/problems/longest-palindromic-subsequence/
+
+0664    https://leetcode.com/problems/strange-printer/
+1278    https://leetcode.com/problems/palindrome-partitioning-iii/
+1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/

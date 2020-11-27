@@ -1,0 +1,23 @@
+@author: Leon
+
+### Dynamic Programming
+
+    https://www.youtube.com/watch?v=FLbqgyJ-70I&t=142s
+    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
+
+
+
+## Knapsack
+
+    https://www.kancloud.cn/kancloud/pack/70124
+    https://www.youtube.com/watch?v=CO0r6kcwHUU
+    https://www.youtube.com/watch?v=rM_G4dboKhc
+    https://www.youtube.com/watch?v=nLmhmB6NzcM
+    
+
+
+## Buying and selling stocks
+
+    https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/tuan-mie-gu-piao-wen-ti
+    https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxODQxMDM0Mw==&action=getalbum&album_id=1318881141113536512&scene=173&from_msgid=2247484731&from_itemidx=1&count=3#wechat_redirect
+    

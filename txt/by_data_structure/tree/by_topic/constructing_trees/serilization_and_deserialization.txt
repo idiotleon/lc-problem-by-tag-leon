@@ -1,0 +1,29 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+## Serialization
+
+1   0872    https://leetcode.com/problems/leaf-similar-trees/
+
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
+3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
+
+
+
+# Resources
+    https://leetcode.com/problems/find-duplicate-subtrees/discuss/106016/O(n)-time-and-space-lots-of-analysis
+
+
+
+## Deserialization
+
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
+
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/

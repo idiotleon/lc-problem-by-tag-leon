@@ -1,0 +1,34 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Topic
+# Character Operations
+# Swap
+
+3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
+
+4   1202    https://leetcode.com/problems/smallest-string-with-swaps/
+
+
+
+# Replace
+
+4   0072    https://leetcode.com/problems/edit-distance/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+
+
+
+# Delete
+
+3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
+
+4   0072    https://leetcode.com/problems/edit-distance/
+
+
+
+# Insert
+
+4   0072    https://leetcode.com/problems/edit-distance/

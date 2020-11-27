@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Topic
+# Text Justification
+
+2   1592    https://leetcode.com/problems/rearrange-spaces-between-words/
+
+4   0068    https://leetcode.com/problems/text-justification/
+4   0418    https://leetcode.com/problems/sentence-screen-fitting/

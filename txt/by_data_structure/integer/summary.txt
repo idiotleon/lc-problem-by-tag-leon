@@ -1,0 +1,60 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Summary
+
+1   0258    https://leetcode.com/problems/add-digits/
+1   0509    https://leetcode.com/problems/fibonacci-number/
+1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+2   0136    https://leetcode.com/problems/single-number/
+2   0171    https://leetcode.com/problems/excel-sheet-column-number/
+2   0202    https://leetcode.com/problems/happy-number/
+2   0263    https://leetcode.com/problems/ugly-number/
+2   0292    https://leetcode.com/problems/nim-game/
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   0385    https://leetcode.com/problems/mini-parser/
+2   0544    https://leetcode.com/problems/output-contest-matches/
+2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
+2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+2   1025    https://leetcode.com/problems/divisor-game/
+2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
+2   1447    https://leetcode.com/problems/simplified-fractions/
+
+3   0050    https://leetcode.com/problems/powx-n/
+3   0069    https://leetcode.com/problems/sqrtx/
+3   0137    https://leetcode.com/problems/single-number-ii/
+3   0216    https://leetcode.com/problems/combination-sum-iii/
+3   0254    https://leetcode.com/problems/factor-combinations/
+3   0279    https://leetcode.com/problems/perfect-squares/
+3   0343    https://leetcode.com/problems/integer-break/
+3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+3   0365    https://leetcode.com/problems/water-and-jug-problem/
+3   0477    https://leetcode.com/problems/total-hamming-distance/
+3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+3   1291    https://leetcode.com/problems/sequential-digits/
+3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   0788    https://leetcode.com/problems/rotated-digits/
+4   0887    https://leetcode.com/problems/super-egg-drop/
+4   1088    https://leetcode.com/problems/confusing-number-ii/
+4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+4   1259    https://leetcode.com/problems/handshakes-that-dont-cross/
+4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
+
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   0808    https://leetcode.com/problems/soup-servings/
+5   0818    https://leetcode.com/problems/race-car/
+5   0932    https://leetcode.com/problems/beautiful-array/

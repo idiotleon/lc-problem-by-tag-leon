@@ -1,0 +1,37 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/trie/
+    https://www.geeksforgeeks.org/trie-insert-and-search/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Trie
+
+2   0676    https://leetcode.com/problems/implement-magic-dictionary/
+2   0677    https://leetcode.com/problems/map-sum-pairs/
+2   0720    https://leetcode.com/problems/longest-word-in-dictionary/
+
+3   0208    https://leetcode.com/problems/implement-trie-prefix-tree/
+3   0648    https://leetcode.com/problems/replace-words/
+3   1023    https://leetcode.com/problems/camelcase-matching/
+3   1065    https://leetcode.com/problems/index-pairs-of-a-string/
+3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+
+4   0139    https://leetcode.com/problems/word-break/
+4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
+4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+4   1032    https://leetcode.com/problems/stream-of-characters/
+
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0336    https://leetcode.com/problems/palindrome-pairs/
+5   0425    https://leetcode.com/problems/word-squares/
+5   0472    https://leetcode.com/problems/concatenated-words/
+5   0527    https://leetcode.com/problems/word-abbreviation/
+5   0588    https://leetcode.com/problems/design-in-memory-file-system/
+5   0642    https://leetcode.com/problems/design-search-autocomplete-system/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
+
+Resource:
+    https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132
+    

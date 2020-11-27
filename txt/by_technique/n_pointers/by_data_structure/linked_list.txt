@@ -1,0 +1,34 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### N Pointers
+## By Data Structure
+# Linked List
+
+2   0002    https://leetcode.com/problems/add-two-numbers/
+2   0203    https://leetcode.com/problems/remove-linked-list-elements/
+
+3   0086    https://leetcode.com/problems/partition-list/
+3   0092    https://leetcode.com/problems/reverse-linked-list-ii/
+3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+
+4   0142    https://leetcode.com/problems/linked-list-cycle-ii/
+4   0148    https://leetcode.com/problems/sort-list/
+
+
+
+#### Linked List
+### Linear Scan
+## Technique
+# Make it Circular
+
+3   0061    https://leetcode.com/problems/rotate-list/
+
+
+
+## Technique
+# Reverse it
+
+3   0092    https://leetcode.com/problems/reverse-linked-list-ii/

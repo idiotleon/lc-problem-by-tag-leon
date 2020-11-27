@@ -1,0 +1,8 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Brain Teaser
+
+2   0299    https://leetcode.com/problems/bulls-and-cows/

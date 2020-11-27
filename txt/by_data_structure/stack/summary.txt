@@ -1,0 +1,102 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/stack/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Stack
+# Summary
+
+1   0682    https://leetcode.com/problems/baseball-game/
+1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+
+2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0385    https://leetcode.com/problems/mini-parser/
+2   0496    https://leetcode.com/problems/next-greater-element-i/
+2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
+2   1021    https://leetcode.com/problems/remove-outermost-parentheses/
+2   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+2   1196    https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+2   1214    https://leetcode.com/problems/two-sum-bsts/
+2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+
+3   0071    https://leetcode.com/problems/simplify-path/
+3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
+3   0255    https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
+3   0331    https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+3   0339    https://leetcode.com/problems/nested-list-weight-sum/
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
+3   0388    https://leetcode.com/problems/longest-absolute-file-path/
+3   0394    https://leetcode.com/problems/decode-string/
+3   0402    https://leetcode.com/problems/remove-k-digits/
+3   0439    https://leetcode.com/problems/ternary-expression-parser/
+3   0445    https://leetcode.com/problems/add-two-numbers-ii/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0503    https://leetcode.com/problems/next-greater-element-ii/
+3   0716    https://leetcode.com/problems/max-stack/
+3   0735    https://leetcode.com/problems/asteroid-collision/
+3   0739    https://leetcode.com/problems/daily-temperatures/
+3   0856    https://leetcode.com/problems/score-of-parentheses/
+3   0901    https://leetcode.com/problems/online-stock-span/
+3   0946    https://leetcode.com/problems/validate-stack-sequences/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1003    https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
+3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
+3   1209    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+3   1249    https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+
+4   0042    https://leetcode.com/problems/trapping-rain-water/
+4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
+4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
+4   0227    https://leetcode.com/problems/basic-calculator-ii/
+4   0316    https://leetcode.com/problems/remove-duplicate-letters/
+4   0456    https://leetcode.com/problems/132-pattern/
+4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
+4   0636    https://leetcode.com/problems/exclusive-time-of-functions/
+4   0726    https://leetcode.com/problems/number-of-atoms/
+4   0735    https://leetcode.com/problems/asteroid-collision/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+4   0895    https://leetcode.com/problems/maximum-frequency-stack/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   1028    https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
+4   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+4   1081    https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   1340    https://leetcode.com/problems/jump-game-v/
+
+5   0085    https://leetcode.com/problems/maximal-rectangle/
+5   0224    https://leetcode.com/problems/basic-calculator/
+5   0772    https://leetcode.com/problems/basic-calculator-iii/
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+
+
+
+
+# Array (as a stack)
+
+3   0339    https://leetcode.com/problems/nested-list-weight-sum/
+3   0856    https://leetcode.com/problems/score-of-parentheses/
+
+4   0456    https://leetcode.com/problems/132-pattern/
+
+
+
+
+# StringBuilder (as a stack or related)
+
+2   1196    https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+
+3   0402    https://leetcode.com/problems/remove-k-digits/
+3   0946    https://leetcode.com/problems/validate-stack-sequences/
+3   1003    https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/

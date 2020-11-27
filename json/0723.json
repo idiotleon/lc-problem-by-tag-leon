@@ -1,13 +1,13 @@
 {
     "lc_properties": [
         {
-            "lc_number": "17"
+            "lc_number": "723"
         },
         {
-            "lc_title": "Letter Combinations of a Phone Number"
+            "lc_title": "Candy Crush"
         },
         {
-            "lc_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+            "lc_url": "https://leetcode.com/problems/candy-crush/"
         }
     ],
     "difficulties": [
@@ -19,20 +19,16 @@
     "tags": [
         {
             "by_algorithm": [
-                "dfs",
-                "bfs",
-                "backtrack"
+                "linear-scan"
             ]
         },
         {
             "by_data_structure": [
                 {
                     "array": [
-                        "array-string",
-                        "array-1dimensional"
+                        "array-2-dimensional"
                     ]
-                },
-                "linked_list"
+                }
             ]
         }
     ],

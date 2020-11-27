@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# As Queues
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/

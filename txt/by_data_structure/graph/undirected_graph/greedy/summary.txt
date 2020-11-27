@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Graph
+## Undirected Graph
+# Greedy
+
+3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
+
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

@@ -1,0 +1,65 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### 2 Pointers
+## Sliding Window
+# Summary
+
+1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+
+2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   0165    https://leetcode.com/problems/compare-version-numbers/
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0567    https://leetcode.com/problems/permutation-in-string/
+2   0844    https://leetcode.com/problems/backspace-string-compare/
+2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
+2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1176    https://leetcode.com/problems/diet-plan-performance/
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
+3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0696    https://leetcode.com/problems/count-binary-substrings/
+3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
+3   0763    https://leetcode.com/problems/partition-labels/description/
+3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/description/
+3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+
+4   0076    https://leetcode.com/problems/minimum-window-substring/
+4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+
+
+
+Resources:
+    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/discuss/611269/extra-explanation-of-the-returned-value-in-the-sliding-window-approach/562174
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
+    https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.
+    https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/hua-dong-chuang-kou-ji-qiao-jin-jie
+
+    https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706

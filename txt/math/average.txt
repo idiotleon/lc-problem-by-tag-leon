@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Average
+
+2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/

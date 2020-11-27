@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Graph
+## Directed Graph
+# Breadth First Search
+# Topological Sort
+
+3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/

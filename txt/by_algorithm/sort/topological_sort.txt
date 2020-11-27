@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/topological-sort/
+
+
+### Sorting:
+# Topological Sort
+
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0444    https://leetcode.com/problems/sequence-reconstruction/
+3   0802    https://leetcode.com/problems/find-eventual-safe-states/
+3   0851    https://leetcode.com/problems/loud-and-rich/
+
+4   0269    https://leetcode.com/problems/alien-dictionary/
+
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

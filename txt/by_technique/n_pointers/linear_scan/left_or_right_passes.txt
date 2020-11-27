@@ -1,0 +1,21 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### N Pointers
+# Linear Scan / 1 Pointer
+
+2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0739    https://leetcode.com/problems/daily-temperatures/
+3   0845    https://leetcode.com/problems/longest-mountain-in-array/
+
+4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
+
+
+
+### Yet to extract
+https://leetcode.com/problems/longest-mountain-in-array/discuss/135593/C++JavaPython-1-pass-and-O(1)-space/143182

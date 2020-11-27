@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Game
+## Bulb Switcher
+
+2   1375    https://leetcode.com/problems/bulb-switcher-iii/
+
+3   0319    https://leetcode.com/problems/bulb-switcher/
+
+4   0672    https://leetcode.com/problems/bulb-switcher-ii/

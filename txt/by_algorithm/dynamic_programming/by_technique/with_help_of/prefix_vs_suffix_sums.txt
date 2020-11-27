@@ -1,0 +1,43 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## with help of 
+# Prefix Sums
+
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1563    https://leetcode.com/problems/stone-game-v/
+
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+
+
+# Suffix Sums
+
+3   1140    https://leetcode.com/problems/stone-game-ii/
+
+4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+
+
+
+
+Resource:
+    about why `count += prefixSums.get(sum - k)`
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/535507/Explanation-to-why-map.get(sum-k)-is-done-than-count%2B%2B
+
+    store previous sum and the times of this sum, because sum[i, j] = sum[0, j] - sum[0, i - 1], this is a very very important idea
+    https://leetcode.com/problems/binary-subarrays-with-sum/discuss/187005/3-ways-to-solve-this-kind-of-problem.
+
+    about preSum.put(0, 1);
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-+-HashMap/416171
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-+-HashMap/238328

@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+    
+### Divide and Conquer
+# Integer
+
+2   0544    https://leetcode.com/problems/output-contest-matches/
+
+5   0932    https://leetcode.com/problems/beautiful-array/

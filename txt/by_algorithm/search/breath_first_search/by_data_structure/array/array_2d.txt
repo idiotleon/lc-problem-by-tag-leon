@@ -1,0 +1,39 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Breath First Search
+# Array - 2 dimensional
+
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   0695    https://leetcode.com/problems/max-area-of-island/
+
+3   0130    https://leetcode.com/problems/surrounded-regions/
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0542    https://leetcode.com/problems/01-matrix/
+3   0841    https://leetcode.com/problems/keys-and-rooms/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/
+3   0934    https://leetcode.com/problems/shortest-bridge/
+3   1020    https://leetcode.com/problems/number-of-enclaves/
+3   1034    https://leetcode.com/problems/coloring-a-border/
+3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
+3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+3   1254    https://leetcode.com/problems/number-of-closed-islands/
+
+4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0815    https://leetcode.com/problems/bus-routes/
+4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0924    https://leetcode.com/problems/minimize-malware-spread/
+4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
+4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+4   1293    https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   1036    https://leetcode.com/problems/escape-a-large-maze/

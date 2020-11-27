@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Kadane's Algorithm
+
+3   0053    https://leetcode.com/problems/maximum-subarray/
+3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
+
+4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/

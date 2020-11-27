@@ -1,0 +1,35 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Linear Scan
+
+2   0002    https://leetcode.com/problems/add-two-numbers/
+2   0203    https://leetcode.com/problems/remove-linked-list-elements/
+2   0328    https://leetcode.com/problems/odd-even-linked-list/
+
+3   0056    https://leetcode.com/problems/merge-intervals/
+3   0061    https://leetcode.com/problems/rotate-list/
+3   0086    https://leetcode.com/problems/partition-list/
+3   0092    https://leetcode.com/problems/reverse-linked-list-ii/
+3   0141    https://leetcode.com/problems/linked-list-cycle/
+
+4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/
+
+
+
+#### Linked List
+### Linear Scan
+## Technique
+# Make it Circular
+
+3   0061    https://leetcode.com/problems/rotate-list/
+
+
+
+## Technique
+# Reverse it
+
+3   0092    https://leetcode.com/problems/reverse-linked-list-ii/

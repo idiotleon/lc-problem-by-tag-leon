@@ -1,0 +1,19 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Queue
+## Priority Queue
+# Top K
+
+2   0347    ttps://leetcode.com/problems/top-k-frequent-elements/
+2   0692    https://leetcode.com/problems/top-k-frequent-words/
+2   0414    https://leetcode.com/problems/third-maximum-number/
+
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+
+
+
+Resource:
+    https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132

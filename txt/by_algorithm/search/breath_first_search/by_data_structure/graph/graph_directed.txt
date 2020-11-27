@@ -1,0 +1,25 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/breadth-first-search/
+
+### Breadth First Search
+## Graph
+# Directed Graph
+
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0582    https://leetcode.com/problems/kill-process/
+3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
+3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
+3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+
+4   0399    https://leetcode.com/problems/evaluate-division/
+4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+##### String
+#### N Pointers
+### 2 Pointers
+## Sliding Window
+# Fix-sized Window
+
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/

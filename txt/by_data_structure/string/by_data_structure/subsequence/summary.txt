@@ -1,0 +1,37 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## Subsequence
+# Summary
+
+2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+
+3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
+3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1055    https://leetcode.com/problems/shortest-way-to-form-string/
+3   1143    https://leetcode.com/problems/longest-common-subsequence/
+
+4   0072    https://leetcode.com/problems/edit-distance/
+4   0097    https://leetcode.com/problems/interleaving-string/
+4   0115    https://leetcode.com/problems/distinct-subsequences/
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0368    https://leetcode.com/problems/largest-divisible-subset/
+4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
+4   0549    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+4   0727    https://leetcode.com/problems/minimum-window-subsequence/
+4   0740    https://leetcode.com/problems/delete-and-earn/
+4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
+4   1092    https://leetcode.com/problems/shortest-common-supersequence/
+4   1216    https://leetcode.com/problems/valid-palindrome-iii/
+4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+
+5   0354    https://leetcode.com/problems/russian-doll-envelopes/

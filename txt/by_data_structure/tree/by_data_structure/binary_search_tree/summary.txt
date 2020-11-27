@@ -1,0 +1,38 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+# Binary Search Tree
+
+1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
+2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+
+3   0098    https://leetcode.com/problems/validate-binary-search-tree/
+3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
+3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
+3   0510    https://leetcode.com/problems/inorder-successor-in-bst-ii/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   0731    https://leetcode.com/problems/my-calendar-ii/
+3   0776    https://leetcode.com/problems/split-bst/
+3   0938    https://leetcode.com/problems/range-sum-of-bst/
+3   1586    https://leetcode.com/problems/binary-search-tree-iterator-ii/
+
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0239    https://leetcode.com/problems/sliding-window-maximum/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+4   0732    https://leetcode.com/problems/my-calendar-iii/
+4   1373    https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+
+5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
+
+
+Resource:
+    https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132
+    https://leetcode.com/problems/delete-node-in-a-bst/solution/

@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+## Special Number
+# Good Number
+
+4   0788    https://leetcode.com/problems/rotated-digits/

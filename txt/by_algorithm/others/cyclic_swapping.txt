@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+    
+### Cyclic Swapping
+
+2   0268    https://leetcode.com/problems/missing-number/description/
+
+4   0041    https://leetcode.com/problems/first-missing-positive/
+4   0765    https://leetcode.com/problems/couples-holding-hands/
+4   0854    https://leetcode.com/problems/k-similar-strings/
+
+
+# Resources:
+    https://leetcode.com/problems/couples-holding-hands/discuss/113362/JavaC%2B%2B-O(N)-solution-using-cyclic-swapping

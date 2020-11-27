@@ -1,0 +1,130 @@
+{
+    "lc_properties": [
+        {
+            "lc_number": ""
+        },
+        {
+            "lc_title": ""
+        },
+        {
+            "lc_url": ""
+        }
+    ],
+    "difficulties": [
+        {
+            "level": -1,
+            "reference": "https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx"
+        }
+    ],
+    "tags": [
+        {
+            "by_algorithm": [
+                {
+                    "dynamic-programming": []
+                },
+                {
+                    "search": [
+                        "depth-first-search",
+                        "breadth-first-search",
+                        "binary-search"
+                    ]
+                },
+                {
+                    "sort": [
+                        "quick-sort",
+                        "merge-sort",
+                        "bucket-sort",
+                        "selection-sort",
+                        "bubble-sort"
+                    ]
+                },
+                {
+                    "n-pointers": []
+                },
+                {
+                    "union-find": []
+                },
+                {
+                    "shortest-path": []
+                },
+                {
+                    "range-query": []
+                },
+                {
+                    "greedy": []
+                }
+            ]
+        },
+        {
+            "by_data_structure": [
+                {
+                    "linked-list": [
+                        "singly-linked-list",
+                        "doubly-linked-list"
+                    ]
+                },
+                {
+                    "array": [
+                        "array-string",
+                        "array-1-dimensional",
+                        "array-2-dimensional"
+                    ]
+                },
+                {
+                    "tree": [
+                        "binary-search-tree",
+                        "n-arr-tree",
+                        "binary-indexed-tree",
+                        "segmented-tree"
+                    ]
+                },
+                {
+                    "graph": [
+                        "undirected-graph",
+                        "directed-graph"
+                    ]
+                }
+            ]
+        }
+    ],
+    "solutions": [
+        {
+            "java": [
+                {
+                    "backtrack": [
+                        {
+                            "rank": "",
+                            "urls": [
+                                {
+                                    "github": ""
+                                },
+                                {
+                                    "reference": ""
+                                }
+                            ],
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "bfs": []
+                },
+                {
+                    "dfs": []
+                }
+            ]
+        },
+        {
+            "cpp": []
+        },
+        {
+            "kotlin": []
+        },
+        {
+            "dart": []
+        },
+        {
+            "csharp": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Sliding Window
+
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1176    https://leetcode.com/problems/diet-plan-performance/
+
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
+3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+
+4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+4   0220    https://leetcode.com/problems/contains-duplicate-iii/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+
+
+
+
+Resources:
+    https://leetcode.com/problems/binary-subarrays-with-sum/discuss/187005/3-ways-to-solve-this-kind-of-problem
+
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers/378274
+
+    https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706

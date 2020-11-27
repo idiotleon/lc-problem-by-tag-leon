@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Shifting the String
+
+4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   0301    https://leetcode.com/problems/remove-invalid-parentheses/

@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+# Suffix Sums
+
+3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/

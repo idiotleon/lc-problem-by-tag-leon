@@ -1,0 +1,26 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## Knapsack
+# Summary
+
+3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0879    https://leetcode.com/problems/profitable-schemes/
+4   0956    https://leetcode.com/problems/tallest-billboard/
+4   1049    https://leetcode.com/problems/last-stone-weight-ii/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/

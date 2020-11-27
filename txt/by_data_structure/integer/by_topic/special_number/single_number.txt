@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Single Number
+
+2   0136    https://leetcode.com/problems/single-number/
+
+3   0137    https://leetcode.com/problems/single-number-ii/
+3   0260    https://leetcode.com/problems/single-number-iii/

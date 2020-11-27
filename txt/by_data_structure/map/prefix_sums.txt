@@ -1,0 +1,27 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Map
+## Prefix Sums
+
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/description/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
+
+
+
+Resources:
+    https://blog.csdn.net/v_JULY_v/article/details/7041827

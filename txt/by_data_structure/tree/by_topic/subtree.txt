@@ -1,0 +1,43 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Tree
+## by data structure
+# Subtree
+
+2   0100    https://leetcode.com/problems/same-tree/
+2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
+2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
+2   1120    https://leetcode.com/problems/maximum-average-subtree/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
+
+3   0098    https://leetcode.com/problems/validate-binary-search-tree/
+3   0101    https://leetcode.com/problems/symmetric-tree/
+3   0333    https://leetcode.com/problems/largest-bst-subtree/
+3   0572    https://leetcode.com/problems/subtree-of-another-tree/
+3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+3   0865    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
+
+-1  1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+
+
+## Subtree
+# Flip
+
+2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
+2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
+
+
+
+## Subtree
+# Invert
+
+2   0226    https://leetcode.com/problems/invert-binary-tree/

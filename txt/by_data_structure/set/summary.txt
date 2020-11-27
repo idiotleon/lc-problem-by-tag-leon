@@ -1,0 +1,54 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Set
+# Summary
+
+1   0804    https://leetcode.com/problems/unique-morse-code-words/
+1   0884    https://leetcode.com/problems/uncommon-words-from-two-sentences/
+1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
+
+2   0475    https://leetcode.com/problems/heaters/
+2   0817    https://leetcode.com/problems/linked-list-components/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
+
+3   0036    https://leetcode.com/problems/valid-sudoku/
+3   0137    https://leetcode.com/problems/single-number-ii/
+3   0200    https://leetcode.com/problems/number-of-islands/
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0261    https://leetcode.com/problems/graph-valid-tree/
+3   0323    https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0547    https://leetcode.com/problems/friend-circles/
+3   0684    https://leetcode.com/problems/redundant-connection/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   0737    https://leetcode.com/problems/sentence-similarity-ii/
+3   0939    https://leetcode.com/problems/minimum-area-rectangle/
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0220    https://leetcode.com/problems/contains-duplicate-iii/
+4   0264    https://leetcode.com/problems/ugly-number-ii/
+4   0305    https://leetcode.com/problems/number-of-islands-ii/
+4   0399    https://leetcode.com/problems/evaluate-division/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+4   0684    https://leetcode.com/problems/redundant-connection/
+4   0765    https://leetcode.com/problems/couples-holding-hands/
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
+4   1202    https://leetcode.com/problems/smallest-string-with-swaps/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
+
+5   0381    https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+5   0480    https://leetcode.com/problems/sliding-window-median/
+5   0685    https://leetcode.com/problems/redundant-connection-ii/
+5   0827    https://leetcode.com/problems/making-a-large-island/
+

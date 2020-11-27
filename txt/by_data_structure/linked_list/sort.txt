@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Sort
+
+3   0708    https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
+
+4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
+4   0148    https://leetcode.com/problems/sort-list/

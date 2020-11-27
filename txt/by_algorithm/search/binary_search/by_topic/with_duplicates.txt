@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Binary Search
+## By Topic
+# With Duplicates
+
+4   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/

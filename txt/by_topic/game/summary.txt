@@ -1,0 +1,26 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Game
+# Summary
+
+2   0292    https://leetcode.com/problems/nim-game/
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   1025    https://leetcode.com/problems/divisor-game/
+
+3   0055    https://leetcode.com/problems/jump-game/
+3   0289    https://leetcode.com/problems/game-of-life/
+3   1306    https://leetcode.com/problems/jump-game-iii/
+3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
+
+4   0045    https://leetcode.com/problems/jump-game-ii/
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
+4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+4   1340    https://leetcode.com/problems/jump-game-v/
+4   1345    https://leetcode.com/problems/jump-game-iv/
+

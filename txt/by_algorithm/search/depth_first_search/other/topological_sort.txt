@@ -1,0 +1,18 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Depth First Search
+# Topological Sort
+
+2   0207    https://leetcode.com/problems/course-schedule/
+
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+
+
+Resources:
+    https://www.youtube.com/watch?v=M6SBePBMznU
+    https://www.youtube.com/watch?v=Qqgck2ijUjU

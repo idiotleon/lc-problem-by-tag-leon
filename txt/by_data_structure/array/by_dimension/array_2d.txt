@@ -1,0 +1,156 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# 2 Dimensional
+
+1   0766    https://leetcode.com/problems/toeplitz-matrix/
+
+2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0118    https://leetcode.com/problems/pascals-triangle/
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   0463    https://leetcode.com/problems/island-perimeter/
+2   0690    https://leetcode.com/problems/employee-importance/
+2   0695    https://leetcode.com/problems/max-area-of-island/
+2   0832    https://leetcode.com/problems/flipping-an-image/
+2   0885    https://leetcode.com/problems/spiral-matrix-iii/
+2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+
+3   0036    https://leetcode.com/problems/valid-sudoku/
+3   0048    https://leetcode.com/problems/rotate-image/
+3   0054    https://leetcode.com/problems/spiral-matrix/
+3   0056    https://leetcode.com/problems/merge-intervals/
+3   0062    https://leetcode.com/problems/unique-paths/
+3   0119    https://leetcode.com/problems/pascals-triangle-ii/
+3   0130    https://leetcode.com/problems/surrounded-regions/
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0256    https://leetcode.com/problems/paint-house/
+3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0289    https://leetcode.com/problems/game-of-life/
+3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
+3   0348    https://leetcode.com/problems/design-tic-tac-toe/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0419    https://leetcode.com/problems/battleships-in-a-board/
+3   0436    https://leetcode.com/problems/find-right-interval/
+3   0498    https://leetcode.com/problems/diagonal-traverse/ 
+3   0519    https://leetcode.com/problems/random-flip-matrix/
+3   0542    https://leetcode.com/problems/01-matrix/
+3   0547    https://leetcode.com/problems/friend-circles/
+3   0562    https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
+3   0638    https://leetcode.com/problems/shopping-offers/
+3   0723    https://leetcode.com/problems/candy-crush/
+3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
+3   0764    https://leetcode.com/problems/largest-plus-sign/
+3   0802    https://leetcode.com/problems/find-eventual-safe-states/
+3   0807    https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+3   0835    https://leetcode.com/problems/image-overlap/
+3   0840    https://leetcode.com/problems/magic-squares-in-grid/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/
+3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
+3   0934    https://leetcode.com/problems/shortest-bridge/
+3   0935    https://leetcode.com/problems/knight-dialer/
+3   0986    https://leetcode.com/problems/interval-list-intersections/
+3   1020    https://leetcode.com/problems/number-of-enclaves/
+3   1034    https://leetcode.com/problems/coloring-a-border/
+3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
+3   1057    https://leetcode.com/problems/campus-bikes/
+3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
+3   1138    https://leetcode.com/problems/alphabet-board-path/
+3   1139    https://leetcode.com/problems/largest-1-bordered-square/
+3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
+3   1219    https://leetcode.com/problems/path-with-maximum-gold/
+3   1229    https://leetcode.com/problems/meeting-scheduler/
+3   1254    https://leetcode.com/problems/number-of-closed-islands/
+3   1272    https://leetcode.com/problems/remove-interval/
+3   1275    https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
+3   1288    https://leetcode.com/problems/remove-covered-intervals/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
+3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+
+4   0120    https://leetcode.com/problems/triangle/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0221    https://leetcode.com/problems/maximal-square/
+4   0240    https://leetcode.com/problems/search-a-2d-matrix-ii/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0265    https://leetcode.com/problems/paint-house-ii/
+4   0296    https://leetcode.com/problems/best-meeting-point/
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
+4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+4   0351    https://leetcode.com/problems/android-unlock-patterns/
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0489    https://leetcode.com/problems/robot-room-cleaner/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
+4   0794    https://leetcode.com/problems/valid-tic-tac-toe-state/
+4   0815    https://leetcode.com/problems/bus-routes/
+4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
+4   0924    https://leetcode.com/problems/minimize-malware-spread/
+4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
+4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+4   0980    https://leetcode.com/problems/unique-paths-iii/
+4   1001    https://leetcode.com/problems/grid-illumination/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
+4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+4   1289    https://leetcode.com/problems/minimum-falling-path-sum-ii/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+4   1293    https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+4   1463    https://leetcode.com/problems/cherry-pickup-ii/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+
+5   0037    https://leetcode.com/problems/sudoku-solver/
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0354    https://leetcode.com/problems/russian-doll-envelopes/
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
+5   0827    https://leetcode.com/problems/making-a-large-island/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0850    https://leetcode.com/problems/rectangle-area-ii/
+5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   1036    https://leetcode.com/problems/escape-a-large-maze/
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
+6   0391    https://leetcode.com/problems/perfect-rectangle/
+
+
+
+## diagonal/anti-diagonal
+What are considered as diagonals/anti-diagonals of rectangles (not squares)?
+https://en.wikipedia.org/wiki/Main_diagonal
+
+3   0036    https://leetcode.com/problems/valid-sudoku/
+
+4   0051    https://leetcode.com/problems/n-queens/
+
+
+
+## Matrix Manipulation
+
+2   0832    https://leetcode.com/problems/flipping-an-image/
+
+3   0048    https://leetcode.com/problems/rotate-image/
+3   0835    https://leetcode.com/problems/image-overlap/
+
+4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/

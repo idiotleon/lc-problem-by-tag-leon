@@ -1,0 +1,42 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Dynamic Programming
+# Integer
+
+1   0204    https://leetcode.com/problems/count-primes/
+1   0509    https://leetcode.com/problems/fibonacci-number/
+1   1137    https://leetcode.com/problems/n-th-tribonacci-number/
+
+2   0292    https://leetcode.com/problems/nim-game/
+2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+2   1025    https://leetcode.com/problems/divisor-game/
+
+3   0264    https://leetcode.com/problems/ugly-number-ii/
+3   0276    https://leetcode.com/problems/paint-fence/
+3   0343    https://leetcode.com/problems/integer-break/
+3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
+3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/4   0887    https://leetcode.com/problems/super-egg-drop/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+4   0788    https://leetcode.com/problems/rotated-digits/
+4   0799    https://leetcode.com/problems/champagne-tower/
+4   0887    https://leetcode.com/problems/super-egg-drop/
+4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
+4   1067    https://leetcode.com/problems/digit-count-in-range/
+4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1259    https://leetcode.com/problems/handshakes-that-dont-cross/
+4   1411    https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+
+5   0233    https://leetcode.com/problems/number-of-digit-one/
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   0818    https://leetcode.com/problems/race-car/
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
+
+6   1397    https://leetcode.com/problems/find-all-good-strings/

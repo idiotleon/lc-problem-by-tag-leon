@@ -1,0 +1,54 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### Array
+### N Pointers
+
+## High-Low Pointers
+# 2 Pointers
+
+1   0905    https://leetcode.com/problems/sort-array-by-parity/
+1   0997    https://leetcode.com/problems/find-the-town-judge/
+
+2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
+2   0942    https://leetcode.com/problems/di-string-match/
+2   1099    https://leetcode.com/problems/two-sum-less-than-k/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1176    https://leetcode.com/problems/diet-plan-performance/
+
+3   0011    https://leetcode.com/problems/container-with-most-water/
+3   0015    https://leetcode.com/problems/3sum/
+3   0016    https://leetcode.com/problems/3sum-closest/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0167    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0259    https://leetcode.com/problems/3sum-smaller/
+3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+2   0941    https://leetcode.com/problems/valid-mountain-array/
+3   0948    https://leetcode.com/problems/bag-of-tokens/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1089    https://leetcode.com/problems/duplicate-zeros/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+
+4   0042    https://leetcode.com/problems/trapping-rain-water/
+4   0220    https://leetcode.com/problems/contains-duplicate-iii/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+
+
+
+## High-Low Pointers
+# 3 Pointers
+
+3   0075    https://leetcode.com/problems/sort-colors/
+3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/

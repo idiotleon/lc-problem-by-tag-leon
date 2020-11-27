@@ -1,0 +1,28 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Range Query
+# Summary
+
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   0731    https://leetcode.com/problems/my-calendar-ii/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
+
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+4   0732    https://leetcode.com/problems/my-calendar-iii/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+
+5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/

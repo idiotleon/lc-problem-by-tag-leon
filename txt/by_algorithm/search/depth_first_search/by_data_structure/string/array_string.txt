@@ -1,0 +1,25 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/depth-first-search/
+    
+
+### Depth First Search
+# Array - String:
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0784    https://leetcode.com/problems/letter-case-permutation/
+
+3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1236    https://leetcode.com/problems/web-crawler/
+3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+
+5   0140    https://leetcode.com/problems/word-break-ii/
+5   0472    https://leetcode.com/problems/concatenated-words/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

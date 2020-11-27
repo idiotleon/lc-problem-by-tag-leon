@@ -1,0 +1,28 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+# N-Ary Tree
+
+2   0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+2   1490    https://leetcode.com/problems/clone-n-ary-tree/
+
+3   0582    https://leetcode.com/problems/kill-process/
+3   1257    https://leetcode.com/problems/smallest-common-region/
+3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
+3   1522    https://leetcode.com/problems/diameter-of-n-ary-tree/
+
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
+
+-1  1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+
+
+Resources:
+    https://leetcode.com/articles/introduction-to-n-ary-trees/

@@ -1,0 +1,34 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+# Longest Increasing Subsequence
+
+2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+
+3   0276    https://leetcode.com/problems/paint-fence/
+3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1626    https://leetcode.com/problems/best-team-with-no-conflicts/
+
+4   0139    https://leetcode.com/problems/word-break/
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0368    https://leetcode.com/problems/largest-divisible-subset/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+4   0740    https://leetcode.com/problems/delete-and-earn/
+4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
+4   1027    https://leetcode.com/problems/longest-arithmetic-sequence/
+4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
+4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
+4   1187    https://leetcode.com/problems/make-array-strictly-increasing/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+
+
+
+Resources:
+    https://www.youtube.com/watch?v=kufFb-sReiA

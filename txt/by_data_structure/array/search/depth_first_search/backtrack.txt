@@ -1,0 +1,34 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Backtrack
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0078    https://leetcode.com/problems/subsets/
+2   0090    https://leetcode.com/problems/subsets-ii/
+
+3   0039    https://leetcode.com/problems/combination-sum/
+3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0046    https://leetcode.com/problems/permutations/
+3   0047    https://leetcode.com/problems/permutations-ii/
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0491    https://leetcode.com/problems/increasing-subsequences/
+3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+4   0351    https://leetcode.com/problems/android-unlock-patterns/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0489    https://leetcode.com/problems/robot-room-cleaner/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0980    https://leetcode.com/problems/unique-paths-iii/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+
+5   0037    https://leetcode.com/problems/sudoku-solver/
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

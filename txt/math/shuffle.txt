@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Shuffle
+
+3   0519    https://leetcode.com/problems/random-flip-matrix/

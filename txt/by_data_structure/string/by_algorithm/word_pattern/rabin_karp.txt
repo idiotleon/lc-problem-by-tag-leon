@@ -1,0 +1,21 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Word Pattern
+# Rabin Karp
+
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0972    https://leetcode.com/problems/equal-rational-numbers/
+
+5   1044    https://leetcode.com/problems/longest-duplicate-substring/
+
+
+
+# Rolling Hash
+
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/

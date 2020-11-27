@@ -1,0 +1,70 @@
+{
+    "lc_properties": [
+        {
+            "lc_number": "17"
+        },
+        {
+            "lc_title": "Letter Combinations of a Phone Number"
+        },
+        {
+            "lc_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+        }
+    ],
+    "difficulties": [
+        {
+            "level": 3,
+            "reference": "https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx"
+        }
+    ],
+    "tags": [
+        {
+            "by_algorithm": [
+                "depth-first-search",
+                "breadth-first-search",
+                "backtrack"
+            ]
+        },
+        {
+            "by_data_structure": [
+                {
+                    "array": [
+                        "array-string",
+                        "array-1-dimensional"
+                    ]
+                },
+                "linked_list"
+            ]
+        }
+    ],
+    "solutions": [
+        {
+            "java": [
+                {
+                    "backtrack": [
+                        {
+                            "rank": "",
+                            "urls": [
+                                {
+                                    "github": ""
+                                },
+                                {
+                                    "reference": ""
+                                }
+                            ],
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "bfs": []
+                },
+                {
+                    "dfs": []
+                }
+            ]
+        },
+        {
+            "cpp": []
+        }
+    ]
+}

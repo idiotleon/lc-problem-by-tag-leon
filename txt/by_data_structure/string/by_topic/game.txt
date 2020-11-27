@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Topic
+# Game
+
+1   0293    https://leetcode.com/problems/flip-game/
+
+4   0294    https://leetcode.com/problems/flip-game-ii/
+
+6   0679    https://leetcode.com/problems/24-game/

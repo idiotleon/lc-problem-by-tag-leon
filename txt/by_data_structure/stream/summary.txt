@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Stream
+# Summary
+
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
+
+2   0170    https://leetcode.com/problems/two-sum-iii-data-structure-design/
+
+5   1622    https://leetcode.com/problems/fancy-sequence/

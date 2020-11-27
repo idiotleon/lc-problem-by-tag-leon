@@ -1,0 +1,72 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/backtracking/
+    
+
+### Depth First Search
+# Backtracking
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0078    https://leetcode.com/problems/subsets/
+2   0090    https://leetcode.com/problems/subsets-ii/
+2   0257    https://leetcode.com/problems/binary-tree-paths/
+
+3   0039    https://leetcode.com/problems/combination-sum/
+3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0046    https://leetcode.com/problems/permutations/
+3   0047    https://leetcode.com/problems/permutations-ii/
+3   0113    https://leetcode.com/problems/path-sum-ii/
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0216    https://leetcode.com/problems/combination-sum-iii/
+3   0254    https://leetcode.com/problems/factor-combinations/
+3   0320    https://leetcode.com/problems/generalized-abbreviation/
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
+3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+3   0401    https://leetcode.com/problems/binary-watch/
+3   0491    https://leetcode.com/problems/increasing-subsequences/
+3   0638    https://leetcode.com/problems/shopping-offers/
+3   0753    https://leetcode.com/problems/cracking-the-safe/
+3   0756    https://leetcode.com/problems/pyramid-transition-matrix/
+3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+3   1023    https://leetcode.com/problems/camelcase-matching/
+3   1079    https://leetcode.com/problems/letter-tile-possibilities/
+3   1087    https://leetcode.com/problems/brace-expansion/
+3   1215    https://leetcode.com/problems/stepping-numbers/
+3   1219    https://leetcode.com/problems/path-with-maximum-gold/
+3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+
+4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
+4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
+4   0306    https://leetcode.com/problems/additive-number/
+4   0351    https://leetcode.com/problems/android-unlock-patterns/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0489    https://leetcode.com/problems/robot-room-cleaner/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0980    https://leetcode.com/problems/unique-paths-iii/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1088    https://leetcode.com/problems/confusing-number-ii/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+
+5   0037    https://leetcode.com/problems/sudoku-solver/
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0282    https://leetcode.com/problems/expression-add-operators/
+5   0291    https://leetcode.com/problems/word-pattern-ii/
+5   0465    https://leetcode.com/problems/optimal-account-balancing/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
+6   0488    https://leetcode.com/problems/zuma-game/
+
+
+
+### Resources
+    https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAxODQxMDM0Mw==&scene=1&album_id=1318883740306948097&count=3#wechat_redirect

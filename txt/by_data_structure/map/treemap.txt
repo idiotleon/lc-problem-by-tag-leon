@@ -1,0 +1,38 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Map
+# TreeMap
+
+2   0252    https://leetcode.com/problems/meeting-rooms/description/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+
+3   0056    https://leetcode.com/problems/merge-intervals/description/
+3   0253    https://leetcode.com/problems/meeting-rooms-ii/
+3   0436    https://leetcode.com/problems/find-right-interval/
+3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   0731    https://leetcode.com/problems/my-calendar-ii/
+3   0846    https://leetcode.com/problems/hand-of-straights/
+3   0939    https://leetcode.com/problems/minimum-area-rectangle/
+3   0981    https://leetcode.com/problems/time-based-key-value-store/
+3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+3   1146    https://leetcode.com/problems/snapshot-array/
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+
+4   0057    https://leetcode.com/problems/insert-interval/description/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0732    https://leetcode.com/problems/my-calendar-iii/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0954    https://leetcode.com/problems/array-of-doubled-pairs/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+
+5   0588    https://leetcode.com/problems/design-in-memory-file-system/
+5   0715    https://leetcode.com/problems/range-module/
+
+
+Resources:
+    https://leetcode.com/problems/meeting-rooms-ii/discuss/203658/HashMapTreeMap-resolves-Scheduling-Problem

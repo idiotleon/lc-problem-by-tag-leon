@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### String
+### Substring
+## Sliding Window
+# Fix Sized Window
+
+2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/

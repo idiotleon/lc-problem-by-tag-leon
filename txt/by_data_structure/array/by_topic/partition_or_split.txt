@@ -1,0 +1,23 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Array
+# Partition
+
+2   1375    https://leetcode.com/problems/bulb-switcher-iii/
+
+3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0548    https://leetcode.com/problems/split-array-with-equal-sum/
+3   0763    https://leetcode.com/problems/partition-labels/description/
+
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
+4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/

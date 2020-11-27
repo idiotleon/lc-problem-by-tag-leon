@@ -1,0 +1,33 @@
+@author: Leon
+References:
+    https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/109082/Approach-the-problem-using-the-%22trial-and-error%22-algorithm
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Binary Search
+# Trial and Error / Guess the Number
+
+3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0287    https://leetcode.com/problems/find-the-duplicate-number/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0875    https://leetcode.com/problems/koko-eating-bananas/
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
+4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+
+5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+
+
+
+Resources:
+    https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/109082/Approach-the-problem-using-the-%22trial-and-error%22-algorithm
+    https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-of-solutions-for-problems-%22reducible%22-to-LeetCode-378

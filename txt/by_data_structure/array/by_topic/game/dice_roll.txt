@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### Array
+### By Topic
+## Game
+# Dice Roll
+
+4   1233    https://leetcode.com/problems/dice-roll-simulation/

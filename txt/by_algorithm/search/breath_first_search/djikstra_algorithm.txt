@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Shortest Path
+# Dijkstra's Algorithm
+
+3   0743    https://leetcode.com/problems/network-delay-time/
+3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+
+5   0499    https://leetcode.com/problems/the-maze-iii/

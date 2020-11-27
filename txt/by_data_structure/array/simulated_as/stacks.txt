@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Simulated as Stacks
+
+3   0301    https://leetcode.com/problems/remove-invalid-parentheses/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+
+4   0735    https://leetcode.com/problems/asteroid-collision/

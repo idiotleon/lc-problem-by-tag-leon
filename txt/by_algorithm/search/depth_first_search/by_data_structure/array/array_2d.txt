@@ -1,0 +1,48 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Depth First Search
+# Array - 2 Dimensional:
+
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0463    https://leetcode.com/problems/island-perimeter/
+2   0695    https://leetcode.com/problems/max-area-of-island/
+
+3   0130    https://leetcode.com/problems/surrounded-regions/
+3   0200    https://leetcode.com/problems/number-of-islands/
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/s
+3   0339    https://leetcode.com/problems/nested-list-weight-sum/
+3   0638    https://leetcode.com/problems/shopping-offers/
+3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
+3   0802    https://leetcode.com/problems/find-eventual-safe-states/
+3   0841    https://leetcode.com/problems/keys-and-rooms/
+3   0934    https://leetcode.com/problems/shortest-bridge/
+3   0935    https://leetcode.com/problems/knight-dialer/
+3   1020    https://leetcode.com/problems/number-of-enclaves/
+3   1034    https://leetcode.com/problems/coloring-a-border/
+3   1219    https://leetcode.com/problems/path-with-maximum-gold/
+3   1254    https://leetcode.com/problems/number-of-closed-islands/
+3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+
+4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+4   0351    https://leetcode.com/problems/android-unlock-patterns/
+4   0489    https://leetcode.com/problems/robot-room-cleaner/
+4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
+4   0924    https://leetcode.com/problems/minimize-malware-spread/
+4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+4   0980    https://leetcode.com/problems/unique-paths-iii/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+
+5   0037    https://leetcode.com/problems/sudoku-solver/
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
+5   0827    https://leetcode.com/problems/making-a-large-island/
+5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   1036    https://leetcode.com/problems/escape-a-large-maze/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/

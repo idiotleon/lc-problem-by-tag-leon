@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Circular
+
+3   0061    https://leetcode.com/problems/rotate-list/
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0708    https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
+3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/

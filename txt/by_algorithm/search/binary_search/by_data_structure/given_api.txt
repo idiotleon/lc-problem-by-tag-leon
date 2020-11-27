@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/binary-search/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Binary Search
+# Given API
+
+2   1237    https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+
+5   1095    https://leetcode.com/problems/find-in-mountain-array/

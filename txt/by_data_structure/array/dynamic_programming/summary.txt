@@ -1,0 +1,134 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## Dynamic Programming
+# Summary
+
+1   1137    https://leetcode.com/problems/n-th-tribonacci-number/
+
+2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0118    https://leetcode.com/problems/pascals-triangle/
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+
+3   0062    https://leetcode.com/problems/unique-paths/
+3   0119    https://leetcode.com/problems/pascals-triangle-ii/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0213    https://leetcode.com/problems/house-robber-ii/
+3   0256    https://leetcode.com/problems/paint-house/
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   0376    https://leetcode.com/problems/wiggle-subsequence/
+3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0518    https://leetcode.com/problems/coin-change-2/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+3   0764    https://leetcode.com/problems/largest-plus-sign/
+3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+3   0877    https://leetcode.com/problems/stone-game/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
+3   0935    https://leetcode.com/problems/knight-dialer/
+3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
+3   1139    https://leetcode.com/problems/largest-1-bordered-square/
+3   1140    https://leetcode.com/problems/stone-game-ii/
+3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
+3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+3   1626    https://leetcode.com/problems/best-team-with-no-conflicts/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
+
+4   0042    https://leetcode.com/problems/trapping-rain-water/
+4   0120    https://leetcode.com/problems/triangle/
+4   0221    https://leetcode.com/problems/maximal-square/
+4   0265    https://leetcode.com/problems/paint-house-ii/
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0313    https://leetcode.com/problems/super-ugly-number/
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0740    https://leetcode.com/problems/delete-and-earn/
+4   0799    https://leetcode.com/problems/champagne-tower/
+4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
+4   0879    https://leetcode.com/problems/profitable-schemes/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   0956    https://leetcode.com/problems/tallest-billboard/
+4   0975    https://leetcode.com/problems/odd-even-jump/
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   1024    https://leetcode.com/problems/video-stitching/
+4   1027    https://leetcode.com/problems/longest-arithmetic-sequence/
+4   1035    https://leetcode.com/problems/uncrossed-lines/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
+4   1049    https://leetcode.com/problems/last-stone-weight-ii/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+4   1187    https://leetcode.com/problems/make-array-strictly-increasing/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   1246    https://leetcode.com/problems/palindrome-removal/
+4   1289    https://leetcode.com/problems/minimum-falling-path-sum-ii/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   1340    https://leetcode.com/problems/jump-game-v/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   1463    https://leetcode.com/problems/cherry-pickup-ii/
+4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+4   1563    https://leetcode.com/problems/stone-game-v/
+4   1575    https://leetcode.com/problems/count-all-possible-routes/
+
+5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+5   0354    https://leetcode.com/problems/russian-doll-envelopes/
+5   0568    https://leetcode.com/problems/maximum-vacation-days/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+
+
+
+# Prefix Sums:
+    about why `count += prefixSums.get(sum - k)`
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/535507/Explanation-to-why-map.get(sum-k)-is-done-than-count%2B%2B
+
+    store previous sum and the times of this sum, because sum[i, j] = sum[0, j] - sum[0, i - 1], this is a very very important idea
+    https://leetcode.com/problems/binary-subarrays-with-sum/discuss/187005/3-ways-to-solve-this-kind-of-problem.
+
+    about preSum.put(0, 1);
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-+-HashMap/416171
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-+-HashMap/238328

@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Palindrome
+
+3   0234    https://leetcode.com/problems/palindrome-linked-list/

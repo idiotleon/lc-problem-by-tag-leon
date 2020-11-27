@@ -1,0 +1,70 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Linear Scan / 1 Pointer
+
+1   0058    https://leetcode.com/problems/length-of-last-word/
+1   0067    https://leetcode.com/problems/add-binary/
+1   0389    https://leetcode.com/problems/find-the-difference/
+1   0709    https://leetcode.com/problems/to-lower-case/
+1   0804    https://leetcode.com/problems/unique-morse-code-words/
+
+1   1108    https://leetcode.com/problems/defanging-an-ip-address/
+1   1119    https://leetcode.com/problems/remove-vowels-from-a-string/
+1   1417    https://leetcode.com/problems/reformat-the-string/
+1   1446    https://leetcode.com/problems/consecutive-characters/
+
+2   0038    https://leetcode.com/problems/count-and-say/
+2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
+2   0165    https://leetcode.com/problems/compare-version-numbers/
+2   0171    https://leetcode.com/problems/excel-sheet-column-number/
+2   0205    https://leetcode.com/problems/isomorphic-strings/
+2   0290    https://leetcode.com/problems/word-pattern/
+2   0299    https://leetcode.com/problems/bulls-and-cows/
+2   0409    https://leetcode.com/problems/longest-palindrome/
+2   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
+2   0551    https://leetcode.com/problems/student-attendance-record-i/
+2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
+2   0811    https://leetcode.com/problems/subdomain-visit-count/
+2   0859    https://leetcode.com/problems/buddy-strings/
+2   0929    https://leetcode.com/problems/unique-email-addresses/
+2   0942    https://leetcode.com/problems/di-string-match/
+2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
+2   1002    https://leetcode.com/problems/find-common-characters/
+2   1078    https://leetcode.com/problems/occurrences-after-bigram/
+2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
+2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+
+3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
+3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+3   0541    https://leetcode.com/problems/reverse-string-ii/
+3   0722    https://leetcode.com/problems/remove-comments/
+3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
+3   0838    https://leetcode.com/problems/push-dominoes/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+
+4   0158    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
+4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+4   0227    https://leetcode.com/problems/basic-calculator-ii/
+4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   0809    https://leetcode.com/problems/expressive-words/
+4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
+
+5   0224    https://leetcode.com/problems/basic-calculator/
+5   0772    https://leetcode.com/problems/basic-calculator-iii/
+
+
+
+#### N Pointers
+### Linear Scan
+## Technique
+# Last Indexes/Occurences of
+
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/

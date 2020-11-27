@@ -1,0 +1,58 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/heap/
+
+
+### Queue
+## Priority Queue
+# Summary
+
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
+2   0414    https://leetcode.com/problems/third-maximum-number/
+2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
+2   0692    https://leetcode.com/problems/top-k-frequent-words/
+2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+3   0743    https://leetcode.com/problems/network-delay-time/
+3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+3   0846    https://leetcode.com/problems/hand-of-straights/
+3   1054    https://leetcode.com/problems/distant-barcodes/
+3   1229    https://leetcode.com/problems/meeting-scheduler/
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+3   1405    https://leetcode.com/problems/longest-happy-string/
+3   1514    https://leetcode.com/problems/path-with-maximum-probability/
+
+4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0313    https://leetcode.com/problems/super-ugly-number/
+4   0358    https://leetcode.com/problems/rearrange-string-k-distance-apart/
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0502    https://leetcode.com/problems/ipo/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0621    https://leetcode.com/problems/task-scheduler/
+4   0630    https://leetcode.com/problems/course-schedule-iii/
+4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0855    https://leetcode.com/problems/exam-room/
+4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+
+5   0480    https://leetcode.com/problems/sliding-window-median/
+5   0499    https://leetcode.com/problems/the-maze-iii/
+5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
+
+
+
+Resources:
+    https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-of-solutions-for-problems-%22reducible%22-to-LeetCode-378
+    https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132

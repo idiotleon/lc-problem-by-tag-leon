@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Word Pattern
+
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/

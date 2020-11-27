@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Technique
+# Offset
+
+4   0871    https://leetcode.com/problems/longest-arithmetic-subsequence/

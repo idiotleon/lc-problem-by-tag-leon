@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Bit Manipulation
+# Bit Set
+
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0397    https://leetcode.com/problems/integer-replacement/
+3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+
+4   0805    https://leetcode.com/problems/split-array-with-same-average/

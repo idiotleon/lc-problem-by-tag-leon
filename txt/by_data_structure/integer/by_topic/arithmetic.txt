@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Modular Arithmetic
+
+2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+
+
+
+### Power Arithmetic
+
+3   0050    https://leetcode.com/problems/powx-n/

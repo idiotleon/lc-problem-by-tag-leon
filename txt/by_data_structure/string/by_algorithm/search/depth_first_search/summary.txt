@@ -1,0 +1,47 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Search
+# Depth First Search
+# Summary
+
+2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/
+2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
+3   0269    https://leetcode.com/problems/alien-dictionary/
+3   0394    https://leetcode.com/problems/decode-string/
+3   0439    https://leetcode.com/problems/ternary-expression-parser/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0681    https://leetcode.com/problems/next-closest-time/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+3   1087    https://leetcode.com/problems/brace-expansion/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+
+4   0097    https://leetcode.com/problems/interleaving-string/
+4   0139    https://leetcode.com/problems/word-break/
+4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+4   0726    https://leetcode.com/problems/number-of-atoms/
+4   0854    https://leetcode.com/problems/k-similar-strings/
+4   1028    https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
+4   1092    https://leetcode.com/problems/shortest-common-supersequence/
+4   1216    https://leetcode.com/problems/valid-palindrome-iii/
+4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+
+5   0282    https://leetcode.com/problems/expression-add-operators/
+5   0291    https://leetcode.com/problems/word-pattern-ii/
+5   0425    https://leetcode.com/problems/word-squares/
+5   0472    https://leetcode.com/problems/concatenated-words/
+
+6   0488    https://leetcode.com/problems/zuma-game/
+6   0679    https://leetcode.com/problems/24-game/

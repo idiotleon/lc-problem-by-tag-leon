@@ -1,0 +1,31 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/bit-manipulation/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Bit Manipulation
+## Binary Array or Matrix
+
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+
+
+
+# Binary Array
+
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+
+
+# Binary Matrix
+
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

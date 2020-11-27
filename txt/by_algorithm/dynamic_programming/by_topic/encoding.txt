@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Topic
+# Encoding
+
+6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

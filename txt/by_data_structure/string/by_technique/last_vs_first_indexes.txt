@@ -1,0 +1,19 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Technique
+# the keep track of the last index(es) of
+
+1   1165    https://leetcode.com/problems/single-row-keyboard/
+
+2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   0205    https://leetcode.com/problems/isomorphic-strings/
+
+
+
+# the keep track of the first index(es) of
+
+?   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/

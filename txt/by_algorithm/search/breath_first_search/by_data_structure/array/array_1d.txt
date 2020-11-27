@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Breadth First Search
+# Array - 1 Dimensional
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0784    https://leetcode.com/problems/letter-case-permutation/
+
+3   0582    https://leetcode.com/problems/kill-process/
+3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1306    https://leetcode.com/problems/jump-game-iii/
+3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   1345    https://leetcode.com/problems/jump-game-iv/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/

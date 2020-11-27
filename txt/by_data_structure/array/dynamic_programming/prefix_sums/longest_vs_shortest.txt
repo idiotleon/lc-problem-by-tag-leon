@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## Prefix Sums
+# Longest vs Shortest
+
+3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/

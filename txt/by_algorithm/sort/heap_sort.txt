@@ -1,0 +1,23 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/heap/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Sort
+# Heap Sort
+
+1   1046    https://leetcode.com/problems/last-stone-weight/
+
+2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
+2   0692    https://leetcode.com/problems/top-k-frequent-words/
+2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+
+3   0912    https://leetcode.com/problems/sort-an-array/
+
+5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+
+
+Resources:
+    https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-of-solutions-for-problems-%22reducible%22-to-LeetCode-378

@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# As Stacks
+
+3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
+
+4   0735    https://leetcode.com/problems/asteroid-collision/

@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## with help of 
+# Monotonic Queues
+
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/

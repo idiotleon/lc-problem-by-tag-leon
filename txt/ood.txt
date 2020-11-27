@@ -1,0 +1,60 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/design/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Object-Oriented Design
+
+2   0359    https://leetcode.com/problems/logger-rate-limiter/
+2   0362    https://leetcode.com/problems/design-hit-counter/
+2   0384    https://leetcode.com/problems/shuffle-an-array/
+2   0385    https://leetcode.com/problems/mini-parser/
+2   0398    https://leetcode.com/problems/random-pick-index/
+2   0535    https://leetcode.com/problems/encode-and-decode-tinyurl/
+2   0622    https://leetcode.com/problems/design-circular-queue/
+2   0707    https://leetcode.com/problems/design-linked-list/
+2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+
+3   0155    https://leetcode.com/problems/min-stack/
+3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
+3   0271    https://leetcode.com/problems/encode-and-decode-strings/
+3   0281    https://leetcode.com/problems/zigzag-iterator/
+3   0284    https://leetcode.com/problems/peeking-iterator/
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
+3   0348    https://leetcode.com/problems/design-tic-tac-toe/
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0380    https://leetcode.com/problems/insert-delete-getrandom-o1/
+3   0398    https://leetcode.com/problems/random-pick-index/
+3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
+3   0705    https://leetcode.com/problems/design-hashset/
+3   0900    https://leetcode.com/problems/rle-iterator/
+3   1261    https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/s
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
+3   1357    https://leetcode.com/problems/apply-discount-every-n-orders/
+3   1472    https://leetcode.com/problems/design-browser-history/
+3   1586    https://leetcode.com/problems/binary-search-tree-iterator-ii/
+
+4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
+4   0295    https://leetcode.com/problems/find-median-from-data-stream/
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0353    https://leetcode.com/problems/design-snake-game/
+4   0355    https://leetcode.com/problems/design-twitter/
+4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
+4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
+4   0855    https://leetcode.com/problems/exam-room/
+4   1032    https://leetcode.com/problems/stream-of-characters/
+
+5   0381    https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+5   0588    https://leetcode.com/problems/design-in-memory-file-system/
+5   0715    https://leetcode.com/problems/range-module/
+
+6   0460    https://leetcode.com/problems/lfu-cache/
+
+
+Problems not yet included in LC:
+3   find unique number in a data stream 
+https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream
+

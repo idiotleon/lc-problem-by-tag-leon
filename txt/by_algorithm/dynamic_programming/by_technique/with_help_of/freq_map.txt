@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## with help of 
+# Freq Map
+
+3   1048    https://leetcode.com/problems/longest-string-chain/

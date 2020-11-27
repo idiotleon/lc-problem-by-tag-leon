@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Strobogrammatic Number
+
+2   0246    https://leetcode.com/problems/strobogrammatic-number/
+
+3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
+
+4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/

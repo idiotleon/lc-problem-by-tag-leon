@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## Sort
+
+2   0791    https://leetcode.com/problems/custom-sort-string/
+
+3   0681    https://leetcode.com/problems/next-closest-time/
+3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
+
+4   1062    https://leetcode.com/problems/longest-repeating-substring/
+
+
+
+# Bucket Sort
+
+3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/

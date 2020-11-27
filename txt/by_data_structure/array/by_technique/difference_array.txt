@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Technique
+# Difference Array
+
+3   1109    https://leetcode.com/problems/corporate-flight-bookings/

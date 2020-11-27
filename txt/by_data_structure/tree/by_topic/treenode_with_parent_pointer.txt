@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### TreeNode with a Parent Pointer
+
+3   0510    https://leetcode.com/problems/inorder-successor-in-bst-ii/
+3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/

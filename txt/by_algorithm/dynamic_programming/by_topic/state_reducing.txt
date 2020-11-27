@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+# State Reducing
+
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/

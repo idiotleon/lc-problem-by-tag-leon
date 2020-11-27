@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## Minimax
+
+3   0877    https://leetcode.com/problems/stone-game/
+3   1140    https://leetcode.com/problems/stone-game-ii/
+
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1563    https://leetcode.com/problems/stone-game-v/

@@ -1,0 +1,30 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+    
+### Divide and Conquer
+# Summary
+
+2   0052    https://leetcode.com/problems/maximum-subarray/
+2   0544    https://leetcode.com/problems/output-contest-matches/
+
+3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
+
+4   0148    https://leetcode.com/problems/sort-list/
+4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0287    https://leetcode.com/problems/find-the-duplicate-number/
+4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+
+5   0085    https://leetcode.com/problems/maximal-rectangle/s
+5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+5   0772    https://leetcode.com/problems/basic-calculator-iii/
+5   0932    https://leetcode.com/problems/beautiful-array/

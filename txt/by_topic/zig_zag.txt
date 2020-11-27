@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Zig Zag
+
+3   0281    https://leetcode.com/problems/zigzag-iterator/
+3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/

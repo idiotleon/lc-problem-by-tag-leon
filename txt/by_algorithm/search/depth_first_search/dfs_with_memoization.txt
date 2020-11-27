@@ -1,0 +1,66 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+    
+### Depth First Search
+# Depth First Search with Memoization
+
+2   0263    https://leetcode.com/problems/ugly-number/
+2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0101    https://leetcode.com/problems/symmetric-tree/
+3   0279    https://leetcode.com/problems/perfect-squares/
+3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0851    https://leetcode.com/problems/loud-and-rich/
+3   0865    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+3   0935    https://leetcode.com/problems/knight-dialer/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+3   1485    https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
+
+4   0097    https://leetcode.com/problems/interleaving-string/
+4   0115    https://leetcode.com/problems/distinct-subsequences/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
+4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
+4   0740    https://leetcode.com/problems/delete-and-earn/
+4   0799    https://leetcode.com/problems/champagne-tower/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+5   0808    https://leetcode.com/problems/soup-servings/
+4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0854    https://leetcode.com/problems/k-similar-strings/
+4   0894    https://leetcode.com/problems/all-possible-full-binary-trees/
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1216    https://leetcode.com/problems/valid-palindrome-iii/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1246    https://leetcode.com/problems/palindrome-removal/
+4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
+4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   1340    https://leetcode.com/problems/jump-game-v/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+4   1537    https://leetcode.com/problems/get-the-maximum-score/
+4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
+4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
+4   1563    https://leetcode.com/problems/stone-game-v/
+
+5   0140    https://leetcode.com/problems/word-break-ii/
+5   0472    https://leetcode.com/problems/concatenated-words/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

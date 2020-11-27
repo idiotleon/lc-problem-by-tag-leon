@@ -1,0 +1,79 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Map
+# Summary
+
+1   0884    https://leetcode.com/problems/uncommon-words-from-two-sentences/
+1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
+
+2   0001    https://leetcode.com/problems/two-sum/
+2   0170    https://leetcode.com/problems/two-sum-iii-data-structure-design/
+2   0290    https://leetcode.com/problems/word-pattern/
+2   0791    https://leetcode.com/problems/custom-sort-string/
+2   0811    https://leetcode.com/problems/subdomain-visit-count/
+2   0833    https://leetcode.com/problems/find-and-replace-in-string/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
+2   1218    https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+2   1410    https://leetcode.com/problems/html-entity-parser/
+2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+
+3   0049    https://leetcode.com/problems/group-anagrams/
+3   0133    https://leetcode.com/problems/clone-graph/
+3   0137    https://leetcode.com/problems/single-number-ii/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   0436    https://leetcode.com/problems/find-right-interval/
+3   0437    https://leetcode.com/problems/path-sum-iii/
+3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+3   0508    https://leetcode.com/problems/most-frequent-subtree-sum/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0533    https://leetcode.com/problems/lonely-pixel-ii/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
+3   0609    https://leetcode.com/problems/find-duplicate-file-in-system/3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+3   0663    https://leetcode.com/problems/equal-tree-partition/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   0748    https://leetcode.com/problems/shortest-completing-word/
+3   0846    https://leetcode.com/problems/hand-of-straights/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   0939    https://leetcode.com/problems/minimum-area-rectangle/
+3   0966    https://leetcode.com/problems/vowel-spellchecker/
+3   0981    https://leetcode.com/problems/time-based-key-value-store/
+3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1010    https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+3   1146    https://leetcode.com/problems/snapshot-array/
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+3   1257    https://leetcode.com/problems/smallest-common-region/
+3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
+3   1357    https://leetcode.com/problems/apply-discount-every-n-orders/
+
+4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   0399    https://leetcode.com/problems/evaluate-division/
+4   0442    https://leetcode.com/problems/find-all-duplicates-in-an-array/
+4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
+4   0732    https://leetcode.com/problems/my-calendar-iii/
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0745    https://leetcode.com/problems/prefix-and-suffix-search/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+4   0895    https://leetcode.com/problems/maximum-frequency-stack/
+4   0954    https://leetcode.com/problems/array-of-doubled-pairs/
+4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
+4   1001    https://leetcode.com/problems/grid-illumination/
+4   1152    https://leetcode.com/problems/analyze-user-website-visit-pattern/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+
+5   0381    https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+5   0588    https://leetcode.com/problems/design-in-memory-file-system/
+5   0715    https://leetcode.com/problems/range-module/

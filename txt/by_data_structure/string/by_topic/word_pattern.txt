@@ -1,0 +1,15 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## By Topic
+# Word Pattern
+
+2   0290    https://leetcode.com/problems/word-pattern/
+
+5   0291    https://leetcode.com/problems/word-pattern-ii/
+
+6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

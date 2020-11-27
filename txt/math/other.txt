@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+    
+### Math
+## Fermat Little Theorem
+
+5   1622    https://leetcode.com/problems/fancy-sequence/

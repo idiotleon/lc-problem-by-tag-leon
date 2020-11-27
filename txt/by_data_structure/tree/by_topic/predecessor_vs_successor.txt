@@ -1,0 +1,18 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+# Predecessor vs Successor
+
+2   0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+
+3   0144    https://leetcode.com/problems/binary-tree-preorder-traversal/
+3   0285    https://leetcode.com/problems/inorder-successor-in-bst/
+3   0510    https://leetcode.com/problems/inorder-successor-in-bst-ii/
+
+
+
+For a Binary Search Tree:
+    The successor of a node is the node with the smallest key greater than node.val.

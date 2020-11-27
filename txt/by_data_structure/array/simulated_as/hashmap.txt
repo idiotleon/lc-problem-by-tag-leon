@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Simulated as a HashMap
+
+4   0442    https://leetcode.com/problems/find-all-duplicates-in-an-array/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/

@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Ugly Number
+
+2   0263    https://leetcode.com/problems/ugly-number/
+
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+
+4   0264    https://leetcode.com/problems/ugly-number-ii/
+

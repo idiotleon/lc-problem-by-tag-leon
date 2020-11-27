@@ -1,0 +1,58 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Depth First Search
+# Postorder Traversal
+
+1   0872    https://leetcode.com/problems/leaf-similar-trees/
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
+
+2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2   0110    https://leetcode.com/problems/balanced-binary-tree/
+2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
+2   0563    https://leetcode.com/problems/binary-tree-tilt/
+2   0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
+2   0814    https://leetcode.com/problems/binary-tree-pruning/
+2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/
+2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+2   1120    https://leetcode.com/problems/maximum-average-subtree/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
+
+3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+3   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
+3   0333    https://leetcode.com/problems/largest-bst-subtree/
+3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+3   0508    https://leetcode.com/problems/most-frequent-subtree-sum/
+3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
+3   0572    https://leetcode.com/problems/subtree-of-another-tree/
+3   0623    https://leetcode.com/problems/add-one-row-to-tree/
+3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+3   0663    https://leetcode.com/problems/equal-tree-partition/
+3   0687    https://leetcode.com/problems/longest-univalue-path/
+3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+3   1339    https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
+3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
+
+4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
+4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
+4   0250    https://leetcode.com/problems/count-univalue-subtrees/
+4   0337    https://leetcode.com/problems/house-robber-iii/
+4   0545    https://leetcode.com/problems/boundary-of-binary-tree/
+4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+4   0968    https://leetcode.com/problems/binary-tree-cameras/
+4   0979    https://leetcode.com/problems/distribute-coins-in-binary-tree/
+4   1373    https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+
+5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/

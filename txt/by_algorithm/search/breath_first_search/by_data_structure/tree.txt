@@ -1,0 +1,57 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/breadth-first-search/
+    
+
+### Breadth First Search
+# Tree
+
+1   0559    https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+1   0671    https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
+1   1161    https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+
+2   0100    https://leetcode.com/problems/same-tree/
+2   0102    https://leetcode.com/problems/binary-tree-level-order-traversal/
+2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2   0107    https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+2   0199    https://leetcode.com/problems/binary-tree-right-side-view/
+2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0404    https://leetcode.com/problems/sum-of-left-leaves/
+2   0429    https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+2   0617    https://leetcode.com/problems/merge-two-binary-trees/
+2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
+2   0655    https://leetcode.com/problems/print-binary-tree/
+2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
+2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
+2   0958    https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1315    https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
+2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
+2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
+2   1609    https://leetcode.com/problems/even-odd-tree/
+
+3   0101    https://leetcode.com/problems/symmetric-tree/
+3   0103    https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+3   0117    https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+3   0572    https://leetcode.com/problems/subtree-of-another-tree/
+3   0582    https://leetcode.com/problems/kill-process/
+3   0623    https://leetcode.com/problems/add-one-row-to-tree/
+3   0662    https://leetcode.com/problems/maximum-width-of-binary-tree/
+3   1245    https://leetcode.com/problems/tree-diameter/
+3   1261    https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+3   1448    https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+3   1490    https://leetcode.com/problems/clone-n-ary-tree/
+3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
+
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/

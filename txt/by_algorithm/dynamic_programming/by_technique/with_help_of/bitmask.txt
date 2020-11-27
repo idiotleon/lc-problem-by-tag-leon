@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## with help of 
+# Bit Mask
+
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+
+
+# Resources
+    http://codeforces.com/blog/entry/337
+    https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
+    https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/

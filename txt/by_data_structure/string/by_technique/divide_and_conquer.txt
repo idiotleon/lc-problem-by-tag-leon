@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Technique
+# Divide and Conquer
+
+2   0544    https://leetcode.com/problems/output-contest-matches/
+
+4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+
+5   0772    https://leetcode.com/problems/basic-calculator-iii/

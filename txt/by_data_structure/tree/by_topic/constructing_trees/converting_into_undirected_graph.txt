@@ -1,0 +1,15 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Tree
+## Constructing Trees
+# Turning Trees into Undirected Graphs
+
+3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+
+5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/

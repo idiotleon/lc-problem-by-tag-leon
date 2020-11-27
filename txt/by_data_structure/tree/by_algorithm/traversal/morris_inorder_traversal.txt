@@ -1,0 +1,33 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+## Traversal
+# Morris Inorder Traversal
+
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
+
+2   0094    https://leetcode.com/problems/binary-tree-inorder-traversal/
+2   0501    https://leetcode.com/problems/find-mode-in-binary-search-tree/
+2   0897    https://leetcode.com/problems/increasing-order-search-tree/
+2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
+
+3   0098    https://leetcode.com/problems/validate-binary-search-tree/
+3   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+3   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+3   0783    https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
+
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
+4   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
+5   0099    https://leetcode.com/problems/recover-binary-search-tree/
+
+
+
+## Morris Preorder Traversal
+
+2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/

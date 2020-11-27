@@ -1,0 +1,45 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# String - Array
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0243    https://leetcode.com/problems/shortest-word-distance/
+2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+2   0784    https://leetcode.com/problems/letter-case-permutation/
+2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
+2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
+3   0228    https://leetcode.com/problems/summary-ranges/
+3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
+3   0737    https://leetcode.com/problems/sentence-similarity-ii/
+3   0748    https://leetcode.com/problems/shortest-completing-word/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
+3   0955    https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
+3   0966    https://leetcode.com/problems/vowel-spellchecker/
+3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   1023    https://leetcode.com/problems/camelcase-matching/
+3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0621    https://leetcode.com/problems/task-scheduler/
+4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
+4   0916    https://leetcode.com/problems/word-subsets/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+
+5   0140    https://leetcode.com/problems/word-break-ii/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

@@ -1,0 +1,38 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### String
+### N Pointers
+## High Low Pointers
+# 2 Pointers
+
+1   0917    https://leetcode.com/problems/reverse-only-letters/
+
+2   0246    https://leetcode.com/problems/strobogrammatic-number/
+2   0443    https://leetcode.com/problems/string-compression/
+2   0567    https://leetcode.com/problems/permutation-in-string/
+2   0844    https://leetcode.com/problems/backspace-string-compare/
+2   0942    https://leetcode.com/problems/di-string-match/
+2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
+3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0680    https://leetcode.com/problems/valid-palindrome-ii/
+3   0696    https://leetcode.com/problems/count-binary-substrings/
+3   0763    https://leetcode.com/problems/partition-labels/description/
+3   0838    https://leetcode.com/problems/push-dominoes/
+3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
+
+4   0076    https://leetcode.com/problems/minimum-window-substring/
+4   0227    https://leetcode.com/problems/basic-calculator-ii/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+4   0481    https://leetcode.com/problems/magical-string/
+4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/

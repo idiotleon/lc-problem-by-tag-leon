@@ -1,0 +1,22 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Combination
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+3   0039    https://leetcode.com/problems/combination-sum/
+3   0040    https://leetcode.com/problems/combination-sum-ii/
+3   0254    https://leetcode.com/problems/factor-combinations/
+3   1286    https://leetcode.com/problems/iterator-for-combination/
+
+4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+
+
+Resources:
+    https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/

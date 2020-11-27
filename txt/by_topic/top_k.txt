@@ -1,0 +1,23 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Top K
+
+2   0347    ttps://leetcode.com/problems/top-k-frequent-elements/
+2   0692    https://leetcode.com/problems/top-k-frequent-words/
+2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
+
+3   1244    https://leetcode.com/problems/design-a-leaderboard/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
+
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+
+
+Resource:
+    https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132
+    

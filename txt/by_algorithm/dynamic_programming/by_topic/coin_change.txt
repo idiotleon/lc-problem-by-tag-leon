@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Topic
+# Coin Change
+
+3   0279    https://leetcode.com/problems/perfect-squares/
+3   0322    https://leetcode.com/problems/coin-change/
+3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0518    https://leetcode.com/problems/coin-change-2/
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   1049    https://leetcode.com/problems/last-stone-weight-ii/

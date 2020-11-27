@@ -1,0 +1,33 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Depth First Search
+## DFS over BFS
+
+1   0872    https://leetcode.com/problems/leaf-similar-trees/
+
+2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
+2   0897    https://leetcode.com/problems/increasing-order-search-tree/
+2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+2   1120    https://leetcode.com/problems/maximum-average-subtree/
+
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
+3   0687    https://leetcode.com/problems/longest-univalue-path/
+3   1080    https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
+3   1104    https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
+3   1372    https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+
+4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+4   1373    https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
+6   0679    https://leetcode.com/problems/24-game/

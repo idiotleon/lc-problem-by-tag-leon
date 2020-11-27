@@ -1,0 +1,31 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+This serves the total list of problems that I do not understand a bit.
+### Struggle
+
+3   0638    https://leetcode.com/problems/shopping-offers/
+
+4   0321    https://leetcode.com/problems/create-maximum-number/
+4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+4   0765    https://leetcode.com/problems/couples-holding-hands/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+5   0483    https://leetcode.com/problems/smallest-good-base/
+5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
+
+
+
+
+### Possible Attempts
+
+# Iteration to Recursion
+
+3   0636    https://leetcode.com/problems/exclusive-time-o
+
+

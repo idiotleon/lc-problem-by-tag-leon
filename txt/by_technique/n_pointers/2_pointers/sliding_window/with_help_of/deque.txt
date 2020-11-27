@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### N Pointers
+### 2 Pointers
+## Sliding Window
+# with the help of deque(s)
+
+4   1499    https://leetcode.com/problems/max-value-of-equation/

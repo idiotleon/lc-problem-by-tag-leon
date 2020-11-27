@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Other
+# Boyer-Moore Majority Vote Algorithm
+
+3   0229    https://leetcode.com/problems/majority-element-ii/

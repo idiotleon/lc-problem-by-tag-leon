@@ -1,0 +1,18 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## with help of 
+# Binary Searches
+
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0887    https://leetcode.com/problems/super-egg-drop/
+4   0975    https://leetcode.com/problems/odd-even-jump/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+
+5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/

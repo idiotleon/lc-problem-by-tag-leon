@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Rotated Array
+
+1   0189    https://leetcode.com/problems/rotate-array/
+
+3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+4   0081    https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/

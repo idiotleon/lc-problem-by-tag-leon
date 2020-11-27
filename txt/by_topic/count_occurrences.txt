@@ -1,0 +1,17 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+# Count Occurrences
+
+3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+
+4   1575    https://leetcode.com/problems/count-all-possible-routes/
+
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

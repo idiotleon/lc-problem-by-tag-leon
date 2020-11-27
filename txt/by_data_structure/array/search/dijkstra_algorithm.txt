@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Dijkstra's Algorithm
+
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+
+5   0499    https://leetcode.com/problems/the-maze-iii/

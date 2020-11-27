@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Sort
+## Insertion Sort
+
+3   0147    https://leetcode.com/problems/insertion-sort-list/

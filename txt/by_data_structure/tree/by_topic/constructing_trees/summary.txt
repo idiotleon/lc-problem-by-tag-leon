@@ -1,0 +1,76 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+## Constructing Trees
+# Summary
+
+1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
+1   0872    https://leetcode.com/problems/leaf-similar-trees/
+
+2   0617    https://leetcode.com/problems/merge-two-binary-trees/
+2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
+2   0897    https://leetcode.com/problems/increasing-order-search-tree/
+2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
+
+3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+3   0108    https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+3   0109    https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+3   0156    https://leetcode.com/problems/binary-tree-upside-down/
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
+3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
+3   0654    https://leetcode.com/problems/maximum-binary-tree/
+3   0729    https://leetcode.com/problems/my-calendar-i/
+3   0731    https://leetcode.com/problems/my-calendar-ii/
+3   0776    https://leetcode.com/problems/split-bst/
+3   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+3   1490    https://leetcode.com/problems/clone-n-ary-tree/
+
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+4   0732    https://leetcode.com/problems/my-calendar-iii/
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
+
+
+
+## Serialization
+
+1   0872    https://leetcode.com/problems/leaf-similar-trees/
+
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
+3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+
+
+# Resources
+    https://leetcode.com/problems/find-duplicate-subtrees/discuss/106016/O(n)-time-and-space-lots-of-analysis
+
+
+
+## Deserialization
+
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
+
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+
+
+
+## Swap
+
+5   0099    https://leetcode.com/problems/recover-binary-search-tree/

@@ -1,0 +1,18 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Range Sum
+
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/

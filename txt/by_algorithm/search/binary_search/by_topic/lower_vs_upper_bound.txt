@@ -1,0 +1,45 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Binary Search
+## Lower Bound vs Upper Bound
+
+2   0035    https://leetcode.com/problems/search-insert-position/
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+
+3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+
+
+### Binary Search
+## Lower Bound
+
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+
+3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+
+
+### Binary Search
+## Upper Bound
+
+2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+
+3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+
+
+
+
+### Uncertain by now
+
+3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

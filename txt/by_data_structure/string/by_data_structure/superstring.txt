@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Superstring
+
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/

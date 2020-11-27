@@ -1,0 +1,17 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### N Pointers
+### 2 Pointers
+## Sliding Window
+# Fixed-size Window
+
+2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1176    https://leetcode.com/problems/diet-plan-performance/
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/

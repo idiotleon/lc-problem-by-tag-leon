@@ -1,0 +1,64 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Binary Search
+# Array - 1 Dimensional
+
+1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
+
+2   0035    https://leetcode.com/problems/search-insert-position/
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0278    https://leetcode.com/problems/first-bad-version/
+2   0475    https://leetcode.com/problems/heaters/
+2   0704    https://leetcode.com/problems/binary-search/
+2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
+2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+
+3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
+3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3   0162    https://leetcode.com/problems/find-peak-element/
+3   0167    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+3   0275    https://leetcode.com/problems/h-index-ii/
+3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
+3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   0911    https://leetcode.com/problems/online-election/
+3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
+3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+4   0081    https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+4   0287    https://leetcode.com/problems/find-the-duplicate-number/
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0540    https://leetcode.com/problems/single-element-in-a-sorted-array/
+4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
+4   0975    https://leetcode.com/problems/odd-even-jump/
+4   1011    https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+4   1231    https://leetcode.com/problems/divide-chocolate/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   1300    https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+
+5   0327    https://leetcode.com/problems/count-of-range-sum/
+5   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+
+
+
+
+yet to verify: Possible "lower_bound" problems:
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/

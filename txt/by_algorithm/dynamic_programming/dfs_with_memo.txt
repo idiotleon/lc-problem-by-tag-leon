@@ -1,0 +1,59 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Depth First Search with Memoization
+
+1   0509    https://leetcode.com/problems/fibonacci-number/
+
+2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0292    https://leetcode.com/problems/nim-game/
+2   1025    https://leetcode.com/problems/divisor-game/
+2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0877    https://leetcode.com/problems/stone-game/
+3   1140    https://leetcode.com/problems/stone-game-ii/
+3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0312    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+4   0337    https://leetcode.com/problems/house-robber-iii/
+4   0368    https://leetcode.com/problems/largest-divisible-subset/
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0799    https://leetcode.com/problems/champagne-tower/
+4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1143    https://leetcode.com/problems/longest-common-subsequence/
+4   1246    https://leetcode.com/problems/palindrome-removal/
+4   1340    https://leetcode.com/problems/jump-game-v/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+4   1463    https://leetcode.com/problems/cherry-pickup-ii/
+4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
+4   1563    https://leetcode.com/problems/stone-game-v/
+4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+4   1575    https://leetcode.com/problems/count-all-possible-routes/
+
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   0568    https://leetcode.com/problems/maximum-vacation-days/
+5   0808    https://leetcode.com/problems/soup-servings/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+
+### DFS with memo over Dynamic Programming
+
+4   0337    https://leetcode.com/problems/house-robber-iii/

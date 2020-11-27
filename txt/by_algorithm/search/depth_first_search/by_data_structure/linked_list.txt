@@ -1,0 +1,18 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Depth First Search
+# Linked List
+
+1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+3   0086    https://leetcode.com/problems/partition-list/
+3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
+3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
+
+4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/

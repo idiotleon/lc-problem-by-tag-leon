@@ -1,0 +1,22 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Breadth First Search
+# BFS over DFS
+
+2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
+2   1609    https://leetcode.com/problems/even-odd-tree/
+
+3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0365    https://leetcode.com/problems/water-and-jug-problem/
+3   0542    https://leetcode.com/problems/01-matrix/
+3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
+3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+
+4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
+4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+4   1345    https://leetcode.com/problems/jump-game-iv/
+
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/

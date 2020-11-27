@@ -1,0 +1,23 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/queue/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Queue
+# Monotonic Queue
+
+4   0239    https://leetcode.com/problems/sliding-window-maximum/
+4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+4   1425    https://leetcode.com/problems/constrained-subsequence-sum/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+
+
+
+Resources:
+    https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/109082/Approach-the-problem-using-the-"trial-and-error"-algorithm/311780
+    https://medium.com/@gregsh9.5/monotonic-queue-notes-980a019d5793
+    https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6

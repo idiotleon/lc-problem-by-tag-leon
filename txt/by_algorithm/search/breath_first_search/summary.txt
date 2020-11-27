@@ -1,0 +1,133 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/breadth-first-search/
+
+
+### Breadth First Search
+
+1   0559    https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+1   0671    https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
+1   1161    https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0100    https://leetcode.com/problems/same-tree/
+2   0102    https://leetcode.com/problems/binary-tree-level-order-traversal/
+2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2   0107    https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+2   0199    https://leetcode.com/problems/binary-tree-right-side-view/
+2   0207    https://leetcode.com/problems/course-schedule/   
+2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   0404    https://leetcode.com/problems/sum-of-left-leaves/
+2   0429    https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+2   0433    https://leetcode.com/problems/minimum-genetic-mutation/
+2   0617    https://leetcode.com/problems/merge-two-binary-trees/
+2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
+2   0655    https://leetcode.com/problems/print-binary-tree/
+2   0695    https://leetcode.com/problems/max-area-of-island/
+2   0784    https://leetcode.com/problems/letter-case-permutation/
+2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
+2   0993    https://leetcode.com/problems/cousins-in-binary-tree/
+2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
+2   0958    https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1315    https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
+2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
+2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
+2   1609    https://leetcode.com/problems/even-odd-tree/
+
+3   0101    https://leetcode.com/problems/symmetric-tree/
+3   0103    https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+3   0117    https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+3   0130    https://leetcode.com/problems/surrounded-regions/
+3   0133    https://leetcode.com/problems/clone-graph/
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0279    https://leetcode.com/problems/perfect-squares/
+3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0323    https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+3   0365    https://leetcode.com/problems/water-and-jug-problem/
+3   0397    https://leetcode.com/problems/integer-replacement/
+3   0444    https://leetcode.com/problems/sequence-reconstruction/
+3   0542    https://leetcode.com/problems/01-matrix/
+3   0572    https://leetcode.com/problems/subtree-of-another-tree/
+3   0582    https://leetcode.com/problems/kill-process/
+3   0623    https://leetcode.com/problems/add-one-row-to-tree/
+3   0662    https://leetcode.com/problems/maximum-width-of-binary-tree/
+3   0743    https://leetcode.com/problems/network-delay-time/
+3   0785    https://leetcode.com/problems/is-graph-bipartite/
+3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
+3   0841    https://leetcode.com/problems/keys-and-rooms/
+3   0886    https://leetcode.com/problems/possible-bipartition/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/
+3   0934    https://leetcode.com/problems/shortest-bridge/
+3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+3   1020    https://leetcode.com/problems/number-of-enclaves/
+3   1034    https://leetcode.com/problems/coloring-a-border/
+3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
+3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+3   1087    https://leetcode.com/problems/brace-expansion/
+3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
+3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1215    https://leetcode.com/problems/stepping-numbers/
+3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+3   1236    https://leetcode.com/problems/web-crawler/
+3   1245    https://leetcode.com/problems/tree-diameter/
+3   1254    https://leetcode.com/problems/number-of-closed-islands/
+3   1261    https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+3   1291    https://leetcode.com/problems/sequential-digits/
+3   1306    https://leetcode.com/problems/jump-game-iii/
+3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
+3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+3   1448    https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+3   1490    https://leetcode.com/problems/clone-n-ary-tree/
+3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
+
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
+4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0721    https://leetcode.com/problems/accounts-merge/
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0815    https://leetcode.com/problems/bus-routes/
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   0854    https://leetcode.com/problems/k-similar-strings/
+4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0924    https://leetcode.com/problems/minimize-malware-spread/
+4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
+4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+4   1293    https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+4   1345    https://leetcode.com/problems/jump-game-iv/
+4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
+4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0818    https://leetcode.com/problems/race-car/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   1036    https://leetcode.com/problems/escape-a-large-maze/
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+
+
+
+Resources:
+    https://leetcode.com/problems/race-car/discuss/124326/summary-of-the-bfs-and-dp-solutions-with-intuitive-explanation

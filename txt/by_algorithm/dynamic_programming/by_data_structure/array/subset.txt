@@ -1,0 +1,15 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## Array
+# Subset
+
+3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/

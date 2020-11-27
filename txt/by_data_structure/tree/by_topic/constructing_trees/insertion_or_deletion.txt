@@ -1,0 +1,29 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+## Traversal
+# Insert a TreeNode
+
+2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
+2   0998    https://leetcode.com/problems/maximum-binary-tree-ii/
+
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+
+# Delete a TreeNode
+
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
+
+3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
+3   1080    https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
+
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+
+
+Resources:
+    https://leetcode.com/problems/delete-node-in-a-bst/solution/
+    

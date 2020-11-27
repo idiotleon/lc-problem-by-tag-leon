@@ -1,0 +1,22 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Shortest Path
+
+3   0743    https://leetcode.com/problems/network-delay-time/
+3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/
+3   1514    https://leetcode.com/problems/path-with-maximum-probability/
+
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1293    https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
+
+5   0499    https://leetcode.com/problems/the-maze-iii/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/

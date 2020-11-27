@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Array
+# Narrow Range Array, 
+    arrays where indexes and values are within the same range
+    1 <= nums[idx] <= N, (N, size of the array)
+
+3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/

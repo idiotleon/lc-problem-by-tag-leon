@@ -1,0 +1,41 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Dynamic Programming
+# String
+
+3   0005    https://leetcode.com/problems/longest-palindromic-substring/
+3   0091    https://leetcode.com/problems/decode-ways/
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
+3   0647    https://leetcode.com/problems/palindromic-substrings/
+3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3   1143    https://leetcode.com/problems/longest-common-subsequence/
+
+4   0072    https://leetcode.com/problems/edit-distance/
+4   0097    https://leetcode.com/problems/interleaving-string/
+4   0115    https://leetcode.com/problems/distinct-subsequences/
+4   0132    https://leetcode.com/problems/palindrome-partitioning-ii/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
+4   0639    https://leetcode.com/problems/decode-ways-ii/
+4   0664    https://leetcode.com/problems/strange-printer/
+4   0727    https://leetcode.com/problems/minimum-window-subsequence/
+4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1092    https://leetcode.com/problems/shortest-common-supersequence/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1216    https://leetcode.com/problems/valid-palindrome-iii/
+4   1278    https://leetcode.com/problems/palindrome-partitioning-iii/
+4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+
+5   0010    https://leetcode.com/problems/regular-expression-matching/
+5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+
+6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/
+

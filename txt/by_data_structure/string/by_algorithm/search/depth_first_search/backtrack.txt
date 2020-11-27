@@ -1,0 +1,33 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Search
+# Depth First Search
+# Backtrack
+
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0320    https://leetcode.com/problems/generalized-abbreviation/
+3   0753    https://leetcode.com/problems/cracking-the-safe/
+3   0756    https://leetcode.com/problems/pyramid-transition-matrix/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+3   1079    https://leetcode.com/problems/letter-tile-possibilities/
+3   1087    https://leetcode.com/problems/brace-expansion/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+
+4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
+4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
+4   0294    https://leetcode.com/problems/flip-game-ii/
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
+4   0306    https://leetcode.com/problems/additive-number/
+4   0854    https://leetcode.com/problems/k-similar-strings/
+
+5   0282    https://leetcode.com/problems/expression-add-operators/
+5   0291    https://leetcode.com/problems/word-pattern-ii/
+
+6   0488    https://leetcode.com/problems/zuma-game/
+6   0679    https://leetcode.com/problems/24-game/

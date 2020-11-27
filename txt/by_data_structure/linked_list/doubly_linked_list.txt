@@ -1,0 +1,28 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/linked-list/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Linked List
+# Doubly Linked List
+
+2   0707    https://leetcode.com/problems/design-linked-list/
+
+3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+3   0716    https://leetcode.com/problems/max-stack/
+3   1472    https://leetcode.com/problems/design-browser-history/
+3   1586    https://leetcode.com/problems/binary-search-tree-iterator-ii/
+
+4   0146    https://leetcode.com/problems/lru-cache/
+
+6   0460    https://leetcode.com/problems/lfu-cache/
+
+
+
+3   find unique number in a data stream 
+https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream
+
+
+Resources:
+    https://leetcode.com/articles/max-stack/

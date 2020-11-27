@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Substring
+# Bucket Sort
+
+3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/

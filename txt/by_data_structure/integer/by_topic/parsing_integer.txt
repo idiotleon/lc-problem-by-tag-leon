@@ -1,0 +1,16 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Parsing Integer
+
+1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+2   0171    https://leetcode.com/problems/excel-sheet-column-number/
+2   0504    https://leetcode.com/problems/base-7/
+
+3   0050    https://leetcode.com/problems/powx-n/
+3   0069    https://leetcode.com/problems/sqrtx/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/

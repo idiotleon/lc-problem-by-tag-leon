@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Game
+## Card Game
+
+2   0822    https://leetcode.com/problems/card-flipping-game/
+
+4   0837    https://leetcode.com/problems/new-21-game/
+
+6   0679    https://leetcode.com/problems/24-game/

@@ -1,0 +1,76 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+# Prefix Sums
+
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   0437    https://leetcode.com/problems/path-sum-iii/
+3   0454    https://leetcode.com/problems/4sum-ii/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0525    https://leetcode.com/problems/contiguous-array/
+3   0548    https://leetcode.com/problems/split-array-with-equal-sum/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
+3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
+3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
+3   1171    https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
+3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
+
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   1124    https://leetcode.com/problems/longest-well-performing-interval/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1622    https://leetcode.com/problems/fancy-sequence/
+
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+
+
+# how many
+
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+
+
+
+# shortest / longest
+
+
+
+
+# Prefix Products
+
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
+
+
+
+Resource:
+    about why `count += prefixSums.get(sum - k)`
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/535507/Explanation-to-why-map.get(sum-k)-is-done-than-count%2B%2B
+
+    store previous sum and the times of this sum, because sum[i, j] = sum[0, j] - sum[0, i - 1], this is a very very important idea
+    https://leetcode.com/problems/binary-subarrays-with-sum/discuss/187005/3-ways-to-solve-this-kind-of-problem.
+
+    about preSum.put(0, 1);
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-+-HashMap/416171
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/102106/Java-Solution-PreSum-+-HashMap/238328

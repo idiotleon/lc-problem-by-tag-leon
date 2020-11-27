@@ -1,0 +1,38 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## Knapsack
+# 0/1 Knapsack
+
+3   0322    https://leetcode.com/problems/coin-change/
+3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0494    https://leetcode.com/problems/target-sum/
+3   0518    https://leetcode.com/problems/coin-change-2/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0879    https://leetcode.com/problems/profitable-schemes/
+4   0956    https://leetcode.com/problems/tallest-billboard/
+4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
+4   1049    https://leetcode.com/problems/last-stone-weight-ii/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+
+
+Resources:
+    https://www.kancloud.cn/kancloud/pack/70124
+    https://www.youtube.com/watch?v=8LusJS5-AGo
+    https://www.youtube.com/watch?v=CO0r6kcwHUU
+    https://www.youtube.com/watch?v=nLmhmB6NzcM

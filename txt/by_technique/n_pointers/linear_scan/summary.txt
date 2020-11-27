@@ -1,0 +1,130 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### N Pointers
+# Linear Scan / 1 Pointer
+
+1   0058    https://leetcode.com/problems/length-of-last-word/
+1   0088    https://leetcode.com/problems/merge-sorted-array/
+1   0189    https://leetcode.com/problems/rotate-array/
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
+1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
+1   0506    https://leetcode.com/problems/relative-ranks/
+1   0682    https://leetcode.com/problems/baseball-game/
+1   0709    https://leetcode.com/problems/to-lower-case/
+1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+1   0804    https://leetcode.com/problems/unique-morse-code-words/
+1   1108    https://leetcode.com/problems/defanging-an-ip-address/
+1   1165    https://leetcode.com/problems/single-row-keyboard/
+1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
+1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
+1   1417    https://leetcode.com/problems/reformat-the-string/
+1   1446    https://leetcode.com/problems/consecutive-characters/
+1   1598    https://leetcode.com/problems/crawler-log-folder/
+
+2   0002    https://leetcode.com/problems/add-two-numbers/
+2   0038    https://leetcode.com/problems/count-and-say/
+2   0136    https://leetcode.com/problems/single-number/
+2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
+2   0165    https://leetcode.com/problems/compare-version-numbers/
+2   0171    https://leetcode.com/problems/excel-sheet-column-number/
+2   0203    https://leetcode.com/problems/remove-linked-list-elements/
+2   0205    https://leetcode.com/problems/isomorphic-strings/
+2   0243    https://leetcode.com/problems/shortest-word-distance/
+2   0251    https://leetcode.com/problems/flatten-2d-vector/
+2   0290    https://leetcode.com/problems/word-pattern/
+2   0299    https://leetcode.com/problems/bulls-and-cows/
+2   0328    https://leetcode.com/problems/odd-even-linked-list/
+2   0409    https://leetcode.com/problems/longest-palindrome/
+2   0414    https://leetcode.com/problems/third-maximum-number/
+2   0463    https://leetcode.com/problems/island-perimeter/
+2   0485    https://leetcode.com/problems/max-consecutive-ones/
+2   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
+2   0551    https://leetcode.com/problems/student-attendance-record-i/
+2   0605    https://leetcode.com/problems/can-place-flowers/
+2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
+2   0724    https://leetcode.com/problems/find-pivot-index/
+2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
+2   0811    https://leetcode.com/problems/subdomain-visit-count/
+2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   0859    https://leetcode.com/problems/buddy-strings/
+2   0929    https://leetcode.com/problems/unique-email-addresses/
+2   0941    https://leetcode.com/problems/valid-mountain-array/
+2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
+2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
+2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
+2   1002    https://leetcode.com/problems/find-common-characters/
+2   1078    https://leetcode.com/problems/occurrences-after-bigram/
+2   1103    https://leetcode.com/problems/distribute-candies-to-people/
+2   1184    https://leetcode.com/problems/distance-between-bus-stops/
+2   1217    https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
+2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
+2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
+2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+3   0080    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+3   0086    https://leetcode.com/problems/partition-list/
+3   0092    https://leetcode.com/problems/reverse-linked-list-ii/
+3   0141    https://leetcode.com/problems/linked-list-cycle/
+3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0238    https://leetcode.com/problems/product-of-array-except-self/
+3   0281    https://leetcode.com/problems/zigzag-iterator/
+3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0444    https://leetcode.com/problems/sequence-reconstruction/
+3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+3   0541    https://leetcode.com/problems/reverse-string-ii/
+3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
+3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
+3   0722    https://leetcode.com/problems/remove-comments/
+3   0723    https://leetcode.com/problems/candy-crush/
+3   0739    https://leetcode.com/problems/daily-temperatures/
+3   0748    https://leetcode.com/problems/shortest-completing-word/
+3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
+3   0835    https://leetcode.com/problems/image-overlap/
+3   0838    https://leetcode.com/problems/push-dominoes/
+3   0840    https://leetcode.com/problems/magic-squares-in-grid/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
+3   0900    https://leetcode.com/problems/rle-iterator/
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
+3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+
+4   0041    https://leetcode.com/problems/first-missing-positive/
+4   0057    https://leetcode.com/problems/insert-interval/
+4   0065    https://leetcode.com/problems/valid-number/
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/
+4   0158    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
+4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0809    https://leetcode.com/problems/expressive-words/
+4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
+
+5   0224    https://leetcode.com/problems/basic-calculator/
+
+
+
+#### N Pointers
+### Linear Scan
+## Technique
+# Last Indexes/Occurences of
+
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/

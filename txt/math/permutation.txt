@@ -1,0 +1,19 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Permutation
+
+3   0046    https://leetcode.com/problems/permutations/
+3   0047    https://leetcode.com/problems/permutations-ii/
+3   0060    https://leetcode.com/problems/permutation-sequence/
+3   0670    https://leetcode.com/problems/maximum-swap/
+3   1053    https://leetcode.com/problems/previous-permutation-with-one-swap/
+3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+
+4   0031    https://leetcode.com/problems/next-permutation/
+4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/

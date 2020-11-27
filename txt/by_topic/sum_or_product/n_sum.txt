@@ -1,0 +1,19 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## N Sum
+
+2   0001    https://leetcode.com/problems/two-sum/
+2   1099    https://leetcode.com/problems/two-sum-less-than-k/
+
+3   0015    https://leetcode.com/problems/3sum/
+3   0016    https://leetcode.com/problems/3sum-closest/
+3   0259    https://leetcode.com/problems/3sum-smaller/
+3   0454    https://leetcode.com/problems/4sum-ii/
+3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   1010    https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+
+4   0018    https://leetcode.com/problems/4sum/

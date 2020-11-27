@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/stack/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Stack
+# As an ArrayList
+
+3   0962    https://leetcode.com/problems/maximum-width-ramp/

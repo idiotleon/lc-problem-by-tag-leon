@@ -1,0 +1,13 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Binary Search
+
+2   0392    https://leetcode.com/problems/is-subsequence/
+
+4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
+
+5   1044    https://leetcode.com/problems/longest-duplicate-substring/

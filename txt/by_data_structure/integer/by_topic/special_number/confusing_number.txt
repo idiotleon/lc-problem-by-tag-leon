@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+## Confusing Number
+
+1   1056    https://leetcode.com/problems/confusing-number/
+
+5   1088    https://leetcode.com/problems/confusing-number-ii/

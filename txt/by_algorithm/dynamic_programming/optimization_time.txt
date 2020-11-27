@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+# optimization - time complexity
+
+3   0322    https://leetcode.com/problems/coin-change/
+
+4   1425    https://leetcode.com/problems/constrained-subsequence-sum/

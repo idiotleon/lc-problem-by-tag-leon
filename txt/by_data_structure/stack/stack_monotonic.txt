@@ -1,0 +1,93 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/stack/
+    https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Stack:
+# Monotonic Stack:
+
+2   0385    https://leetcode.com/problems/mini-parser/
+2   0496    https://leetcode.com/problems/next-greater-element-i/
+
+3   0255    https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0503    https://leetcode.com/problems/next-greater-element-ii/
+3   0739    https://leetcode.com/problems/daily-temperatures/
+3   0901    https://leetcode.com/problems/online-stock-span/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
+
+4   0042    https://leetcode.com/problems/trapping-rain-water/
+4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
+4   0316    https://leetcode.com/problems/remove-duplicate-letters/
+4   0456    https://leetcode.com/problems/132-pattern/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   1081    https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   1340    https://leetcode.com/problems/jump-game-v/
+
+5   0085    https://leetcode.com/problems/maximal-rectangle/
+
+
+
+# Strickly increasing
+    to pop out s >= e
+    to find the first element smaller than the current element,
+        either in the left, from pushing in,
+        or in the right, from popping out
+
+2   0496    https://leetcode.com/problems/next-greater-element-i/
+
+4   0316    https://leetcode.com/problems/remove-duplicate-letters/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+
+
+
+
+# Non-decreasing
+    to pop out s > e
+
+4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+
+5   0085    https://leetcode.com/problems/maximal-rectangle/
+
+
+
+
+# Strickly decreasing:
+    to pop out s <= e
+    to find the first element larger than the current element,
+        either in the left, from pushing in,
+        or in the right, from popping out
+
+2   0496    https://leetcode.com/problems/next-greater-element-i/
+
+3   0901    https://leetcode.com/problems/online-stock-span/
+3   0962    https://leetcode.com/problems/maximum-width-ramp/
+
+4   0456    https://leetcode.com/problems/132-pattern/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+
+
+
+
+# Non-increasing
+    to pop out s < e
+3   0402    https://leetcode.com/problems/remove-k-digits/
+3   0503    https://leetcode.com/problems/next-greater-element-ii/
+3   0739    https://leetcode.com/problems/daily-temperatures/
+
+
+
+
+Good resources:
+    https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step
+    https://leetcode.com/problems/sum-of-subarray-minimums/discuss/170750/C++JavaPython-Stack-Solution/337512
+    https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6

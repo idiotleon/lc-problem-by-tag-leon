@@ -1,0 +1,41 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+## by data structure
+# Leaf
+
+1   0872    https://leetcode.com/problems/leaf-similar-trees/
+
+2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
+2   0404    https://leetcode.com/problems/sum-of-left-leaves/
+2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/
+2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
+2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
+
+3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0865    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+3   1080    https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
+3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+
+
+
+## Deepest Leaves
+
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+
+3   0865    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+
+
+
+To be extracted:
+https://leetcode.com/problemset/all/?search=leaves

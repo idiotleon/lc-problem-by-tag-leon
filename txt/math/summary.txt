@@ -1,0 +1,97 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Summary
+
+1   0258    https://leetcode.com/problems/add-digits/
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0202    https://leetcode.com/problems/happy-number/
+2   0292    https://leetcode.com/problems/nim-game/
+2   0398    https://leetcode.com/problems/random-pick-index/
+2   0405    https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+2   0441    https://leetcode.com/problems/arranging-coins/
+2   0463    https://leetcode.com/problems/island-perimeter/
+2   0605    https://leetcode.com/problems/can-place-flowers/
+2   0836    https://leetcode.com/problems/rectangle-overlap/
+2   1025    https://leetcode.com/problems/divisor-game/
+2   1037    https://leetcode.com/problems/valid-boomerang/
+2   1041    https://leetcode.com/problems/robot-bounded-in-circle/
+2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2   1103    https://leetcode.com/problems/distribute-candies-to-people/
+2   1217    https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
+2   1344    https://leetcode.com/problems/angle-between-hands-of-a-clock/
+2   1447    https://leetcode.com/problems/simplified-fractions/
+2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
+2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+
+3   0039    https://leetcode.com/problems/combination-sum/
+3   0040    https://leetcode.com/problems/combination-sum-ii/
+3   0046    https://leetcode.com/problems/permutations/
+3   0047    https://leetcode.com/problems/permutations-ii/
+3   0060    https://leetcode.com/problems/permutation-sequence/
+3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0223    https://leetcode.com/problems/rectangle-area/
+3   0279    https://leetcode.com/problems/perfect-squares/
+3   0319    https://leetcode.com/problems/bulb-switcher/
+3   0343    https://leetcode.com/problems/integer-break/
+3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+3   0360    https://leetcode.com/problems/sort-transformed-array/
+3   0365    https://leetcode.com/problems/water-and-jug-problem/
+3   0400    https://leetcode.com/problems/nth-digit/
+3   0470    https://leetcode.com/problems/implement-rand10-using-rand7/
+3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+3   0519    https://leetcode.com/problems/random-flip-matrix/
+3   0593    https://leetcode.com/problems/valid-square/
+3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0670    https://leetcode.com/problems/maximum-swap/
+3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
+3   0858    https://leetcode.com/problems/mirror-reflection/
+3   0812    https://leetcode.com/problems/largest-triangle-area/
+3   0914    https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+3   0939    https://leetcode.com/problems/minimum-area-rectangle/3   
+3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
+3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
+3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/
+3   1033    https://leetcode.com/problems/moving-stones-until-consecutive/
+3   1053    https://leetcode.com/problems/previous-permutation-with-one-swap/
+3   1131    https://leetcode.com/problems/maximum-of-absolute-value-expression/
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+3   1247    https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+3   1286    https://leetcode.com/problems/iterator-for-combination/
+3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+
+4   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
+4   0031    https://leetcode.com/problems/next-permutation/
+4   0296    https://leetcode.com/problems/best-meeting-point/
+4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+4   0478    https://leetcode.com/problems/generate-random-point-in-a-circle/
+4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   0621    https://leetcode.com/problems/task-scheduler/
+4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
+4   0788    https://leetcode.com/problems/rotated-digits/
+4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+4   1040    https://leetcode.com/problems/moving-stones-until-consecutive-ii/
+4   1093    https://leetcode.com/problems/statistics-from-a-large-sample/
+4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+4   1250    https://leetcode.com/problems/check-if-it-is-a-good-array/
+4   1259    https://leetcode.com/problems/handshakes-that-dont-cross/
+4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
+4   1411    https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
+4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+4   1610    https://leetcode.com/problems/maximum-number-of-visible-points/
+
+5   0149    https://leetcode.com/problems/max-points-on-a-line/
+5   0335    https://leetcode.com/problems/self-crossing/
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   0808    https://leetcode.com/problems/soup-servings/
+5   0850    https://leetcode.com/problems/rectangle-area-ii/
+5   1622    https://leetcode.com/problems/fancy-sequence/
+
+6   0391    https://leetcode.com/problems/perfect-rectangle/
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Prefix Sums
+
+3   1171    https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/

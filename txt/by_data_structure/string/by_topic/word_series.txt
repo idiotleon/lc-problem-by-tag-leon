@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## By Topic
+# Word Series
+
+2   0290    https://leetcode.com/problems/word-pattern/
+
+4   0079    https://leetcode.com/problems/word-search/
+4   0126    https://leetcode.com/problems/word-ladder-ii/
+4   0127    https://leetcode.com/problems/word-ladder/
+4   0139    https://leetcode.com/problems/word-break/
+
+5   0140    https://leetcode.com/problems/word-break/
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0291    https://leetcode.com/problems/word-pattern-ii/

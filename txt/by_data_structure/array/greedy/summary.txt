@@ -1,0 +1,66 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Greedy
+
+1   0830    https://leetcode.com/problems/positions-of-large-groups/
+
+2   0485    https://leetcode.com/problems/max-consecutive-ones/
+2   0495    https://leetcode.com/problems/teemo-attacking/
+2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   0896    https://leetcode.com/problems/monotonic-array/
+2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
+
+3   0055    https://leetcode.com/problems/jump-game/
+3   0134    https://leetcode.com/problems/gas-station/
+3   0376    https://leetcode.com/problems/wiggle-subsequence/
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
+3   0435    https://leetcode.com/problems/non-overlapping-intervals/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+3   0665    https://leetcode.com/problems/non-decreasing-array/
+3   0758    https://leetcode.com/problems/bold-words-in-string/
+3   0775    https://leetcode.com/problems/global-and-local-inversions/
+3   0846    https://leetcode.com/problems/hand-of-straights/
+3   0853    https://leetcode.com/problems/car-fleet/
+3   0948    https://leetcode.com/problems/bag-of-tokens/
+3   0950    https://leetcode.com/problems/reveal-cards-in-increasing-order/
+3   0955    https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
+3   0957    https://leetcode.com/problems/prison-cells-after-n-days/
+3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
+3   1057    https://leetcode.com/problems/campus-bikes/
+3   1229    https://leetcode.com/problems/meeting-scheduler/
+3   1272    https://leetcode.com/problems/remove-interval/
+3   1288    https://leetcode.com/problems/remove-covered-intervals/
+3   1296    https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1535    https://leetcode.com/problems/find-the-winner-of-an-array-game/
+3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
+3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
+
+4   0057    https://leetcode.com/problems/insert-interval/
+4   0135    https://leetcode.com/problems/candy/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0616    https://leetcode.com/problems/add-bold-tag-in-string/
+4   0630    https://leetcode.com/problems/course-schedule-iii/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0954    https://leetcode.com/problems/array-of-doubled-pairs/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1024    https://leetcode.com/problems/video-stitching/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+
+5   0850    https://leetcode.com/problems/rectangle-area-ii/
+
+6   0391    https://leetcode.com/problems/perfect-rectangle/

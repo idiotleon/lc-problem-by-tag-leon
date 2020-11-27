@@ -1,0 +1,53 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/linked-list/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Summary
+
+1   0682    https://leetcode.com/problems/baseball-game/
+1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+
+2   0002    https://leetcode.com/problems/add-two-numbers/
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0203    https://leetcode.com/problems/remove-linked-list-elements/
+2   0328    https://leetcode.com/problems/odd-even-linked-list/
+2   0369    https://leetcode.com/problems/plus-one-linked-list/
+2   0707    https://leetcode.com/problems/design-linked-list/
+2   0817    https://leetcode.com/problems/linked-list-components/
+2   1474    https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/
+
+3   0056    https://leetcode.com/problems/merge-intervals/
+3   0061    https://leetcode.com/problems/rotate-list/
+3   0086    https://leetcode.com/problems/partition-list/
+3   0092    https://leetcode.com/problems/reverse-linked-list-ii/
+3   0109    https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+3   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+3   0141    https://leetcode.com/problems/linked-list-cycle/
+3   0147    https://leetcode.com/problems/insertion-sort-list/
+3   0234    https://leetcode.com/problems/palindrome-linked-list/
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+3   0445    https://leetcode.com/problems/add-two-numbers-ii/
+3   0491    https://leetcode.com/problems/increasing-subsequences/
+3   0708    https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
+3   0716    https://leetcode.com/problems/max-stack/
+3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
+3   1171    https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
+3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
+3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
+3   1472    https://leetcode.com/problems/design-browser-history/
+
+4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
+4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/
+4   0146    https://leetcode.com/problems/lru-cache/
+4   0148    https://leetcode.com/problems/sort-list/
+4   0735    https://leetcode.com/problems/asteroid-collision/
+
+6   0460    https://leetcode.com/problems/lfu-cache/
+
+
+3   find unique number in a data stream 
+https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream

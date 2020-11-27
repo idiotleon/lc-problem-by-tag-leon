@@ -1,0 +1,34 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Geometry
+
+2   0463    https://leetcode.com/problems/island-perimeter/
+2   0836    https://leetcode.com/problems/rectangle-overlap/
+2   1037    https://leetcode.com/problems/valid-boomerang/
+2   1041    https://leetcode.com/problems/robot-bounded-in-circle/
+
+3   0223    https://leetcode.com/problems/rectangle-area/
+3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+3   0593    https://leetcode.com/problems/valid-square/
+3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
+3   0812    https://leetcode.com/problems/largest-triangle-area/
+3   0858    https://leetcode.com/problems/mirror-reflection/
+3   0939    https://leetcode.com/problems/minimum-area-rectangle/
+
+4   0296    https://leetcode.com/problems/best-meeting-point/
+4   0478    https://leetcode.com/problems/generate-random-point-in-a-circle/
+4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+4   1610    https://leetcode.com/problems/maximum-number-of-visible-points/
+
+5   0149    https://leetcode.com/problems/max-points-on-a-line/
+
+
+Resouces:
+    https://www.mathopenref.com/coordtrianglearea.html

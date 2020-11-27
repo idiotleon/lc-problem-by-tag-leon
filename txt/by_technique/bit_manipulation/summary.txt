@@ -1,0 +1,80 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/bit-manipulation/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Bit Manipulation
+# Summary
+
+1   0067    https://leetcode.com/problems/add-binary/
+1   0389    https://leetcode.com/problems/find-the-difference/
+1   1009    https://leetcode.com/problems/complement-of-base-10-integer/
+1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+
+2   0078    https://leetcode.com/problems/subsets/
+2   0136    https://leetcode.com/problems/single-number/
+2   0231    https://leetcode.com/problems/power-of-two/
+2   0405    https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+2   0461    https://leetcode.com/problems/hamming-distance/
+2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
+2   0896    https://leetcode.com/problems/monotonic-array/
+2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+
+3   0029    https://leetcode.com/problems/divide-two-integers/
+3   0050    https://leetcode.com/problems/powx-n/
+3   0137    https://leetcode.com/problems/single-number-ii/
+3   0169    https://leetcode.com/problems/majority-element/
+3   0260    https://leetcode.com/problems/single-number-iii/
+3   0289    https://leetcode.com/problems/game-of-life/
+3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0393    https://leetcode.com/problems/utf-8-validation/
+3   0397    https://leetcode.com/problems/integer-replacement/
+3   0477    https://leetcode.com/problems/total-hamming-distance/
+3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
+3   1275    https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
+3   1286    https://leetcode.com/problems/iterator-for-combination/
+3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+
+4   0051    https://leetcode.com/problems/n-queens/
+4   0052    https://leetcode.com/problems/n-queens-ii/
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0481    https://leetcode.com/problems/magical-string/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+5   0327    https://leetcode.com/problems/count-of-range-sum/
+5   0493    https://leetcode.com/problems/reverse-pairs/
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+
+
+
+Resources:
+    https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+    http://graphics.stanford.edu/~seander/bithacks.html
+    https://leetcode.com/problems/sum-of-two-integers/discuss/132479/Simple-explanation-on-how-to-arrive-at-the-solution
+    https://leetcode.com/problems/total-hamming-distance/discuss/96243/Share-my-O(n)-C++-bitwise-solution-with-thinking-process-and-explanation
+    https://leetcode.com/problems/maximum-students-taking-exam/discuss/503686/A-simple-tutorial-on-this-bitmasking-problem
+    https://docs.google.com/presentation/d/1_1mhjlmIwTHKV_rRpCo3YLI3Kc3FU8i4dbqhqghK6s8/edit#slide=id.ga4b64814d9_1_51

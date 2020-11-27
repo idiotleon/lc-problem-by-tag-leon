@@ -1,0 +1,27 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### Array
+### By Topic
+## Game
+# Summary
+
+3   0055    https://leetcode.com/problems/jump-game/
+3   0877    https://leetcode.com/problems/stone-game/#:~:text=Stone%20Game%20%2D%20LeetCode&text=Alex%20and%20Lee%20play%20a,end%20with%20the%20most%20stones.
+3   1140    https://leetcode.com/problems/stone-game-ii/
+3   1306    https://leetcode.com/problems/jump-game-iii/
+
+4   0045    https://leetcode.com/problems/jump-game-ii/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
+4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1340    https://leetcode.com/problems/jump-game-v/
+4   1345    https://leetcode.com/problems/jump-game-iv/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+4   1563    https://leetcode.com/problems/stone-game-v/
+
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+

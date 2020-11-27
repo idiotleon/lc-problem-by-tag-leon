@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Union Find
+
+3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+
+4   1202    https://leetcode.com/problems/smallest-string-with-swaps/

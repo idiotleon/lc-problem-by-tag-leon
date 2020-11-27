@@ -1,0 +1,24 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/binary-search/
+
+
+### Binary Search
+# Array - 2 Dimensional
+
+2   0074    https://leetcode.com/problems/search-a-2d-matrix/
+
+3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0436    https://leetcode.com/problems/find-right-interval/
+
+4   0174    https://leetcode.com/problems/dungeon-game/
+4   0354    https://leetcode.com/problems/russian-doll-envelopes/
+4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/

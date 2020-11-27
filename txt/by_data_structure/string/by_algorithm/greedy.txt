@@ -1,0 +1,21 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Greedy
+
+2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
+2   0984    https://leetcode.com/problems/string-without-aaa-or-bbb/
+
+3   0758    https://leetcode.com/problems/bold-words-in-string/
+3   0763    https://leetcode.com/problems/partition-labels/description/
+3   1405    https://leetcode.com/problems/longest-happy-string/
+3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+
+4   0358    https://leetcode.com/problems/rearrange-string-k-distance-apart/
+4   0616    https://leetcode.com/problems/add-bold-tag-in-string/
+4   0936    https://leetcode.com/problems/stamping-the-sequence/
+
+5   1520    https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/

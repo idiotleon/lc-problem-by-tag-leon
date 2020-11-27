@@ -1,0 +1,110 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Dimensions
+# 2 Dimensional
+
+2   0063    https://leetcode.com/problems/unique-paths-ii/
+2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0198    https://leetcode.com/problems/house-robber/
+2   1029    https://leetcode.com/problems/two-city-scheduling/
+
+3   0005    https://leetcode.com/problems/longest-palindromic-substring/
+3   0062    https://leetcode.com/problems/unique-paths/
+3   0119    https://leetcode.com/problems/pascals-triangle-ii/
+3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0322    https://leetcode.com/problems/coin-change/
+3   0376    https://leetcode.com/problems/wiggle-subsequence/
+3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
+3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
+3   0647    https://leetcode.com/problems/palindromic-substrings/
+3   0666    https://leetcode.com/problems/path-sum-iv/
+3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   0764    https://leetcode.com/problems/largest-plus-sign/
+3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
+3   1143    https://leetcode.com/problems/longest-common-subsequence/
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+3   1139    https://leetcode.com/problems/largest-1-bordered-square/
+3   1277    https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+
+4   0072    https://leetcode.com/problems/edit-distance/
+4   0097    https://leetcode.com/problems/interleaving-string/
+4   0115    https://leetcode.com/problems/distinct-subsequences/
+4   0120    https://leetcode.com/problems/triangle/
+4   0132    https://leetcode.com/problems/palindrome-partitioning-ii/
+4   0174    https://leetcode.com/problems/dungeon-game/
+4   0221    https://leetcode.com/problems/maximal-square/
+4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0446    https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
+4   0664    https://leetcode.com/problems/strange-printer/
+4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0727    https://leetcode.com/problems/minimum-window-subsequence/
+4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
+4   0799    https://leetcode.com/problems/champagne-tower/
+4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0879    https://leetcode.com/problems/profitable-schemes/
+4   0887    https://leetcode.com/problems/super-egg-drop/
+4   0956    https://leetcode.com/problems/tallest-billboard/
+4   0975    https://leetcode.com/problems/odd-even-jump/
+4   1027    https://leetcode.com/problems/longest-arithmetic-sequence/
+4   1035    https://leetcode.com/problems/uncrossed-lines/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1092    https://leetcode.com/problems/shortest-common-supersequence/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   1246    https://leetcode.com/problems/palindrome-removal/
+4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
+4   1289    https://leetcode.com/problems/minimum-falling-path-sum-ii/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1246    https://leetcode.com/problems/palindrome-removal/
+4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   1463    https://leetcode.com/problems/cherry-pickup-ii/
+4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
+4   1563    https://leetcode.com/problems/stone-game-v/
+4   1575    https://leetcode.com/problems/count-all-possible-routes/
+
+5   0010    https://leetcode.com/problems/regular-expression-matching/
+5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+5   0354    https://leetcode.com/problems/russian-doll-envelopes/
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+5   0568    https://leetcode.com/problems/maximum-vacation-days/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+
+6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+
+
+Resources:
+    https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/tutorial/

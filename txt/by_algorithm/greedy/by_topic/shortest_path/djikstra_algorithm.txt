@@ -1,0 +1,30 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode_Graph_III_Shortest_Path.docx
+
+    
+### Shortest Path
+# Dijkstra's Algorithm
+
+3   0743    https://leetcode.com/problems/network-delay-time/
+3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+3   1514    https://leetcode.com/problems/path-with-maximum-probability/
+
+4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
+
+5   0499    https://leetcode.com/problems/the-maze-iii/
+
+
+# Very alike
+
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+
+
+Resources:
+    https://leetcode.com/problems/path-with-maximum-probability/discuss/731767/JavaPython-3-2-codes%3A-Bellman-Ford-and-Dijkstra's-algorithm-w-brief-explanation-and-analysis.

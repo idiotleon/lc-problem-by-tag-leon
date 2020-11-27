@@ -1,0 +1,63 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Bit Manipulation
+# Bit Masking
+
+1   1009    https://leetcode.com/problems/complement-of-base-10-integer/
+
+2   0078    https://leetcode.com/problems/subsets/
+
+3   0289    https://leetcode.com/problems/game-of-life/
+3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0355    https://leetcode.com/problems/lonely-pixel-ii/
+3   1275    https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
+3   1286    https://leetcode.com/problems/iterator-for-combination/
+3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+
+4   0051    https://leetcode.com/problems/n-queens/
+4   0052    https://leetcode.com/problems/n-queens-ii/
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0464    https://leetcode.com/problems/can-i-win/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+
+
+
+Resources:
+    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/discuss/335668/DP-with-Bit-Masking-Solution-%3A-Best-for-Interviews
+    https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
+    http://codeforces.com/blog/entry/337
+    https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/
+    https://leetcode.com/problems/maximum-students-taking-exam/discuss/503686/A-simple-tutorial-on-this-bitmasking-problem
+
+
+
+## State Reducing
+
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+
+
+
+
+# Resources
+    http://codeforces.com/blog/entry/337
+    https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
+    https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/

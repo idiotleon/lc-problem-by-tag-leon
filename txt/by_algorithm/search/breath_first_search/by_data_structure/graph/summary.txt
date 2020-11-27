@@ -1,0 +1,44 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Breadth First Search
+## Graph
+# Summary
+
+2   0207    https://leetcode.com/problems/course-schedule/
+2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+
+3   0133    https://leetcode.com/problems/clone-graph/
+3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0323    https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+3   0582    https://leetcode.com/problems/kill-process/
+3   0785    https://leetcode.com/problems/is-graph-bipartite/
+3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
+3   0841    https://leetcode.com/problems/keys-and-rooms/
+3   0886    https://leetcode.com/problems/possible-bipartition/
+3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
+3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1245    https://leetcode.com/problems/tree-diameter/
+3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
+3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+
+4   0721    https://leetcode.com/problems/accounts-merge/
+4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0815    https://leetcode.com/problems/bus-routes/
+4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+4   0399    https://leetcode.com/problems/evaluate-division/
+4   0924    https://leetcode.com/problems/minimize-malware-spread/
+4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
+
+5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

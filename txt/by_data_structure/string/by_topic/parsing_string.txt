@@ -1,0 +1,73 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## By Topic
+# String - Parsing:
+
+1   0067    https://leetcode.com/problems/add-binary/
+1   0258    https://leetcode.com/problems/add-digits/
+1   0415    https://leetcode.com/problems/add-strings/
+1   0520    https://leetcode.com/problems/detect-capital/
+1   0804    https://leetcode.com/problems/unique-morse-code-words/
+
+2   0038    https://leetcode.com/problems/count-and-say/
+2   0165    https://leetcode.com/problems/compare-version-numbers/
+2   0168    https://leetcode.com/problems/excel-sheet-column-title/
+2   0171    https://leetcode.com/problems/excel-sheet-column-number/
+2   0385    https://leetcode.com/problems/mini-parser/
+2   0408    https://leetcode.com/problems/valid-word-abbreviation/
+2   0443    https://leetcode.com/problems/string-compression/
+2   0504    https://leetcode.com/problems/base-7/
+2   0544    https://leetcode.com/problems/output-contest-matches/
+2   0800    https://leetcode.com/problems/similar-rgb-color/
+2   0824    https://leetcode.com/problems/goat-latin/
+2   0929    https://leetcode.com/problems/unique-email-addresses/
+2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
+2   1078    https://leetcode.com/problems/occurrences-after-bigram/
+2   1410    https://leetcode.com/problems/html-entity-parser/
+2   1592    https://leetcode.com/problems/rearrange-spaces-between-words/
+
+3   0029    https://leetcode.com/problems/divide-two-integers/
+3   0071    https://leetcode.com/problems/simplify-path/
+3   0091    https://leetcode.com/problems/decode-ways/
+3   0093    https://leetcode.com/problems/restore-ip-addresses/
+3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
+3   0163    https://leetcode.com/problems/missing-ranges/
+3   0228    https://leetcode.com/problems/summary-ranges/
+3   0271    https://leetcode.com/problems/encode-and-decode-strings/
+3   0388    https://leetcode.com/problems/longest-absolute-file-path/
+3   0394    https://leetcode.com/problems/decode-string/
+3   0439    https://leetcode.com/problems/ternary-expression-parser/
+3   0468    https://leetcode.com/problems/validate-ip-address/
+3   0609    https://leetcode.com/problems/find-duplicate-file-in-system/
+3   0640    https://leetcode.com/problems/solve-the-equation/
+3   0681    https://leetcode.com/problems/next-closest-time/
+3   0722    https://leetcode.com/problems/remove-comments/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
+3   1087    https://leetcode.com/problems/brace-expansion/
+3   1360    https://leetcode.com/problems/number-of-days-between-two-dates/
+3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+
+4   0043    https://leetcode.com/problems/multiply-strings/
+4   0065    https://leetcode.com/problems/valid-number/
+4   0227    https://leetcode.com/problems/basic-calculator-ii/
+4   0616    https://leetcode.com/problems/add-bold-tag-in-string/
+4   0726    https://leetcode.com/problems/number-of-atoms/
+4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
+
+5   0224    https://leetcode.com/problems/basic-calculator/
+5   0282    https://leetcode.com/problems/expression-add-operators/
+5   0273    https://leetcode.com/problems/integer-to-english-words/
+5   0772    https://leetcode.com/problems/basic-calculator-iii/
+
+6   0420    https://leetcode.com/problems/strong-password-checker/
+
+
+# Encode&Decode
+
+3   0271    https://leetcode.com/problems/encode-and-decode-strings/

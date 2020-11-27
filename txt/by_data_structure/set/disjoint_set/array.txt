@@ -1,0 +1,17 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/union-find/
+
+
+
+### Union Find
+# Array
+
+3   0737    https://leetcode.com/problems/sentence-similarity-ii/
+
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0765    https://leetcode.com/problems/couples-holding-hands/
+5   0827    https://leetcode.com/problems/making-a-large-island/
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/

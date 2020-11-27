@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Bit Manipulation
+
+1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+2   0136    https://leetcode.com/problems/single-number/
+
+3   0050    https://leetcode.com/problems/powx-n/
+3   0477    https://leetcode.com/problems/total-hamming-distance/

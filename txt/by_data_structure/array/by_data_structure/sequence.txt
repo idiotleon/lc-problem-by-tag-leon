@@ -1,0 +1,15 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Data Structure
+# Sequence
+
+3   1138    https://leetcode.com/problems/alphabet-board-path/
+
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+5   1622    https://leetcode.com/problems/fancy-sequence/

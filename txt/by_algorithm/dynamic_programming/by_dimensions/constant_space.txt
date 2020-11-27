@@ -1,0 +1,36 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Dimensions
+# Constant Space
+
+1   1137    https://leetcode.com/problems/n-th-tribonacci-number/
+
+2   0122    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+2   0198    https://leetcode.com/problems/house-robber/
+2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+
+3   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0213    https://leetcode.com/problems/house-robber-ii/
+3   0256    https://leetcode.com/problems/paint-house/
+3   0276    https://leetcode.com/problems/paint-fence/
+3   0376    https://leetcode.com/problems/wiggle-subsequence/
+3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
+3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
+3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+
+4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+4   0639    https://leetcode.com/problems/decode-ways-ii/
+4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+
+5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/

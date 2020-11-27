@@ -1,0 +1,30 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Ancestor
+
+2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+3   1257    https://leetcode.com/problems/smallest-common-region/
+3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
+3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+
+4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+
+5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+
+
+
+### Ancestor
+## Lowest Common Ancestor
+
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+3   1257    https://leetcode.com/problems/smallest-common-region/
+

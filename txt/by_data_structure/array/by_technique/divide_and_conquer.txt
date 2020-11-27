@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Technique
+
+2   0053    https://leetcode.com/problems/maximum-subarray/
+
+4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/

@@ -1,0 +1,26 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Technique
+# an array as the FREQuencieS map
+
+1   0389    https://leetcode.com/problems/find-the-difference/
+
+2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   0299    https://leetcode.com/problems/bulls-and-cows/
+2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+2   1002    https://leetcode.com/problems/find-common-characters/
+2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+
+3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
+3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
+3   0748    https://leetcode.com/problems/shortest-completing-word/
+3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/

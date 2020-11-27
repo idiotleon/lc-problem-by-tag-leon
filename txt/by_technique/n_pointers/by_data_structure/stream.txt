@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### N Pointers
+## By Data Structure
+# Stream
+
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/

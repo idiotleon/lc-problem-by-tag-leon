@@ -1,0 +1,69 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/queue/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Queue
+# Summary
+
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
+
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
+2   0414    https://leetcode.com/problems/third-maximum-number/
+2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
+2   0544    https://leetcode.com/problems/output-contest-matches/
+2   0692    https://leetcode.com/problems/top-k-frequent-words/
+2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+
+3   0071    https://leetcode.com/problems/simplify-path/
+3   0353    https://leetcode.com/problems/design-snake-game/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
+3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/
+3   0950    https://leetcode.com/problems/reveal-cards-in-increasing-order/
+3   1054    https://leetcode.com/problems/distant-barcodes/
+3   1229    https://leetcode.com/problems/meeting-scheduler/
+3   1405    https://leetcode.com/problems/longest-happy-string/
+3   1514    https://leetcode.com/problems/path-with-maximum-probability/
+
+4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
+4   0218    https://leetcode.com/problems/the-skyline-problem/
+4   0239    https://leetcode.com/problems/sliding-window-maximum/
+4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0313    https://leetcode.com/problems/super-ugly-number/
+4   0358    https://leetcode.com/problems/rearrange-string-k-distance-apart/
+4   0481    https://leetcode.com/problems/magical-string/
+4   0502    https://leetcode.com/problems/ipo/
+4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0621    https://leetcode.com/problems/task-scheduler/
+4   0630    https://leetcode.com/problems/course-schedule-iii/
+4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+4   0759    https://leetcode.com/problems/employee-free-time/
+4   0855    https://leetcode.com/problems/exam-room/
+4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1425    https://leetcode.com/problems/constrained-subsequence-sum/
+4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
+4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+
+5   0480    https://leetcode.com/problems/sliding-window-median/
+5   0499    https://leetcode.com/problems/the-maze-iii/
+5   0772    https://leetcode.com/problems/basic-calculator-iii/
+5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+5   0818    https://leetcode.com/problems/race-car/
+5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/

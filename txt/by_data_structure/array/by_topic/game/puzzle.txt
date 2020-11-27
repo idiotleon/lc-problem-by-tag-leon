@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### Array
+# Puzzle
+
+5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

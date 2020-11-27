@@ -1,0 +1,31 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/union-find/
+
+
+### Union Find
+# Array
+
+2   0945    https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+
+3   0547    https://leetcode.com/problems/friend-circles/
+3   0737    https://leetcode.com/problems/sentence-similarity-ii/
+3   0886    https://leetcode.com/problems/possible-bipartition/
+3   0934    https://leetcode.com/problems/shortest-bridge/
+3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   1020    https://leetcode.com/problems/number-of-enclaves/
+
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0765    https://leetcode.com/problems/couples-holding-hands/
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   0924    https://leetcode.com/problems/minimize-malware-spread/
+4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
+4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+4   0952    https://leetcode.com/problems/largest-component-size-by-common-factor/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+4   1361    https://leetcode.com/problems/validate-binary-tree-nodes/
+
+5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
+5   0827    https://leetcode.com/problems/making-a-large-island/

@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Binary Search
+
+2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+
+3   0069    https://leetcode.com/problems/sqrtx/
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+
+4   0887    https://leetcode.com/problems/super-egg-drop/

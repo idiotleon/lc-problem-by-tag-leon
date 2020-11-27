@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Tree
+## Binary Search Tree
+# Upper and Lower Bound
+
+3   0098    https://leetcode.com/problems/validate-binary-search-tree/
+3   0255    https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/

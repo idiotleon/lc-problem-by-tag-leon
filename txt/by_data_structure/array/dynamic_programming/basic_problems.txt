@@ -1,0 +1,18 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+# Basic Problems
+
+1   0062    https://leetcode.com/problems/unique-paths/
+
+2   0063    https://leetcode.com/problems/unique-paths-ii/
+2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0118    https://leetcode.com/problems/pascals-triangle/
+
+3   0119    https://leetcode.com/problems/pascals-triangle-ii/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+
+4   0120    https://leetcode.com/problems/triangle/

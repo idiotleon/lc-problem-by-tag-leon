@@ -1,0 +1,17 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Breadth First Search
+# Array - String
+
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0784    https://leetcode.com/problems/letter-case-permutation/
+
+3   1236    https://leetcode.com/problems/web-crawler/
+
+4   0839    https://leetcode.com/problems/similar-string-groups/
+4   1258    https://leetcode.com/problems/synonymous-sentences/
+
+5   0691    https://leetcode.com/problems/stickers-to-spell-word/
