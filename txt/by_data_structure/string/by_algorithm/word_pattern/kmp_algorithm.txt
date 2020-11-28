@@ -14,8 +14,8 @@ References:
 3   0686    https://leetcode.com/problems/repeated-string-match/
 3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
 
-_4  1062    https://leetcode.com/problems/longest-repeating-substring/
-4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+x4  1062    https://leetcode.com/problems/longest-repeating-substring/
+-4  1316    https://leetcode.com/problems/distinct-echo-substrings/
 
 5   0214    https://leetcode.com/problems/shortest-palindrome/
 
@@ -23,7 +23,8 @@ _4  1062    https://leetcode.com/problems/longest-repeating-substring/
 
 
 
-_, not recommended to apply KMP algorithm
+x, not recommended to apply KMP algorithm
+-, not optimized with KMP algorithm
 
 
 Resources:

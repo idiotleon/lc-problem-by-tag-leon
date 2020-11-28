@@ -10,12 +10,15 @@ References:
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 
 5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 
 
 
 ## Distinct
+
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 
 5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 
