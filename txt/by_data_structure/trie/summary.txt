@@ -14,6 +14,7 @@ References:
 3   0208    https://leetcode.com/problems/implement-trie-prefix-tree/
 3   0648    https://leetcode.com/problems/replace-words/
 3   1023    https://leetcode.com/problems/camelcase-matching/
+3   1062    https://leetcode.com/problems/longest-repeating-substring/
 3   1065    https://leetcode.com/problems/index-pairs-of-a-string/
 3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 
