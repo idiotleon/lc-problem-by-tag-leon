@@ -25,3 +25,4 @@ References:
 ### Resources
     https://youtu.be/e_bK-dgPvfM
     https://cp-algorithms.com/data_structures/segment_tree.html#toc-tgt-10
+    https://docs.google.com/presentation/d/1ai907zOZSflW9rMmEA9JdjwPwlozxuhPq_q55XO4NHA/edit#slide=id.p

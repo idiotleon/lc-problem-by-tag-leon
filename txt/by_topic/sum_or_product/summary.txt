@@ -27,6 +27,7 @@ References:
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 
