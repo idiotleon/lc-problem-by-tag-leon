@@ -24,7 +24,7 @@ x4  1062    https://leetcode.com/problems/longest-repeating-substring/
 
 
 x, not recommended to apply KMP algorithm
--, not optimized with KMP algorithm
+-, not optimized to apply KMP algorithm
 
 
 Resources:

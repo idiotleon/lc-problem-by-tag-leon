@@ -5,7 +5,7 @@ References:
     
 
 ### Stack
-# Recursion Simulation
+# Summary
 
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
