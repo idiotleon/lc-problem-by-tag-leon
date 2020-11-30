@@ -51,6 +51,7 @@ References:
 3   1209    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 3   1249    https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/

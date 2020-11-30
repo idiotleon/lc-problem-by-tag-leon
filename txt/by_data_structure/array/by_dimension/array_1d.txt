@@ -193,6 +193,7 @@ References:
 3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
+3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

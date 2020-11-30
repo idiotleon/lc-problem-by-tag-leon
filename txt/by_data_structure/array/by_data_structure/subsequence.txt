@@ -14,6 +14,7 @@ References:
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0312    https://leetcode.com/problems/burst-balloons/

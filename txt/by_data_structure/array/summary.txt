@@ -254,6 +254,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1626    https://leetcode.com/problems/best-team-with-no-conflicts/
 3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0041    https://leetcode.com/problems/first-missing-positive/
