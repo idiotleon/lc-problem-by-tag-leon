@@ -11,3 +11,4 @@ References:
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
+4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/

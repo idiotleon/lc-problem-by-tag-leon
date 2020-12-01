@@ -49,6 +49,7 @@ References:
 4   1246    https://leetcode.com/problems/palindrome-removal/
 4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 4   1340    https://leetcode.com/problems/jump-game-v/
 4   1510    https://leetcode.com/problems/stone-game-iv/

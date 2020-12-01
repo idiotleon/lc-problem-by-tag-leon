@@ -17,6 +17,7 @@ References:
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 4   1463    https://leetcode.com/problems/cherry-pickup-ii/
 
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

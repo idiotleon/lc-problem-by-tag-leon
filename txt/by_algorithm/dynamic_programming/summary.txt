@@ -161,6 +161,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 4   1340    https://leetcode.com/problems/jump-game-v/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/

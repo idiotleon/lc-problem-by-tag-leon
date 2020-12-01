@@ -34,6 +34,7 @@ References:
 3   0343    https://leetcode.com/problems/integer-break/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
+3   0458    https://leetcode.com/problems/poor-pigs/
 3   0477    https://leetcode.com/problems/total-hamming-distance/
 3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/

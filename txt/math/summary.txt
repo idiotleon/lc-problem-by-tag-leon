@@ -42,6 +42,7 @@ References:
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
 3   0400    https://leetcode.com/problems/nth-digit/
+3   0458    https://leetcode.com/problems/poor-pigs/
 3   0470    https://leetcode.com/problems/implement-rand10-using-rand7/
 3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 3   0519    https://leetcode.com/problems/random-flip-matrix/
