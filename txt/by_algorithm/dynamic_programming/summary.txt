@@ -190,6 +190,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+5   0920    https://leetcode.com/problems/number-of-music-playlists/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

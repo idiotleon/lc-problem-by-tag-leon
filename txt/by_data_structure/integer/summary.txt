@@ -58,4 +58,5 @@ References:
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0818    https://leetcode.com/problems/race-car/
+5   0920    https://leetcode.com/problems/number-of-music-playlists/
 5   0932    https://leetcode.com/problems/beautiful-array/
