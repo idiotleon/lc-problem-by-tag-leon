@@ -132,6 +132,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0956    https://leetcode.com/problems/tallest-billboard/
 4   0975    https://leetcode.com/problems/odd-even-jump/
+4   0982    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
 4   1024    https://leetcode.com/problems/video-stitching/
 4   1027    https://leetcode.com/problems/longest-arithmetic-sequence/
