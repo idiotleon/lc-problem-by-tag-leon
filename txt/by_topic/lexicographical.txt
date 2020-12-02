@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### lexicographical Order
+
+4   0386    https://leetcode.com/problems/lexicographical-numbers/
+4   0440    https://leetcode.com/problems/k-th-smallest-in-loexicographical-order/

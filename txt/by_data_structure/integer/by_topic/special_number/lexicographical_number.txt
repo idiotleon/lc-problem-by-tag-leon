@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+## Special Number
+# Lexicographical Number
+
+4   0386    https://leetcode.com/problems/lexicographical-numbers/

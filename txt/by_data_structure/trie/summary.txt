@@ -21,6 +21,7 @@ References:
 4   0139    https://leetcode.com/problems/word-break/
 4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+4   0440    https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 4   1032    https://leetcode.com/problems/stream-of-characters/
 
 5   0212    https://leetcode.com/problems/word-search-ii/
@@ -31,6 +32,13 @@ References:
 5   0588    https://leetcode.com/problems/design-in-memory-file-system/
 5   0642    https://leetcode.com/problems/design-search-autocomplete-system/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
+
+
+# Denary Tree
+
+4   0440    https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
+
 
 
 Resource:

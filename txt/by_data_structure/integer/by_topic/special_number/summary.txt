@@ -23,6 +23,7 @@ References:
 
 4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
 4   0264    https://leetcode.com/problems/ugly-number-ii/
+4   0386    https://leetcode.com/problems/lexicographical-numbers/
 4   0788    https://leetcode.com/problems/rotated-digits/
 
 5   1088    https://leetcode.com/problems/confusing-number-ii/
