@@ -12,3 +12,16 @@ References:
 ### Power Arithmetic
 
 3   0050    https://leetcode.com/problems/powx-n/
+
+
+
+### Division Arithmetic
+
+3   0029    https://leetcode.com/problems/divide-two-integers/
+
+
+
+### Square Root Arithmetic
+
+3   0069    https://leetcode.com/problems/sqrtx/
+

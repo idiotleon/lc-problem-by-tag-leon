@@ -26,9 +26,8 @@ This serves the list of all the LC problems related to Binary Search, regardless
 2   1237    https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 
-3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
-3   0050    https://leetcode.com/problems/count-complete-tree-nodes/   https://leetcode.com/problems/powx-n/
+3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 3   0162    https://leetcode.com/problems/find-peak-element/

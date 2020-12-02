@@ -6,6 +6,7 @@ References:
 ### Math
 # Probability - Random
 
+2   0382    https://leetcode.com/problems/linked-list-random-node/
 2   0398    https://leetcode.com/problems/random-pick-index/
 
 3   0470    https://leetcode.com/problems/implement-rand10-using-rand7/

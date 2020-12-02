@@ -10,6 +10,7 @@ References:
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 
+?3  0069    https://leetcode.com/problems/sqrtx/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
@@ -27,13 +28,14 @@ References:
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 
 
+
 ### Binary Search
 ## Upper Bound
 
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 
+?3  0069    https://leetcode.com/problems/sqrtx/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
-
 
 
 
@@ -43,3 +45,10 @@ References:
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+
+
+
+
+### Other
+
+3   0069    https://leetcode.com/problems/sqrtx/
