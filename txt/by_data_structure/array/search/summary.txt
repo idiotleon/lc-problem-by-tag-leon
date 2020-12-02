@@ -87,6 +87,7 @@ References:
 4   0980    https://leetcode.com/problems/unique-paths-iii/
 4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
 4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 4   1231    https://leetcode.com/problems/divide-chocolate/
