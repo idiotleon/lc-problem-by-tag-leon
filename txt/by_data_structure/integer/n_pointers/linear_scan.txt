@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Linear Scan
+
+2   1492    https://leetcode.com/problems/the-kth-factor-of-n/

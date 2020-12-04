@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### N Pointers
+## By Data Structure
+# Integer
+
+2   1492    https://leetcode.com/problems/the-kth-factor-of-n/

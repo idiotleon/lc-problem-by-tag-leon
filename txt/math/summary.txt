@@ -26,6 +26,7 @@ References:
 2   1217    https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 2   1344    https://leetcode.com/problems/angle-between-hands-of-a-clock/
 2   1447    https://leetcode.com/problems/simplified-fractions/
+2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 

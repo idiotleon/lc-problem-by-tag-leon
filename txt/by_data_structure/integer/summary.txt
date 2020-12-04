@@ -24,6 +24,7 @@ References:
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
 2   1447    https://leetcode.com/problems/simplified-fractions/
+2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/
