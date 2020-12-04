@@ -13,3 +13,12 @@ References:
 3   0213    https://leetcode.com/problems/house-robber-ii/
 
 4   0337    https://leetcode.com/problems/house-robber-iii/
+
+
+
+# House Paint
+
+3   0256    https://leetcode.com/problems/paint-house/
+
+4   0265    https://leetcode.com/problems/paint-house-ii/
+4   1473    https://leetcode.com/problems/paint-house-iii/

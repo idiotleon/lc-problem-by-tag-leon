@@ -27,6 +27,7 @@ References:
 3   0162    https://leetcode.com/problems/find-peak-element/
 3   0167    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0256    https://leetcode.com/problems/paint-house/
 3   0275    https://leetcode.com/problems/h-index-ii/
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
 3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
