@@ -7,8 +7,10 @@ References:
 ## Lower Bound vs Upper Bound
 
 2   0035    https://leetcode.com/problems/search-insert-position/
+?2  0268    https://leetcode.com/problems/missing-number/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 ?3  0069    https://leetcode.com/problems/sqrtx/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
@@ -22,10 +24,13 @@ References:
 ### Binary Search
 ## Lower Bound
 
+?2  0268    https://leetcode.com/problems/missing-number/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 

@@ -8,12 +8,14 @@ References:
 # Binary Search
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0268    https://leetcode.com/problems/missing-number/
 2   0278    https://leetcode.com/problems/first-bad-version/
 2   0704    https://leetcode.com/problems/binary-search/
 2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
