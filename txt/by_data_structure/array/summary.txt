@@ -400,6 +400,7 @@ This file serves as the total list of problems related to Array, regardless of a
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

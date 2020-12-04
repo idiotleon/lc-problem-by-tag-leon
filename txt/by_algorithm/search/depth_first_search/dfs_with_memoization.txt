@@ -61,6 +61,7 @@ References:
 5   0140    https://leetcode.com/problems/word-break-ii/
 5   0472    https://leetcode.com/problems/concatenated-words/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 

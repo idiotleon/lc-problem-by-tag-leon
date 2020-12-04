@@ -51,6 +51,7 @@ References:
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0808    https://leetcode.com/problems/soup-servings/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 
 6   0087    https://leetcode.com/problems/scramble-string/

@@ -115,6 +115,7 @@ References:
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/

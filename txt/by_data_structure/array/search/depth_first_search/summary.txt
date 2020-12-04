@@ -70,6 +70,7 @@ References:
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 

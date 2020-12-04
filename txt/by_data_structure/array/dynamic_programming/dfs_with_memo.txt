@@ -33,3 +33,4 @@ References:
 4   1575    https://leetcode.com/problems/count-all-possible-routes/
 
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/

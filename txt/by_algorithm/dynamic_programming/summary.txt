@@ -194,6 +194,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   0920    https://leetcode.com/problems/number-of-music-playlists/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/

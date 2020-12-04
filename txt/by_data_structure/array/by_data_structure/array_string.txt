@@ -42,4 +42,5 @@ References:
 
 5   0140    https://leetcode.com/problems/word-break-ii/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

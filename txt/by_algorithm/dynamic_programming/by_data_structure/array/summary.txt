@@ -75,6 +75,7 @@ References:
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

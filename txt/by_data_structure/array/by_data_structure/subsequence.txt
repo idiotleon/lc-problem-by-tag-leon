@@ -31,5 +31,6 @@ References:
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0493    https://leetcode.com/problems/reverse-pairs/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

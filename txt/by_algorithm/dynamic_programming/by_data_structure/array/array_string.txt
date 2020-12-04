@@ -9,3 +9,4 @@ References:
 
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/

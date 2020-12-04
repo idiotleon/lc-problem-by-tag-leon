@@ -283,6 +283,7 @@ References:
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
 5   0932    https://leetcode.com/problems/beautiful-array/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

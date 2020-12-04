@@ -49,4 +49,6 @@ References:
 4   1278    https://leetcode.com/problems/palindrome-partitioning-iii/
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 
+5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
+
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
