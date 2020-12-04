@@ -171,6 +171,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 4   1463    https://leetcode.com/problems/cherry-pickup-ii/
+4   1473    https://leetcode.com/problems/paint-house-iii/
 4   1510    https://leetcode.com/problems/stone-game-iv/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
