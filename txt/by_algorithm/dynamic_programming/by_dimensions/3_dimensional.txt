@@ -21,5 +21,6 @@ References:
 4   1473    https://leetcode.com/problems/paint-house-iii/
 4   1463    https://leetcode.com/problems/cherry-pickup-ii/
 
+6   0087    https://leetcode.com/problems/scramble-string/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 

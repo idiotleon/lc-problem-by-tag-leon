@@ -200,6 +200,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 
+6   0087    https://leetcode.com/problems/scramble-string/
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 6   1397    https://leetcode.com/problems/find-all-good-strings/

@@ -199,6 +199,7 @@ References:
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1520    https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 
+6   0087    https://leetcode.com/problems/scramble-string/
 6   0420    https://leetcode.com/problems/strong-password-checker/
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/
 6   0488    https://leetcode.com/problems/zuma-game/

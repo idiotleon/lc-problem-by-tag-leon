@@ -46,5 +46,6 @@ References:
 5   0472    https://leetcode.com/problems/concatenated-words/
 5   1044    https://leetcode.com/problems/longest-duplicate-substring/
 
+6   0087    https://leetcode.com/problems/scramble-string/
 6   0488    https://leetcode.com/problems/zuma-game/
 6   0679    https://leetcode.com/problems/24-game/

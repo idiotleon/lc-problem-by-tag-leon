@@ -53,6 +53,7 @@ References:
 5   0808    https://leetcode.com/problems/soup-servings/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 
+6   0087    https://leetcode.com/problems/scramble-string/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 
 

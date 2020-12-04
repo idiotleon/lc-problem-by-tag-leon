@@ -12,3 +12,5 @@ References:
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
+
+6   0087    https://leetcode.com/problems/scramble-string/
