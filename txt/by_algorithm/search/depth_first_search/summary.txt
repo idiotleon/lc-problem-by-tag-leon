@@ -225,6 +225,7 @@ References:
 4   0799    https://leetcode.com/problems/champagne-tower/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0818    https://leetcode.com/problems/race-car/
 4   0839    https://leetcode.com/problems/similar-string-groups/
 4   0854    https://leetcode.com/problems/k-similar-strings/
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/

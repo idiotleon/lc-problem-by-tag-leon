@@ -1,0 +1,17 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+# Adjacent
+
+2   0198    https://leetcode.com/problems/house-robber/description/
+2   0605    https://leetcode.com/problems/can-place-flowers/
+
+3   0213    https://leetcode.com/problems/house-robber-ii/
+3   0256    https://leetcode.com/problems/paint-house/
+
+4   0265    https://leetcode.com/problems/paint-house-ii/
+4   0337    https://leetcode.com/problems/house-robber-iii/
+4   1473    https://leetcode.com/problems/paint-house-iii/

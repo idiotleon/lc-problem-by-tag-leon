@@ -26,6 +26,7 @@ References:
 4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 4   0788    https://leetcode.com/problems/rotated-digits/
 4   0799    https://leetcode.com/problems/champagne-tower/
+4   0818    https://leetcode.com/problems/race-car/
 4   0887    https://leetcode.com/problems/super-egg-drop/
 4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
 4   0982    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/

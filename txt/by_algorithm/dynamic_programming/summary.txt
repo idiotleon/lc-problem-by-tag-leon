@@ -122,6 +122,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0818    https://leetcode.com/problems/race-car/
 4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   0887    https://leetcode.com/problems/super-egg-drop/

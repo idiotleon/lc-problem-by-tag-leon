@@ -21,6 +21,7 @@ References:
 
 4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 4   0386    https://leetcode.com/problems/lexicographical-numbers/
+4   0818    https://leetcode.com/problems/race-car/
 4   0887    https://leetcode.com/problems/super-egg-drop/
 4   1088    https://leetcode.com/problems/confusing-number-ii/
 4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
