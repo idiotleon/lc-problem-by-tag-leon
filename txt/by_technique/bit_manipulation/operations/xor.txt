@@ -12,6 +12,7 @@ References:
 1   1009    https://leetcode.com/problems/complement-of-base-10-integer/
 
 2   0136    https://leetcode.com/problems/single-number/
+2   0268    https://leetcode.com/problems/missing-number/
 
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0260    https://leetcode.com/problems/single-number-iii/

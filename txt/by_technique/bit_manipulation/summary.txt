@@ -50,6 +50,7 @@ References:
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1066    https://leetcode.com/problems/campus-bikes-ii/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/

@@ -5,14 +5,22 @@ References:
 
 ### String
 ## Substring
-# Suffix vs Postfix
+# Prefix vs Suffix
 
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
 
 
 
-# Postfix
+# Prefix
 
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
+
+
+
+# Suffix
+
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
