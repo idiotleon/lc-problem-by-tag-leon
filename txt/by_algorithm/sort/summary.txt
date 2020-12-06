@@ -18,6 +18,7 @@ References:
 2   1122    https://leetcode.com/problems/relative-sort-array/
 2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 
 3   0056    https://leetcode.com/problems/merge-intervals/

@@ -10,6 +10,7 @@ References:
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 2   1176    https://leetcode.com/problems/diet-plan-performance/
+2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
 3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
