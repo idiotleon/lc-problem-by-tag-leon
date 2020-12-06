@@ -7,4 +7,6 @@ References:
 ## with help of 
 # Freq Map
 
+2   1267    https://leetcode.com/problems/count-servers-that-communicate/
+
 3   1048    https://leetcode.com/problems/longest-string-chain/

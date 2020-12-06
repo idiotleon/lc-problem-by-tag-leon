@@ -18,6 +18,7 @@ References:
 2   0832    https://leetcode.com/problems/flipping-an-image/
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/

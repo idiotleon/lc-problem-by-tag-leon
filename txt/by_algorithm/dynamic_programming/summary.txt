@@ -25,6 +25,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0091    https://leetcode.com/problems/decode-ways/
