@@ -26,6 +26,7 @@ References:
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
 4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/

@@ -175,6 +175,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1463    https://leetcode.com/problems/cherry-pickup-ii/
 4   1473    https://leetcode.com/problems/paint-house-iii/
 4   1510    https://leetcode.com/problems/stone-game-iv/
+4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/

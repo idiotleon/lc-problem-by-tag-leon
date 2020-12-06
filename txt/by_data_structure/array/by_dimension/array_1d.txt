@@ -274,6 +274,7 @@ References:
 4   1473    https://leetcode.com/problems/paint-house-iii/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/

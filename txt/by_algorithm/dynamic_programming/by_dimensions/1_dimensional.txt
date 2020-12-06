@@ -113,6 +113,7 @@ References:
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1406    https://leetcode.com/problems/stone-game-iii/
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/

@@ -58,6 +58,7 @@ References:
 4   1231    https://leetcode.com/problems/divide-chocolate/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/
