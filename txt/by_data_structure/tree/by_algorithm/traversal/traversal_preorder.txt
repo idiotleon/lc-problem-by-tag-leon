@@ -22,6 +22,7 @@ References:
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 
+3   0101    https://leetcode.com/problems/symmetric-tree/
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0144    https://leetcode.com/problems/binary-tree-preorder-traversal/s
 3   0255    https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
