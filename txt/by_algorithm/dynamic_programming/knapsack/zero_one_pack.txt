@@ -6,13 +6,11 @@ References:
 
 ### Dynamic Programming
 ## Knapsack
-# 0/1 Knapsack
+# Zero One Pack
 
-3   0322    https://leetcode.com/problems/coin-change/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0494    https://leetcode.com/problems/target-sum/
-3   0518    https://leetcode.com/problems/coin-change-2/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 
 4   0312    https://leetcode.com/problems/burst-balloons/

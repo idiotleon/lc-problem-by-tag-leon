@@ -8,7 +8,7 @@ References:
 ## Knapsack
 # Summary
 
-3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0322    https://leetcode.com/problems/coin-change
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0494    https://leetcode.com/problems/target-sum/
@@ -36,3 +36,7 @@ References:
 # Resources
     https://www.youtube.com/watch?v=CO0r6kcwHUU
     https://www.youtube.com/watch?v=rM_G4dboKhc
+    https://zhuanlan.zhihu.com/p/102751016
+    https://blog.csdn.net/ztf312/article/details/77119667
+    https://www.bilibili.com/video/BV1qt411Z7nE?p=1
+    https://www.bilibili.com/video/BV1qt411Z7nE?p=2

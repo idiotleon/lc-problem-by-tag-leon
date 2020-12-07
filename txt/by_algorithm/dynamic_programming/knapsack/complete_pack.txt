@@ -1,0 +1,12 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## Knapsack
+# Complete Pack
+
+3   0322    https://leetcode.com/problems/coin-change
+3   0518    https://leetcode.com/problems/coin-change-2/
