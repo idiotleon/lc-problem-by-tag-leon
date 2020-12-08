@@ -9,6 +9,7 @@ References:
 
 1   0872    https://leetcode.com/problems/leaf-similar-trees/
 
+2   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
 2   0897    https://leetcode.com/problems/increasing-order-search-tree/
 2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/

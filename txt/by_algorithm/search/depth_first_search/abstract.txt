@@ -9,6 +9,7 @@ References:
 # Abstract
 
 2   0017   https://leetcode.com/problems/letter-combinations-of-a-phone-number/ 
+2   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
 3   0116    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 

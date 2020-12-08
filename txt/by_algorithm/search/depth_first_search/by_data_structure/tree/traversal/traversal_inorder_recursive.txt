@@ -4,7 +4,7 @@ References:
     
     
 ### Depth First Search
-# Inorder Traversal
+# Inorder Traversal Recursive
 
 1   0965    https://leetcode.com/problems/univalued-binary-tree/
 

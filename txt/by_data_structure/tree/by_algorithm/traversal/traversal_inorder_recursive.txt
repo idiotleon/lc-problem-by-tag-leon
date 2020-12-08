@@ -4,7 +4,7 @@ References:
     
 
 ### Tree
-# Traversal - Inorder
+# Traversal - Inorder - Recursive
 
 1   0872    https://leetcode.com/problems/leaf-similar-trees/
 1   0965    https://leetcode.com/problems/univalued-binary-tree/

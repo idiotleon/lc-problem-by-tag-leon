@@ -1,10 +1,10 @@
 @author: Leon
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Tree
-## Traversal
+## Constructing Trees
 # Insert a TreeNode
 
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/

@@ -5,7 +5,7 @@ References:
 
 ### Tree
 ## Constructing Trees
-# Turning Trees into Undirected Graphs
+# Converting Trees into Undirected Graphs
 
 3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 

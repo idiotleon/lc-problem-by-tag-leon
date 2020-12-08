@@ -1,10 +1,10 @@
 @author: Leon
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Tree
-## Traversal
+## Constructing Treesl
 # Merge Binary Trees
 
 2   0617    https://leetcode.com/problems/merge-two-binary-trees/

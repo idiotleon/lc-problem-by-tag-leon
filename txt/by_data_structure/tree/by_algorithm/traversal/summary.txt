@@ -17,6 +17,7 @@ References:
 2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
 2   0110    https://leetcode.com/problems/balanced-binary-tree/
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+2   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 2   0199    https://leetcode.com/problems/binary-tree-right-side-view/
 2   0257    https://leetcode.com/problems/binary-tree-paths/
 2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
@@ -47,7 +48,6 @@ References:
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0109    https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 3   0113    https://leetcode.com/problems/path-sum-ii/
-3   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 3   0117    https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 3   0144    https://leetcode.com/problems/binary-tree-preorder-traversal/
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
