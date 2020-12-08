@@ -10,6 +10,7 @@ References:
 1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
 1   0872    https://leetcode.com/problems/leaf-similar-trees/
 
+2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0617    https://leetcode.com/problems/merge-two-binary-trees/
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 2   0897    https://leetcode.com/problems/increasing-order-search-tree/

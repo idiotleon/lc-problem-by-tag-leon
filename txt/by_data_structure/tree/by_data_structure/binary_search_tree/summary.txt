@@ -4,7 +4,8 @@ References:
     
 
 ### Tree
-# Binary Search Tree
+## Binary Search Tree
+# Summary
 
 1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
 

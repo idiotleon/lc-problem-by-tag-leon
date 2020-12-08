@@ -4,6 +4,7 @@ References:
 
 
 ### Tree
+# Summary
 
 1   0559    https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
@@ -161,3 +162,8 @@ References:
 5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
+
+
+###Resources
+    https://www.bilibili.com/video/BV19t411w7Ep
+    https://zxi.mytechroad.com/blog/leetcode-problem-categories/

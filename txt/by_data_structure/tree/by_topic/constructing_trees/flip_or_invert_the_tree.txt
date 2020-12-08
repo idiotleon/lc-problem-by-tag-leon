@@ -3,8 +3,9 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Flip the Tree
+### Flip or Invert the Tree
 
+2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
 2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
 
