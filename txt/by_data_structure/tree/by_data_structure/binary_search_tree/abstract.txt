@@ -15,3 +15,15 @@ References:
 0108
 0501
 0450
+
+
+
+
+## With Difficulty Levels
+
+1   0700    https://www.google.com/search?client=safari&rls=en&q=leetcode+700&ie=UTF-8&oe=UTF-8
+
+2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
+

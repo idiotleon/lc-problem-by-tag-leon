@@ -6,7 +6,12 @@ References:
 ### Tree
 # Binary Search
 
+1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/]
+
 3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
+3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
