@@ -62,6 +62,7 @@ References:
 3   0510    https://leetcode.com/problems/inorder-successor-in-bst-ii/
 3   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 3   0536    https://leetcode.com/problems/construct-binary-tree-from-string/
+3   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   0545    https://leetcode.com/problems/boundary-of-binary-tree/
 3   0572    https://leetcode.com/problems/subtree-of-another-tree/
