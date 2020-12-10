@@ -14,6 +14,7 @@ References:
 2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
+3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0654    https://leetcode.com/problems/maximum-binary-tree/
@@ -21,6 +22,7 @@ References:
 3   1080    https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 3   1104    https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
 3   1372    https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
 4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
