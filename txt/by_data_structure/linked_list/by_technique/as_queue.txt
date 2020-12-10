@@ -7,3 +7,5 @@ References:
 # As Queues
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/

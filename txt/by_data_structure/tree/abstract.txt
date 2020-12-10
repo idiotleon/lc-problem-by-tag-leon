@@ -34,6 +34,7 @@ References:
 0257
 0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 0337
+0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 0429
 0437
 0449
@@ -74,6 +75,7 @@ References:
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0116    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 3   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 3   0654    https://leetcode.com/problems/maximum-binary-tree/
@@ -108,3 +110,9 @@ References:
 0450
 0501
 0530
+
+
+
+# N-arry Tree
+
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/

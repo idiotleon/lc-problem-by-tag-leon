@@ -31,6 +31,7 @@ References:
 2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   0941    https://leetcode.com/problems/valid-mountain-array/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1103    https://leetcode.com/problems/distribute-candies-to-people/

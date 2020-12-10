@@ -67,6 +67,7 @@ References:
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0859    https://leetcode.com/problems/buddy-strings/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   0941    https://leetcode.com/problems/valid-mountain-array/
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 2   0925    https://leetcode.com/problems/long-pressed-name/
 2   0929    https://leetcode.com/problems/unique-email-addresses/

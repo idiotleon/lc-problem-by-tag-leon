@@ -7,3 +7,5 @@ References:
 # Nested Integer
 
 2   0385    https://leetcode.com/problems/mini-parser/
+
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/

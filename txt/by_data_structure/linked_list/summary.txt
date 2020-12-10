@@ -53,3 +53,8 @@ References:
 
 3   find unique number in a data stream 
 https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream
+
+
+As a container/collection
+
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/

@@ -16,6 +16,7 @@ References:
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
+2   0941    https://leetcode.com/problems/valid-mountain-array/
 
 2   0136    https://leetcode.com/problems/single-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
