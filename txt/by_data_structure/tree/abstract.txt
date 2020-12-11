@@ -29,7 +29,7 @@ References:
 0144
 0145
 0226    https://leetcode.com/problems/invert-binary-tree/
-0235
+0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 0257
 0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
@@ -76,6 +76,7 @@ References:
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0116    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/

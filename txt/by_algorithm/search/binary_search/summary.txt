@@ -33,6 +33,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 3   0162    https://leetcode.com/problems/find-peak-element/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0256    https://leetcode.com/problems/paint-house/
 3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 3   0275    https://leetcode.com/problems/h-index-ii/
