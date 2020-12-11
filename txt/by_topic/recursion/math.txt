@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Recursion
+# Math
+
+4   0372    https://leetcode.com/problems/super-pow/

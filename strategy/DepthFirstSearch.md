@@ -11,17 +11,17 @@ DFS on binary trees are fundamentals and thus important: <br/>
     * how about dealing with more than one levels of call stacks at one time?
 * as decision trees for later advanced DP/DFSMemo problems
 
-[Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree/abstract.txt)* <br/>
-[(Problem List - Complete)](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree/summary.txt)
+*[Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree/abstract.txt) <br/>
+[Problem List - Complete](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree)
 
 
 |Scores | Description|
 | ----- | :--------- |
 |60% | to master recursive preorder, inorder, postorder traversals<ul> <li> to construct a binary tree freely</li> <li>to operate on a binary tree freely, including insersion, deletion, etc.</li> <li>to serialize and deserialize tree freely<ul>|
-80% | to master iterative preorder, inorder, postorder traversals<ul><li>to simulate recursions with stacks</li><li>Morris inorder traversal, and its variantions</li></ul>
+80% | to master iterative preorder, inorder, postorder traversals<ul><li>to simulate recursions with stacks</li><li>Morris inorder traversal, and its variations</li></ul>
 100% | to quickly detect and build decision trees (especially for advanced DP problems)
 
-### Must Read*
+### *Must Read/Watch
 ##### labuladong
 东哥手把手带你套框架刷通二叉树|第一期 [WeChat](https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487126&idx=1&sn=4de13e66397bc35970963c5a1330ce18&chksm=9bd7f09eaca0798853c41fba05ad5fa958b31054eba18b69c785ae92f4bd8e4cc7a2179d7838&scene=21#wechat_redirect) <br/>
 东哥手把手帮你刷通二叉树|第二期 [WeChat](https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487270&idx=1&sn=2f7ad74aabc88b53d94012ceccbe51be&chksm=9bd7f12eaca078384733168971147866c140496cb257946f8170f05e46d16099f3eef98d39d9&scene=21#wechat_redirect) <br/>
@@ -43,13 +43,13 @@ LeetCode暑期刷题打卡2019——Week3 树专题 [Bilibili](https://www.bilib
 
 
 ### Phase 2: DFS with Memoization
-Main: **DFS with Memoization** <br/>
+Main Track: **DFS with Memoization** <br/>
 Actually on decision trees.
 
-(Not yet finished) [Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/abstract.txt)* <br/>
+(Not yet finished) *[Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/abstract.txt) <br/>
 [Problem List - Complete](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/dfs_with_memoization.txt)
 
-Secondary: <br/>
+Secondary Track: <br/>
 [Backtrack](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/backtrack.txt) <br/>
 [DFS on Undirected Graph](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_undirected.txt) <br/>
 [DFS on Directed Graph](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_directed.txt) <br/>

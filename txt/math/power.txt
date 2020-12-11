@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Power
+
+4   0372    https://leetcode.com/problems/super-pow/
+
+
+### Resource
+    https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485035&idx=1&sn=c03c9056f412bf590480156e4357b433&chksm=9bd7f863aca07175eca0bd5e638c857969af1936cc2b7b4a01610809ba1d85a3272703e2b3a2&scene=21#wechat_redirect
+    https://mp.weixin.qq.com/s?__biz=MzA5MTM1NTc2Ng==&mid=2458321758&idx=1&sn=e92e7a72d245831c29acb3d2a29607da&scene=21#wechat_redirect

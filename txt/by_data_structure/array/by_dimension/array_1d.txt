@@ -214,6 +214,7 @@ References:
 4   0313    https://leetcode.com/problems/super-ugly-number/
 4   0354    https://leetcode.com/problems/russian-doll-envelopes/
 4   0368    https://leetcode.com/problems/largest-divisible-subset/
+4   0372    https://leetcode.com/problems/super-pow/
 4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0442    https://leetcode.com/problems/find-all-duplicates-in-an-array/

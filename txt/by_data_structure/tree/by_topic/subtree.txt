@@ -4,7 +4,7 @@ References:
 
 
 ### Tree
-## by data structure
+## By Data Structure
 # Subtree
 
 2   0100    https://leetcode.com/problems/same-tree/
