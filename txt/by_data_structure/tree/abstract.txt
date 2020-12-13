@@ -47,7 +47,7 @@ References:
 0508
 0530
 0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
-0543
+0543    https://leetcode.com/problems/diameter-of-binary-tree/
 0572
 0589
 0590
@@ -98,6 +98,7 @@ References:
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 3   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
+3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   0654    https://leetcode.com/problems/maximum-binary-tree/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
@@ -134,6 +135,7 @@ References:
 2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
