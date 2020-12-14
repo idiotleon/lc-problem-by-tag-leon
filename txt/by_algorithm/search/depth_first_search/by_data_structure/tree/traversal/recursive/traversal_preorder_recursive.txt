@@ -12,6 +12,7 @@ References:
 2   0100    https://leetcode.com/problems/same-tree/
 2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+2   0112    https://leetcode.com/problems/path-sum/
 2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0257    https://leetcode.com/problems/binary-tree-paths/
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/

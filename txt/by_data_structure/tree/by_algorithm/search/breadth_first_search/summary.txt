@@ -17,6 +17,7 @@ References:
 2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
 2   0107    https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+2   0112    https://leetcode.com/problems/path-sum/
 2   0199    https://leetcode.com/problems/binary-tree-right-side-view/
 2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0404    https://leetcode.com/problems/sum-of-left-leaves/
