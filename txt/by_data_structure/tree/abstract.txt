@@ -36,6 +36,7 @@ References:
 0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 0257
+0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 0337
 0341    https://leetcode.com/problems/flatten-nested-list-iterator/
@@ -99,6 +100,7 @@ References:
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
 3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 3   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
@@ -124,6 +126,7 @@ References:
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
+3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 
 
@@ -157,3 +160,9 @@ References:
 # Breadth First Search
 
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+
+
+# Binary Search
+
+3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
