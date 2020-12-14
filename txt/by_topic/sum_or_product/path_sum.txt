@@ -12,5 +12,9 @@ References:
 
 3   0113    https://leetcode.com/problems/path-sum-ii/
 3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
+3   0437    https://leetcode.com/problems/path-sum-iii/
+3   0666    https://leetcode.com/problems/path-sum-iv/
+3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
 
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
+4   1289    https://leetcode.com/problems/minimum-falling-path-sum-ii/
