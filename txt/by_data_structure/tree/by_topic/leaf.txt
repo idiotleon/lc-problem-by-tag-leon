@@ -9,6 +9,7 @@ References:
 
 1   0872    https://leetcode.com/problems/leaf-similar-trees/
 
+2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
 2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
 2   0404    https://leetcode.com/problems/sum-of-left-leaves/
 2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/

@@ -7,6 +7,7 @@ References:
 ## Tree
 # BFS over DFS
 
+2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
 2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
 2   1609    https://leetcode.com/problems/even-odd-tree/
 
