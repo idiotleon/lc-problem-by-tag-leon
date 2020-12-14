@@ -32,7 +32,7 @@ References:
 0173    https://leetcode.com/problems/binary-search-tree-iterator/
 0222    https://leetcode.com/problems/count-complete-tree-nodes/
 0226    https://leetcode.com/problems/invert-binary-tree/
-0230
+0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 0257
@@ -128,6 +128,8 @@ References:
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
 3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
+
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 
 

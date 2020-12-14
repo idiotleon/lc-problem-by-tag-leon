@@ -21,6 +21,7 @@ References:
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
 4   0079    https://leetcode.com/problems/word-search/
+4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 
 # Undirected Graph
