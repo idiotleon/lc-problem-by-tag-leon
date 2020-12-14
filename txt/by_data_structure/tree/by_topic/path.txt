@@ -8,6 +8,7 @@ References:
 # Path
 
 2   0112    https://leetcode.com/problems/path-sum/
+2   0257    https://leetcode.com/problems/binary-tree-paths/
 2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/
 2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
 

@@ -35,7 +35,7 @@ References:
 0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-0257
+0257    https://leetcode.com/problems/binary-tree-paths/
 0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 0337
@@ -88,6 +88,7 @@ References:
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
 2   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0257    https://leetcode.com/problems/binary-tree-paths/
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
@@ -168,3 +169,9 @@ References:
 # Binary Search
 
 3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
+
+
+
+# Backtrack
+
+2   0257    https://leetcode.com/problems/binary-tree-paths/
