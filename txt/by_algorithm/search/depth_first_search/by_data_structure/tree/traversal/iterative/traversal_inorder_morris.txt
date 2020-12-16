@@ -12,6 +12,7 @@ References:
 2   0094    https://leetcode.com/problems/binary-tree-inorder-traversal/
 2   0114    https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 2   0501    https://leetcode.com/problems/find-mode-in-binary-search-tree/
+2   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 2   0897    https://leetcode.com/problems/increasing-order-search-tree/
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 
