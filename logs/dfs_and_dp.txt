@@ -7,6 +7,7 @@ DFS进阶企划
 https://tinyurl.com/y6373cwp
 
 Day 5
+#Constructing Trees
 1: 
 2: 
 3: 
@@ -26,6 +27,7 @@ Day 4
 
 
 Day 3
+
 1: 
 2: 0110, 0111, 0112, 0257, 0437, 0814
 3: 0113, 0543
@@ -35,6 +37,9 @@ Day 3
 
 
 Day 2
+Basic Preorder/Inorder/Postorder Traversal
+Both Recursive and Iterative
+训练递归思维
 1:
 2: 0100, 0104
 3: 0098, 0173
@@ -43,7 +48,9 @@ Day 2
 
 
 
+
 Day 1
+Binary Search Tree
 1:
 2:
 3: 0105, 0106, 0116(DFS), 0450, 0538, 0654, 0889
