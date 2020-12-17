@@ -23,6 +23,8 @@ References:
 3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
 3   0865    https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 
+4   0968    https://leetcode.com/problems/binary-tree-cameras/
+4   0979    https://leetcode.com/problems/distribute-coins-in-binary-tree/
 4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
 
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
