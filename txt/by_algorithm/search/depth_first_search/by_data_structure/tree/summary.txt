@@ -40,6 +40,7 @@ References:
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 2   0720    https://leetcode.com/problems/longest-word-in-dictionary/
 2   0814    https://leetcode.com/problems/binary-tree-pruning/
+2   0872    https://leetcode.com/problems/leaf-similar-trees/
 2   0897    https://leetcode.com/problems/increasing-order-search-tree/
 2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
 2   0958    https://leetcode.com/problems/check-completeness-of-a-binary-tree/

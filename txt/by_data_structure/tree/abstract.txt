@@ -58,7 +58,7 @@ References:
 0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
 0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 0814    https://leetcode.com/problems/binary-tree-pruning/
-0872
+0872    https://leetcode.com/problems/leaf-similar-trees/
 0965
 0968
 0979

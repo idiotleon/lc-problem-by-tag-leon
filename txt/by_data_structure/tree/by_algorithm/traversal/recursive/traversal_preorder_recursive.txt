@@ -16,6 +16,7 @@ References:
 2   0257    https://leetcode.com/problems/binary-tree-paths/
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
+2   0872    https://leetcode.com/problems/leaf-similar-trees/
 2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/
 2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
