@@ -53,11 +53,11 @@ References:
 0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 0654    https://leetcode.com/problems/maximum-binary-tree/
-0669
+0669    https://leetcode.com/problems/trim-a-binary-search-tree/
 0687
 0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
 0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
-0814
+0814    https://leetcode.com/problems/binary-tree-pruning/
 0872
 0965
 0968
@@ -94,7 +94,9 @@ References:
 2   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 2   0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
+2   0814    https://leetcode.com/problems/binary-tree-pruning/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
 3   0101    https://leetcode.com/problems/symmetric-tree/
@@ -134,6 +136,7 @@ References:
 2   0108    https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 2   0501    https://leetcode.com/problems/find-mode-in-binary-search-tree/
 2   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
@@ -160,6 +163,8 @@ References:
 2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
 2   0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
+2   0814    https://leetcode.com/problems/binary-tree-pruning/
 
 3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0508    https://leetcode.com/problems/most-frequent-subtree-sum/
@@ -180,6 +185,9 @@ References:
 
 
 # Subtree
+
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
+2   0814    https://leetcode.com/problems/binary-tree-pruning/
 
 3   0508    https://leetcode.com/problems/most-frequent-subtree-sum/
 3   0572    https://leetcode.com/problems/subtree-of-another-tree/

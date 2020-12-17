@@ -9,6 +9,7 @@ References:
 
 2   0100    https://leetcode.com/problems/same-tree/
 2   0226    https://leetcode.com/problems/invert-binary-tree/
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
 2   0814    https://leetcode.com/problems/binary-tree-pruning/
 2   0951    https://leetcode.com/problems/flip-equivalent-binary-trees/
 2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/

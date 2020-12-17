@@ -13,8 +13,10 @@ References:
 4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
 
 
-# Delete a TreeNode
+# Delete a TreeNode/Subtree
 
+2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/
+2   0814    https://leetcode.com/problems/binary-tree-pruning/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
