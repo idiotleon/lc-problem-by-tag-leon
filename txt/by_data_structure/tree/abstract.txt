@@ -59,8 +59,8 @@ References:
 0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 0814    https://leetcode.com/problems/binary-tree-pruning/
 0872    https://leetcode.com/problems/leaf-similar-trees/
-0965
-0968
+0965    https://leetcode.com/problems/univalued-binary-tree/
+0968    https://leetcode.com/problems/binary-tree-cameras/
 0979
 0987
 1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
@@ -77,6 +77,7 @@ References:
 # With Difficulty Levels
 
 1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
 
 2   0094    https://leetcode.com/problems/binary-tree-inorder-traversal/
 2   0100    https://leetcode.com/problems/same-tree/
@@ -124,6 +125,7 @@ References:
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0337    https://leetcode.com/problems/house-robber-iii/
+4   0968    https://leetcode.com/problems/binary-tree-cameras/
 
 5   0099    https://leetcode.com/problems/recover-binary-search-tree/
 
@@ -160,6 +162,8 @@ References:
 
 
 # Postorder Traversal
+
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
 
 2   0104    https://leetcode.com/problems/maximum-depth-of-binary-tree/
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
@@ -222,10 +226,14 @@ References:
 
 # Inorder Traversal
 
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
+
 2   0501    https://leetcode.com/problems/find-mode-in-binary-search-tree/
 
 
 
 # Preorder Traversal
+
+1   0965    https://leetcode.com/problems/univalued-binary-tree/
 
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
