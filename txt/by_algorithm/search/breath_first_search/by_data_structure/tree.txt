@@ -29,6 +29,7 @@ References:
 2   0958    https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 2   1315    https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/

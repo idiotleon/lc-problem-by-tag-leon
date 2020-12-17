@@ -62,11 +62,11 @@ References:
 0965    https://leetcode.com/problems/univalued-binary-tree/
 0968    https://leetcode.com/problems/binary-tree-cameras/
 0979    https://leetcode.com/problems/distribute-coins-in-binary-tree/
-0987
+0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 1302    https://leetcode.com/problems/deepest-leaves-sum/
-1308
-1325
+1308    https://leetcode.com/problems/running-total-for-different-genders/
+1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
 
@@ -99,6 +99,7 @@ References:
 2   0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 2   0814    https://leetcode.com/problems/binary-tree-pruning/
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
 3   0101    https://leetcode.com/problems/symmetric-tree/
@@ -119,6 +120,7 @@ References:
 3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   0654    https://leetcode.com/problems/maximum-binary-tree/
 3   0687    https://leetcode.com/problems/longest-univalue-path/
+3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
@@ -216,6 +218,7 @@ References:
 # Leaf
 
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 
 
 
@@ -223,6 +226,8 @@ References:
 
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
 2   0429    https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 
 
 
@@ -251,3 +256,12 @@ References:
 1   0965    https://leetcode.com/problems/univalued-binary-tree/
 
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
+
+3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+
+
+
+# Vertical Order Traversal
+
+3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/

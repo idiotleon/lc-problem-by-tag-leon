@@ -9,6 +9,7 @@ References:
 2   0001    https://leetcode.com/problems/two-sum/
 2   0112    https://leetcode.com/problems/path-sum/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 
 3   0015    https://leetcode.com/problems/3sum/
 3   0016    https://leetcode.com/problems/3sum-closest/
