@@ -54,7 +54,7 @@ References:
 0590    https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 0654    https://leetcode.com/problems/maximum-binary-tree/
 0669    https://leetcode.com/problems/trim-a-binary-search-tree/
-0687
+0687    https://leetcode.com/problems/longest-univalue-path/
 0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
 0701    https://leetcode.com/problems/insert-into-a-binary-search-tree/
 0814    https://leetcode.com/problems/binary-tree-pruning/
@@ -116,6 +116,7 @@ References:
 3   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   0654    https://leetcode.com/problems/maximum-binary-tree/
+3   0687    https://leetcode.com/problems/longest-univalue-path/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
@@ -170,10 +171,16 @@ References:
 3   0508    https://leetcode.com/problems/most-frequent-subtree-sum/
 3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   0572    https://leetcode.com/problems/subtree-of-another-tree/
+3   0687    https://leetcode.com/problems/longest-univalue-path/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
 4   0337    https://leetcode.com/problems/house-robber-iii/
+
+
+# Path
+
+3   0687    https://leetcode.com/problems/longest-univalue-path/
 
 
 
