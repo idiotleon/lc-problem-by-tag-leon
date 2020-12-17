@@ -103,6 +103,7 @@ References:
 3   0228    https://leetcode.com/problems/summary-ranges/
 3   0229    https://leetcode.com/problems/majority-element-ii/
 3   0238    https://leetcode.com/problems/product-of-array-except-self/
+3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0260    https://leetcode.com/problems/single-number-iii/
 3   0275    https://leetcode.com/problems/h-index-ii/
 3   0281    https://leetcode.com/problems/zigzag-iterator/

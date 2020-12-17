@@ -11,7 +11,6 @@ References:
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0709    https://leetcode.com/problems/to-lower-case/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
-
 1   1108    https://leetcode.com/problems/defanging-an-ip-address/
 1   1119    https://leetcode.com/problems/remove-vowels-from-a-string/
 1   1417    https://leetcode.com/problems/reformat-the-string/
@@ -22,6 +21,7 @@ References:
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
+3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0299    https://leetcode.com/problems/bulls-and-cows/
 2   0409    https://leetcode.com/problems/longest-palindrome/

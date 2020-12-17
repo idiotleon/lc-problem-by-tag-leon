@@ -110,6 +110,7 @@ References:
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
 3   0238    https://leetcode.com/problems/product-of-array-except-self/
+3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
 3   0360    https://leetcode.com/problems/sort-transformed-array/

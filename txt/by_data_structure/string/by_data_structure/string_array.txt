@@ -8,6 +8,7 @@ References:
 
 2   0290    https://leetcode.com/problems/word-pattern/
 
+3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
 

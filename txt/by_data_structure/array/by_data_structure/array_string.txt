@@ -16,6 +16,7 @@ References:
 
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0228    https://leetcode.com/problems/summary-ranges/
+3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/

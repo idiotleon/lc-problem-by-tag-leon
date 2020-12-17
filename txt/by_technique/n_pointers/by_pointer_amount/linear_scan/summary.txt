@@ -79,6 +79,7 @@ References:
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
 3   0238    https://leetcode.com/problems/product-of-array-except-self/
+3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
