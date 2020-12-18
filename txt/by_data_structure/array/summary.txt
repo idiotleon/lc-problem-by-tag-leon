@@ -126,6 +126,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0228    https://leetcode.com/problems/summary-ranges/
 3   0229    https://leetcode.com/problems/majority-element-ii/
 3   0238    https://leetcode.com/problems/product-of-array-except-self/
+3   0244    https://leetcode.com/problems/shortest-word-distance-ii/
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0256    https://leetcode.com/problems/paint-house/
 3   0260    https://leetcode.com/problems/single-number-iii/
