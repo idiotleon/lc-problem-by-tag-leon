@@ -66,6 +66,7 @@ References:
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0334    https://leetcode.com/problems/increasing-triplet-subsequence/
 3   0348    https://leetcode.com/problems/design-tic-tac-toe/
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/

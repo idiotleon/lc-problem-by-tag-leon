@@ -49,6 +49,7 @@ References:
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0334    https://leetcode.com/problems/increasing-triplet-subsequence/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/

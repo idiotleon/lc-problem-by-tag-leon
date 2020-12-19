@@ -7,7 +7,6 @@ References:
 ## Constructing Trees
 # Serialization
 
-1   0872    https://leetcode.com/problems/leaf-similar-trees/
 2   0872    https://leetcode.com/problems/leaf-similar-trees/
 
 3   0449    https://leetcode.com/problems/serialize-and-deserialize-bst/
