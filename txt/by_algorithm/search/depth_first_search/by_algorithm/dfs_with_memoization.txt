@@ -6,7 +6,7 @@ References:
 ### Depth First Search
 # Depth First Search with Memoization
 
-2   0263    https://leetcode.com/problems/ugly-number/
+-2  0263    https://leetcode.com/problems/ugly-number/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
@@ -68,3 +68,8 @@ References:
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+
+
+Caption:
+- no need or less efficient

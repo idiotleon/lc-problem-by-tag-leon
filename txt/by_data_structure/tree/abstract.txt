@@ -27,8 +27,8 @@ References:
 0116    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
 0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
-0144
-0145
+0144    https://leetcode.com/problems/binary-tree-preorder-traversal/
+0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
 0173    https://leetcode.com/problems/binary-search-tree-iterator/
 0222    https://leetcode.com/problems/count-complete-tree-nodes/
 0226    https://leetcode.com/problems/invert-binary-tree/
