@@ -169,6 +169,7 @@ References:
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+2   1694    https://leetcode.com/problems/reformat-phone-number/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0041    https://leetcode.com/problems/first-missing-positive/

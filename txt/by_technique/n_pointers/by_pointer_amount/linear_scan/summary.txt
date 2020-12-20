@@ -109,6 +109,7 @@ References:
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+2   1694    https://leetcode.com/problems/reformat-phone-number/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/

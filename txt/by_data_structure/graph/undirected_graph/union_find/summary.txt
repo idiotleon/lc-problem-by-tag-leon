@@ -23,3 +23,4 @@ References:
 4   1258    https://leetcode.com/problems/synonymous-sentences/
 4   1579    https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
+3   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/

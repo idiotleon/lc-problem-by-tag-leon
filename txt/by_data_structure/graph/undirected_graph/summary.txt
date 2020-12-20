@@ -36,6 +36,7 @@ References:
 4   1579    https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 4   1584    https://leetcode.com/problems/min-cost-to-connect-all-points/
 4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
+3   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
 

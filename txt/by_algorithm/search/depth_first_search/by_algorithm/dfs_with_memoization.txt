@@ -72,4 +72,5 @@ References:
 
 
 Caption:
-- no need or less efficient
+'-': no need
+'x': not recommended

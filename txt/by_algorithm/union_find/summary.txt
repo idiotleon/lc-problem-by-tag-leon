@@ -22,6 +22,7 @@ References:
 3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+3   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0305    https://leetcode.com/problems/number-of-islands-ii/
