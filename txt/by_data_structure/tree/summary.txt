@@ -57,6 +57,7 @@ References:
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
+3   0101    https://leetcode.com/problems/symmetric-tree/
 3   0103    https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/

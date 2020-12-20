@@ -10,7 +10,6 @@ References:
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
-3   0101    https://leetcode.com/problems/symmetric-tree/
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
