@@ -33,6 +33,7 @@ References:
 3   0256    https://leetcode.com/problems/paint-house/
 3   0264    https://leetcode.com/problems/ugly-number-ii/
 3   0276    https://leetcode.com/problems/paint-fence/
+3   0279    https://leetcode.com/problems/perfect-squares/
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
 3   0322    https://leetcode.com/problems/coin-change/
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/

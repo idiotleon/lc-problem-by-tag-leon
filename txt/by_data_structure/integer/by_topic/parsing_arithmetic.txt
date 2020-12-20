@@ -24,4 +24,4 @@ References:
 ### Square Root Arithmetic
 
 3   0069    https://leetcode.com/problems/sqrtx/
-
+3   0279    https://leetcode.com/problems/perfect-squares/

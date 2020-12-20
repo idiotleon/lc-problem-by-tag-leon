@@ -8,6 +8,7 @@ References:
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 
+3   0279    https://leetcode.com/problems/perfect-squares/
 3   0343    https://leetcode.com/problems/integer-break/
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
