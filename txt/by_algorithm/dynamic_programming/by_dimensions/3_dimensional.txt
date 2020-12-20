@@ -18,8 +18,8 @@ References:
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
-4   1473    https://leetcode.com/problems/paint-house-iii/
 4   1463    https://leetcode.com/problems/cherry-pickup-ii/
+4   1473    https://leetcode.com/problems/paint-house-iii/
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
