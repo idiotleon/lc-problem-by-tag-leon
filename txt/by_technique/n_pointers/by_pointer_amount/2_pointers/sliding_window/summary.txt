@@ -37,6 +37,7 @@ References:
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/

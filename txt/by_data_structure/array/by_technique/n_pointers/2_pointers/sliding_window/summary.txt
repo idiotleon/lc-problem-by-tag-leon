@@ -20,6 +20,7 @@ References:
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
 3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0220    https://leetcode.com/problems/contains-duplicate-iii/

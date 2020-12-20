@@ -13,6 +13,7 @@ References:
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

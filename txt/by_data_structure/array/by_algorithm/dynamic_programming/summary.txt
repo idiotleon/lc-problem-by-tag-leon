@@ -50,6 +50,7 @@ References:
 3   1626    https://leetcode.com/problems/best-team-with-no-conflicts/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
+3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0120    https://leetcode.com/problems/triangle/

@@ -28,6 +28,7 @@ References:
 3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
+3   1695    https://leetcode.com/problems/maximum-erasure-value
 
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
@@ -44,6 +45,11 @@ References:
 
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 
+
+
+# Suffix Sums
+
+3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
 
 
 # how many

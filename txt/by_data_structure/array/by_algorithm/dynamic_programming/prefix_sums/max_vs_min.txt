@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## Prefix Sums
+# Maximum vs Minimum
+
+3   1695    https://leetcode.com/problems/maximum-erasure-value/
