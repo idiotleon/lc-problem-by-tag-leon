@@ -38,6 +38,8 @@ References:
 3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 
+4   0051    https://leetcode.com/problems/n-queens/
+4   0052    https://leetcode.com/problems/n-queens-ii/
 4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
 4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
 4   0294    https://leetcode.com/problems/flip-game-ii/

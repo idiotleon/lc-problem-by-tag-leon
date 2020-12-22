@@ -189,6 +189,8 @@ References:
 3   1600    https://leetcode.com/problems/throne-inheritance/
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 
+4   0051    https://leetcode.com/problems/n-queens/
+4   0052    https://leetcode.com/problems/n-queens-ii/
 4   0097    https://leetcode.com/problems/interleaving-string/
 4   0115    https://leetcode.com/problems/distinct-subsequences/
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/

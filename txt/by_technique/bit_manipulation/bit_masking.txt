@@ -19,7 +19,6 @@ References:
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 
 4   0051    https://leetcode.com/problems/n-queens/
-4   0052    https://leetcode.com/problems/n-queens-ii/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0464    https://leetcode.com/problems/can-i-win/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

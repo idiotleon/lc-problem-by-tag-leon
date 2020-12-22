@@ -1,0 +1,20 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Main Diagnoal vs Antidiagnoal
+
+4   0051    https://leetcode.com/problems/n-queens/
+4   0052    https://leetcode.com/problems/n-queens-ii/
+4   1001    https://leetcode.com/problems/grid-illumination/
+
+
+
+#Tips
+    Main Diagonal:  y = -x + b  =>   b = y + x
+        isSameMainDiagonal: [row + N - col + 1] = true, N = 2 * n - 1
+    Antidiagonal:   y = x + b   =>   b = y - x
+        isSameAntidiagonal: [row + col] = true, N = 2 * n - 1

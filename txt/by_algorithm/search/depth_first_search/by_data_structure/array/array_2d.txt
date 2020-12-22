@@ -28,6 +28,8 @@ References:
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 
+4   0051    https://leetcode.com/problems/n-queens/
+4   0052    https://leetcode.com/problems/n-queens-ii/
 4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 4   0351    https://leetcode.com/problems/android-unlock-patterns/
 4   0489    https://leetcode.com/problems/robot-room-cleaner/

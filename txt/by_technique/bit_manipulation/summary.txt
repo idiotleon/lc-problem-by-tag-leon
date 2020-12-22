@@ -41,7 +41,6 @@ References:
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 
 4   0051    https://leetcode.com/problems/n-queens/
-4   0052    https://leetcode.com/problems/n-queens-ii/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
