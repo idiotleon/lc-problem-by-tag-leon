@@ -1,0 +1,31 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Range
+
+1   0598    https://leetcode.com/problems/range-addition-ii/
+1   1523    https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+
+2   0163    https://leetcode.com/problems/missing-ranges/
+2   0201    https://leetcode.com/problems/bitwise-and-of-numbers-range/
+2   0228    https://leetcode.com/problems/summary-ranges/
+2   0270    https://leetcode.com/problems/range-addition/
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   0908    https://leetcode.com/problems/smallest-range-i/
+
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0938    https://leetcode.com/problems/range-sum-of-bst/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+
+4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0715    https://leetcode.com/problems/range-module/
+4   0910    https://leetcode.com/problems/smallest-range-ii/ 
+4   1067    https://leetcode.com/problems/digit-count-in-range/
+
+5   0327    https://leetcode.com/problems/count-of-range-sum/
+
+6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
