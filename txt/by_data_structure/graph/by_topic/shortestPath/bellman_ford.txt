@@ -6,7 +6,6 @@ References:
 
 ### Graph
 ## Shortest Path
+# Bellman Ford
 
 3   0743    https://leetcode.com/problems/network-delay-time/
-
-4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

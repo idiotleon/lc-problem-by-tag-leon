@@ -5,6 +5,7 @@ References:
 
 
 ### Graph
-# Shortest Distance
+## Shortest Path
+# Floyd Warshall
 
 3   0743    https://leetcode.com/problems/network-delay-time/

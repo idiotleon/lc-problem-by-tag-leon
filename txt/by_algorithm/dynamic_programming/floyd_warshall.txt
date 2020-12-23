@@ -4,7 +4,7 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode_Graph_III_Shortest_Path.docx
 
     
-### Shortest Path
+### Dynamic Programming
 ## Floyd Warshall
 
 3   0743    https://leetcode.com/problems/network-delay-time/
