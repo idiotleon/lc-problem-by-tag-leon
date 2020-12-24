@@ -56,6 +56,7 @@ References:
 4   0043    https://leetcode.com/problems/multiply-strings/
 4   0065    https://leetcode.com/problems/valid-number/
 4   0227    https://leetcode.com/problems/basic-calculator-ii/
+4   0556    https://leetcode.com/problems/next-greater-element-iii/
 4   0616    https://leetcode.com/problems/add-bold-tag-in-string/
 4   0726    https://leetcode.com/problems/number-of-atoms/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
