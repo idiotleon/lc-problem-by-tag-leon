@@ -4,7 +4,7 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Dynamic Programming
+### Array 
 ## By Topic
 # Triangle
 

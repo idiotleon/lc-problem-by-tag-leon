@@ -30,6 +30,7 @@ References:
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
+4   0120    https://leetcode.com/problems/triangle/
 4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 4   0351    https://leetcode.com/problems/android-unlock-patterns/
 4   0489    https://leetcode.com/problems/robot-room-cleaner/

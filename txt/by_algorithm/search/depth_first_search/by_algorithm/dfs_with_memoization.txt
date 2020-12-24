@@ -22,6 +22,7 @@ References:
 3   1485    https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
 
 4   0097    https://leetcode.com/problems/interleaving-string/
+4   0120    https://leetcode.com/problems/triangle/
 4   0115    https://leetcode.com/problems/distinct-subsequences/
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0312    https://leetcode.com/problems/burst-balloons/

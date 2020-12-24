@@ -34,6 +34,7 @@ References:
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
+4   0120    https://leetcode.com/problems/triangle/
 4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0368    https://leetcode.com/problems/largest-divisible-subset/

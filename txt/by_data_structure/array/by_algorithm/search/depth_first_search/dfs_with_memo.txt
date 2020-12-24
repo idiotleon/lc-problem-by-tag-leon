@@ -12,6 +12,7 @@ References:
 3   0877    https://leetcode.com/problems/stone-game/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 
+4   0120    https://leetcode.com/problems/triangle/
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0486    https://leetcode.com/problems/predict-the-winner/
 4   0799    https://leetcode.com/problems/champagne-tower/
