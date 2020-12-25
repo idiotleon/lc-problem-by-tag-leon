@@ -4,8 +4,10 @@ References:
 
 
 ### Linked List
-# Reverse a Linked List
+## Reverse a Linked List
+# Summary
 
+2   0024    https://leetcode.com/problems/swap-nodes-in-pairs/
 2   0206    https://leetcode.com/problems/reverse-linked-list/
 
 3   0092    https://leetcode.com/problems/reverse-linked-list-ii/

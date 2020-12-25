@@ -12,6 +12,7 @@ References:
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0024    https://leetcode.com/problems/swap-nodes-in-pairs/
 2   0203    https://leetcode.com/problems/remove-linked-list-elements/
 2   0328    https://leetcode.com/problems/odd-even-linked-list/
 2   0382    https://leetcode.com/problems/linked-list-random-node/
