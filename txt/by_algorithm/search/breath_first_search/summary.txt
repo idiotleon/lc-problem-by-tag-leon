@@ -57,6 +57,7 @@ References:
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
 3   0397    https://leetcode.com/problems/integer-replacement/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
+3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0542    https://leetcode.com/problems/01-matrix/
 3   0572    https://leetcode.com/problems/subtree-of-another-tree/
 3   0582    https://leetcode.com/problems/kill-process/
@@ -90,6 +91,7 @@ References:
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1448    https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 3   1490    https://leetcode.com/problems/clone-n-ary-tree/

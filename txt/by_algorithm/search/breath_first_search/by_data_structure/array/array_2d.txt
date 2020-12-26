@@ -13,6 +13,7 @@ References:
 3   0130    https://leetcode.com/problems/surrounded-regions/
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0542    https://leetcode.com/problems/01-matrix/
 3   0841    https://leetcode.com/problems/keys-and-rooms/
 3   0909    https://leetcode.com/problems/snakes-and-ladders/
@@ -22,6 +23,7 @@ References:
 3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
 3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 3   1254    https://leetcode.com/problems/number-of-closed-islands/
+3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
 4   0505    https://leetcode.com/problems/the-maze-ii/

@@ -15,6 +15,7 @@ References:
 3   0207    https://leetcode.com/problems/course-schedule/
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0489    https://leetcode.com/problems/diagonal-traverse/
 3   0542    https://leetcode.com/problems/01-matrix/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0909    https://leetcode.com/problems/snakes-and-ladders/
@@ -23,6 +24,7 @@ References:
 3   1254    https://leetcode.com/problems/number-of-closed-islands/
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
 4   0505    https://leetcode.com/problems/the-maze-ii/

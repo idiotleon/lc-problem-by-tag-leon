@@ -157,6 +157,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
 3   0494    https://leetcode.com/problems/target-sum/
+3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0519    https://leetcode.com/problems/random-flip-matrix/
 3   0518    https://leetcode.com/problems/coin-change-2/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
@@ -246,6 +247,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
