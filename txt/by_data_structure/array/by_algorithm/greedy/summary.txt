@@ -44,6 +44,7 @@ References:
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
+3   1686    https://leetcode.com/problems/stone-game-vi/
 
 4   0057    https://leetcode.com/problems/insert-interval/
 4   0135    https://leetcode.com/problems/candy/

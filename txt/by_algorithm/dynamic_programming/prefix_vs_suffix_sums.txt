@@ -5,7 +5,7 @@ References:
 
 
 ### Dynamic Programming
-# Prefix Sums
+# Dedicated Prefix Sums Approach
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/

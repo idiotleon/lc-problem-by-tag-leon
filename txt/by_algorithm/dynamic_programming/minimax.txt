@@ -7,11 +7,14 @@ References:
 ### Dynamic Programming
 # Minimax
 
-3   0877    https://leetcode.com/problems/stone-game/s
+2   1025    https://leetcode.com/problems/divisor-game/
+
+3   0877    https://leetcode.com/problems/stone-game/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0464    https://leetcode.com/problems/can-i-win/
 4   0486    https://leetcode.com/problems/predict-the-winner/
 4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1510    https://leetcode.com/problems/stone-game-iv/
 4   1563    https://leetcode.com/problems/stone-game-v/

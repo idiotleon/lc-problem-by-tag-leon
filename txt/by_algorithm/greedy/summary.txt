@@ -52,6 +52,7 @@ References:
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
+3   1686    https://leetcode.com/problems/stone-game-vi/
 
 4   0057    https://leetcode.com/problems/insert-interval/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/

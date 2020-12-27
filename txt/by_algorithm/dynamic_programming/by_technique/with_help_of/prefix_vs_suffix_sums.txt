@@ -9,6 +9,8 @@ References:
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 
+3   0877    https://leetcode.com/problems/stone-game/
+
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/

@@ -14,6 +14,7 @@ References:
 3   0289    https://leetcode.com/problems/game-of-life/
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
+3   1686    https://leetcode.com/problems/stone-game-vi/
 
 4   0045    https://leetcode.com/problems/jump-game-ii/
 4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
