@@ -37,6 +37,7 @@ References:
 3   1277    https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
 3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 
 4   0072    https://leetcode.com/problems/edit-distance/
 4   0097    https://leetcode.com/problems/interleaving-string/

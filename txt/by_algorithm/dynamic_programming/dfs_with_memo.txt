@@ -17,6 +17,7 @@ References:
 3   0877    https://leetcode.com/problems/stone-game/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0312    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/

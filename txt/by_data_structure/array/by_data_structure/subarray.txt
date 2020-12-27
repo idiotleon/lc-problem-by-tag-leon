@@ -27,11 +27,13 @@ References:
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 3   0764    https://leetcode.com/problems/largest-plus-sign/
 3   0840    https://leetcode.com/problems/magic-squares-in-grid/
+3   0877    https://leetcode.com/problems/stone-game/
 3   0904    https://leetcode.com/problems/fruit-into-baskets/
 3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
 3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
+3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
@@ -61,6 +63,7 @@ References:
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+4   1563    https://leetcode.com/problems/stone-game-v/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/
 5   0493    https://leetcode.com/problems/reverse-pairs/

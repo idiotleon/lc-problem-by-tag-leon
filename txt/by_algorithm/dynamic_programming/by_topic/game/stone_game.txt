@@ -1,9 +1,12 @@
 @author: Leon
 References:
+    https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
-### Array
+
+#### Dynamic Programming
+### By Topic
+## Game
 # Stone Game
 
 3   0877    https://leetcode.com/problems/stone-game/

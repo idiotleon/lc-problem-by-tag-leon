@@ -80,7 +80,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 3   1626    https://leetcode.com/problems/best-team-with-no-conflicts/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
-3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0072    https://leetcode.com/problems/edit-distance/

@@ -10,6 +10,7 @@ References:
 3   1033    https://leetcode.com/problems/moving-stones-until-consecutive/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1686    https://leetcode.com/problems/stone-game-vi/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 
 4   1040    https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 4   1406    https://leetcode.com/problems/stone-game-iii/

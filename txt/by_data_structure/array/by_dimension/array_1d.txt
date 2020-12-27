@@ -202,6 +202,7 @@ References:
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 3   1686    https://leetcode.com/problems/stone-game-vi/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0018    https://leetcode.com/problems/4sum/

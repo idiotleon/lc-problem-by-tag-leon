@@ -265,6 +265,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 3   1686    https://leetcode.com/problems/stone-game-vi/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

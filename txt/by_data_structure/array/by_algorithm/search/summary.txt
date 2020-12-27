@@ -59,6 +59,7 @@ References:
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1690    https://leetcode.com/problems/stone-game-vii/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
