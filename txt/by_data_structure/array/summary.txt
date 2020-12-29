@@ -286,6 +286,7 @@ This file serves as the total list of problems related to Array, regardless of a
 4   0265    https://leetcode.com/problems/paint-house-ii/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0296    https://leetcode.com/problems/best-meeting-point/
+4   0305    https://leetcode.com/problems/number-of-islands-ii/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
