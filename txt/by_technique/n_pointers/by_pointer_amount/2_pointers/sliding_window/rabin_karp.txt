@@ -3,8 +3,9 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### String
-## Word Pattern
+### N Pointers
+## 2 Pointers
+# Sliding Window
 # Rabin-Karp Algorithm
 
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
@@ -26,7 +27,6 @@ References:
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
-
 
 
 Resources:
