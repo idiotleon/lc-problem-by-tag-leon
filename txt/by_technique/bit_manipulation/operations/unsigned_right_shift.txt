@@ -9,3 +9,7 @@ References:
 # Unsigned Right Shift
 
 3   0397    https://leetcode.com/problems/integer-replacement/
+
+4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/

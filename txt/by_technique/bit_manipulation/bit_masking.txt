@@ -20,6 +20,7 @@ References:
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0464    https://leetcode.com/problems/can-i-win/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
@@ -37,7 +38,7 @@ References:
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
-
+5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 
 
 Resources:

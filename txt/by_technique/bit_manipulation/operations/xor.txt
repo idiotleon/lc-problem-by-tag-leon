@@ -19,6 +19,9 @@ References:
 3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 
+4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0481    https://leetcode.com/problems/magical-string/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+
+5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
