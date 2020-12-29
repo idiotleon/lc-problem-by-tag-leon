@@ -10,3 +10,4 @@ References:
 3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
 
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/

@@ -84,6 +84,7 @@ References:
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 4   1584    https://leetcode.com/problems/min-cost-to-connect-all-points/
 4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+4   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 5   0499    https://leetcode.com/problems/the-maze-iii/
 5   0850    https://leetcode.com/problems/rectangle-area-ii/

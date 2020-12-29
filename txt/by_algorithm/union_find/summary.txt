@@ -22,7 +22,6 @@ References:
 3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
-3   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0305    https://leetcode.com/problems/number-of-islands-ii/
@@ -43,6 +42,7 @@ References:
 4   1579    https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 4   1584    https://leetcode.com/problems/min-cost-to-connect-all-points/
 4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
+4   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 5   0685    https://leetcode.com/problems/redundant-connection-ii/
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
