@@ -7,3 +7,5 @@ References:
 # Linked List
 
 3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
+
+4   0023    https://leetcode.com/problems/merge-k-sorted-lists/

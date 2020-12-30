@@ -7,6 +7,7 @@ References:
 # Array
 
 2   0052    https://leetcode.com/problems/maximum-subarray/
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 3   0169    https://leetcode.com/problems/majority-element/

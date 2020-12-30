@@ -7,6 +7,7 @@ References:
 # Summary
 
 2   0052    https://leetcode.com/problems/maximum-subarray/
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0544    https://leetcode.com/problems/output-contest-matches/
 
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
@@ -17,6 +18,7 @@ References:
 3   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 
+4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
 4   0148    https://leetcode.com/problems/sort-list/
 4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 4   0218    https://leetcode.com/problems/the-skyline-problem/

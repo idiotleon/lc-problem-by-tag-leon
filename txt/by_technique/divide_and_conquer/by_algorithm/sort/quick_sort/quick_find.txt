@@ -4,6 +4,6 @@ References:
     
     
 ### Divide and Conquer
-# Merge Sort
+# Quick Find
 
-4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/ 
