@@ -25,3 +25,8 @@ References:
 4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 
 5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
+
+
+
+Resources:
+    https://youtu.be/KXbU07PPru8?t=177

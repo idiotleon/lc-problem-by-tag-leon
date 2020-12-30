@@ -71,6 +71,7 @@ References:
 5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 
 
+
 ###Resources:
     https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
     http://graphics.stanford.edu/~seander/bithacks.html
@@ -78,3 +79,4 @@ References:
     https://leetcode.com/problems/total-hamming-distance/discuss/96243/Share-my-O(n)-C++-bitwise-solution-with-thinking-process-and-explanation
     https://leetcode.com/problems/maximum-students-taking-exam/discuss/503686/A-simple-tutorial-on-this-bitmasking-problem
     https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484501&idx=1&sn=af4cbfd46c68be78b2ab5909e3389b8f&chksm=9bd7fa5daca0734b1320f719332dd58f374a0f3363634e8876783f45e5596bb5fca14653d2b0&scene=178&cur_album_id=1318892385270808576#rd
+    https://youtu.be/KXbU07PPru8
