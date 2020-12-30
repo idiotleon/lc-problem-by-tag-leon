@@ -8,3 +8,5 @@ References:
 # Binary Binary Tree 
 
 2   0814    https://leetcode.com/problems/binary-tree-pruning/
+
+3   1261    https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/

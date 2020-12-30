@@ -53,7 +53,6 @@ References:
 2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
 2   1214    https://leetcode.com/problems/two-sum-bsts/
-3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 2   1315    https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
@@ -167,6 +166,7 @@ References:
 3   1245    https://leetcode.com/problems/tree-diameter/
 3   1254    https://leetcode.com/problems/number-of-closed-islands/
 3   1261    https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 3   1273    https://leetcode.com/problems/delete-tree-nodes/
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
