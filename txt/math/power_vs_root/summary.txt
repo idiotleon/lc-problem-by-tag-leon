@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+## Exponential vs Root
+# Summary
+
+3   0050    https://leetcode.com/problems/powx-n/
+3   0069    https://leetcode.com/problems/sqrtx/

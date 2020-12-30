@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+## Exponential vs Root
+# Root
+
+3   0069    https://leetcode.com/problems/sqrtx/

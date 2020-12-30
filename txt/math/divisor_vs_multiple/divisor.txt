@@ -3,7 +3,8 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Factors
+### Divisor vs Multiple
+# Divisor
 
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
@@ -28,8 +29,6 @@ References:
 4   1250    https://leetcode.com/problems/check-if-it-is-a-good-array/
 
 
-
-## Least Common Multiple
 
 
 

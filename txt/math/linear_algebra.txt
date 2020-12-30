@@ -6,4 +6,8 @@ References:
 ### Math
 # Linear Algebra
 
+1   0867    https://leetcode.com/problems/transpose-matrix/
+
+3   0048    https://leetcode.com/problems/rotate-image/
+
 4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/

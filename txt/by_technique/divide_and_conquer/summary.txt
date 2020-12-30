@@ -12,6 +12,7 @@ References:
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3   0169    https://leetcode.com/problems/majority-element/
 3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/

@@ -34,7 +34,9 @@ References:
 3   0040    https://leetcode.com/problems/combination-sum-ii/
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
+3   0050    https://leetcode.com/problems/powx-n/
 3   0060    https://leetcode.com/problems/permutation-sequence/
+3   0069    https://leetcode.com/problems/sqrtx/
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0223    https://leetcode.com/problems/rectangle-area/
 3   0279    https://leetcode.com/problems/perfect-squares/

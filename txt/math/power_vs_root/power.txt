@@ -4,7 +4,10 @@ References:
     
 
 ### Math
-# Power
+## Exponential vs Root
+# Exponential
+
+3   0050    https://leetcode.com/problems/powx-n/
 
 4   0372    https://leetcode.com/problems/super-pow/
 

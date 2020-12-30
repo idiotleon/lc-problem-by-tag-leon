@@ -9,6 +9,7 @@ References:
 2   0052    https://leetcode.com/problems/maximum-subarray/
 
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3   0169    https://leetcode.com/problems/majority-element/
 
 4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
 4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
