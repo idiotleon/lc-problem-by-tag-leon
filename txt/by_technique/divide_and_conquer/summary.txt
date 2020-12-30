@@ -28,3 +28,8 @@ References:
 5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 5   0772    https://leetcode.com/problems/basic-calculator-iii/
 5   0932    https://leetcode.com/problems/beautiful-array/
+
+
+
+Resources:
+    https://youtu.be/SWr4cSY2fCk

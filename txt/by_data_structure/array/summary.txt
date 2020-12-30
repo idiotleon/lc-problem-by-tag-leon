@@ -133,6 +133,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0275    https://leetcode.com/problems/h-index-ii/
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0289    https://leetcode.com/problems/game-of-life/
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
 3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/

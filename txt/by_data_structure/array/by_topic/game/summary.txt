@@ -9,6 +9,7 @@ References:
 # Summary
 
 3   0055    https://leetcode.com/problems/jump-game/
+3   0289    https://leetcode.com/problems/game-of-life/
 3   0877    https://leetcode.com/problems/stone-game/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1306    https://leetcode.com/problems/jump-game-iii/
