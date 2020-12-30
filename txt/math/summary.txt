@@ -71,6 +71,7 @@ References:
 
 4   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
 4   0031    https://leetcode.com/problems/next-permutation/
+4   0295    https://leetcode.com/problems/find-median-from-data-stream/
 4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 4   0372    https://leetcode.com/problems/super-pow/

@@ -10,4 +10,6 @@ References:
 
 2   0170    https://leetcode.com/problems/two-sum-iii-data-structure-design/
 
+4   0295    https://leetcode.com/problems/find-median-from-data-stream/
+
 5   1622    https://leetcode.com/problems/fancy-sequence/

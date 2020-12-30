@@ -37,6 +37,7 @@ References:
 4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
 4   0218    https://leetcode.com/problems/the-skyline-problem/
 4   0239    https://leetcode.com/problems/sliding-window-maximum/
+4   0295    https://leetcode.com/problems/find-median-from-data-stream/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0313    https://leetcode.com/problems/super-ugly-number/
 4   0358    https://leetcode.com/problems/rearrange-string-k-distance-apart/
