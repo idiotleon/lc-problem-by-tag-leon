@@ -112,6 +112,7 @@ References:
 3   0753    https://leetcode.com/problems/cracking-the-safe/
 3   0756    https://leetcode.com/problems/pyramid-transition-matrix/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
+3   0816    https://leetcode.com/problems/ambiguous-coordinates/
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
