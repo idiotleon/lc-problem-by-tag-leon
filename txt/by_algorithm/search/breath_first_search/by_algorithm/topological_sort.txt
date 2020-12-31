@@ -12,6 +12,7 @@ References:
 3   0310    https://leetcode.com/problems/minimum-height-trees/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0743    https://leetcode.com/problems/network-delay-time/
+3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 
 4   0269    https://leetcode.com/problems/alien-dictionary/
