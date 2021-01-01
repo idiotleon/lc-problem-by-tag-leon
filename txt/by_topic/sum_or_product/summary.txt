@@ -35,5 +35,7 @@ References:
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 
+5   0327    https://leetcode.com/problems/count-of-range-sum/
+
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
