@@ -57,6 +57,7 @@ References:
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 

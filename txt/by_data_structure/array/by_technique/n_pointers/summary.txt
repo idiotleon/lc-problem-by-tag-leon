@@ -117,6 +117,7 @@ References:
 4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/

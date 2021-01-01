@@ -74,6 +74,7 @@ References:
 4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 4   1340    https://leetcode.com/problems/jump-game-v/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 
 5   0085    https://leetcode.com/problems/maximal-rectangle/
 5   0224    https://leetcode.com/problems/basic-calculator/
