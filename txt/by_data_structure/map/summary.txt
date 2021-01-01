@@ -11,6 +11,7 @@ References:
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0170    https://leetcode.com/problems/two-sum-iii-data-structure-design/
+2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0791    https://leetcode.com/problems/custom-sort-string/
 2   0811    https://leetcode.com/problems/subdomain-visit-count/

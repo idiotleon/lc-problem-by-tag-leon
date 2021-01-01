@@ -6,6 +6,7 @@ References:
 ### By Topic
 # Count Occurrences
 
+2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 
