@@ -13,3 +13,5 @@ References:
 
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
+
+4   0683    https://leetcode.com/problems/k-empty-slots/
