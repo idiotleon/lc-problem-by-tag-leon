@@ -40,6 +40,7 @@ References:
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
 3   0080    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
