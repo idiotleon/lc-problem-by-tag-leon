@@ -53,6 +53,7 @@ References:
 5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 5   0324    https://leetcode.com/problems/wiggle-sort-ii/
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+5   0493    https://leetcode.com/problems/reverse-pairs/
 5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
 5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
