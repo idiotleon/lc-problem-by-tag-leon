@@ -8,6 +8,8 @@ References:
 ## By Dimensions
 # 2 Dimensional
 
+1   0062    https://leetcode.com/problems/unique-paths/
+
 2   0063    https://leetcode.com/problems/unique-paths-ii/
 2   0064    https://leetcode.com/problems/minimum-path-sum/
 2   0198    https://leetcode.com/problems/house-robber/

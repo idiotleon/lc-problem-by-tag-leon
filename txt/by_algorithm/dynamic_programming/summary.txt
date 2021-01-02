@@ -8,6 +8,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 ### Dynamic Programming
 # Summary
 
+1   0062    https://leetcode.com/problems/unique-paths/
 1   0070    https://leetcode.com/problems/climbing-stairs/
 1   0204    https://leetcode.com/problems/count-primes/
 1   0509    https://leetcode.com/problems/fibonacci-number/
