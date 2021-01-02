@@ -74,8 +74,9 @@ References:
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 
 
+
 Resources:
     https://www.hackerearth.com/practice/algorithms/dynamic-programming/state-space-reduction/tutorial/
     https://youtu.be/MjOIR61txFc?t=588
     https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation/241664
-    
+    https://leetcode.com/problems/unique-paths/discuss/22954/C%2B%2B-DP 
