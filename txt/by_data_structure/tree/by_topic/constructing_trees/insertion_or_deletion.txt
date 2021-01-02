@@ -21,6 +21,7 @@ References:
 
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 3   1080    https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
+3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 
 4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
 

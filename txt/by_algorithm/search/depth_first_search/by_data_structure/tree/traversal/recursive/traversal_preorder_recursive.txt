@@ -42,6 +42,7 @@ References:
 3   1372    https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
+3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/

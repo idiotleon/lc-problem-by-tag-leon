@@ -99,6 +99,7 @@ References:
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
+3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/

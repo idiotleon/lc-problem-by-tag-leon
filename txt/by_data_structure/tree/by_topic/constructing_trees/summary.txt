@@ -35,6 +35,7 @@ References:
 3   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 3   1490    https://leetcode.com/problems/clone-n-ary-tree/
+3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 
 4   0218    https://leetcode.com/problems/the-skyline-problem/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/

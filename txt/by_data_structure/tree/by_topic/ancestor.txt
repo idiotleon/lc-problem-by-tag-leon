@@ -13,6 +13,7 @@ References:
 3   1257    https://leetcode.com/problems/smallest-common-region/
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 
 4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
 
