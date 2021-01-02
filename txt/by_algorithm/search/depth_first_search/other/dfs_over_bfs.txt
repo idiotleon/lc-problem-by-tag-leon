@@ -30,6 +30,7 @@ References:
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
 4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
+4   0656    https://leetcode.com/problems/coin-path/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/

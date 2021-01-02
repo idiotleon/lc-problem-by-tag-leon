@@ -227,6 +227,7 @@ References:
 4   0545    https://leetcode.com/problems/boundary-of-binary-tree/
 4   0549    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
 4   0576    https://leetcode.com/problems/out-of-boundary-paths/
+4   0656    https://leetcode.com/problems/coin-path/
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0721    https://leetcode.com/problems/accounts-merge/

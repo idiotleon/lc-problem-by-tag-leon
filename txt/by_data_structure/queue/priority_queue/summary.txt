@@ -37,6 +37,7 @@ References:
 4   0621    https://leetcode.com/problems/task-scheduler/
 4   0630    https://leetcode.com/problems/course-schedule-iii/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0656    https://leetcode.com/problems/coin-path/
 4   0683    https://leetcode.com/problems/k-empty-slots/
 4   0759    https://leetcode.com/problems/employee-free-time/
 4   0855    https://leetcode.com/problems/exam-room/

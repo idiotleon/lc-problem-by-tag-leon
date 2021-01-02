@@ -39,6 +39,7 @@ References:
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0286    https://leetcode.com/problems/walls-and-gates/
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0494    https://leetcode.com/problems/target-sum/
@@ -69,7 +70,6 @@ References:
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
-3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 4   0351    https://leetcode.com/problems/android-unlock-patterns/
 4   0368    https://leetcode.com/problems/largest-divisible-subset/
 4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
@@ -80,6 +80,7 @@ References:
 4   0486    https://leetcode.com/problems/predict-the-winner/
 4   0489    https://leetcode.com/problems/robot-room-cleaner/
 4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0656    https://leetcode.com/problems/coin-path/
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/

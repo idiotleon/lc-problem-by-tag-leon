@@ -1,13 +1,10 @@
 @author: Leon
 References:
-    https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-
-### Dynamic Programming
+    
+### Array
 ## By Topic
 # Path
-
-1   0062    https://leetcode.com/problems/unique-paths/
 
 4   0656    https://leetcode.com/problems/coin-path/

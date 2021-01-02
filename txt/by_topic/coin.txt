@@ -1,0 +1,17 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+# Coin
+
+2   0441    https://leetcode.com/problems/arranging-coins/
+2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+
+3   0322    https://leetcode.com/problems/coin-change/
+3   0518    https://leetcode.com/problems/coin-change-2/
+3   1230    https://leetcode.com/problems/toss-strange-coins/
+
+4   0656    https://leetcode.com/problems/coin-path
+4   0979    https://leetcode.com/problems/distribute-coins-in-binary-tree/

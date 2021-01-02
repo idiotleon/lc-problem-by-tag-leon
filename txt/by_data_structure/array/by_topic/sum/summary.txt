@@ -16,5 +16,6 @@ References:
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0656    https://leetcode.com/problems/coin-path/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
