@@ -18,3 +18,8 @@ References:
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0493    https://leetcode.com/problems/reverse-pairs/
 5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
+
+
+
+Resource:
+    https://www.bilibili.com/video/BV1QE411X7mA

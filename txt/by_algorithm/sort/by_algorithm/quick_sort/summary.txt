@@ -6,4 +6,16 @@ References:
 ### Sort
 # Quick Sort
 
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
+2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+
 3   0912    https://leetcode.com/problems/sort-an-array/
+
+5   0324    https://leetcode.com/problems/wiggle-sort-ii/
+
+
+
+Resource:
+    https://www.bilibili.com/video/BV1QE411X7mA
+    https://algs4.cs.princeton.edu/23quicksort/
+    https://algs4.cs.princeton.edu/23quicksort/Quick.java.html

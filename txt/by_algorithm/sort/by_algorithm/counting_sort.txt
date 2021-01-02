@@ -13,3 +13,8 @@ References:
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
+
+
+
+Resource:
+    https://www.bilibili.com/video/BV1QE411X7mA
