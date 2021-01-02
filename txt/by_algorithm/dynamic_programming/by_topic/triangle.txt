@@ -13,3 +13,8 @@ References:
 3   0119    https://leetcode.com/problems/pascals-triangle-ii/
 
 4   0120    https://leetcode.com/problems/triangle/
+
+
+
+Resource:
+    https://youtu.be/dgCAr-eopjE
