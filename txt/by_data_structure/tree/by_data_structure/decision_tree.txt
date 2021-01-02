@@ -9,3 +9,4 @@ References:
 
 2   0263    https://leetcode.com/problems/ugly-number/
 
+4   0780    https://leetcode.com/problems/reaching-points/

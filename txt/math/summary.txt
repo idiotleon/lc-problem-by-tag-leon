@@ -81,6 +81,7 @@ References:
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
 4   0621    https://leetcode.com/problems/task-scheduler/
 4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
+4   0780    https://leetcode.com/problems/reaching-points/
 4   0788    https://leetcode.com/problems/rotated-digits/
 4   0910    https://leetcode.com/problems/smallest-range-ii/ 
 4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
