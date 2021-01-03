@@ -65,6 +65,7 @@ References:
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0723    https://leetcode.com/problems/candy-crush/
 3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
 3   0835    https://leetcode.com/problems/image-overlap/

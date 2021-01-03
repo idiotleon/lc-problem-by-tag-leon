@@ -1,0 +1,26 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Special Array
+
+1   0189    https://leetcode.com/problems/rotate-array/
+
+2   0268    https://leetcode.com/problems/missing-number/
+2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
+2   1539    https://leetcode.com/problems/kth-missing-positive-number/
+
+3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
+3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
+3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
+
+4   0081    https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+4   0162    https://leetcode.com/problems/find-peak-element/
+4   0683    https://leetcode.com/problems/k-empty-slots/
+
+5   1095    https://leetcode.com/problems/find-in-mountain-array/
