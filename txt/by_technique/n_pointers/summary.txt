@@ -118,6 +118,7 @@ References:
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
 3   0334    https://leetcode.com/problems/increasing-triplet-subsequence/
+2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/

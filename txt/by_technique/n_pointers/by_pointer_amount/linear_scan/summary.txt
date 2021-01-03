@@ -38,6 +38,7 @@ References:
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0299    https://leetcode.com/problems/bulls-and-cows/
 2   0328    https://leetcode.com/problems/odd-even-linked-list/
+2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0409    https://leetcode.com/problems/longest-palindrome/
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0463    https://leetcode.com/problems/island-perimeter/

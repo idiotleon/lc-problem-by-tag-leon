@@ -32,6 +32,7 @@ References:
 
 5   0588    https://leetcode.com/problems/design-in-memory-file-system/
 5   0715    https://leetcode.com/problems/range-module/
+5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
 
 
 Resources:

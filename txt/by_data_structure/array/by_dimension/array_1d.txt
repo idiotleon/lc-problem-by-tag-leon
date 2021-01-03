@@ -37,6 +37,7 @@ References:
 2   0278    https://leetcode.com/problems/first-bad-version/
 2   0280    https://leetcode.com/problems/wiggle-sort/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0362    https://leetcode.com/problems/design-hit-counter/
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/

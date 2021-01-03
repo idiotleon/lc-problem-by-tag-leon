@@ -19,6 +19,7 @@ References:
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
 2   0290    https://leetcode.com/problems/word-pattern/
+2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/
 2   0443    https://leetcode.com/problems/string-compression/
 2   0567    https://leetcode.com/problems/permutation-in-string/
