@@ -56,6 +56,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0666    https://leetcode.com/problems/path-sum-iv/
+3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/

@@ -7,3 +7,5 @@ References:
 # Count Occurrences
 
 1   0062    https://leetcode.com/problems/unique-paths/
+
+3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained

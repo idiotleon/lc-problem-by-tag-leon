@@ -1,0 +1,25 @@
+@author: Leon
+References:
+    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## By Topic
+# Subset
+
+3   0667    https://leetcode.com/problems/beautiful-arrangement/
+
+4   0473    https://leetcode.com/problems/matchsticks-to-square/
+4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+4   0854    https://leetcode.com/problems/k-similar-strings/
+4   1434    https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
+4   1494    https://leetcode.com/problems/parallel-courses-ii/
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/
+
+5   0465    https://leetcode.com/problems/optimal-account-balancing/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
+5   1659    https://leetcode.com/problems/maximize-grid-happiness/
+5   1681    https://leetcode.com/problems/minimum-incompatibility/

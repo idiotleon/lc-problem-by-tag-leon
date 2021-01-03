@@ -12,6 +12,7 @@ References:
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   0667    https://leetcode.com/problems/beautiful-arrangement/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 
