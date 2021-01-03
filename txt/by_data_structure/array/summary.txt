@@ -31,6 +31,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   0078    https://leetcode.com/problems/subsets/
 2   0090    https://leetcode.com/problems/subsets-ii/
 2   0118    https://leetcode.com/problems/pascals-triangle/
+2   0122    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
@@ -422,6 +423,7 @@ This file serves as the total list of problems related to Array, regardless of a
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1622    https://leetcode.com/problems/fancy-sequence/
+5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 6   0391    https://leetcode.com/problems/perfect-rectangle/

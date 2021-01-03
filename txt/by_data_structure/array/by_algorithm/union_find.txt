@@ -19,3 +19,4 @@ References:
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
 
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
+5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/

@@ -134,6 +134,7 @@ References:
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 6   0391    https://leetcode.com/problems/perfect-rectangle/
