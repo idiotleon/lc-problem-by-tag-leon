@@ -17,6 +17,7 @@ References:
 3   1275    https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 3   1286    https://leetcode.com/problems/iterator-for-combination/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 
 4   0051    https://leetcode.com/problems/n-queens/
