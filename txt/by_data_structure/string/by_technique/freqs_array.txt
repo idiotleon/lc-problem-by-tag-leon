@@ -11,6 +11,7 @@ References:
 1   0389    https://leetcode.com/problems/find-the-difference/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   0242    https://leetcode.com/problems/valid-anagram/
 2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0299    https://leetcode.com/problems/bulls-and-cows/
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/

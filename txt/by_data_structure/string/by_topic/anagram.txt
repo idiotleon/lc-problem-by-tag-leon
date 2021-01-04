@@ -6,4 +6,6 @@ References:
 ### String
 # Anagram
 
+2   0242    https://leetcode.com/problems/valid-anagram/
+
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/

@@ -11,7 +11,6 @@ References:
 1   0189    https://leetcode.com/problems/rotate-array/
 1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
 1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
-1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0506    https://leetcode.com/problems/relative-ranks/
 1   0682    https://leetcode.com/problems/baseball-game/
 1   0709    https://leetcode.com/problems/to-lower-case/
@@ -34,6 +33,7 @@ References:
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
 2   0203    https://leetcode.com/problems/remove-linked-list-elements/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
+2   0242    https://leetcode.com/problems/valid-anagram/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0251    https://leetcode.com/problems/flatten-2d-vector/
 2   0290    https://leetcode.com/problems/word-pattern/
