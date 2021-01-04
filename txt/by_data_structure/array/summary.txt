@@ -101,6 +101,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
+3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0039    https://leetcode.com/problems/combination-sum/
 3   0040    https://leetcode.com/problems/combination-sum-ii/ 
 3   0046    https://leetcode.com/problems/permutations/

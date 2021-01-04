@@ -7,6 +7,7 @@ References:
 ## By Topic
 # Main Diagnoal vs Antidiagnoal
 
+3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 

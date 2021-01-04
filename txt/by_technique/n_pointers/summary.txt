@@ -102,6 +102,7 @@ References:
 2   1694    https://leetcode.com/problems/reformat-phone-number/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
+3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0075    https://leetcode.com/problems/sort-colors/
 3   0080    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 3   0086    https://leetcode.com/problems/partition-list/

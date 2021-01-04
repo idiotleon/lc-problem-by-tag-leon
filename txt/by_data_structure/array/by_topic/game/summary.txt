@@ -8,6 +8,7 @@ References:
 ## Game
 # Summary
 
+3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0055    https://leetcode.com/problems/jump-game/
 3   0289    https://leetcode.com/problems/game-of-life/
 3   0877    https://leetcode.com/problems/stone-game/
@@ -26,5 +27,6 @@ References:
 4   1510    https://leetcode.com/problems/stone-game-iv/
 4   1563    https://leetcode.com/problems/stone-game-v/
 
+5   0037    https://leetcode.com/problems/sudoku-solver/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 
