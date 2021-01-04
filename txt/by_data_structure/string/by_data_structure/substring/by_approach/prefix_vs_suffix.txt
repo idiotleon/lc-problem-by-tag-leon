@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Substring
+# Prefix vs Suffix
+
+4   1392    https://leetcode.com/problems/longest-happy-prefix/

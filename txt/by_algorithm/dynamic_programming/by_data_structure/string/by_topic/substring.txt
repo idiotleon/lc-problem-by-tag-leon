@@ -9,5 +9,6 @@ References:
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1392    https://leetcode.com/problems/longest-happy-prefix/
 
 5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
