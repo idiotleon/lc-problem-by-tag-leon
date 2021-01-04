@@ -6,6 +6,8 @@ References:
 ### Array
 # String - Array
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
+
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/

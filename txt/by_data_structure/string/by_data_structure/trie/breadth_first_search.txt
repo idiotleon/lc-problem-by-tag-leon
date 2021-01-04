@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+## By Data Structure
+# Trie
+# Breadth First Search
+
+1   0014    https://leetcode.com/problems/longest-common-prefix/

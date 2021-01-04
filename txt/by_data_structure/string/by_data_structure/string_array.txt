@@ -6,6 +6,8 @@ References:
 ### String
 # String Array
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
+
 2   0290    https://leetcode.com/problems/word-pattern/
 
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
