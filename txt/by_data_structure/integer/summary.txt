@@ -66,6 +66,7 @@ References:
 4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 4   1510    https://leetcode.com/problems/stone-game-iv/
 4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
+4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   0808    https://leetcode.com/problems/soup-servings/
