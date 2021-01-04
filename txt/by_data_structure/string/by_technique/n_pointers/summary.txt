@@ -11,6 +11,7 @@ References:
 1   0067    https://leetcode.com/problems/add-binary/
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
+1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0709    https://leetcode.com/problems/to-lower-case/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/

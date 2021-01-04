@@ -7,6 +7,8 @@ References:
 ## HashMap
 # Implemented as an Array
 
+1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
+
 2   0266    https://leetcode.com/problems/palindrome-permutation/
 
 3   0748    https://leetcode.com/problems/shortest-completing-word/

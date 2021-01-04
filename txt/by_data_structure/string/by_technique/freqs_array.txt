@@ -7,6 +7,7 @@ References:
 ## By Technique
 # an array as the FREQuencieS map
 
+1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
