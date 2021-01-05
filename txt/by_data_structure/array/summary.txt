@@ -87,6 +87,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
+2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1464    https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
