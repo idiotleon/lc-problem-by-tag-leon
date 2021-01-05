@@ -12,6 +12,7 @@ References:
 
 3   1023    https://leetcode.com/problems/camelcase-matching/
 
+4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
 
 5   0291    https://leetcode.com/problems/word-pattern-ii/

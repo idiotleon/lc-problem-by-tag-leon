@@ -157,6 +157,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1035    https://leetcode.com/problems/uncrossed-lines/
 4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
 4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
 4   1187    https://leetcode.com/problems/make-array-strictly-increasing/

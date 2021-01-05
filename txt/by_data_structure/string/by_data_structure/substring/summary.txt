@@ -48,6 +48,7 @@ References:
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
