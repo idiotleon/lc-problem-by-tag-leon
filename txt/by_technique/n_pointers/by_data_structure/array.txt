@@ -86,6 +86,7 @@ References:
 3   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 3   1229    https://leetcode.com/problems/meeting-scheduler/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/

@@ -190,6 +190,7 @@ References:
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1296    https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 3   1306    https://leetcode.com/problems/jump-game-iii/
+3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/

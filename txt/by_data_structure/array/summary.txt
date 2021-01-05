@@ -253,6 +253,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/

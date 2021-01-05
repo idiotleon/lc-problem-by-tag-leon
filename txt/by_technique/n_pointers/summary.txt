@@ -172,6 +172,7 @@ References:
 3   1229    https://leetcode.com/problems/meeting-scheduler/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
