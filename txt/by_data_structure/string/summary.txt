@@ -173,6 +173,7 @@ References:
 4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 4   0809    https://leetcode.com/problems/expressive-words/
 4   0854    https://leetcode.com/problems/k-similar-strings/
+4   0906    https://leetcode.com/problems/super-palindromes/
 4   0916    https://leetcode.com/problems/word-subsets/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   0936    https://leetcode.com/problems/stamping-the-sequence/

@@ -15,5 +15,6 @@ References:
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 
 4   0818    https://leetcode.com/problems/race-car/
+4   0906    https://leetcode.com/problems/super-palindromes/
 
 5   0818    https://leetcode.com/problems/race-car/

@@ -115,6 +115,7 @@ References:
 4   0854    https://leetcode.com/problems/k-similar-strings/
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
+4   0906    https://leetcode.com/problems/super-palindromes/
 4   0924    https://leetcode.com/problems/minimize-malware-spread/
 4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
 4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/

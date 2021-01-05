@@ -13,5 +13,6 @@ References:
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
+4   0906    https://leetcode.com/problems/super-palindromes/
 4   1088    https://leetcode.com/problems/confusing-number-ii/
 4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/

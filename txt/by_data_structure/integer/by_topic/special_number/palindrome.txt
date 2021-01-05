@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+## Special Number
+# Palindrome
+
+4   0906    https://leetcode.com/problems/super-palindromes/

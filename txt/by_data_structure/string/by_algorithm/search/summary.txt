@@ -34,6 +34,7 @@ References:
 4   0726    https://leetcode.com/problems/number-of-atoms/
 4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 4   0854    https://leetcode.com/problems/k-similar-strings/
+4   0906    https://leetcode.com/problems/super-palindromes/
 4   1028    https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 4   1092    https://leetcode.com/problems/shortest-common-supersequence/
 4   1216    https://leetcode.com/problems/valid-palindrome-iii/

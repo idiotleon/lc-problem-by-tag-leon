@@ -16,3 +16,4 @@ References:
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 
 4   0372    https://leetcode.com/problems/super-pow/
+4   0906    https://leetcode.com/problems/super-palindromes/
