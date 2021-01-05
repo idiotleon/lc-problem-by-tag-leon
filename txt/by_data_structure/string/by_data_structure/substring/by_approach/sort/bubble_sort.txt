@@ -1,10 +1,10 @@
 @author: Leon
 References:
-    https://leetcode.com/tag/heap/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
 
-### Sort
+
+### String
+## Substring
 # Bubble Sort
 
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/

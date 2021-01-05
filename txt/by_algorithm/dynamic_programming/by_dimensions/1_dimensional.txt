@@ -120,6 +120,7 @@ References:
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/

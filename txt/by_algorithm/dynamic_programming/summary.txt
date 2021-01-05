@@ -188,6 +188,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 
 5   0010    https://leetcode.com/problems/regular-expression-matching/
