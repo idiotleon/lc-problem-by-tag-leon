@@ -192,6 +192,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
+4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 
 5   0010    https://leetcode.com/problems/regular-expression-matching/
 5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/

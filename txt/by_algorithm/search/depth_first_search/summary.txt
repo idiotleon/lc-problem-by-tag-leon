@@ -280,6 +280,7 @@ References:
 4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 4   1563    https://leetcode.com/problems/stone-game-v/
+4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/
 5   0099    https://leetcode.com/problems/recover-binary-search-tree/

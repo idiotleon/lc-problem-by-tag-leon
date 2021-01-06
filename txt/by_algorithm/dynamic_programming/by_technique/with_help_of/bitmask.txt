@@ -9,6 +9,7 @@ References:
 
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/

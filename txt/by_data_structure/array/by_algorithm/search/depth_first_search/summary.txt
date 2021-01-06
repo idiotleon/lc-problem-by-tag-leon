@@ -71,6 +71,7 @@ References:
 4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
+4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 
 5   0140    https://leetcode.com/problems/word-break-ii/
 5   0212    https://leetcode.com/problems/word-search-ii/
