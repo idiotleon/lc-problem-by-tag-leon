@@ -60,6 +60,7 @@ References:
 4   0887    https://leetcode.com/problems/super-egg-drop/
 4   0906    https://leetcode.com/problems/super-palindromes/
 4   0982    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+4   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 4   1088    https://leetcode.com/problems/confusing-number-ii/
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
 4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/

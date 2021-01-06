@@ -16,4 +16,5 @@ References:
 
 4   0031    https://leetcode.com/problems/next-permutation/
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/

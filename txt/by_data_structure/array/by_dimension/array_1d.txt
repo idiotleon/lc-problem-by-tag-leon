@@ -224,6 +224,7 @@ References:
 4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0313    https://leetcode.com/problems/super-ugly-number/
+4   0330    https://leetcode.com/problems/patching-array/
 4   0354    https://leetcode.com/problems/russian-doll-envelopes/
 4   0368    https://leetcode.com/problems/largest-divisible-subset/
 4   0372    https://leetcode.com/problems/super-pow/

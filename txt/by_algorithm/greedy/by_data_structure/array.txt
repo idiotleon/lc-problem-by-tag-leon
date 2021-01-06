@@ -48,6 +48,7 @@ References:
 
 4   0057    https://leetcode.com/problems/insert-interval/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0330    https://leetcode.com/problems/patching-array/
 4   0358    https://leetcode.com/problems/rearrange-string-k-distance-apart/
 4   0502    https://leetcode.com/problems/ipo/
 4   0616    https://leetcode.com/problems/add-bold-tag-in-string/

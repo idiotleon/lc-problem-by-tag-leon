@@ -85,6 +85,7 @@ References:
 4   0788    https://leetcode.com/problems/rotated-digits/
 4   0910    https://leetcode.com/problems/smallest-range-ii/ 
 4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
+4   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1040    https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 4   1093    https://leetcode.com/problems/statistics-from-a-large-sample/
