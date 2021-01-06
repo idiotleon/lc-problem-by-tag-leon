@@ -19,6 +19,8 @@ References:
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
+6   0913    https://leetcode.com/problems/cat-and-mouse/
+
 
 Resources:
     https://www.youtube.com/watch?v=M6SBePBMznU

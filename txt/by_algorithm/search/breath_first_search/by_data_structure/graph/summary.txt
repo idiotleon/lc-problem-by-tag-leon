@@ -42,3 +42,5 @@ References:
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+
+6   0913    https://leetcode.com/problems/cat-and-mouse/
