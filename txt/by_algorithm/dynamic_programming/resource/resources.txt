@@ -4,7 +4,10 @@
 
     https://www.youtube.com/watch?v=FLbqgyJ-70I&t=142s
     https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
-
+    https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+    https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
+    https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
+    https://leetcode.com/discuss/general-discussion/592146/dynamic-programming-summary
 
 
 ## Knapsack
