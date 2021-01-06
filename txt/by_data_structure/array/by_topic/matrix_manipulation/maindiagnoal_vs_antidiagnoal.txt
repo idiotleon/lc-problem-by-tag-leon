@@ -9,6 +9,7 @@ References:
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
+3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 
 4   0051    https://leetcode.com/problems/n-queens/

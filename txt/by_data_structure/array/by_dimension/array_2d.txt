@@ -72,6 +72,7 @@ References:
 3   1275    https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 3   1288    https://leetcode.com/problems/remove-covered-intervals/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 

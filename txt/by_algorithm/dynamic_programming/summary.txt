@@ -114,6 +114,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 4   0639    https://leetcode.com/problems/decode-ways-ii/
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0651    https://leetcode.com/problems/4-keys-keyboard/
 4   0656    https://leetcode.com/problems/coin-path/
 4   0664    https://leetcode.com/problems/strange-printer/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/

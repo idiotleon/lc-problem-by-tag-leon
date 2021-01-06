@@ -4,7 +4,7 @@ References:
 
 
 ### Array
-# Summary
+# Counting Sort
 
 1   1051    https://leetcode.com/problems/height-checker/
 
