@@ -25,6 +25,7 @@ References:
 4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
 4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1199    https://leetcode.com/problems/minimum-time-to-build-blocks/
 4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 4   1246    https://leetcode.com/problems/palindrome-removal/
 4   1340    https://leetcode.com/problems/jump-game-v/

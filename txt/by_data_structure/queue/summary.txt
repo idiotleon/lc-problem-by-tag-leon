@@ -56,6 +56,7 @@ References:
 4   0864    https://leetcode.com/problems/shortest-path-to-get-all-keys/
 4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1199    https://leetcode.com/problems/minimum-time-to-build-blocks/
 4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 4   1425    https://leetcode.com/problems/constrained-subsequence-sum/
 4   1499    https://leetcode.com/problems/max-value-of-equation/

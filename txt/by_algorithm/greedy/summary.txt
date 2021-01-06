@@ -77,6 +77,7 @@ References:
 4   0954    https://leetcode.com/problems/array-of-doubled-pairs/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1024    https://leetcode.com/problems/video-stitching/
+4   1199    https://leetcode.com/problems/minimum-time-to-build-blocks/
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
 4   1135    https://leetcode.com/problems/connecting-cities-with-minimum-cost/
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
