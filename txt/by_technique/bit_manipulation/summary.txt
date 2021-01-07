@@ -62,6 +62,7 @@ References:
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/
 5   0493    https://leetcode.com/problems/reverse-pairs/

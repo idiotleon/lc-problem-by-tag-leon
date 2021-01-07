@@ -8,3 +8,5 @@ References:
 # Frequency Map
 
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
+
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/

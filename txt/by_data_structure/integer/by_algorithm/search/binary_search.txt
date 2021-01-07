@@ -11,4 +11,5 @@ References:
 3   0069    https://leetcode.com/problems/sqrtx/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
 
+4   0660    https://leetcode.com/problems/remove-9/
 4   0887    https://leetcode.com/problems/super-egg-drop/

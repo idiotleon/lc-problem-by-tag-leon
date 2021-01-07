@@ -42,6 +42,7 @@ References:
 4   0148    https://leetcode.com/problems/sort-list/
 4   0269    https://leetcode.com/problems/alien-dictionary/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0660    https://leetcode.com/problems/remove-9/
 4   0740    https://leetcode.com/problems/delete-and-earn/
 4   0895    https://leetcode.com/problems/maximum-frequency-stack/
 4   0954    https://leetcode.com/problems/array-of-doubled-pairs/

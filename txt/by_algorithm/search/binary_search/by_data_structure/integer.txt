@@ -16,4 +16,6 @@ References:
 3   0702    https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
 
+4   0660    https://leetcode.com/problems/remove-9/
+
 5   0483    https://leetcode.com/problems/smallest-good-base/

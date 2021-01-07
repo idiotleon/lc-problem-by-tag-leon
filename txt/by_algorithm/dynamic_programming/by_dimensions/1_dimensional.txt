@@ -83,6 +83,7 @@ References:
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0651    https://leetcode.com/problems/4-keys-keyboard/
 4   0656    https://leetcode.com/problems/coin-path/
+4   0660    https://leetcode.com/problems/remove-9/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

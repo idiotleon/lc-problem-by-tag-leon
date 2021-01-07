@@ -26,6 +26,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
 2   1237    https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0050    https://leetcode.com/problems/powx-n/
@@ -68,6 +69,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0540    https://leetcode.com/problems/single-element-in-a-sorted-array/
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
+4   0660    https://leetcode.com/problems/remove-9/
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/

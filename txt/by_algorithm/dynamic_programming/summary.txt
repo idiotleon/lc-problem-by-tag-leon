@@ -116,6 +116,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0651    https://leetcode.com/problems/4-keys-keyboard/
 4   0656    https://leetcode.com/problems/coin-path/
+4   0660    https://leetcode.com/problems/remove-9/
 4   0664    https://leetcode.com/problems/strange-printer/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
@@ -192,8 +193,9 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
-4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/
+4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 
 5   0010    https://leetcode.com/problems/regular-expression-matching/
 5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/

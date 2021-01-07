@@ -35,6 +35,7 @@ References:
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/

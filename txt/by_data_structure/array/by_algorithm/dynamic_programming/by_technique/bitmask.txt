@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Technique
+# Bit Mask
+
+4   1595
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/

@@ -55,6 +55,7 @@ References:
 4   0440    https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
 4   0651    https://leetcode.com/problems/4-keys-keyboard/
+4   0660    https://leetcode.com/problems/remove-9/
 4   0780    https://leetcode.com/problems/reaching-points/
 4   0788    https://leetcode.com/problems/rotated-digits/
 4   0818    https://leetcode.com/problems/race-car/

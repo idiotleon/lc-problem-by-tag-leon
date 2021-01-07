@@ -18,6 +18,7 @@ References:
 
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
+4   0660    https://leetcode.com/problems/remove-9/
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

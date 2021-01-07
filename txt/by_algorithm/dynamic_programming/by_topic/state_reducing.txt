@@ -10,6 +10,8 @@ References:
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   1066    https://leetcode.com/problems/campus-bikes-ii/
 4   1125    https://leetcode.com/problems/smallest-sufficient-team/
+4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/

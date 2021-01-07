@@ -8,7 +8,10 @@
     https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
     https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
     https://leetcode.com/discuss/general-discussion/592146/dynamic-programming-summary
+    https://leetcode.com/problems/distribute-repeating-integers/discuss/935522/Step-by-step-optimization-more-than-10-methods
+    https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/discuss/654490/DP-is-Easy!-5-Step-DP-THINKING-process-EXPLAINED!
 
+    
 
 ## Knapsack
 
