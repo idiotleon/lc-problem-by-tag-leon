@@ -105,6 +105,7 @@ References:
 3   1080    https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 3   1104    https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+3   1166    https://leetcode.com/problems/design-file-system/
 3   1245    https://leetcode.com/problems/tree-diameter/
 3   1257    https://leetcode.com/problems/smallest-common-region/
 3   1261    https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/

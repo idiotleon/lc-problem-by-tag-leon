@@ -16,6 +16,7 @@ References:
 3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1062    https://leetcode.com/problems/longest-repeating-substring/
 3   1065    https://leetcode.com/problems/index-pairs-of-a-string/
+3   1166    https://leetcode.com/problems/design-file-system/
 3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 
 4   0139    https://leetcode.com/problems/word-break/

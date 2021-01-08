@@ -55,6 +55,7 @@ References:
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1010    https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 3   1146    https://leetcode.com/problems/snapshot-array/
+3   1166    https://leetcode.com/problems/design-file-system/
 3   1244    https://leetcode.com/problems/design-a-leaderboard/
 3   1257    https://leetcode.com/problems/smallest-common-region/
 3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
