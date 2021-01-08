@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## Greedy
+# Bare Sort
+
+3   1090    https://leetcode.com/problems/largest-values-from-labels/

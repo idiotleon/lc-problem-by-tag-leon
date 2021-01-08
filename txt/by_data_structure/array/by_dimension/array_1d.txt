@@ -181,6 +181,7 @@ References:
 3   1054    https://leetcode.com/problems/distant-barcodes/
 3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
 3   1089    https://leetcode.com/problems/duplicate-zeros/
+3   1090    https://leetcode.com/problems/largest-values-from-labels/
 3   1109    https://leetcode.com/problems/corporate-flight-bookings/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/

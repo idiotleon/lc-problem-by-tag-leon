@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/heap/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Sort
+# Bare Sort
+
+3   1090    https://leetcode.com/problems/largest-values-from-labels/
