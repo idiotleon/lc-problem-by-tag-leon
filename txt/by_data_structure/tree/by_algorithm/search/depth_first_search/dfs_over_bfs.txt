@@ -25,6 +25,7 @@ References:
 3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
 3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
+3   0427    https://leetcode.com/problems/construct-quad-tree/
 3   0437    https://leetcode.com/problems/path-sum-iii/
 3   0450    https://leetcode.com/problems/delete-node-in-a-bst/
 3   0687    https://leetcode.com/problems/longest-univalue-path/

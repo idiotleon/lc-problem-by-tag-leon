@@ -63,6 +63,7 @@ References:
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0442    https://leetcode.com/problems/find-all-duplicates-in-an-array/
+4   0635    https://leetcode.com/problems/design-log-storage-system/
 4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/

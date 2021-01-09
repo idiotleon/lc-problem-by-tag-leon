@@ -9,3 +9,5 @@ References:
 # Summary
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
+
+4   0635    https://leetcode.com/problems/design-log-storage-system/
