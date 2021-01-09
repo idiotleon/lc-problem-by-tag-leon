@@ -120,6 +120,7 @@ References:
 3   0536    https://leetcode.com/problems/construct-binary-tree-from-string/
 3   0543    https://leetcode.com/problems/diameter-of-binary-tree/
 3   0545    https://leetcode.com/problems/boundary-of-binary-tree/
+3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 3   0572    https://leetcode.com/problems/subtree-of-another-tree/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0623    https://leetcode.com/problems/add-one-row-to-tree/

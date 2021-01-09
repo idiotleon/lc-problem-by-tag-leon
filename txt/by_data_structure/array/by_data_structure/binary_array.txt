@@ -6,4 +6,6 @@ References:
 ### Array
 # Binary Array
 
+3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
+
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/

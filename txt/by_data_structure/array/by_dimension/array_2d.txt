@@ -45,6 +45,7 @@ References:
 3   0519    https://leetcode.com/problems/random-flip-matrix/
 3   0542    https://leetcode.com/problems/01-matrix/
 3   0547    https://leetcode.com/problems/friend-circles/
+3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 3   0562    https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
 3   0638    https://leetcode.com/problems/shopping-offers/
 3   0723    https://leetcode.com/problems/candy-crush/

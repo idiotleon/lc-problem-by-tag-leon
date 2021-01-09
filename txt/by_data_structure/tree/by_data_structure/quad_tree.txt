@@ -7,3 +7,4 @@ References:
 # Quad Tree
 
 3   0427    https://leetcode.com/problems/construct-quad-tree/
+3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
