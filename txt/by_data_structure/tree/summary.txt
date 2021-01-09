@@ -54,6 +54,7 @@ References:
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1609    https://leetcode.com/problems/even-odd-tree/
+2   1666    https://leetcode.com/problems/change-the-root-of-a-binary-tree/
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
