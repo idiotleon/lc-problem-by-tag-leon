@@ -10,6 +10,7 @@ References:
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
+2   0734    https://leetcode.com/problems/sentence-similarity/
 2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 2   0784    https://leetcode.com/problems/letter-case-permutation/
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
