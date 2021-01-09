@@ -7,6 +7,7 @@ References:
 
 2   0278    https://leetcode.com/problems/first-bad-version/
 2   1237    https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+2   1618    https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/
 
 3   1236    https://leetcode.com/problems/web-crawler/
 3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
