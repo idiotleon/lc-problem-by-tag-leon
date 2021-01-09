@@ -61,6 +61,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   0734    https://leetcode.com/problems/sentence-similarity/
 2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 2   0784    https://leetcode.com/problems/letter-case-permutation/
+2   0789    https://leetcode.com/problems/escape-the-ghosts/
 2   0791    https://leetcode.com/problems/custom-sort-string/
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   0832    https://leetcode.com/problems/flipping-an-image/

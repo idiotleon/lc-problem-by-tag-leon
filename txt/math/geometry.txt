@@ -7,6 +7,7 @@ References:
 # Geometry
 
 2   0463    https://leetcode.com/problems/island-perimeter/
+2   0789    https://leetcode.com/problems/escape-the-ghosts/
 2   0836    https://leetcode.com/problems/rectangle-overlap/
 2   1037    https://leetcode.com/problems/valid-boomerang/
 2   1041    https://leetcode.com/problems/robot-bounded-in-circle/

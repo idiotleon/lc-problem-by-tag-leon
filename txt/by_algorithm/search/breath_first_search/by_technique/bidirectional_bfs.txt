@@ -8,3 +8,8 @@ References:
 
 4   0126    https://leetcode.com/problems/word-ladder-ii/
 4   0127    https://leetcode.com/problems/word-ladder/
+
+
+
+Resources:
+    http://theoryofprogramming.com/2018/01/21/bidirectional-search/
