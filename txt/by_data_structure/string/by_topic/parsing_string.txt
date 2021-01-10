@@ -67,6 +67,7 @@ References:
 5   0282    https://leetcode.com/problems/expression-add-operators/
 5   0273    https://leetcode.com/problems/integer-to-english-words/
 5   0772    https://leetcode.com/problems/basic-calculator-iii/
+5   1096    https://leetcode.com/problems/brace-expansion-ii/
 
 6   0420    https://leetcode.com/problems/strong-password-checker/
 

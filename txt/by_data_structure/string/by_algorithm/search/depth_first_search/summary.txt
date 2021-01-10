@@ -44,6 +44,7 @@ References:
 5   0291    https://leetcode.com/problems/word-pattern-ii/
 5   0425    https://leetcode.com/problems/word-squares/
 5   0472    https://leetcode.com/problems/concatenated-words/
+5   1096    https://leetcode.com/problems/brace-expansion-ii/
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0488    https://leetcode.com/problems/zuma-game/

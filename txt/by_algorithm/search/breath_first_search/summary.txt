@@ -134,6 +134,7 @@ References:
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
+5   1096    https://leetcode.com/problems/brace-expansion-ii/
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
 6   0913    https://leetcode.com/problems/cat-and-mouse/

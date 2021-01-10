@@ -9,3 +9,4 @@ References:
 3   0071    https://leetcode.com/problems/simplify-path/
 3   0394    https://leetcode.com/problems/decode-string/
 3   0439    https://leetcode.com/problems/ternary-expression-parser/
+3   1003    https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
