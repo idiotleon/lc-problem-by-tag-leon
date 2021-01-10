@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Technique
+# Left or Right Next Indexes
+
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/

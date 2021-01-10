@@ -13,4 +13,5 @@ References:
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 
 4   0651    https://leetcode.com/problems/4-keys-keyboard/
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/

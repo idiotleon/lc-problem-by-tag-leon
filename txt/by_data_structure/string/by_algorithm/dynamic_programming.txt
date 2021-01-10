@@ -25,6 +25,7 @@ References:
 4   0639    https://leetcode.com/problems/decode-ways-ii/
 4   0664    https://leetcode.com/problems/strange-printer/
 4   0727    https://leetcode.com/problems/minimum-window-subsequence/
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
 4   1092    https://leetcode.com/problems/shortest-common-supersequence/

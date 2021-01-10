@@ -29,6 +29,7 @@ References:
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 4   0727    https://leetcode.com/problems/minimum-window-subsequence/
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   0740    https://leetcode.com/problems/delete-and-earn/
 4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 4   1092    https://leetcode.com/problems/shortest-common-supersequence/

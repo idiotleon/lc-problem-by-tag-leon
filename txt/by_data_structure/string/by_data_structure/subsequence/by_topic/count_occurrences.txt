@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## Subsequence
+# Count Occurrences
+
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/

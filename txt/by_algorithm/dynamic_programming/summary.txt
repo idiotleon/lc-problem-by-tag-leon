@@ -123,6 +123,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0727    https://leetcode.com/problems/minimum-window-subsequence/
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   0740    https://leetcode.com/problems/delete-and-earn/
 4   0788    https://leetcode.com/problems/rotated-digits/
 4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
