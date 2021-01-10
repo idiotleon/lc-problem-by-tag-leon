@@ -24,5 +24,6 @@ References:
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+4   1591    https://leetcode.com/problems/strange-printer-ii/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

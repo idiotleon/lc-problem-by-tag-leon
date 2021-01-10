@@ -128,6 +128,7 @@ References:
 4   1345    https://leetcode.com/problems/jump-game-iv/
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
+4   1591    https://leetcode.com/problems/strange-printer-ii/
 
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0818    https://leetcode.com/problems/race-car/

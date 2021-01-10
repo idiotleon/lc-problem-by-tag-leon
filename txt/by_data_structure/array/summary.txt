@@ -411,6 +411,7 @@ This file serves as the total list of problems related to Array, regardless of a
 4   1563    https://leetcode.com/problems/stone-game-v/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 4   1575    https://leetcode.com/problems/count-all-possible-routes/
+4   1591    https://leetcode.com/problems/strange-printer-ii/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 

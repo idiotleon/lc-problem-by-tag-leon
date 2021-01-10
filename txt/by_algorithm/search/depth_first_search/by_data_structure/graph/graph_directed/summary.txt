@@ -4,7 +4,8 @@ References:
     
 
 ### Depth First Search
-# Directed Graph
+## Directed Graph
+# Summary
 
 2   0207    https://leetcode.com/problems/course-schedule/
 2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
@@ -24,6 +25,7 @@ References:
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1361    https://leetcode.com/problems/validate-binary-tree-nodes/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
+4   1591    https://leetcode.com/problems/strange-printer-ii/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
