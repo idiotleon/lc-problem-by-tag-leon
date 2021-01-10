@@ -8,3 +8,5 @@ References:
 # Vowels vs Consonants
 
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
