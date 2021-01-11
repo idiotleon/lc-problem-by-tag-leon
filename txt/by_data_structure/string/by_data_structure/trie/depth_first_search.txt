@@ -7,3 +7,5 @@ References:
 ## By Data Structure
 # Trie
 # Depth First Search
+
+5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/

@@ -27,6 +27,7 @@ References:
 
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0336    https://leetcode.com/problems/palindrome-pairs/
+5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   0425    https://leetcode.com/problems/word-squares/
 5   0472    https://leetcode.com/problems/concatenated-words/
 5   0527    https://leetcode.com/problems/word-abbreviation/

@@ -170,9 +170,11 @@ References:
 5   0099    https://leetcode.com/problems/recover-binary-search-tree/
 5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 5   0327    https://leetcode.com/problems/count-of-range-sum/
+5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   0493    https://leetcode.com/problems/reverse-pairs/
 5   0715    https://leetcode.com/problems/range-module/
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
+5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/
 5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
 5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 

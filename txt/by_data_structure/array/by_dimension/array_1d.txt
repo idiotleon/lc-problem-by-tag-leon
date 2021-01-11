@@ -311,6 +311,7 @@ References:
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
+5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 

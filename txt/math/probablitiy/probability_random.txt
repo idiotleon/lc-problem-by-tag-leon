@@ -14,6 +14,7 @@ References:
 3   0519    https://leetcode.com/problems/random-flip-matrix/
 
 4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
+5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 
 5   0808    https://leetcode.com/problems/soup-servings/

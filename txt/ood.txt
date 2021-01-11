@@ -49,6 +49,7 @@ References:
 4   0710    https://leetcode.com/problems/random-pick-with-blacklist/
 4   0855    https://leetcode.com/problems/exam-room/
 4   1032    https://leetcode.com/problems/stream-of-characters/
+5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/
 
 5   0381    https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 5   0588    https://leetcode.com/problems/design-in-memory-file-system/
