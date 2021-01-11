@@ -93,6 +93,7 @@ References:
 5   0499    https://leetcode.com/problems/the-maze-iii/
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
 5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
+5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1520    https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 
 6   0391    https://leetcode.com/problems/perfect-rectangle/

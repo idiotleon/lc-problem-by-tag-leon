@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Dynamic Programming
+## Array
+# Circular Array
+
+5   1388    https://leetcode.com/problems/pizza-with-3n-slices/

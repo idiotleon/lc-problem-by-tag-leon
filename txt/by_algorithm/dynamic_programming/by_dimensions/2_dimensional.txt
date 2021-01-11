@@ -111,6 +111,7 @@ References:
 5   0920    https://leetcode.com/problems/number-of-music-playlists/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

@@ -312,6 +312,8 @@ References:
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+
+5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

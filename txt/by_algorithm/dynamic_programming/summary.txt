@@ -218,6 +218,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
+5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 
