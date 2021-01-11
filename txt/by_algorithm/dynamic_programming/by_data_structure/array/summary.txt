@@ -88,5 +88,6 @@ References:
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

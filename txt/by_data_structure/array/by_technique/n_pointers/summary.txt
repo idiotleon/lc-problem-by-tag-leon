@@ -128,6 +128,7 @@ References:
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 
 

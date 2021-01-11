@@ -3,9 +3,10 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
+#### Array
 ### Dynamic Programming
 ## By Technique
-# First or Last Indexes
+# First or Last Indices
 
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/

@@ -439,6 +439,7 @@ This file serves as the total list of problems related to Array, regardless of a
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 6   0391    https://leetcode.com/problems/perfect-rectangle/

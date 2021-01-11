@@ -3,9 +3,10 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
+#### Array
 ### Dynamic Programming
 ## By Technique
 # Bit Mask
 
-4   1595
+4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/

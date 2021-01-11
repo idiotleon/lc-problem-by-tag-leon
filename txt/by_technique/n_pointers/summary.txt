@@ -218,6 +218,7 @@ References:
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 
 5   0224    https://leetcode.com/problems/basic-calculator/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 
 

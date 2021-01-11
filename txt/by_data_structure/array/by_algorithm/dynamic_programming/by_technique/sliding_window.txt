@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### Array
+### Dynamic Programming
+## By Technique
+# Sliding Window
+
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones

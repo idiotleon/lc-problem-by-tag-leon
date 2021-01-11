@@ -221,6 +221,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 5   1622    https://leetcode.com/problems/fancy-sequence/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

@@ -9,3 +9,5 @@ References:
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones

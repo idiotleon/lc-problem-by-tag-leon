@@ -297,6 +297,7 @@ References:
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 4   1563    https://leetcode.com/problems/stone-game-v/
+4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 4   1575    https://leetcode.com/problems/count-all-possible-routes/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 
@@ -311,7 +312,7 @@ References:
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
-4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1622    https://leetcode.com/problems/fancy-sequence/

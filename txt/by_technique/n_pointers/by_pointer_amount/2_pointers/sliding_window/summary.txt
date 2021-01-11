@@ -65,6 +65,7 @@ References:
 
 5   0214    https://leetcode.com/problems/shortest-palindrome/
 5   1044    https://leetcode.com/problems/longest-duplicate-substring/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 
 
