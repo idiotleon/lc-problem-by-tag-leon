@@ -76,12 +76,13 @@ References:
 4   0963    https://leetcode.com/problems/minimum-area-rectangle-ii/
 4   1001    https://leetcode.com/problems/grid-illumination/
 4   1152    https://leetcode.com/problems/analyze-user-website-visit-pattern/
-5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 
 5   0381    https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+5   0432    https://leetcode.com/problems/all-oone-data-structure/
 5   0588    https://leetcode.com/problems/design-in-memory-file-system/
+5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/
 
 6   0460    https://leetcode.com/problems/lfu-cache/

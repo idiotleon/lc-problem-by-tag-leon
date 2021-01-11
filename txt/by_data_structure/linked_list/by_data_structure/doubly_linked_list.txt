@@ -16,6 +16,8 @@ References:
 
 4   0146    https://leetcode.com/problems/lru-cache/
 
+5   0432    https://leetcode.com/problems/all-oone-data-structure/
+
 6   0460    https://leetcode.com/problems/lfu-cache/
 
 

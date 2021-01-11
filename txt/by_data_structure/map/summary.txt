@@ -88,5 +88,6 @@ References:
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 
 5   0381    https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+5   0432    https://leetcode.com/problems/all-oone-data-structure/
 5   0588    https://leetcode.com/problems/design-in-memory-file-system/
 5   0715    https://leetcode.com/problems/range-module/

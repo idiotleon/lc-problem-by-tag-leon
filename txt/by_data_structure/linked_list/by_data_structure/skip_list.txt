@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/linked-list/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Skip List
+
+5   0432    https://leetcode.com/problems/all-oone-data-structure/
