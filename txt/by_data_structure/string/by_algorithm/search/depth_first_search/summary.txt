@@ -46,6 +46,7 @@ References:
 5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   0425    https://leetcode.com/problems/word-squares/
 5   0472    https://leetcode.com/problems/concatenated-words/
+5   0736    https://leetcode.com/problems/parse-lisp-expression/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/
 
 6   0087    https://leetcode.com/problems/scramble-string/
