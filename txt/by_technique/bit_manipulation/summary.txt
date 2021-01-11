@@ -67,6 +67,7 @@ References:
 5   0327    https://leetcode.com/problems/count-of-range-sum/
 5   0493    https://leetcode.com/problems/reverse-pairs/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

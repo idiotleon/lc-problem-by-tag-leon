@@ -25,6 +25,7 @@ References:
 4   1248    https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   1707    https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 
 

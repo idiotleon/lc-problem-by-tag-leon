@@ -12,7 +12,9 @@ References:
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 
 
 
@@ -24,8 +26,12 @@ References:
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
+
+
 
 
 # Binary Matrix
 
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

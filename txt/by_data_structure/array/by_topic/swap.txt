@@ -12,4 +12,5 @@ References:
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones

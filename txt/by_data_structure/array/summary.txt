@@ -426,6 +426,7 @@ This file serves as the total list of problems related to Array, regardless of a
 5   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   0827    https://leetcode.com/problems/making-a-large-island/

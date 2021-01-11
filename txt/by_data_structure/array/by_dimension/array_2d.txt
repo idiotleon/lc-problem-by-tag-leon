@@ -133,6 +133,7 @@ References:
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   0827    https://leetcode.com/problems/making-a-large-island/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
