@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+## Geometry
+# Convex Hull
+
+6   0587    https://leetcode.com/problems/erect-the-fence/

@@ -108,4 +108,5 @@ References:
 5   1622    https://leetcode.com/problems/fancy-sequence/
 
 6   0391    https://leetcode.com/problems/perfect-rectangle/
+6   0587    https://leetcode.com/problems/erect-the-fence/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

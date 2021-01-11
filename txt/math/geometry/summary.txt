@@ -4,7 +4,8 @@ References:
     
 
 ### Math
-# Geometry
+## Geometry
+# Summary
 
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0789    https://leetcode.com/problems/escape-the-ghosts/
@@ -31,6 +32,9 @@ References:
 4   1610    https://leetcode.com/problems/maximum-number-of-visible-points/
 
 5   0149    https://leetcode.com/problems/max-points-on-a-line/
+
+6   0587    https://leetcode.com/problems/erect-the-fence/
+
 
 
 Resouces:
