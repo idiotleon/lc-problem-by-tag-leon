@@ -35,6 +35,7 @@ References:
 4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 4   0306    https://leetcode.com/problems/additive-number/
 4   0474    https://leetcode.com/problems/ones-and-zeroes/
+4   0514    https://leetcode.com/problems/freedom-trail/
 4   0726    https://leetcode.com/problems/number-of-atoms/
 4   0839    https://leetcode.com/problems/similar-string-groups/
 4   0854    https://leetcode.com/problems/k-similar-strings/

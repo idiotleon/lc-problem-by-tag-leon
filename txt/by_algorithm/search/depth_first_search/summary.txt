@@ -227,6 +227,7 @@ References:
 4   0474    https://leetcode.com/problems/ones-and-zeroes/
 4   0486    https://leetcode.com/problems/predict-the-winner/
 4   0489    https://leetcode.com/problems/robot-room-cleaner/
+4   0514    https://leetcode.com/problems/freedom-trail/
 4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 4   0545    https://leetcode.com/problems/boundary-of-binary-tree/
 4   0549    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/

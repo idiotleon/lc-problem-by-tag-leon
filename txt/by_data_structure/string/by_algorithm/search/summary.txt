@@ -31,6 +31,7 @@ References:
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+4   0514    https://leetcode.com/problems/freedom-trail/
 4   0726    https://leetcode.com/problems/number-of-atoms/
 4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 4   0854    https://leetcode.com/problems/k-similar-strings/

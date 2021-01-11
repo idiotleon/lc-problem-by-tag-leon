@@ -21,6 +21,7 @@ References:
 4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 4   0464    https://leetcode.com/problems/can-i-win/
 4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0514    https://leetcode.com/problems/freedom-trail/
 4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
 4   1210    https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 4   1340    https://leetcode.com/problems/jump-game-v/

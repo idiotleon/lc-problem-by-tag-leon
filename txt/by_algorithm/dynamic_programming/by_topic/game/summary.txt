@@ -1,0 +1,22 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/dynamic-programming/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### Dynamic Programming
+### By Topic
+## Game
+# Summary
+
+3   0877    https://leetcode.com/problems/stone-game/
+3   1140    https://leetcode.com/problems/stone-game-ii/
+3   1686    https://leetcode.com/problems/stone-game-vi/
+3   1690    https://leetcode.com/problems/stone-game-vii/
+
+4   0514    https://leetcode.com/problems/freedom-trail/
+4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
+4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1510    https://leetcode.com/problems/stone-game-iv/
+4   1563    https://leetcode.com/problems/stone-game-v/
+

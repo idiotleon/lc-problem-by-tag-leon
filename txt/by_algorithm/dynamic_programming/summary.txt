@@ -110,6 +110,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0474    https://leetcode.com/problems/ones-and-zeroes/
 4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0514    https://leetcode.com/problems/freedom-trail/
 4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
 4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 4   0639    https://leetcode.com/problems/decode-ways-ii/

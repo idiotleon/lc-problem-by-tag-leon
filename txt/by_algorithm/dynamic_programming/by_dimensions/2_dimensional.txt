@@ -55,6 +55,7 @@ References:
 4   0446    https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0514    https://leetcode.com/problems/freedom-trail/
 4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
 4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0664    https://leetcode.com/problems/strange-printer/
