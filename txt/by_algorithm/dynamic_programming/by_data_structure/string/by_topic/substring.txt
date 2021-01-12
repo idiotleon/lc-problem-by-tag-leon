@@ -7,6 +7,8 @@ References:
 ## String
 # Substring
 
+3   0005    https://leetcode.com/problems/longest-palindromic-substring/
+
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0664    https://leetcode.com/problems/strange-printer/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/

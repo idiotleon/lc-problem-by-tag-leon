@@ -7,6 +7,7 @@ References:
 ## Substring
 # Dynamic Programming
 
+3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 
 4   0139    https://leetcode.com/problems/word-break/
