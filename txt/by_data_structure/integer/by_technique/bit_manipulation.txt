@@ -9,6 +9,7 @@ References:
 1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
 2   0136    https://leetcode.com/problems/single-number/
+2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0477    https://leetcode.com/problems/total-hamming-distance/
