@@ -43,6 +43,7 @@ References:
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1694    https://leetcode.com/problems/reformat-phone-number/
 
+3   0006    https://leetcode.com/problems/zigzag-conversion/
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/

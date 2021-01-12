@@ -11,6 +11,7 @@ References:
 
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
 
+3   0006    https://leetcode.com/problems/zigzag-conversion
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
 3   0054    https://leetcode.com/problems/spiral-matrix/
