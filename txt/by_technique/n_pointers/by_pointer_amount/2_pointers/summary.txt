@@ -34,6 +34,7 @@ References:
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 2   1176    https://leetcode.com/problems/diet-plan-performance/
+2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/

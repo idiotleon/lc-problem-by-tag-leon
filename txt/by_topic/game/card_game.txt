@@ -7,6 +7,7 @@ References:
 ## Card Game
 
 2   0822    https://leetcode.com/problems/card-flipping-game/
+2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
 4   0837    https://leetcode.com/problems/new-21-game/
 
