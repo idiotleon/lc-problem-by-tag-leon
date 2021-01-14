@@ -8,6 +8,7 @@ References:
 ## DP vs DFS with memo
 # DP over DFS with memo
 
+3   0221    https://leetcode.com/problems/maximal-square/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
 
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

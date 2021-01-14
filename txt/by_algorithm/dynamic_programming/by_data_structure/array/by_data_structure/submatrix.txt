@@ -7,4 +7,6 @@ References:
 ## Array
 # Submatrix
 
+3   0221    https://leetcode.com/problems/maximal-square/
+
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

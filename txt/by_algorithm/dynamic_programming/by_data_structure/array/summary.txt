@@ -19,6 +19,7 @@ References:
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0221    https://leetcode.com/problems/maximal-square/
 3   0256    https://leetcode.com/problems/paint-house/
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   0376    https://leetcode.com/problems/wiggle-subsequence/

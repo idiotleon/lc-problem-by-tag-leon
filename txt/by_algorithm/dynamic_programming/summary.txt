@@ -35,6 +35,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
 3   0213    https://leetcode.com/problems/house-robber-ii/
+3   0221    https://leetcode.com/problems/maximal-square/
 3   0256    https://leetcode.com/problems/paint-house/
 3   0264    https://leetcode.com/problems/ugly-number-ii/
 3   0276    https://leetcode.com/problems/paint-fence/

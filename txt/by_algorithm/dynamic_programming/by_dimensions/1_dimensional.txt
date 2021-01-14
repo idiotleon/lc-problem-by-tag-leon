@@ -30,6 +30,7 @@ References:
 
 3   0091    https://leetcode.com/problems/decode-ways/
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0221    https://leetcode.com/problems/maximal-square/
 3   0256    https://leetcode.com/problems/paint-house/
 3   0264    https://leetcode.com/problems/ugly-number-ii/
 3   0276    https://leetcode.com/problems/paint-fence/

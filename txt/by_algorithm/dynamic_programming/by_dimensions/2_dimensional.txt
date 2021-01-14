@@ -19,6 +19,7 @@ References:
 3   0062    https://leetcode.com/problems/unique-paths/
 3   0119    https://leetcode.com/problems/pascals-triangle-ii/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0221    https://leetcode.com/problems/maximal-square/
 3   0256    https://leetcode.com/problems/paint-house/
 3   0322    https://leetcode.com/problems/coin-change/
 3   0376    https://leetcode.com/problems/wiggle-subsequence/

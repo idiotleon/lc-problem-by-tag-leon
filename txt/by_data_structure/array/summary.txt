@@ -134,6 +134,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0213    https://leetcode.com/problems/house-robber-ii/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0221    https://leetcode.com/problems/maximal-square/
 3   0228    https://leetcode.com/problems/summary-ranges/
 3   0229    https://leetcode.com/problems/majority-element-ii/
 3   0238    https://leetcode.com/problems/product-of-array-except-self/

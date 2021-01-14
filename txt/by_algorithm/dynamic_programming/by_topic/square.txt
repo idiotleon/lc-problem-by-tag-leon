@@ -6,6 +6,7 @@ References:
 ### Dynamic Programming
 # Square
 
+3   0221    https://leetcode.com/problems/maximal-square/
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/
 
