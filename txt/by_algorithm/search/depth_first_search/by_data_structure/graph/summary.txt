@@ -8,6 +8,7 @@ References:
 # Summary
 
 2   0207    https://leetcode.com/problems/course-schedule/
+2   0690    https://leetcode.com/problems/employee-importance/
 2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 
 3   0133    https://leetcode.com/problems/clone-graph/
