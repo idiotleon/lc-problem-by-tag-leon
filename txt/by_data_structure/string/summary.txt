@@ -140,6 +140,7 @@ References:
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0065    https://leetcode.com/problems/valid-number/

@@ -7,4 +7,6 @@ References:
 ## By Topic
 # Count Occurrences
 
+3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
+
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/

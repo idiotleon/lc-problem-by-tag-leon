@@ -48,6 +48,7 @@ References:
 3   1291    https://leetcode.com/problems/sequential-digits/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/

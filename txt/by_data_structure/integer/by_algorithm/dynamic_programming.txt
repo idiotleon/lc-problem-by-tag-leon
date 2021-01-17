@@ -16,6 +16,7 @@ References:
 3   0343    https://leetcode.com/problems/integer-break/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 
 4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 4   0651    https://leetcode.com/problems/4-keys-keyboard/

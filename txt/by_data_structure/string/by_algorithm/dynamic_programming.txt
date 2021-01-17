@@ -14,6 +14,7 @@ References:
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
 3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
+3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 
 4   0072    https://leetcode.com/problems/edit-distance/
 4   0097    https://leetcode.com/problems/interleaving-string/
