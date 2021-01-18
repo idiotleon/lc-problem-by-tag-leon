@@ -20,4 +20,4 @@ References:
 
 Resource:
     https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132
-    
+    https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/summary-of-solutions-for-problems-reducible-to-leetcode-378/822571 

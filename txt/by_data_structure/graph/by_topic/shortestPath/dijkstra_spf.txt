@@ -9,3 +9,5 @@ References:
 # Dijkstra's Shortest Path Find
 
 3   0743    https://leetcode.com/problems/network-delay-time/
+
+4   0505    https://leetcode.com/problems/the-maze-ii/
