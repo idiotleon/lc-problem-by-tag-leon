@@ -8,6 +8,7 @@ References:
 # Summary
 
 2   0463    https://leetcode.com/problems/island-perimeter/
+2   0573    https://leetcode.com/problems/squirrel-simulation/
 2   0789    https://leetcode.com/problems/escape-the-ghosts/
 2   0836    https://leetcode.com/problems/rectangle-overlap/
 2   1037    https://leetcode.com/problems/valid-boomerang/
