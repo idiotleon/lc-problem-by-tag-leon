@@ -19,6 +19,7 @@ References:
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0343    https://leetcode.com/problems/integer-break/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/

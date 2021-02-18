@@ -16,6 +16,7 @@ References:
 
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0260    https://leetcode.com/problems/single-number-iii/
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 

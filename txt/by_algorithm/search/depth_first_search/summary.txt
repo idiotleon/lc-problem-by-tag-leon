@@ -118,6 +118,7 @@ References:
 3   0494    https://leetcode.com/problems/target-sum/
 3   0508    https://leetcode.com/problems/most-frequent-subtree-sum/
 3   0510    https://leetcode.com/problems/inorder-successor-in-bst-ii/
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 3   0536    https://leetcode.com/problems/construct-binary-tree-from-string/
 3   0543    https://leetcode.com/problems/diameter-of-binary-tree/

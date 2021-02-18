@@ -54,6 +54,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 3   0494    https://leetcode.com/problems/target-sum/
 3   0518    https://leetcode.com/problems/coin-change-2/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0666    https://leetcode.com/problems/path-sum-iv/

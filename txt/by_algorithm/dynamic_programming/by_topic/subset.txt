@@ -3,12 +3,14 @@ References:
     https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
     https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
     
 
 ### Dynamic Programming
 ## By Topic
 # Subset
 
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/
 
 4   0473    https://leetcode.com/problems/matchsticks-to-square/

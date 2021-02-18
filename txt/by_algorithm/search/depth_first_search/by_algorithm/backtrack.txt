@@ -27,6 +27,7 @@ References:
 3   0401    https://leetcode.com/problems/binary-watch/
 3   0437    https://leetcode.com/problems/path-sum-iii/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0638    https://leetcode.com/problems/shopping-offers/
 3   0753    https://leetcode.com/problems/cracking-the-safe/
 3   0756    https://leetcode.com/problems/pyramid-transition-matrix/

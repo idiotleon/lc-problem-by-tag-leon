@@ -17,6 +17,7 @@ References:
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0260    https://leetcode.com/problems/single-number-iii/
+3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/
 3   1215    https://leetcode.com/problems/stepping-numbers/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
