@@ -8,6 +8,7 @@ References:
 # Count Occurences
 
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
+2   0413    https://leetcode.com/problems/arithmetic-slices/
 
 3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/

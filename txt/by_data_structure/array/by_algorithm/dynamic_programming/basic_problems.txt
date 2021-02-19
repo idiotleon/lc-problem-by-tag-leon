@@ -11,6 +11,7 @@ References:
 2   0063    https://leetcode.com/problems/unique-paths-ii/
 2   0064    https://leetcode.com/problems/minimum-path-sum/
 2   0118    https://leetcode.com/problems/pascals-triangle/
+2   0413    https://leetcode.com/problems/arithmetic-slices/
 
 3   0119    https://leetcode.com/problems/pascals-triangle-ii/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
