@@ -17,6 +17,7 @@ References:
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0279    https://leetcode.com/problems/perfect-squares/
+3   0343    https://leetcode.com/problems/integer-break/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained

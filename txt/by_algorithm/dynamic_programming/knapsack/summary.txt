@@ -9,6 +9,7 @@ References:
 # Summary
 
 3   0322    https://leetcode.com/problems/coin-change
+3   0343    https://leetcode.com/problems/integer-break/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0494    https://leetcode.com/problems/target-sum/

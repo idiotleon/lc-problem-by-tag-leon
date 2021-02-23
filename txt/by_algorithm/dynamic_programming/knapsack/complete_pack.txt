@@ -9,4 +9,5 @@ References:
 # Complete Pack
 
 3   0322    https://leetcode.com/problems/coin-change
+3   0343    https://leetcode.com/problems/integer-break/
 3   0518    https://leetcode.com/problems/coin-change-2/
