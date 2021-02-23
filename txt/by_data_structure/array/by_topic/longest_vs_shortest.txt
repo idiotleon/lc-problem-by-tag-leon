@@ -7,4 +7,3 @@ References:
 ## By Topic
 # Longest vs Shortest
 
-3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
