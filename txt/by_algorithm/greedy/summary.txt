@@ -46,6 +46,7 @@ References:
 3   1272    https://leetcode.com/problems/remove-interval/
 3   1288    https://leetcode.com/problems/remove-covered-intervals/
 3   1296    https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 3   1405    https://leetcode.com/problems/longest-happy-string/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1514    https://leetcode.com/problems/path-with-maximum-probability/
