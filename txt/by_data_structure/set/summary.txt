@@ -11,6 +11,7 @@ References:
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 
 2   0475    https://leetcode.com/problems/heaters/
+2   0575    https://leetcode.com/problems/distribute-candies/
 2   0817    https://leetcode.com/problems/linked-list-components/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
