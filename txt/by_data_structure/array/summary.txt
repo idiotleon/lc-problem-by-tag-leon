@@ -14,9 +14,10 @@ This file serves as the total list of problems related to Array, regardless of a
 1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
 1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
 1   0506    https://leetcode.com/problems/relative-ranks/
-1   0766    https://leetcode.com/problems/toeplitz-matrix/
+1   0645    https://leetcode.com/problems/set-mismatch/
 1   0682    https://leetcode.com/problems/baseball-game/
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+1   0766    https://leetcode.com/problems/toeplitz-matrix/
 1   0830    https://leetcode.com/problems/positions-of-large-groups/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   1046    https://leetcode.com/problems/last-stone-weight/
@@ -193,7 +194,8 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 3   0723    https://leetcode.com/problems/candy-crush/
 3   0729    https://leetcode.com/problems/my-calendar-i/
-3   0737    https://leetcode.com/problems/sentence-similarity-ii/3   0775    https://leetcode.com/problems/global-and-local-inversions/
+3   0737    https://leetcode.com/problems/sentence-similarity-ii/3   
+3   0775    https://leetcode.com/problems/global-and-local-inversions/
 3   0739    https://leetcode.com/problems/daily-temperatures/
 3   0748    https://leetcode.com/problems/shortest-completing-word/
 3   0750    https://leetcode.com/problems/number-of-corner-rectangles/

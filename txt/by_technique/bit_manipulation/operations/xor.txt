@@ -9,6 +9,7 @@ References:
 # XOR
 
 1   0389    https://leetcode.com/problems/find-the-difference/
+1   0645    https://leetcode.com/problems/set-mismatch/
 1   1009    https://leetcode.com/problems/complement-of-base-10-integer/
 
 2   0136    https://leetcode.com/problems/single-number/
