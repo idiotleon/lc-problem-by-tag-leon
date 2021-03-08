@@ -14,12 +14,12 @@ DFS on binary trees are fundamentals and thus important: <br/>
 *[Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree/abstract.txt) <br/>
 [Problem List - Complete](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree)
 
-
-|Scores | Description|
-| ----- | :--------- |
-|60% | to master recursive preorder, inorder, postorder traversals<ul> <li> to construct a binary tree freely</li> <li>to operate on a binary tree freely, including insersion, deletion, etc.</li> <li>to serialize and deserialize tree freely<ul>|
-80% | to master iterative preorder, inorder, postorder traversals<ul><li>to simulate recursions with stacks</li><li>Morris inorder traversal, and its variations</li></ul>
-100% | to quickly detect and build decision trees (especially for advanced DP problems)
+****
+| Scores | Description                                                                                                                                                                                                                                   |
+| ------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 60%    | to master recursive preorder, inorder, postorder traversals<ul> <li> to construct a binary tree freely</li> <li>to operate on a binary tree freely, including insersion, deletion, etc.</li> <li>to serialize and deserialize tree freely<ul> |
+| 80%    | to master iterative preorder, inorder, postorder traversals<ul><li>to simulate recursions with stacks</li><li>Morris inorder traversal, and its variations</li></ul>                                                                          |
+| 100%   | to quickly detect and build decision trees (especially for advanced DP problems)                                                                                                                                                              |
 
 ### *Must Read/Watch
 ##### labuladong
