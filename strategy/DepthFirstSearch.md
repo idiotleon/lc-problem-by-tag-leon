@@ -14,7 +14,6 @@ DFS on binary trees are fundamentals and thus important: <br/>
 *[Problem List - Abstract](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_data_structure/tree/abstract.txt) <br/>
 [Problem List - Complete](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_data_structure/tree)
 
-****
 | Scores | Description                                                                                                                                                                                                                                   |
 | ------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 60%    | to master recursive preorder, inorder, postorder traversals<ul> <li> to construct a binary tree freely</li> <li>to operate on a binary tree freely, including insersion, deletion, etc.</li> <li>to serialize and deserialize tree freely<ul> |
