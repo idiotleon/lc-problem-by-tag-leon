@@ -31,3 +31,13 @@
 
 ## Coordinate-related DP
     https://youtu.be/BxblkIz6TZc
+
+
+
+## 单序列型
+    https://www.bilibili.com/video/BV1dJ411D7Xc
+
+
+
+## 双序列性
+    https://www.bilibili.com/video/BV1dJ411D7Xc
