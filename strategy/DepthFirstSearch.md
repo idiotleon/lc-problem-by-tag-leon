@@ -11,8 +11,8 @@ DFS on binary trees are fundamentals and thus important: <br/>
     * how about dealing with more than one levels of call stacks at one time?
 * as decision trees for later advanced DP/DFSMemo problems
 
-*[Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree/abstract.txt) <br/>
-[Problem List - Complete](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_data_structure/tree)
+*[Problem List - Abstract](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_data_structure/tree/abstract.txt) <br/>
+[Problem List - Complete](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_data_structure/tree)
 
 ****
 | Scores | Description                                                                                                                                                                                                                                   |
@@ -46,15 +46,15 @@ LeetCode暑期刷题打卡2019——Week3 树专题 [Bilibili](https://www.bilib
 Main Track: **DFS with Memoization** <br/>
 Actually on decision trees.
 
-(Not yet finished) *[Problem List - Abstract](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/abstract.txt) <br/>
-[Problem List - Complete](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/dfs_with_memoization.txt)
+(Not yet finished) *[Problem List - Abstract](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/abstract.txt) <br/>
+[Problem List - Complete](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/dfs_with_memoization.txt)
 
 Secondary Track: <br/>
-[Backtrack](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/backtrack.txt) <br/>
-[DFS on Undirected Graph](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_undirected.txt) <br/>
-[DFS on Directed Graph](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_directed.txt) <br/>
-[DFS on String](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/string) <br/>
-[DFS on Array](https://github.com/zea7ot/leetcode-problems-by-tags-zea7ot/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/array) <br/>
+[Backtrack](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/backtrack.txt) <br/>
+[DFS on Undirected Graph](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_undirected.txt) <br/>
+[DFS on Directed Graph](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_directed.txt) <br/>
+[DFS on String](https://github.com/an7one/leetcode-problems-by-tags-an7one/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/string) <br/>
+[DFS on Array](https://github.com/an7one/leetcode-problems-by-tags-an7one/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/array) <br/>
 
 ### Phase 3: Dynamic Programming
 Actually on decision trees. <br/>
