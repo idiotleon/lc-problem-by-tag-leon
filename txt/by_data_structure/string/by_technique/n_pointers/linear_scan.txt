@@ -38,6 +38,7 @@ References:
 2   1002    https://leetcode.com/problems/find-common-characters/
 2   1078    https://leetcode.com/problems/occurrences-after-bigram/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
