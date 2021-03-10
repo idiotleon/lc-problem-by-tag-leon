@@ -6,6 +6,7 @@ References:
 This serves the total list of problems that I do not understand a bit.
 ### Struggle
 
+3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 3   0638    https://leetcode.com/problems/shopping-offers/
 
 4   0321    https://leetcode.com/problems/create-maximum-number/

@@ -6,6 +6,7 @@ References:
 ### Set
 # Summary
 
+1   0500    https://leetcode.com/problems/keyboard-row/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
 1   0884    https://leetcode.com/problems/uncommon-words-from-two-sentences/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
