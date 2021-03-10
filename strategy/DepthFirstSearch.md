@@ -38,22 +38,24 @@ LeetCode Binary Trees 二叉树 - 刷题找工作 SP12 [Youtube](https://youtu.b
 ##### 大雪菜
 LeetCode暑期刷题打卡2019——Week3 树专题 [Bilibili](https://www.bilibili.com/video/BV19t411w7Ep)
 
+##### OTTFF
+[[Algorithm][007] 深度优先搜索 Depth First Search (DFS)](https://www.bilibili.com/video/BV1z4411278H)
 
 
-
+****
 ### Phase 2: DFS with Memoization
 Main Track: **DFS with Memoization** <br/>
 Actually on decision trees.
 
-(Not yet finished) *[Problem List - Abstract](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/abstract.txt) <br/>
-[Problem List - Complete](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/dfs_with_memoization.txt)
+(Not yet finished) *[Problem List - Abstract](https://github.com/An7One/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/abstract.txt) <br/>
+[Problem List - Complete](https://github.com/An7One/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/dfs_with_memoization.txt)
 
 Secondary Track: <br/>
-[Backtrack](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/backtrack.txt) <br/>
-[DFS on Undirected Graph](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_undirected.txt) <br/>
-[DFS on Directed Graph](https://github.com/an7one/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_directed.txt) <br/>
-[DFS on String](https://github.com/an7one/leetcode-problems-by-tags-an7one/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/string) <br/>
-[DFS on Array](https://github.com/an7one/leetcode-problems-by-tags-an7one/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/array) <br/>
+[Backtrack](https://github.com/An7One/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_algorithm/backtrack.txt) <br/>
+[DFS on Undirected Graph](https://github.com/An7One/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_undirected.txt) <br/>
+[DFS on Directed Graph](https://github.com/An7One/leetcode-problems-by-tags-an7one/blob/master/txt/by_algorithm/search/depth_first_search/by_data_structure/graph/graph_directed.txt) <br/>
+[DFS on String](https://github.com/An7One/leetcode-problems-by-tags-an7one/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/string) <br/>
+[DFS on Array](https://github.com/An7One/leetcode-problems-by-tags-an7one/tree/master/txt/by_algorithm/search/depth_first_search/by_data_structure/array) <br/>
 
 ### Phase 3: Dynamic Programming
 Actually on decision trees. <br/>
