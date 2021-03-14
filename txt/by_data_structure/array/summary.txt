@@ -204,6 +204,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0764    https://leetcode.com/problems/largest-plus-sign/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   0807    https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
 3   0835    https://leetcode.com/problems/image-overlap/
 3   0845    https://leetcode.com/problems/longest-mountain-in-array/

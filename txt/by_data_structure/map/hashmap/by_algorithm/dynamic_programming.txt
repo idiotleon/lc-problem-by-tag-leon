@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Map
+## HashMap
+# By Algorithm
+# Dynamic Programming
+
+3   0834    https://leetcode.com/problems/binary-trees-with-factors/

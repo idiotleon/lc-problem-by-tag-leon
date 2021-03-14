@@ -36,6 +36,7 @@ References:
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 3   0764    https://leetcode.com/problems/largest-plus-sign/
+3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 3   0877    https://leetcode.com/problems/stone-game/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/

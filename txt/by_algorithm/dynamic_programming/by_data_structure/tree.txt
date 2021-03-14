@@ -7,6 +7,7 @@ References:
 # Tree
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 
 4   0337    https://leetcode.com/problems/house-robber-iii/
 4   0894    https://leetcode.com/problems/all-possible-full-binary-trees/

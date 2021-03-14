@@ -13,6 +13,7 @@ References:
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
+3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
