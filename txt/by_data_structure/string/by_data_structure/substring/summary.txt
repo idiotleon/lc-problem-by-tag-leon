@@ -27,6 +27,7 @@ References:
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
+3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0763    https://leetcode.com/problems/partition-labels/description/

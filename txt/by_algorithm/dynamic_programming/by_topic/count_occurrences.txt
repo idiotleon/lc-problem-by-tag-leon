@@ -12,6 +12,7 @@ References:
 
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 
+3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/

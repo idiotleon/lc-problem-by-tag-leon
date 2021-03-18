@@ -31,6 +31,7 @@ References:
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 3   0484    https://leetcode.com/problems/find-permutation/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0680    https://leetcode.com/problems/valid-palindrome-ii/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0763    https://leetcode.com/problems/partition-labels/
