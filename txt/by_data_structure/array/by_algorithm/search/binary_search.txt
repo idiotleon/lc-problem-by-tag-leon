@@ -25,6 +25,7 @@ References:
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0911    https://leetcode.com/problems/online-election/
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
+-3  1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/

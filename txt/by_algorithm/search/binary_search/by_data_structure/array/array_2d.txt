@@ -12,6 +12,7 @@ References:
 3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0436    https://leetcode.com/problems/find-right-interval/
+-3  1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 
 4   0174    https://leetcode.com/problems/dungeon-game/
 4   0354    https://leetcode.com/problems/russian-doll-envelopes/

@@ -117,6 +117,7 @@ References:
 3   0900    https://leetcode.com/problems/rle-iterator/
 3   0904    https://leetcode.com/problems/fruit-into-baskets/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
+3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/

@@ -172,6 +172,7 @@ References:
 3   1055    https://leetcode.com/problems/shortest-way-to-form-string/
 3   1089    https://leetcode.com/problems/duplicate-zeros/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
+3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
 3   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 3   1229    https://leetcode.com/problems/meeting-scheduler/
