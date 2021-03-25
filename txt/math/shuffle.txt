@@ -7,3 +7,4 @@ References:
 # Shuffle
 
 3   0519    https://leetcode.com/problems/random-flip-matrix/
+3   0870    https://leetcode.com/problems/advantage-shuffle/

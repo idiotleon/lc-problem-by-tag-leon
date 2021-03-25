@@ -17,6 +17,7 @@ References:
 3   0729    https://leetcode.com/problems/my-calendar-i/
 3   0731    https://leetcode.com/problems/my-calendar-ii/
 3   0846    https://leetcode.com/problems/hand-of-straights/
+3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   0939    https://leetcode.com/problems/minimum-area-rectangle/
 3   0981    https://leetcode.com/problems/time-based-key-value-store/
 3   0987    https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/

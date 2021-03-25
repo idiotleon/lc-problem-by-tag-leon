@@ -3,10 +3,7 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Array
-## Shuffle an Array
+### Set
+# MultiSet
 
-2   0384    https://leetcode.com/problems/shuffle-an-array/
-
-3   0519    https://leetcode.com/problems/random-flip-matrix/
 3   0870    https://leetcode.com/problems/advantage-shuffle/

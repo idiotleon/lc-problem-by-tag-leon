@@ -158,6 +158,7 @@ References:
 3   0845    https://leetcode.com/problems/longest-mountain-in-array/
 3   0846    https://leetcode.com/problems/hand-of-straights/
 3   0853    https://leetcode.com/problems/car-fleet/
+3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 3   0877    https://leetcode.com/problems/stone-game/
 3   0890    https://leetcode.com/problems/find-and-replace-pattern/

@@ -52,6 +52,7 @@ References:
 3   0748    https://leetcode.com/problems/shortest-completing-word/
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0846    https://leetcode.com/problems/hand-of-straights/
+3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   0939    https://leetcode.com/problems/minimum-area-rectangle/
