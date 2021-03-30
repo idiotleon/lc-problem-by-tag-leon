@@ -23,6 +23,7 @@ References:
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 
+4   1136    https://leetcode.com/problems/parallel-courses/
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
 

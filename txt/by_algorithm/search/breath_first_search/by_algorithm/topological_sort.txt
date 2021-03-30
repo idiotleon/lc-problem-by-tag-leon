@@ -16,6 +16,7 @@ References:
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 
 4   0269    https://leetcode.com/problems/alien-dictionary/
+4   1136    https://leetcode.com/problems/parallel-courses/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

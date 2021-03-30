@@ -42,6 +42,7 @@ References:
 4   0924    https://leetcode.com/problems/minimize-malware-spread/
 4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
+4   1136    https://leetcode.com/problems/parallel-courses/
 4   1258    https://leetcode.com/problems/synonymous-sentences/
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1361    https://leetcode.com/problems/validate-binary-tree-nodes/

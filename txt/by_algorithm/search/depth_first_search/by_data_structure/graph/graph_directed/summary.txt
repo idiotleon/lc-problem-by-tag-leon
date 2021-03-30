@@ -23,6 +23,7 @@ References:
 
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   0457    https://leetcode.com/problems/circular-array-loop/
+4   1136    https://leetcode.com/problems/parallel-courses/
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1361    https://leetcode.com/problems/validate-binary-tree-nodes/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/

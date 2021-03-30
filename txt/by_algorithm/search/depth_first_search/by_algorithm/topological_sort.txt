@@ -11,6 +11,8 @@ References:
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 
+4   1136    https://leetcode.com/problems/parallel-courses/
+
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
 
