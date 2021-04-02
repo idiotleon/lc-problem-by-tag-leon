@@ -245,6 +245,8 @@ Resources:
     https://zhuanlan.zhihu.com/p/126546914
     https://zhuanlan.zhihu.com/p/131585177
     https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxODQxMDM0Mw==&action=getalbum&album_id=1318881141113536512&scene=173&from_msgid=2247484731&from_itemidx=1&count=3#wechat_redirect
+    https://blog.csdn.net/txl199106/article/details/45869557
+    https://blog.csdn.net/txl199106/category_2239693.html
     
 # Prefix Sums:
     about why `count += prefixSums.get(sum - k)`

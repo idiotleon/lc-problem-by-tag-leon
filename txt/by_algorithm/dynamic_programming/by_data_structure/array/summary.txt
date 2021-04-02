@@ -25,6 +25,7 @@ References:
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0877    https://leetcode.com/problems/stone-game/s
 3   1140    https://leetcode.com/problems/stone-game-ii/

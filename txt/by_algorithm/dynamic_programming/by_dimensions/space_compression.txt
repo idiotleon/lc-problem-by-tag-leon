@@ -82,3 +82,4 @@ Resources:
     https://youtu.be/MjOIR61txFc?t=588
     https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation/241664
     https://leetcode.com/problems/unique-paths/discuss/22954/C%2B%2B-DP 
+    https://blog.csdn.net/txl199106/article/details/45869557

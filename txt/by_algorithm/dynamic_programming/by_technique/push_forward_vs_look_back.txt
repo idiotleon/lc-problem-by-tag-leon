@@ -9,6 +9,7 @@ References:
 
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
 
 4   0072    https://leetcode.com/problems/edit-distance/
@@ -21,6 +22,7 @@ References:
 # Push Forward
 
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
 
 4   0072    https://leetcode.com/problems/edit-distance/
@@ -31,6 +33,7 @@ References:
 # Look Back
 
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 
 4   0097    https://leetcode.com/problems/interleaving-string/
 4   0410    https://leetcode.com/problems/split-array-largest-sum/

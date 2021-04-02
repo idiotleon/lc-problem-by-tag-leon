@@ -35,6 +35,7 @@ References:
 3   0518    https://leetcode.com/problems/coin-change-2/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 3   0764    https://leetcode.com/problems/largest-plus-sign/
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
