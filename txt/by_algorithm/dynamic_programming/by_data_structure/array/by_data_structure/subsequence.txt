@@ -8,5 +8,6 @@ References:
 # Subsequence
 
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/

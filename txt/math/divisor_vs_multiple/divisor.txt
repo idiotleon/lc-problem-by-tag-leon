@@ -27,6 +27,7 @@ References:
 3   0914    https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
 
 4   1250    https://leetcode.com/problems/check-if-it-is-a-good-array/
+4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 
 
 
