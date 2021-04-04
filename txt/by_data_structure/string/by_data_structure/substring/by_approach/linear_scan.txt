@@ -8,6 +8,7 @@ References:
 # Linear Scan
 
 1   0058    https://leetcode.com/problems/length-of-last-word/
+1   1816    https://leetcode.com/problems/truncate-sentence/
 
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/

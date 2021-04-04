@@ -17,6 +17,7 @@ References:
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1816    https://leetcode.com/problems/truncate-sentence/
 
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/

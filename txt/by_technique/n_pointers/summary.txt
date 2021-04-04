@@ -35,6 +35,7 @@ References:
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1816    https://leetcode.com/problems/truncate-sentence/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/

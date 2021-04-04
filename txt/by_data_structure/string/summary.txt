@@ -22,6 +22,7 @@ References:
 1   1417    https://leetcode.com/problems/reformat-the-string/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+1   1816    https://leetcode.com/problems/truncate-sentence/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0028    https://leetcode.com/problems/implement-strstr/

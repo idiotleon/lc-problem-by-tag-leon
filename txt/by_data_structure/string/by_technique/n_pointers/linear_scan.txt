@@ -16,6 +16,7 @@ References:
 1   1119    https://leetcode.com/problems/remove-vowels-from-a-string/
 1   1417    https://leetcode.com/problems/reformat-the-string/
 1   1446    https://leetcode.com/problems/consecutive-characters/
+1   1816    https://leetcode.com/problems/truncate-sentence/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
