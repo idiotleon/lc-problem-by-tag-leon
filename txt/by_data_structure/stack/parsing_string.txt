@@ -11,4 +11,5 @@ References:
 3   0439    https://leetcode.com/problems/ternary-expression-parser/
 3   1003    https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
 
+4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0591    https://leetcode.com/problems/tag-validator/

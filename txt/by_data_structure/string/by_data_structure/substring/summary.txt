@@ -40,6 +40,7 @@ References:
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0139    https://leetcode.com/problems/word-break/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/

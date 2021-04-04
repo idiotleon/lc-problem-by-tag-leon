@@ -16,6 +16,7 @@ References:
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 
+4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0072    https://leetcode.com/problems/edit-distance/
 4   0097    https://leetcode.com/problems/interleaving-string/
 4   0115    https://leetcode.com/problems/distinct-subsequences/

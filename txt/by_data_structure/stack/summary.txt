@@ -53,6 +53,7 @@ References:
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
+4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
 4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
