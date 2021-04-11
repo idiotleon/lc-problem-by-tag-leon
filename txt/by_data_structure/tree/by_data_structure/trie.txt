@@ -7,6 +7,8 @@ References:
 
 ### Trie
 
+1   0819    https://leetcode.com/problems/most-common-word/
+
 2   0676    https://leetcode.com/problems/implement-magic-dictionary/
 2   0677    https://leetcode.com/problems/map-sum-pairs/
 2   0720    https://leetcode.com/problems/longest-word-in-dictionary/
