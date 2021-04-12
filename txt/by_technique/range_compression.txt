@@ -1,0 +1,8 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Range Compression
+
+2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
