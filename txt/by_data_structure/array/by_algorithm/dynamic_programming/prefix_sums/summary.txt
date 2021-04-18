@@ -36,6 +36,7 @@ References:
 
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
