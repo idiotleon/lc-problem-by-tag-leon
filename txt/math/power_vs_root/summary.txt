@@ -7,5 +7,9 @@ References:
 ## Exponential vs Root
 # Summary
 
+2   0970    https://leetcode.com/problems/powerful-integers/
+
 3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/
+
+4   0372    https://leetcode.com/problems/super-pow/
