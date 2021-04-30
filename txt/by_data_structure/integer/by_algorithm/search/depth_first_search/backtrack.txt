@@ -13,6 +13,7 @@ References:
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+3   1718    https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
