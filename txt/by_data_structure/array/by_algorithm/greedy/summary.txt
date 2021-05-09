@@ -15,6 +15,7 @@ References:
 2   0896    https://leetcode.com/problems/monotonic-array/
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
+2   1854    https://leetcode.com/problems/maximum-population-year
 
 3   0055    https://leetcode.com/problems/jump-game/
 3   0134    https://leetcode.com/problems/gas-station/
