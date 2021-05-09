@@ -22,6 +22,7 @@ References:
 2   1176    https://leetcode.com/problems/diet-plan-performance/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 

@@ -38,6 +38,7 @@ References:
 3   1089    https://leetcode.com/problems/duplicate-zeros/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/

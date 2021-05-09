@@ -48,6 +48,7 @@ References:
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
+2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
@@ -97,6 +98,7 @@ References:
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 

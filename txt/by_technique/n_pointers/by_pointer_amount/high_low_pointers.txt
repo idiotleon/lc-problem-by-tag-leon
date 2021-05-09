@@ -51,6 +51,7 @@ References:
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0076    https://leetcode.com/problems/minimum-window-substring/
