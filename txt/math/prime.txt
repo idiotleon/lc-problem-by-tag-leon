@@ -1,0 +1,14 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    
+
+### Math
+# Prime Number
+
+1   0204    https://leetcode.com/problems/count-primes/
+
+2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+2   1175    https://leetcode.com/problems/prime-arrangements/
+
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
