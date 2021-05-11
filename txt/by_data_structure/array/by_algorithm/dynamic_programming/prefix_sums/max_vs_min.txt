@@ -8,3 +8,5 @@ References:
 # Maximum vs Minimum
 
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+
+4   1856    https://leetcode.com/problems/maximum-subarray-min-product/

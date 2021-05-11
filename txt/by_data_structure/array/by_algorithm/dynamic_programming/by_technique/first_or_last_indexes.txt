@@ -10,3 +10,5 @@ References:
 
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+
+4   1856    https://leetcode.com/problems/maximum-subarray-min-product/

@@ -128,6 +128,7 @@ References:
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
+4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/

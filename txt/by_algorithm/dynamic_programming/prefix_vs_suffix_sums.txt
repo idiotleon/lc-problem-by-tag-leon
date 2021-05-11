@@ -38,6 +38,7 @@ References:
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

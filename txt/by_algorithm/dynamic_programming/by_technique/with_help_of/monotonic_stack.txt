@@ -10,3 +10,4 @@ References:
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 4   1340    https://leetcode.com/problems/jump-game-v/
+4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
