@@ -72,6 +72,7 @@ References:
 3   1033    https://leetcode.com/problems/moving-stones-until-consecutive/
 3   1053    https://leetcode.com/problems/previous-permutation-with-one-swap/
 3   1131    https://leetcode.com/problems/maximum-of-absolute-value-expression/
+3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
 3   1247    https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 3   1286    https://leetcode.com/problems/iterator-for-combination/

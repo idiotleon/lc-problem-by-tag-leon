@@ -69,6 +69,7 @@ References:
 3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
 3   1138    https://leetcode.com/problems/alphabet-board-path/
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/
+3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1219    https://leetcode.com/problems/path-with-maximum-gold/
 3   1229    https://leetcode.com/problems/meeting-scheduler/

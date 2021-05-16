@@ -252,6 +252,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
+3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 3   1219    https://leetcode.com/problems/path-with-maximum-gold/

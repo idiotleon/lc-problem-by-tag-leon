@@ -80,6 +80,7 @@ References:
 3   1087    https://leetcode.com/problems/brace-expansion/
 3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
 3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1215    https://leetcode.com/problems/stepping-numbers/
 3   1233    https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 3   1236    https://leetcode.com/problems/web-crawler/

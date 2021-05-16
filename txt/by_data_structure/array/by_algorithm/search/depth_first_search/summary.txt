@@ -34,6 +34,7 @@ References:
 3   1020    https://leetcode.com/problems/number-of-enclaves/
 3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
 3   1048    https://leetcode.com/problems/longest-string-chain/
+3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 3   1254    https://leetcode.com/problems/number-of-closed-islands/
 3   1306    https://leetcode.com/problems/jump-game-iii/

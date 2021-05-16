@@ -21,6 +21,7 @@ References:
 3   0935    https://leetcode.com/problems/knight-dialer/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1485    https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
 
 4   0097    https://leetcode.com/problems/interleaving-string/
