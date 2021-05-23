@@ -378,6 +378,7 @@ This file serves as the total list of problems related to Array, regardless of a
 4   1024    https://leetcode.com/problems/video-stitching/
 4   1027    https://leetcode.com/problems/longest-arithmetic-sequence/
 4   1035    https://leetcode.com/problems/uncrossed-lines/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1040    https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1049    https://leetcode.com/problems/last-stone-weight-ii/
