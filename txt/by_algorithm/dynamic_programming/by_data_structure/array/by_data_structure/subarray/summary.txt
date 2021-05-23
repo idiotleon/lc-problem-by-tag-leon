@@ -27,6 +27,7 @@ References:
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
 4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/

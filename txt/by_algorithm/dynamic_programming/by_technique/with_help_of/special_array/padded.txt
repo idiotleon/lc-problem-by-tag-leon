@@ -1,0 +1,10 @@
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Dynamic Programming
+## By Technique
+# Padded
+
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/

@@ -107,6 +107,7 @@ References:
 4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
 4   1024    https://leetcode.com/problems/video-stitching/
 4   1035    https://leetcode.com/problems/uncrossed-lines/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1049    https://leetcode.com/problems/last-stone-weight-ii/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
