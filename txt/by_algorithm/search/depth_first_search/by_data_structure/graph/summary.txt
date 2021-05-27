@@ -50,5 +50,6 @@ References:
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
+4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

@@ -30,5 +30,6 @@ References:
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1361    https://leetcode.com/problems/validate-binary-tree-nodes/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
+4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

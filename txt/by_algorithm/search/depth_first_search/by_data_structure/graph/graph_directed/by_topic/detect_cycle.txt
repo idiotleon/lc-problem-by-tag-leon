@@ -8,3 +8,4 @@ References:
 # By Topic - Detect Cycles
 
 4   1591    https://leetcode.com/problems/strange-printer-ii/
+4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/

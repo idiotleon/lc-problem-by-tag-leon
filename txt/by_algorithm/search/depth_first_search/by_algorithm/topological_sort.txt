@@ -12,6 +12,7 @@ References:
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 
 4   1136    https://leetcode.com/problems/parallel-courses/
+4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
