@@ -13,6 +13,7 @@ References:
 1   0415    https://leetcode.com/problems/add-strings/
 1   0520    https://leetcode.com/problems/detect-capital/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
+1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0165    https://leetcode.com/problems/compare-version-numbers/
