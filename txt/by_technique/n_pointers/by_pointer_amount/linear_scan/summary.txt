@@ -27,6 +27,7 @@ References:
 1   1598    https://leetcode.com/problems/crawler-log-folder/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0021    https://leetcode.com/problems/merge-two-sorted-lists/

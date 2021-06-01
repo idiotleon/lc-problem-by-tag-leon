@@ -19,6 +19,7 @@ References:
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/

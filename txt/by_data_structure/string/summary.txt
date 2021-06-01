@@ -25,6 +25,7 @@ References:
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0028    https://leetcode.com/problems/implement-strstr/
