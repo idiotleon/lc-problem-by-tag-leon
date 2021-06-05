@@ -447,6 +447,7 @@ This file serves as the total list of problems related to Array, regardless of a
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   0827    https://leetcode.com/problems/making-a-large-island/
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
+5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/

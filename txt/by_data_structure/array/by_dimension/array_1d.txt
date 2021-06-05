@@ -323,6 +323,7 @@ References:
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
+5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 

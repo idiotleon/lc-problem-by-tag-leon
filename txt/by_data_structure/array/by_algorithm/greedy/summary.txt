@@ -70,6 +70,7 @@ References:
 4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
+5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 
 6   0391    https://leetcode.com/problems/perfect-rectangle/
