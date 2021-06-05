@@ -408,6 +408,7 @@ This file serves as the total list of problems related to Array, regardless of a
 4   1340    https://leetcode.com/problems/jump-game-v/
 4   1345    https://leetcode.com/problems/jump-game-iv/
 4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+4   1383    https://leetcode.com/problems/maximum-performance-of-a-team/
 4   1406    https://leetcode.com/problems/stone-game-iii/
 4   1425    https://leetcode.com/problems/constrained-subsequence-sum/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
