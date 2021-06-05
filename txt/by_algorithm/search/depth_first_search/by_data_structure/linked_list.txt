@@ -12,6 +12,7 @@ References:
 
 3   0086    https://leetcode.com/problems/partition-list/
 3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+3   0426    https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/
 3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
 
