@@ -17,6 +17,7 @@ References:
 1   0830    https://leetcode.com/problems/positions-of-large-groups/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
+1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0136    https://leetcode.com/problems/single-number/

@@ -24,6 +24,7 @@ References:
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
+1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
