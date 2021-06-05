@@ -3,10 +3,8 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
     
-### String
-## By Data Structure
-# Trie
-# Depth First Search
+### Depth First Search
+## Trie
 
 4   0079    https://leetcode.com/problems/word-search/
 4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/

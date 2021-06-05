@@ -202,12 +202,14 @@ References:
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
+4   0079    https://leetcode.com/problems/word-search/
 4   0097    https://leetcode.com/problems/interleaving-string/
 4   0115    https://leetcode.com/problems/distinct-subsequences/
 4   0120    https://leetcode.com/problems/triangle/
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
 4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/
 4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
+4   0211    https://leetcode.com/problems/design-add-and-search-words-data-structure/
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/

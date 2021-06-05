@@ -11,6 +11,9 @@ References:
 1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   0819    https://leetcode.com/problems/most-common-word/
 
+4   0079    https://leetcode.com/problems/word-search/
+4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0635    https://leetcode.com/problems/design-log-storage-system/
 
+5   0212    https://leetcode.com/problems/word-search-ii/
 5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/

@@ -16,3 +16,10 @@ References:
 
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+
+
+# Character Matrix
+
+4   0079    https://leetcode.com/problems/word-search/
+
+5   0212    https://leetcode.com/problems/word-search-ii/
