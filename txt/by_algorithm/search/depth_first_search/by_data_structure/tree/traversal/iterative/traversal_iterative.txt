@@ -36,6 +36,7 @@ References:
 3   0536    https://leetcode.com/problems/construct-binary-tree-from-string/
 3   0572    https://leetcode.com/problems/subtree-of-another-tree/
 3   0776    https://leetcode.com/problems/split-bst/
+3   0938    https://leetcode.com/problems/range-sum-of-bst/
 3   1490    https://leetcode.com/problems/clone-n-ary-tree/
 3   1586    https://leetcode.com/problems/binary-search-tree-iterator-ii/
 3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
