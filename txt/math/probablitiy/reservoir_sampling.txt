@@ -1,13 +1,18 @@
 @author: Leon
 Referencens:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-
+    https://youtu.be/mjKq89QAaJA
 
 
 ### Math
+## Probabilty
 # Reservoir Sampling
 
 2   0382    https://leetcode.com/problems/linked-list-random-node/
 2   0398    https://leetcode.com/problems/random-pick-index/
 
 3   0519    https://leetcode.com/problems/random-flip-matrix/
+
+
+### Resource
+    https://youtu.be/mjKq89QAaJA
