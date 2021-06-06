@@ -14,7 +14,7 @@ References:
 3   0841    https://leetcode.com/problems/keys-and-rooms/
 3   0886    https://leetcode.com/problems/possible-bipartition/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
-?3  1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
+3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
 3   1245    https://leetcode.com/problems/tree-diameter/
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
