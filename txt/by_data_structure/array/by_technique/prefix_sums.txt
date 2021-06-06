@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Technique 
+# Prefix Sums 
+
+4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/

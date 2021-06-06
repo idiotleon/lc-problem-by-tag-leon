@@ -19,6 +19,8 @@ References:
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
 
+4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
+
 
 
 ### Binary Search
@@ -44,6 +46,7 @@ References:
 ?3  0069    https://leetcode.com/problems/sqrtx/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
 
+4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
 
 

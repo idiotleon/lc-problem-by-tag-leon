@@ -430,6 +430,7 @@ This file serves as the total list of problems related to Array, regardless of a
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
+4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/
 5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/

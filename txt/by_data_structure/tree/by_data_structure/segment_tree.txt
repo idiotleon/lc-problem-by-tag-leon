@@ -15,6 +15,7 @@ References:
 4   0218    https://leetcode.com/problems/the-skyline-problem/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0732    https://leetcode.com/problems/my-calendar-iii/
+4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
 5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 5   0327    https://leetcode.com/problems/count-of-range-sum/

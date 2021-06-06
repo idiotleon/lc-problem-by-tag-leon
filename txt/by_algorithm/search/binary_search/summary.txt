@@ -83,6 +83,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 4   1300    https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
 5   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
 5   0327    https://leetcode.com/problems/count-of-range-sum/
