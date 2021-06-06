@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+    
+### String
+# Hash
+
+4   0249    https://leetcode.com/problems/group-shifted-strings/
