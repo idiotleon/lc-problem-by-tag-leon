@@ -14,6 +14,7 @@ References:
 2   0198    https://leetcode.com/problems/house-robber/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+2   0746    https://leetcode.com/problems/min-cost-climbing-stairs/
 
 3   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

@@ -22,6 +22,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 2   0292    https://leetcode.com/problems/nim-game/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
+2   0746    https://leetcode.com/problems/min-cost-climbing-stairs/
 2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
@@ -250,6 +251,7 @@ Resources:
     https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxODQxMDM0Mw==&action=getalbum&album_id=1318881141113536512&scene=173&from_msgid=2247484731&from_itemidx=1&count=3#wechat_redirect
     https://blog.csdn.net/txl199106/article/details/45869557
     https://blog.csdn.net/txl199106/category_2239693.html
+    https://leetcode.com/discuss/general-discussion/712010/the-art-of-dynamic-programming-an-intuitive-approach-from-apprentice-to-master/
     
 # Prefix Sums:
     about why `count += prefixSums.get(sum - k)`
