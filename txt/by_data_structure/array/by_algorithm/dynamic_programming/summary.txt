@@ -123,6 +123,7 @@ References:
 4   1575    https://leetcode.com/problems/count-all-possible-routes/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
+4   1695    https://leetcode.com/problems/jump-game-vi/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 

@@ -7,4 +7,6 @@ References:
 ## with help of 
 # Monotonic Queues
 
+4   1695    https://leetcode.com/problems/jump-game-vi/
+
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/

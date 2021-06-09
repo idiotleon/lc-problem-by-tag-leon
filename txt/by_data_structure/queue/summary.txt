@@ -63,6 +63,7 @@ References:
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+4   1695    https://leetcode.com/problems/jump-game-vi/
 
 5   0480    https://leetcode.com/problems/sliding-window-median/
 5   0499    https://leetcode.com/problems/the-maze-iii/
