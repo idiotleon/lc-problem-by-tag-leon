@@ -299,6 +299,7 @@ References:
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+4   1900    https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/
 5   0099    https://leetcode.com/problems/recover-binary-search-tree/
