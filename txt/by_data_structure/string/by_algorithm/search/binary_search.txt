@@ -8,6 +8,8 @@ References:
 
 2   0392    https://leetcode.com/problems/is-subsequence/
 
+3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
+
 4   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 
 5   1044    https://leetcode.com/problems/longest-duplicate-substring/

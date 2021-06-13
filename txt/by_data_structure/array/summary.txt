@@ -293,6 +293,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1686    https://leetcode.com/problems/stone-game-vi/
 3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1899    https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

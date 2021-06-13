@@ -149,6 +149,7 @@ References:
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
+3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/

@@ -18,6 +18,7 @@ References:
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1055    https://leetcode.com/problems/shortest-way-to-form-string/
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
+3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 
 4   0072    https://leetcode.com/problems/edit-distance/
 4   0097    https://leetcode.com/problems/interleaving-string/
