@@ -7,6 +7,7 @@ References:
 # String - Array
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
+1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/

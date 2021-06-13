@@ -18,6 +18,7 @@ References:
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
+1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 
 2   0136    https://leetcode.com/problems/single-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
