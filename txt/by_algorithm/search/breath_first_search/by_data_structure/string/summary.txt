@@ -23,5 +23,6 @@ References:
 4   0906    https://leetcode.com/problems/super-palindromes/
 4   1258    https://leetcode.com/problems/synonymous-sentences/
 
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/

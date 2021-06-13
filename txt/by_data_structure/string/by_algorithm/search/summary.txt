@@ -45,6 +45,7 @@ References:
 
 5   0282    https://leetcode.com/problems/expression-add-operators/
 5   0291    https://leetcode.com/problems/word-pattern-ii/
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   0425    https://leetcode.com/problems/word-squares/
 5   0472    https://leetcode.com/problems/concatenated-words/

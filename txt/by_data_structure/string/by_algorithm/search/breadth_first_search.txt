@@ -18,4 +18,5 @@ References:
 4   0854    https://leetcode.com/problems/k-similar-strings/
 4   0906    https://leetcode.com/problems/super-palindromes/
 
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/
