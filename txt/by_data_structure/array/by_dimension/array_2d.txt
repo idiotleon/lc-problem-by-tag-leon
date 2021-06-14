@@ -7,6 +7,7 @@ References:
 # 2 Dimensional
 
 1   0766    https://leetcode.com/problems/toeplitz-matrix/
+1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 
 2   0064    https://leetcode.com/problems/minimum-path-sum/
 2   0118    https://leetcode.com/problems/pascals-triangle/

@@ -7,6 +7,7 @@ References:
 ### Greedy
 
 1   0830    https://leetcode.com/problems/positions-of-large-groups/
+1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0495    https://leetcode.com/problems/teemo-attacking/
