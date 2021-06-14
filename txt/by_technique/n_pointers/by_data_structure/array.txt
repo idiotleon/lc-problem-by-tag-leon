@@ -105,6 +105,7 @@ References:
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+3   1826    https://leetcode.com/problems/faulty-sensor/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
