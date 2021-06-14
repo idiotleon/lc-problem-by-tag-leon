@@ -27,6 +27,7 @@ This file serves as the total list of problems related to Array, regardless of a
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
+1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 
 2   0001    https://leetcode.com/problems/two-sum/
