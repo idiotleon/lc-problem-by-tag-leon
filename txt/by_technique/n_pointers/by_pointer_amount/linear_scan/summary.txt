@@ -26,6 +26,7 @@ References:
 1   1417    https://leetcode.com/problems/reformat-the-string/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1816    https://leetcode.com/problems/truncate-sentence/

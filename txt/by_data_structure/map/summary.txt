@@ -13,6 +13,7 @@ References:
 1   0884    https://leetcode.com/problems/uncommon-words-from-two-sentences/
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
+1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0170    https://leetcode.com/problems/two-sum-iii-data-structure-design/
