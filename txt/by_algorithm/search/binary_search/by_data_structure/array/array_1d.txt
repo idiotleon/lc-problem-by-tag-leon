@@ -17,6 +17,7 @@ References:
 2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1150    https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
