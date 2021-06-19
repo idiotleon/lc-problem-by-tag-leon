@@ -32,6 +32,7 @@ References:
 3   0775    https://leetcode.com/problems/global-and-local-inversions/
 3   0846    https://leetcode.com/problems/hand-of-straights/
 3   0853    https://leetcode.com/problems/car-fleet/
+3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   0948    https://leetcode.com/problems/bag-of-tokens/
 3   0950    https://leetcode.com/problems/reveal-cards-in-increasing-order/
 3   0955    https://leetcode.com/problems/delete-columns-to-make-sorted-ii/

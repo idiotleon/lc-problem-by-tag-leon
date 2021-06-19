@@ -29,6 +29,7 @@ References:
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
+3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   0912    https://leetcode.com/problems/sort-an-array/
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/

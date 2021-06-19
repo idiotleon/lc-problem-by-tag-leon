@@ -11,5 +11,6 @@ References:
 
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 
+3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
