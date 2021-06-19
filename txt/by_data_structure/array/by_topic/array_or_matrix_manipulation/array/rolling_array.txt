@@ -1,0 +1,11 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Array Manipulation
+# Rolling Array
+
+2   0641    https://leetcode.com/problems/design-circular-deque/

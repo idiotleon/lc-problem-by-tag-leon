@@ -59,6 +59,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0622    https://leetcode.com/problems/design-circular-queue/
+2   0641    https://leetcode.com/problems/design-circular-deque/
 2   0690    https://leetcode.com/problems/employee-importance/
 2   0695    https://leetcode.com/problems/max-area-of-island/
 2   0704    https://leetcode.com/problems/binary-search/
