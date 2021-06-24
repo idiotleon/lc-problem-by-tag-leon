@@ -47,6 +47,7 @@ References:
 3   0477    https://leetcode.com/problems/total-hamming-distance/
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
+3   0670    https://leetcode.com/problems/maximum-swap/
 3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/
 3   1201    https://leetcode.com/problems/ugly-number-iii/

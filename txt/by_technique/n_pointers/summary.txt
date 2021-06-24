@@ -155,6 +155,7 @@ References:
 3   0611    https://leetcode.com/problems/valid-triangle-number/
 3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
+3   0670    https://leetcode.com/problems/maximum-swap/
 3   0680    https://leetcode.com/problems/valid-palindrome-ii/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0713    https://leetcode.com/problems/subarray-product-less-than-k/

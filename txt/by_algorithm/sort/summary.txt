@@ -27,6 +27,7 @@ References:
 3   0435    https://leetcode.com/problems/non-overlapping-intervals/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+3   0670    https://leetcode.com/problems/maximum-swap/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
 3   0870    https://leetcode.com/problems/advantage-shuffle/
