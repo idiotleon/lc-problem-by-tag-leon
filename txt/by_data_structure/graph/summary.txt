@@ -17,6 +17,7 @@ References:
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0582    https://leetcode.com/problems/kill-process/
+3   0684    https://leetcode.com/problems/redundant-connection/
 3   0721    https://leetcode.com/problems/accounts-merge/
 3   0737    https://leetcode.com/problems/sentence-similarity-ii/
 3   0743    https://leetcode.com/problems/network-delay-time/

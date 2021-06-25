@@ -9,6 +9,7 @@ References:
 
 3   0133    https://leetcode.com/problems/clone-graph/
 3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0684    https://leetcode.com/problems/redundant-connection/
 3   0737    https://leetcode.com/problems/sentence-similarity-ii/
 3   0785    https://leetcode.com/problems/is-graph-bipartite/
 3   0841    https://leetcode.com/problems/keys-and-rooms/
