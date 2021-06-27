@@ -91,6 +91,7 @@ References:
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1694    https://leetcode.com/problems/reformat-phone-number/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+2   1913    https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
