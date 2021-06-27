@@ -21,6 +21,7 @@ References:
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1886    https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/

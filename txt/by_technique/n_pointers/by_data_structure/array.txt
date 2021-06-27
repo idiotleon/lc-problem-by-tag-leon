@@ -108,6 +108,7 @@ References:
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
+3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
