@@ -212,6 +212,7 @@ References:
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
+4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
 
 5   0010    https://leetcode.com/problems/regular-expression-matching/
 5   0140    https://leetcode.com/problems/word-break-ii/
