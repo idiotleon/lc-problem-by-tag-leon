@@ -6,4 +6,6 @@ References:
 ### String
 ## with a Stack
 
+2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
