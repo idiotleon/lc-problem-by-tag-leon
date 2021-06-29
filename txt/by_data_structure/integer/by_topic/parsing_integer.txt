@@ -6,6 +6,7 @@ References:
 ### Integer
 # Parsing Integer
 
+1   1134    https://leetcode.com/problems/armstrong-number/
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/

@@ -8,6 +8,7 @@ References:
 # Summary
 
 1   1056    https://leetcode.com/problems/confusing-number/
+1   1134    https://leetcode.com/problems/armstrong-number/
 
 2   0136    https://leetcode.com/problems/single-number/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
