@@ -7,3 +7,4 @@ References:
 ## By Topic
 # Longest vs Shortest
 
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
