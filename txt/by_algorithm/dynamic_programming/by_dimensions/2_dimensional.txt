@@ -87,6 +87,7 @@ References:
 4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 4   1289    https://leetcode.com/problems/minimum-falling-path-sum-ii/
 4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
 4   1246    https://leetcode.com/problems/palindrome-removal/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/

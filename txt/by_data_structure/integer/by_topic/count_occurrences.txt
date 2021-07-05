@@ -14,4 +14,5 @@ References:
 4   0651    https://leetcode.com/problems/4-keys-keyboard/
 4   0660    https://leetcode.com/problems/remove-9/
 4   0906    https://leetcode.com/problems/super-palindromes/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/

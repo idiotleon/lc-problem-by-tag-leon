@@ -36,6 +36,7 @@ References:
 4   0818    https://leetcode.com/problems/race-car/
 4   0906    https://leetcode.com/problems/super-palindromes/
 4   1088    https://leetcode.com/problems/confusing-number-ii/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
 4   1510    https://leetcode.com/problems/stone-game-iv/
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/

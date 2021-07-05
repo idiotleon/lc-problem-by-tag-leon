@@ -44,6 +44,7 @@ References:
 4   1125    https://leetcode.com/problems/smallest-sufficient-team/
 4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 4   1143    https://leetcode.com/problems/longest-common-subsequence/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1246    https://leetcode.com/problems/palindrome-removal/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 4   1340    https://leetcode.com/problems/jump-game-v/

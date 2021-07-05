@@ -25,6 +25,7 @@ References:
 4   0818    https://leetcode.com/problems/race-car/
 4   0887    https://leetcode.com/problems/super-egg-drop/
 4   0982    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
 4   1259    https://leetcode.com/problems/handshakes-that-dont-cross/
 4   1269    https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
