@@ -62,6 +62,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1891    https://leetcode.com/problems/cutting-ribbons/
+3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 
 4   0081    https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/

@@ -19,6 +19,7 @@ References:
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1891    https://leetcode.com/problems/cutting-ribbons/
+3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0644    https://leetcode.com/problems/maximum-average-subarray-ii/

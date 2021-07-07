@@ -42,6 +42,7 @@ References:
 3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 
 4   0220    https://leetcode.com/problems/contains-duplicate-iii/
 4   0312    https://leetcode.com/problems/burst-balloons/
