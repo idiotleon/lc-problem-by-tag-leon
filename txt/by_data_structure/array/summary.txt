@@ -104,6 +104,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1464    https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/

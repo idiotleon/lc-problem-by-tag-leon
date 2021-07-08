@@ -8,6 +8,7 @@ References:
 # Array - 2 Dimensional
 
 2   0074    https://leetcode.com/problems/search-a-2d-matrix/
+2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 
 3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/

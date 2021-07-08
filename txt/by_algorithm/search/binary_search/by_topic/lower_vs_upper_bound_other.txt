@@ -10,6 +10,7 @@ References:
 ?2  0268    https://leetcode.com/problems/missing-number/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 ?3  0069    https://leetcode.com/problems/sqrtx/
@@ -29,6 +30,7 @@ References:
 
 ?2  0268    https://leetcode.com/problems/missing-number/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
