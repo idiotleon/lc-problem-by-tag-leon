@@ -14,6 +14,7 @@ References:
 
 ?3  0069    https://leetcode.com/problems/sqrtx/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
@@ -31,6 +32,7 @@ References:
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
 3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/

@@ -41,6 +41,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 3   0270    https://leetcode.com/problems/closest-binary-search-tree-value/
 3   0275    https://leetcode.com/problems/h-index-ii/
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
+3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0367    https://leetcode.com/problems/valid-perfect-square/
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
