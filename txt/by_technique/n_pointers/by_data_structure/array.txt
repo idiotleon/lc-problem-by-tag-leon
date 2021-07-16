@@ -65,6 +65,7 @@ References:
 3   0016    https://leetcode.com/problems/3sum-closest/
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
+3   0073    https://leetcode.com/problems/set-matrix-zeroes/
 3   0075    https://leetcode.com/problems/sort-colors/
 3   0080    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

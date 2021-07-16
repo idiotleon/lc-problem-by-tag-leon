@@ -16,6 +16,7 @@ References:
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
 3   0054    https://leetcode.com/problems/spiral-matrix/
+3   0073    https://leetcode.com/problems/set-matrix-zeroes/
 3   0289    https://leetcode.com/problems/game-of-life/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0519    https://leetcode.com/problems/random-flip-matrix/

@@ -135,6 +135,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0060    https://leetcode.com/problems/permutation-sequence/
 3   0062    https://leetcode.com/problems/unique-paths/
+3   0073    https://leetcode.com/problems/set-matrix-zeroes/
 3   0075    https://leetcode.com/problems/sort-colors/
 3   0080    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 3   0119    https://leetcode.com/problems/pascals-triangle-ii/
