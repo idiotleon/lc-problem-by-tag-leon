@@ -12,6 +12,7 @@ References:
 1   0645    https://leetcode.com/problems/set-mismatch/
 1   1009    https://leetcode.com/problems/complement-of-base-10-integer/
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 
 2   0078    https://leetcode.com/problems/subsets/
 2   0136    https://leetcode.com/problems/single-number/
