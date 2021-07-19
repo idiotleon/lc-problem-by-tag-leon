@@ -7,4 +7,6 @@ References:
 ## with help of 
 # Two Pointers
 
+2   1925    https://leetcode.com/problems/count-square-sum-triples/
+
 3   1498   https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/

@@ -8,6 +8,8 @@ References:
 
 1   0062    https://leetcode.com/problems/unique-paths/
 
+2   1925    https://leetcode.com/problems/count-square-sum-triples/
+
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 

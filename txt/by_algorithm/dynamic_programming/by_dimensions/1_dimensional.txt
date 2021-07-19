@@ -28,6 +28,7 @@ References:
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
+2   1925    https://leetcode.com/problems/count-square-sum-triples/
 
 3   0091    https://leetcode.com/problems/decode-ways/
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
