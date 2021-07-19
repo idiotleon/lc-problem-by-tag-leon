@@ -30,6 +30,7 @@ This file serves as the total list of problems related to Array, regardless of a
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
+1   1909    https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 1   1913    https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 1   1920    https://leetcode.com/problems/build-array-from-permutation/
 1   1929    https://leetcode.com/problems/concatenation-of-array/
