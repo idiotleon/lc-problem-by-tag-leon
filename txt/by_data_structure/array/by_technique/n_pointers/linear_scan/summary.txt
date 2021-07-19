@@ -21,6 +21,7 @@ References:
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
+1   1929    https://leetcode.com/problems/concatenation-of-array/
 
 2   0136    https://leetcode.com/problems/single-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
