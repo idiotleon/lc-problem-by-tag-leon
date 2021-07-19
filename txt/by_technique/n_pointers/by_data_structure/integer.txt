@@ -7,6 +7,8 @@ References:
 ## By Data Structure
 # Integer
 
+1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
+
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/

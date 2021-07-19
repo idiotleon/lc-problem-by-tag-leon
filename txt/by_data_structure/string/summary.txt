@@ -27,6 +27,7 @@ References:
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
+1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/

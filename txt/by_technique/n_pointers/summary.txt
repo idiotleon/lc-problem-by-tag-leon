@@ -44,6 +44,7 @@ References:
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
+1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1909    https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 1   1913    https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 1   1920    https://leetcode.com/problems/build-array-from-permutation/
