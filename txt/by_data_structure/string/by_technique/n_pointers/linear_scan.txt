@@ -63,6 +63,7 @@ References:
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0158    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/

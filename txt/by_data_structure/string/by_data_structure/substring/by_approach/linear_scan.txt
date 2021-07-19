@@ -16,5 +16,6 @@ References:
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
