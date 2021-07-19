@@ -33,8 +33,9 @@ References:
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
-1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+1   1920    https://leetcode.com/problems/build-array-from-permutation/
 1   1929    https://leetcode.com/problems/concatenation-of-array/
+1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0021    https://leetcode.com/problems/merge-two-sorted-lists/

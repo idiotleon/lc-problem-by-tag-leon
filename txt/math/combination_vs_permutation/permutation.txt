@@ -6,6 +6,8 @@ References:
 ### Math
 # Permutation
 
+1   1920    https://leetcode.com/problems/build-array-from-permutation/
+
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 
 3   0046    https://leetcode.com/problems/permutations/
