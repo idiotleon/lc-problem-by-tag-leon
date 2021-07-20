@@ -59,6 +59,7 @@ References:
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
 3   1686    https://leetcode.com/problems/stone-game-vi/
+3   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 3   1899    https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 
 4   0057    https://leetcode.com/problems/insert-interval/

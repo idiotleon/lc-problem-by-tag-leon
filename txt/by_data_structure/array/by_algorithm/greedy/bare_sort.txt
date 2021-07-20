@@ -14,3 +14,4 @@ References:
 3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
+3   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
