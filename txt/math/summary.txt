@@ -10,6 +10,7 @@ References:
 1   0258    https://leetcode.com/problems/add-digits/
 1   0645    https://leetcode.com/problems/set-mismatch/
 1   1304    https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/

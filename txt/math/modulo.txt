@@ -6,4 +6,6 @@ References:
 ### Math
 # Modulo
 
+1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
+
 4   0780    https://leetcode.com/problems/reaching-points/

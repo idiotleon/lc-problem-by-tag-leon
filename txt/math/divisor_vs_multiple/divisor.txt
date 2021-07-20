@@ -6,6 +6,8 @@ References:
 ### Divisor vs Multiple
 # Divisor
 
+1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
+
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 
