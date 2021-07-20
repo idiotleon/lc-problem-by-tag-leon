@@ -9,6 +9,7 @@ References:
 
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
+1   1832    https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
