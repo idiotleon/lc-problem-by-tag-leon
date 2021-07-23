@@ -282,6 +282,7 @@ References:
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0954    https://leetcode.com/problems/array-of-doubled-pairs/

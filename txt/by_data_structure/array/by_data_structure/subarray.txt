@@ -52,6 +52,7 @@ References:
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/

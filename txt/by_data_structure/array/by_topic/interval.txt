@@ -9,4 +9,6 @@ References:
 
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
+4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+
 5   1157    https://leetcode.com/problems/online-majority-element-in-subarray/

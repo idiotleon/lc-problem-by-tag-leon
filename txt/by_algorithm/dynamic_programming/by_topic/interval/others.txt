@@ -8,5 +8,6 @@ References:
 ## Interval
 # Others
 
-1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
-1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+4   1130    https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/

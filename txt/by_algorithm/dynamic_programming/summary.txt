@@ -146,6 +146,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 4   0894    https://leetcode.com/problems/all-possible-full-binary-trees/
 4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
