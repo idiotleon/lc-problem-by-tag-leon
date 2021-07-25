@@ -25,6 +25,7 @@ References:
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+1   1941    https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
