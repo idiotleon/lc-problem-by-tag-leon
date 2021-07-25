@@ -8,6 +8,7 @@ References:
 
 2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
 2   0984    https://leetcode.com/problems/string-without-aaa-or-bbb/
+2   1946    https://leetcode.com/problems/largest-number-after-mutating-substring/
 
 3   0758    https://leetcode.com/problems/bold-words-in-string/
 3   0763    https://leetcode.com/problems/partition-labels/description/

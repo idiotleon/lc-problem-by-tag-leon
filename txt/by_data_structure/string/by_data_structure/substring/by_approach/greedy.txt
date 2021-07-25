@@ -7,6 +7,8 @@ References:
 ## Substring
 # Greedy
 
+2   1946    https://leetcode.com/problems/largest-number-after-mutating-substring/
+
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
