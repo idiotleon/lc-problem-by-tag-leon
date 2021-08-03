@@ -7,4 +7,6 @@ References:
 ## Exponential vs Root
 # Root
 
+2   1952    https://leetcode.com/problems/three-divisors/
+
 3   0069    https://leetcode.com/problems/sqrtx/

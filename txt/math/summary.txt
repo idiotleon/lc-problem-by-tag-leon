@@ -41,6 +41,7 @@ References:
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+2   1952    https://leetcode.com/problems/three-divisors/
 
 3   0039    https://leetcode.com/problems/combination-sum/
 3   0040    https://leetcode.com/problems/combination-sum-ii/

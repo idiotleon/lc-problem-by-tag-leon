@@ -10,5 +10,6 @@ References:
 
 2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 2   1175    https://leetcode.com/problems/prime-arrangements/
+2   1952    https://leetcode.com/problems/three-divisors/
 
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/

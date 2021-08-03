@@ -8,6 +8,7 @@ References:
 # Summary
 
 2   0970    https://leetcode.com/problems/powerful-integers/
+2   1952    https://leetcode.com/problems/three-divisors/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/
