@@ -15,6 +15,7 @@ References:
 3   0367    https://leetcode.com/problems/valid-perfect-square/
 3   0702    https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
+3   1954    https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
 
 4   0660    https://leetcode.com/problems/remove-9/
 
