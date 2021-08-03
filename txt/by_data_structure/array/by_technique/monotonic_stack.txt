@@ -8,6 +8,7 @@ References:
 # Monotonic Stack
 
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/

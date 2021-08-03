@@ -8,6 +8,7 @@ References:
 # Left or Right Maximum Values
 
 3   0807    https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/

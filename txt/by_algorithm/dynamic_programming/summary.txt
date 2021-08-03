@@ -89,6 +89,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
 3   1690    https://leetcode.com/problems/stone-game-vii/
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0042    https://leetcode.com/problems/trapping-rain-water/

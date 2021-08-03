@@ -7,6 +7,8 @@ References:
 ## with help of 
 # Monotonic Stacks
 
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 4   1340    https://leetcode.com/problems/jump-game-v/

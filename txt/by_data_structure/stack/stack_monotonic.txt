@@ -19,6 +19,7 @@ References:
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
 3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/

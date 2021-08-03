@@ -52,6 +52,7 @@ References:
 3   1249    https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0042    https://leetcode.com/problems/trapping-rain-water/

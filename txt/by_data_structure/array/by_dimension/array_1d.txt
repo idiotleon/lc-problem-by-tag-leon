@@ -237,6 +237,7 @@ References:
 3   1899    https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 3   1891    https://leetcode.com/problems/cutting-ribbons/
 3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
+3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
