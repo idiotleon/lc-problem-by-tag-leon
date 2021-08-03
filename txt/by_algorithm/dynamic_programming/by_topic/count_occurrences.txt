@@ -23,3 +23,4 @@ References:
 4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
+4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/

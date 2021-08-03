@@ -21,6 +21,7 @@ References:
 4   1049    https://leetcode.com/problems/last-stone-weight-ii/
 4   1125    https://leetcode.com/problems/smallest-sufficient-team/
 4   1406    https://leetcode.com/problems/stone-game-iii/
+4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/

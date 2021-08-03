@@ -17,4 +17,6 @@ References:
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 
+4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
