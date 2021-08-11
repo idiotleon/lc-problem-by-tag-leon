@@ -126,6 +126,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/
