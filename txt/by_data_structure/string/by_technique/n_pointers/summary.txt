@@ -72,6 +72,7 @@ References:
 2   1694    https://leetcode.com/problems/reformat-phone-number/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
+2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/

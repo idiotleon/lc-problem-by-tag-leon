@@ -9,3 +9,5 @@ References:
 # Prefix
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
+
+2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
