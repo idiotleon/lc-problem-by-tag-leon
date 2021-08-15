@@ -494,6 +494,7 @@ This file serves as the total list of problems related to Array, regardless of a
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 6   0391    https://leetcode.com/problems/perfect-rectangle/
+6   0546    https://leetcode.com/problems/remove-boxes/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 
 

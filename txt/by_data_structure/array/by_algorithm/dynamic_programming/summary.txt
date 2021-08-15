@@ -142,6 +142,7 @@ References:
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
+6   0546    https://leetcode.com/problems/remove-boxes/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 
 

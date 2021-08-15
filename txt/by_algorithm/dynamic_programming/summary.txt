@@ -240,6 +240,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/
+6   0546    https://leetcode.com/problems/remove-boxes/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 6   1397    https://leetcode.com/problems/find-all-good-strings/
 

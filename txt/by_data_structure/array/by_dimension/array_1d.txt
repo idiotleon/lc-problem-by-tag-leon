@@ -355,4 +355,5 @@ References:
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 
+6   0546    https://leetcode.com/problems/remove-boxes/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
