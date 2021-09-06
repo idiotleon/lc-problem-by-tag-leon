@@ -120,6 +120,7 @@ References:
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
+5   0899    https://leetcode.com/problems/orderly-queue/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 
 6   0391    https://leetcode.com/problems/perfect-rectangle/
