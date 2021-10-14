@@ -17,6 +17,7 @@ References:
 3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 

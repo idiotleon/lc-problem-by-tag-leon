@@ -64,6 +64,7 @@ References:
 3   1257    https://leetcode.com/problems/smallest-common-region/
 3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
 3   1357    https://leetcode.com/problems/apply-discount-every-n-orders/
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
