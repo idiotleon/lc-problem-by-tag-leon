@@ -24,6 +24,7 @@ References:
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/

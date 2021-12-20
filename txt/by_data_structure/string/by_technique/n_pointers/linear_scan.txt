@@ -26,6 +26,7 @@ References:
 1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 1   1941    https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
