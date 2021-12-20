@@ -20,6 +20,7 @@ References:
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
 3   1695    https://leetcode.com/problems/maximum-erasure-value
+3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0410    https://leetcode.com/problems/split-array-largest-sum/

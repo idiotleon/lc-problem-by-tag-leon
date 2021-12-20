@@ -32,6 +32,7 @@ References:
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 1   1941    https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0038    https://leetcode.com/problems/count-and-say/
