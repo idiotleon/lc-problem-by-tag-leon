@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Character to Integer
+
+1   0415    https://leetcode.com/problems/add-strings/
+
+2   0408    https://leetcode.com/problems/valid-word-abbreviation/

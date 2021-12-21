@@ -47,7 +47,7 @@ References:
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0419    https://leetcode.com/problems/battleships-in-a-board/
 3   0436    https://leetcode.com/problems/find-right-interval/
-3   0498    https://leetcode.com/problems/diagonal-traverse/ 
+3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0519    https://leetcode.com/problems/random-flip-matrix/
 3   0542    https://leetcode.com/problems/01-matrix/
 3   0547    https://leetcode.com/problems/friend-circles/
