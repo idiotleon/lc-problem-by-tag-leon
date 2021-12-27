@@ -9,6 +9,7 @@ References:
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/

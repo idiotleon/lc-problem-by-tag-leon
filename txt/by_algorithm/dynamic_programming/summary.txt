@@ -2,7 +2,7 @@
 References:
     https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 This serves the total list of problems related to Dynamic Programming, regardless of subcategories
 ### Dynamic Programming
@@ -29,6 +29,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0091    https://leetcode.com/problems/decode-ways/

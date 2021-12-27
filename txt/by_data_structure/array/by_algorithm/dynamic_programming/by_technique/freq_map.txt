@@ -8,6 +8,7 @@ References:
 # Frequency Map
 
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 

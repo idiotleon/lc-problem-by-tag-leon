@@ -9,6 +9,7 @@ References:
 
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
