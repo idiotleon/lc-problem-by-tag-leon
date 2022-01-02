@@ -26,6 +26,7 @@ References:
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
+1   2124    https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
