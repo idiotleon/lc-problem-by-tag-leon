@@ -3,8 +3,8 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode_Graph_III_Shortest_Path.docx
 
-    
-### Queue
+
+### Heap
 ## Priority Queue
 # Kruskal's Minimum Spanning Tree
 
