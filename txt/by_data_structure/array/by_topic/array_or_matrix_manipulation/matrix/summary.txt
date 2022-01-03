@@ -10,6 +10,7 @@ References:
 1   0867    https://leetcode.com/problems/transpose-matrix/
 
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
+2   0661    https://leetcode.com/problems/image-smoother/
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
 
 3   0006    https://leetcode.com/problems/zigzag-conversion
