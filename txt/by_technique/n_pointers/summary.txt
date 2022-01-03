@@ -30,6 +30,7 @@ References:
 1   0997    https://leetcode.com/problems/find-the-town-judge/
 1   1056    https://leetcode.com/problems/confusing-number/
 1   1108    https://leetcode.com/problems/defanging-an-ip-address/
+1   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
@@ -117,6 +118,7 @@ References:
 2   1243    https://leetcode.com/problems/array-transformation/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
+2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/

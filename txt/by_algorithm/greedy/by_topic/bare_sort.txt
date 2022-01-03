@@ -2,12 +2,12 @@
 References:
     https://leetcode.com/tag/heap/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Sort
 # Bare Sort
 
-
+2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 
 3   0870    https://leetcode.com/problems/advantage-shuffle/
