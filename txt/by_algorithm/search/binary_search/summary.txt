@@ -13,7 +13,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 2   0035    https://leetcode.com/problems/search-insert-position/
 2   0074    https://leetcode.com/problems/search-a-2d-matrix/
 2   0268    https://leetcode.com/problems/missing-number/
-2   0278    https://leetcode.com/problems/first-bad-version/ 
+2   0278    https://leetcode.com/problems/first-bad-version/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   0392    https://leetcode.com/problems/is-subsequence/
 2   0475    https://leetcode.com/problems/heaters/
@@ -30,6 +30,7 @@ This serves the list of all the LC problems related to Binary Search, regardless
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 2   1618    https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/
+2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0050    https://leetcode.com/problems/powx-n/

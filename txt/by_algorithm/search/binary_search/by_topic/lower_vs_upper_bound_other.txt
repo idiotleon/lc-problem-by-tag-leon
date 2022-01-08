@@ -12,6 +12,7 @@ References:
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
+2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 
 ?3  0069    https://leetcode.com/problems/sqrtx/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
