@@ -8,6 +8,7 @@ References:
 # Rabin-Karp Algorithm
 
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   1554    https://leetcode.com/problems/strings-differ-by-one-character/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0972    https://leetcode.com/problems/equal-rational-numbers/

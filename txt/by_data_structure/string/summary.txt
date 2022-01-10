@@ -158,6 +158,7 @@ References:
 3   1405    https://leetcode.com/problems/longest-happy-string/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+3   1554    https://leetcode.com/problems/strings-differ-by-one-character/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
