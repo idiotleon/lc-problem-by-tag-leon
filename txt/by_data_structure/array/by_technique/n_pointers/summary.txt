@@ -131,6 +131,7 @@ References:
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
+3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

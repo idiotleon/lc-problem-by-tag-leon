@@ -42,6 +42,7 @@ References:
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
+3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0220    https://leetcode.com/problems/contains-duplicate-iii/
