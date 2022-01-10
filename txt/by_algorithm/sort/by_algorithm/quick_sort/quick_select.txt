@@ -1,13 +1,14 @@
 @author: Leon
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
-    
+
+
 ### Sort
 # Quick Select
 
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 
 5   0324    https://leetcode.com/problems/wiggle-sort-ii/
 

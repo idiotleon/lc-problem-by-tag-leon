@@ -16,6 +16,7 @@ References:
 2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/

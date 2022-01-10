@@ -8,6 +8,7 @@ References:
 
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
+2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 
 3   0912    https://leetcode.com/problems/sort-an-array/
 

@@ -20,6 +20,7 @@ References:
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0228    https://leetcode.com/problems/summary-ranges/

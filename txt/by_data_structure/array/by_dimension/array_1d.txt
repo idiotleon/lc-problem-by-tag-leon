@@ -106,6 +106,7 @@ References:
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
