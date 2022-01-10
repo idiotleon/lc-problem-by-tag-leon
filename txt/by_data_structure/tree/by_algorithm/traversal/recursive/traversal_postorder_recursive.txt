@@ -25,6 +25,7 @@ References:
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
+2   1973    https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/
 
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
