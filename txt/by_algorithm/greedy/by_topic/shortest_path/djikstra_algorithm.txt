@@ -3,13 +3,14 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode_Graph_III_Shortest_Path.docx
 
-    
+
 ### Shortest Path
 # Dijkstra's Algorithm
 
 3   0743    https://leetcode.com/problems/network-delay-time/
 3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
 3   1514    https://leetcode.com/problems/path-with-maximum-probability/
+3   1976    https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 
 4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
 4   0505    https://leetcode.com/problems/the-maze-ii/

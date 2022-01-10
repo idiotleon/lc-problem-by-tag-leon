@@ -42,6 +42,7 @@ References:
 3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
 3   0853    https://leetcode.com/problems/car-fleet/
 3   0870    https://leetcode.com/problems/advantage-shuffle/
+3   0909    https://leetcode.com/problems/snakes-and-ladders/
 3   0950    https://leetcode.com/problems/reveal-cards-in-increasing-order/
 3   0955    https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
 3   0957    https://leetcode.com/problems/prison-cells-after-n-days/
@@ -64,6 +65,7 @@ References:
 3   1686    https://leetcode.com/problems/stone-game-vi/
 3   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 3   1899    https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
+3   1976    https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 
 4   0057    https://leetcode.com/problems/insert-interval/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
@@ -88,10 +90,13 @@ References:
 4   0954    https://leetcode.com/problems/array-of-doubled-pairs/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1024    https://leetcode.com/problems/video-stitching/
+4   1066    https://leetcode.com/problems/campus-bikes-ii/
+4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
 4   1199    https://leetcode.com/problems/minimum-time-to-build-blocks/
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
 4   1135    https://leetcode.com/problems/connecting-cities-with-minimum-cost/
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
+4   1293    https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 4   1383    https://leetcode.com/problems/maximum-performance-of-a-team/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
@@ -102,6 +107,7 @@ References:
 4   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 5   0499    https://leetcode.com/problems/the-maze-iii/
+5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
 5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/

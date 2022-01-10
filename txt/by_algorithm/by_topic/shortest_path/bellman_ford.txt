@@ -1,9 +1,0 @@
-@author: Leon
-References:
-    https://docs.google.com/spreadsheets/d/1VMMHp5Qd_RmCoRKaNiE5wRs0dftXHzUTrlgQVZVleBg/edit#gid=2064608444
-
-
-### By Algorithm
-## By Topic
-# Shortest Path
-# Bellman Ford Algorithm

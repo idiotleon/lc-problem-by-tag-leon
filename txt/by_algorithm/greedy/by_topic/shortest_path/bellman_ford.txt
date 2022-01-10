@@ -2,7 +2,7 @@
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### Shortest Path
 # Bellman-Ford Algorithm Single Source Shortest Path
 
