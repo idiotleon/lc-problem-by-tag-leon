@@ -323,6 +323,7 @@ This file serves as the total list of problems related to Array, regardless of a
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1899    https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 3   1891    https://leetcode.com/problems/cutting-ribbons/
+3   1901    https://leetcode.com/problems/find-a-peak-element-ii/
 3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
