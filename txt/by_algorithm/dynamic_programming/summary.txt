@@ -24,6 +24,7 @@ This serves the total list of problems related to Dynamic Programming, regardles
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0746    https://leetcode.com/problems/min-cost-climbing-stairs/
 2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/

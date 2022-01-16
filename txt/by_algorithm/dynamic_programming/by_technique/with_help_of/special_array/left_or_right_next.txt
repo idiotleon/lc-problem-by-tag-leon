@@ -7,5 +7,7 @@ References:
 ## By Technique
 # Left or Right Next Indexes
 
+2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
+
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
