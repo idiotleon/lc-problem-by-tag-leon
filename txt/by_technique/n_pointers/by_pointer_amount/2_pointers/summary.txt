@@ -124,3 +124,4 @@ References:
 Resources:
     https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
     https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/hua-dong-chuang-kou-ji-qiao-jin-jie
+    https://leetcode.com/discuss/study-guide/1688903/solved-all-two-pointers-problems-in-100-days

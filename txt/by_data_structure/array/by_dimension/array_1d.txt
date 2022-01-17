@@ -165,6 +165,7 @@ References:
 3   0582    https://leetcode.com/problems/kill-process/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0658    https://leetcode.com/problems/find-k-closest-elements/
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   0665    https://leetcode.com/problems/non-decreasing-array/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/

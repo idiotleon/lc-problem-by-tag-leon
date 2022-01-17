@@ -35,6 +35,7 @@ References:
 3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   0658    https://leetcode.com/problems/find-k-closest-elements/
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 3   0911    https://leetcode.com/problems/online-election/
