@@ -5,7 +5,7 @@ References:
 
 ### Dynamic Programming
 ## By Technique
-# Left or Right Next Indexes
+# Left or Right Next Indices
 
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 

@@ -14,6 +14,7 @@ References:
 3   0207    https://leetcode.com/problems/course-schedule/
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0277    https://leetcode.com/problems/find-the-celebrity/
+3   0286    https://leetcode.com/problems/walls-and-gates/
 3   0310    https://leetcode.com/problems/minimum-height-trees/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/

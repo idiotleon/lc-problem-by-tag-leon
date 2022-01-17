@@ -8,6 +8,7 @@ References:
 # Summary
 
 2   0207    https://leetcode.com/problems/course-schedule/
+3   0286    https://leetcode.com/problems/walls-and-gates/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
 2   0690    https://leetcode.com/problems/employee-importance/
 2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/

@@ -23,6 +23,7 @@ References:
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0130    https://leetcode.com/problems/surrounded-regions/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0286    https://leetcode.com/problems/walls-and-gates/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0494    https://leetcode.com/problems/target-sum/
