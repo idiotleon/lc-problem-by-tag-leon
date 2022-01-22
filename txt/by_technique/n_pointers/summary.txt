@@ -127,6 +127,7 @@ References:
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
+2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
