@@ -48,6 +48,7 @@ References:
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 1   2124    https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0021    https://leetcode.com/problems/merge-two-sorted-lists/

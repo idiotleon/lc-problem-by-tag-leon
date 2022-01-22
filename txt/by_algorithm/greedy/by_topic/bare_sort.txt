@@ -7,6 +7,8 @@ References:
 ### Sort
 # Bare Sort
 
+1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 
