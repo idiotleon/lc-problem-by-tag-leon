@@ -8,6 +8,7 @@ References:
 
 1   1046    https://leetcode.com/problems/last-stone-weight/
 1   1051    https://leetcode.com/problems/height-checker/
+1   1859    https://leetcode.com/problems/sorting-the-sentence/
 
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0280    https://leetcode.com/problems/wiggle-sort/
