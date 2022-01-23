@@ -10,6 +10,7 @@ References:
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0690    https://leetcode.com/problems/employee-importance/
 2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+-2  1436    https://leetcode.com/problems/destination-city/
 
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0277    https://leetcode.com/problems/find-the-celebrity/
