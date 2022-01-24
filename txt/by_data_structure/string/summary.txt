@@ -28,6 +28,7 @@ References:
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1832    https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 1   1844    https://leetcode.com/problems/replace-all-digits-with-characters/
+1   1859    https://leetcode.com/problems/sorting-the-sentence/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
@@ -86,6 +87,7 @@ References:
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1592    https://leetcode.com/problems/rearrange-spaces-between-words/
+2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 2   1657    https://leetcode.com/problems/determine-if-two-strings-are-close/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/

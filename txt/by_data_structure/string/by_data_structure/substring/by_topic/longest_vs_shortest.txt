@@ -8,6 +8,7 @@ References:
 # Longest vs Shortest
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/

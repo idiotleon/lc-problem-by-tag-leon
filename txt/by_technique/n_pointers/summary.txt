@@ -59,6 +59,7 @@ References:
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 1   2124    https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -127,6 +128,7 @@ References:
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
+2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
@@ -134,6 +136,7 @@ References:
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1694    https://leetcode.com/problems/reformat-phone-number/

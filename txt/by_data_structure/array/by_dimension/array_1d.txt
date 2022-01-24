@@ -24,6 +24,7 @@ References:
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
+1   1636    https://leetcode.com/problems/sort-array-by-increasing-frequency/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
@@ -33,6 +34,7 @@ References:
 1   1913    https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 1   1920    https://leetcode.com/problems/build-array-from-permutation/
 1   1929    https://leetcode.com/problems/concatenation-of-array/
+1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
@@ -95,6 +97,7 @@ References:
 2   1464    https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
