@@ -91,6 +91,7 @@ References:
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
+2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
