@@ -29,6 +29,7 @@ References:
 1   1941    https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 1   2103    https://leetcode.com/problems/rings-and-rods/
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+1   2114    https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
