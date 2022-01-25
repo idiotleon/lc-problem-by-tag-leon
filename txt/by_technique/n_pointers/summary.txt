@@ -22,6 +22,7 @@ References:
 1   0682    https://leetcode.com/problems/baseball-game/
 1   0709    https://leetcode.com/problems/to-lower-case/
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+1   0771    https://leetcode.com/problems/jewels-and-stones/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
 1   0819    https://leetcode.com/problems/most-common-word/
 1   0830    https://leetcode.com/problems/positions-of-large-groups/

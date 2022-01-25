@@ -12,6 +12,7 @@ References:
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0415    https://leetcode.com/problems/add-strings/
+1   0771    https://leetcode.com/problems/jewels-and-stones/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
 1   0917    https://leetcode.com/problems/reverse-only-letters/
 1   1108    https://leetcode.com/problems/defanging-an-ip-address/
