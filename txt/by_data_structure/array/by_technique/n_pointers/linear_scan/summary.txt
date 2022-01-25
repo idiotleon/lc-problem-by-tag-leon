@@ -17,6 +17,7 @@ References:
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
+1   1672    https://leetcode.com/problems/richest-customer-wealth/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
