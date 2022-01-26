@@ -29,6 +29,7 @@ This file serves as the total list of problems related to Array, regardless of a
 1   1636    https://leetcode.com/problems/sort-array-by-increasing-frequency/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
+1   1732    https://leetcode.com/problems/find-the-highest-altitude/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
