@@ -80,6 +80,7 @@ References:
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
 2   0605    https://leetcode.com/problems/can-place-flowers/
+2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/
 2   0661    https://leetcode.com/problems/image-smoother/
 2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
 2   0724    https://leetcode.com/problems/find-pivot-index/
