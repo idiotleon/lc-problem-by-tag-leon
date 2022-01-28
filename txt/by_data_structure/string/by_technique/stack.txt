@@ -2,10 +2,11 @@
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### String
 ## with a Stack
 
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/

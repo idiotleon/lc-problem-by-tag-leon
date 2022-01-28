@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://leetcode.com/tag/stack/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Stack
+## Two Pointers as Stacks
+
+2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
