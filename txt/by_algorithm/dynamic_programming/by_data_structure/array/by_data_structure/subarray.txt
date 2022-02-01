@@ -1,11 +1,10 @@
 @author: Leon
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Dynamic Programming
 ## Array
-# Kadane's Algorithm
 # Subarray
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/

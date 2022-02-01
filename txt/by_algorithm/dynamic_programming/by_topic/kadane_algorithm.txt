@@ -3,9 +3,11 @@ References:
     https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
- 
+
 ### Array
 # Kadane's Algorithm
+
+2   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 3   0053    https://leetcode.com/problems/maximum-subarray/
 

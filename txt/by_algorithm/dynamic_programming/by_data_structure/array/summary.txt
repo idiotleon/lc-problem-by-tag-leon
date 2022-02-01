@@ -11,6 +11,7 @@ References:
 1   1137    https://leetcode.com/problems/n-th-tribonacci-number/
 
 2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 2   0122    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 2   0198    https://leetcode.com/problems/house-robber/
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
