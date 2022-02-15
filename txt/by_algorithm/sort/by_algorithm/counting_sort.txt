@@ -12,6 +12,7 @@ References:
 2   1122    https://leetcode.com/problems/relative-sort-array/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
+2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
 

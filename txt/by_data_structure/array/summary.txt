@@ -57,6 +57,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   0310    https://leetcode.com/problems/minimum-height-trees/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0362    https://leetcode.com/problems/design-hit-counter/
+2   0384    https://leetcode.com/problems/shuffle-an-array/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
@@ -139,6 +140,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/
@@ -194,7 +196,6 @@ This file serves as the total list of problems related to Array, regardless of a
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
-2   0384    https://leetcode.com/problems/shuffle-an-array/
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0419    https://leetcode.com/problems/battleships-in-a-board/
