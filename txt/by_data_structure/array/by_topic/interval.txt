@@ -7,6 +7,7 @@ References:
 ## By Topic
 # Interval
 
+3   1288    https://leetcode.com/problems/remove-covered-intervals/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
 4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
