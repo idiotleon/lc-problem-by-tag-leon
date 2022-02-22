@@ -11,6 +11,7 @@ References:
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
+2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
