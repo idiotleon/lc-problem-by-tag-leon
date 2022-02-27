@@ -2,19 +2,20 @@
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://leetcode.com/tag/backtracking/
-    
+
 
 ### Depth First Search
 # Backtracking
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0022    https://leetcode.com/problems/generate-parentheses/
 2   0077    https://leetcode.com/problems/combinations/
 2   0078    https://leetcode.com/problems/subsets/
 2   0090    https://leetcode.com/problems/subsets-ii/
 2   0257    https://leetcode.com/problems/binary-tree-paths/
 
 3   0039    https://leetcode.com/problems/combination-sum/
-3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0040    https://leetcode.com/problems/combination-sum-ii/
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0113    https://leetcode.com/problems/path-sum-ii/

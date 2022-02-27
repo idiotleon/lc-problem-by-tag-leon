@@ -6,6 +6,7 @@ References:
 ### String
 # Search
 
+2   0022    https://leetcode.com/problems/generate-parentheses/
 2   0392    https://leetcode.com/problems/is-subsequence/
 2   0433    https://leetcode.com/problems/minimum-genetic-mutation/
 2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/

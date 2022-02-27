@@ -56,6 +56,8 @@ References:
 1   2124    https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 1   2129    https://leetcode.com/problems/capitalize-the-title/
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
+1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0021    https://leetcode.com/problems/merge-two-sorted-lists/
@@ -96,6 +98,7 @@ References:
 2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1002    https://leetcode.com/problems/find-common-characters/
+2   1064    https://leetcode.com/problems/fixed-point/
 2   1078    https://leetcode.com/problems/occurrences-after-bigram/
 2   1103    https://leetcode.com/problems/distribute-candies-to-people/
 2   1184    https://leetcode.com/problems/distance-between-bus-stops/

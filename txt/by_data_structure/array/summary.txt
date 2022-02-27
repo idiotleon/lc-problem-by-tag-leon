@@ -96,6 +96,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
+2   1064    https://leetcode.com/problems/fixed-point/
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
 2   1103    https://leetcode.com/problems/distribute-candies-to-people/
 2   1122    https://leetcode.com/problems/relative-sort-array/
@@ -142,6 +143,7 @@ This file serves as the total list of problems related to Array, regardless of a
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/

@@ -8,6 +8,7 @@ References:
 # Trial and Error / Guess the Number
 
 2   1618    https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/
+2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 3   0287    https://leetcode.com/problems/find-the-duplicate-number/

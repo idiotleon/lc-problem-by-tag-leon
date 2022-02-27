@@ -2,9 +2,11 @@
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### String
 # Anagram
+
+1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0242    https://leetcode.com/problems/valid-anagram/
 

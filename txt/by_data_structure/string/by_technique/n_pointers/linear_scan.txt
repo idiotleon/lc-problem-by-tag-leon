@@ -33,6 +33,8 @@ References:
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 1   2114    https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 1   2129    https://leetcode.com/problems/capitalize-the-title/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
+1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/

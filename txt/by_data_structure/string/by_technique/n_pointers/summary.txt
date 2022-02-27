@@ -39,6 +39,8 @@ References:
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 1   2114    https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 1   2160    https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
+1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0038    https://leetcode.com/problems/count-and-say/

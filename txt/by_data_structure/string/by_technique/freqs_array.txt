@@ -14,6 +14,7 @@ References:
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 1   1941    https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 1   2068    https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
+1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0242    https://leetcode.com/problems/valid-anagram/
