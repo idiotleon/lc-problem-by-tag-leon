@@ -13,6 +13,7 @@ References:
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
+1   0392    https://leetcode.com/problems/is-subsequence/
 1   0415    https://leetcode.com/problems/add-strings/
 1   0709    https://leetcode.com/problems/to-lower-case/
 1   0771    https://leetcode.com/problems/jewels-and-stones/

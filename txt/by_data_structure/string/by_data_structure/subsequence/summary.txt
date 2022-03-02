@@ -2,10 +2,12 @@
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### String
 ## Subsequence
 # Summary
+
+1   0392    https://leetcode.com/problems/is-subsequence/
 
 2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 
