@@ -9,6 +9,7 @@ References:
 2   0475    https://leetcode.com/problems/heaters/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
 3   0729    https://leetcode.com/problems/my-calendar-i/

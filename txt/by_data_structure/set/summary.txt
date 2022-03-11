@@ -17,6 +17,7 @@ References:
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
+2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0137    https://leetcode.com/problems/single-number-ii/

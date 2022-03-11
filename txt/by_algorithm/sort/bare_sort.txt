@@ -12,6 +12,7 @@ References:
 
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
+2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 
 3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/
