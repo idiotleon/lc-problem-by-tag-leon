@@ -30,6 +30,7 @@ References:
 1   1920    https://leetcode.com/problems/build-array-from-permutation/
 1   1929    https://leetcode.com/problems/concatenation-of-array/
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0136    https://leetcode.com/problems/single-number/
