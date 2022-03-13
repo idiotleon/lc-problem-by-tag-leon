@@ -34,6 +34,7 @@ References:
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
 
 

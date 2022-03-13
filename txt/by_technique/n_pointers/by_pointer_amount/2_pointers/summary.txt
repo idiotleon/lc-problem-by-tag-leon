@@ -6,6 +6,8 @@ References:
 ### Two Pointers
 # Summary
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
+1   0819    https://leetcode.com/problems/most-common-word/
 1   0067    https://leetcode.com/problems/add-binary/
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
@@ -14,15 +16,19 @@ References:
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   1056    https://leetcode.com/problems/confusing-number/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+4   0079    https://leetcode.com/problems/word-search/
+4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/
 2   0443    https://leetcode.com/problems/string-compression/
 2   0567    https://leetcode.com/problems/permutation-in-string/
+4   0635    https://leetcode.com/problems/design-log-storage-system/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
@@ -116,7 +122,10 @@ References:
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
+5   0212    https://leetcode.com/problems/word-search-ii/
+5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 

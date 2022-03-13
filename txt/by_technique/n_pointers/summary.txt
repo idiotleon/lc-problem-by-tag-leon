@@ -6,6 +6,7 @@ References:
 ### N Pointers
 # Summary
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   0058    https://leetcode.com/problems/length-of-last-word/
 1   0067    https://leetcode.com/problems/add-binary/
 1   0088    https://leetcode.com/problems/merge-sorted-array/
@@ -252,11 +253,13 @@ References:
 4   0057    https://leetcode.com/problems/insert-interval/
 4   0065    https://leetcode.com/problems/valid-number/
 4   0076    https://leetcode.com/problems/minimum-window-substring/
+4   0079    https://leetcode.com/problems/word-search/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/
 4   0148    https://leetcode.com/problems/sort-list/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0294    https://leetcode.com/problems/flip-game-ii/
@@ -265,6 +268,7 @@ References:
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0481    https://leetcode.com/problems/magical-string/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0635    https://leetcode.com/problems/design-log-storage-system/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   0809    https://leetcode.com/problems/expressive-words/
@@ -281,7 +285,9 @@ References:
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 
+5   0212    https://leetcode.com/problems/word-search-ii/
 5   0224    https://leetcode.com/problems/basic-calculator/
+5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 
@@ -289,5 +295,5 @@ References:
 Resources:
     https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
     https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/hua-dong-chuang-kou-ji-qiao-jin-jie
-    
+
     https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706
