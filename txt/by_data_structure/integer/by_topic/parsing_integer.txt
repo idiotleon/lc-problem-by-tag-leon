@@ -12,6 +12,7 @@ References:
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
 2   0504    https://leetcode.com/problems/base-7/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/

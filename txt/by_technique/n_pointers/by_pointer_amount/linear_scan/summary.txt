@@ -128,6 +128,7 @@ References:
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

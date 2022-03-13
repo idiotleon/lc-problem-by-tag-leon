@@ -36,6 +36,7 @@ References:
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
 2   1952    https://leetcode.com/problems/three-divisors/
 2   2139    https://leetcode.com/problems/minimum-moves-to-reach-target-score/
+2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/
