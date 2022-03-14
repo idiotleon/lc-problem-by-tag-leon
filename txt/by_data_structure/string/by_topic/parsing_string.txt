@@ -3,10 +3,10 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### String
 ## By Topic
-# String - Parsing:
+# Parsing String:
 
 1   0067    https://leetcode.com/problems/add-binary/
 1   0258    https://leetcode.com/problems/add-digits/
