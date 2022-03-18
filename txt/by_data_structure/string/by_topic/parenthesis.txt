@@ -9,6 +9,7 @@ References:
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 
 2   0022    https://leetcode.com/problems/generate-parentheses/
+2   0856    https://leetcode.com/problems/score-of-parentheses/
 2   1021    https://leetcode.com/problems/remove-outermost-parentheses/
 
 3   0394    https://leetcode.com/problems/decode-string/
