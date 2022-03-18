@@ -4,7 +4,7 @@ References:
 
 
 ### String
-# Parentheses
+# Parenthesis
 
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 
