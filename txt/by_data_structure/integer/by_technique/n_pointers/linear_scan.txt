@@ -7,6 +7,7 @@ References:
 # Linear Scan
 
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
+2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/

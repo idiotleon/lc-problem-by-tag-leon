@@ -8,6 +8,7 @@ References:
 
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
 3   0739    https://leetcode.com/problems/daily-temperatures/
