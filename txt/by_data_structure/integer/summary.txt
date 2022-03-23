@@ -26,6 +26,7 @@ References:
 2   0544    https://leetcode.com/problems/output-contest-matches/
 2   0970    https://leetcode.com/problems/powerful-integers/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
+2   0991    https://leetcode.com/problems/broken-calculator/
 2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
