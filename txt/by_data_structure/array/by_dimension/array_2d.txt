@@ -46,6 +46,7 @@ References:
 3   0289    https://leetcode.com/problems/game-of-life/
 3   0302    https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0348    https://leetcode.com/problems/design-tic-tac-toe/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
@@ -104,7 +105,6 @@ References:
 4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0305    https://leetcode.com/problems/number-of-islands-ii/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
-4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
 4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 4   0351    https://leetcode.com/problems/android-unlock-patterns/

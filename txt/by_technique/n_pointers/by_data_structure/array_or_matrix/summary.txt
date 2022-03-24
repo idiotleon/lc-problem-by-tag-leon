@@ -3,23 +3,19 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Array
-## N Pointers
-# Summary
+### N Pointers
+## By Data Structure
+# Array
 
 1   0088    https://leetcode.com/problems/merge-sorted-array/
 1   0189    https://leetcode.com/problems/rotate-array/
-1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
 1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
 1   0506    https://leetcode.com/problems/relative-ranks/
+1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
 1   0645    https://leetcode.com/problems/set-mismatch/
-1   0682    https://leetcode.com/problems/baseball-game/
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 1   0830    https://leetcode.com/problems/positions-of-large-groups/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
-1   0997    https://leetcode.com/problems/find-the-town-judge/
-1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
-1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
 1   1431    https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/
@@ -36,29 +32,28 @@ References:
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 
+2   0001    https://leetcode.com/problems/two-sum/
 2   0136    https://leetcode.com/problems/single-number/
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0251    https://leetcode.com/problems/flatten-2d-vector/
+2   0287    https://leetcode.com/problems/find-the-duplicate-number/
+2   0290    https://leetcode.com/problems/word-pattern/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
-2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0463    https://leetcode.com/problems/island-perimeter/
+2   0475    https://leetcode.com/problems/heaters/
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/
 2   0661    https://leetcode.com/problems/image-smoother/
 2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
-2   0724    https://leetcode.com/problems/find-pivot-index/
-2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   0941    https://leetcode.com/problems/valid-mountain-array/
-2   0942    https://leetcode.com/problems/di-string-match/
-2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1064    https://leetcode.com/problems/fixed-point/
-2   1099    https://leetcode.com/problems/two-sum-less-than-k/
 2   1103    https://leetcode.com/problems/distribute-candies-to-people/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 2   1176    https://leetcode.com/problems/diet-plan-performance/
@@ -72,56 +67,45 @@ References:
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
-2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
-2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
-2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
+3   0015    https://leetcode.com/problems/3sum/
+3   0016    https://leetcode.com/problems/3sum-closest/
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
 3   0073    https://leetcode.com/problems/set-matrix-zeroes/
 3   0075    https://leetcode.com/problems/sort-colors/
 3   0080    https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
-3   0163    https://leetcode.com/problems/missing-ranges/
 3   0167    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
 3   0238    https://leetcode.com/problems/product-of-array-except-self/
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
-3   0281    https://leetcode.com/problems/zigzag-iterator/
+3   0259    https://leetcode.com/problems/3sum-smaller/
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
-3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
 3   0334    https://leetcode.com/problems/increasing-triplet-subsequence/
-3   0348    https://leetcode.com/problems/design-tic-tac-toe/
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0454    https://leetcode.com/problems/4sum-ii/
+3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0611    https://leetcode.com/problems/valid-triangle-number/
-3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
-3   0665    https://leetcode.com/problems/non-decreasing-array/
-3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
+3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0723    https://leetcode.com/problems/candy-crush/
-3   0739    https://leetcode.com/problems/daily-temperatures/
-3   0807    https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
 3   0835    https://leetcode.com/problems/image-overlap/
-3   0840    https://leetcode.com/problems/magic-squares-in-grid/
 3   0845    https://leetcode.com/problems/longest-mountain-in-array/
-3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
-3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   0900    https://leetcode.com/problems/rle-iterator/
 3   0904    https://leetcode.com/problems/fruit-into-baskets/
 3   0922    https://leetcode.com/problems/sort-array-by-parity-ii/
@@ -138,37 +122,28 @@ References:
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
+3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 
 4   0018    https://leetcode.com/problems/4sum/
-4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
-4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
-4   0057    https://leetcode.com/problems/insert-interval/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
-4   0220    https://leetcode.com/problems/contains-duplicate-iii/
-4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
-4   0457    https://leetcode.com/problems/circular-array-loop/
-4   0683    https://leetcode.com/problems/k-empty-slots/
+4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
-4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
-4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
-4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
-
-
-
-Resources:
-    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
-
-    https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706

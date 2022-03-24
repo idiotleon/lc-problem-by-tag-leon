@@ -3,8 +3,8 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Divisor vs Multiple
-# Divisor
+### Division vs Multiplication
+# Division
 
 1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
 
@@ -17,7 +17,6 @@ References:
 3   1201    https://leetcode.com/problems/ugly-number-iii/
 
 4   1250    https://leetcode.com/problems/check-if-it-is-a-good-array/
-
 
 
 ## Greatest Common Divisor
