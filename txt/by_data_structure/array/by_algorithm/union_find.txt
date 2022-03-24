@@ -4,6 +4,7 @@ References:
 
 
 ### Array
+## By Algorithm
 # Union Find
 
 2   0695    https://leetcode.com/problems/max-area-of-island/

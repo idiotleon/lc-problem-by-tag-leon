@@ -1,14 +1,16 @@
 @author: Leon
 References:
-    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://docs.google.com/spreadsheets/d/1VMMHp5Qd_RmCoRKaNiE5wRs0dftXHzUTrlgQVZVleBg/edit#gid=2064608444
 
 
 ### Array
-## Greedy
+## By Algorithm
+# Sort
 # Bare Sort
 
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 
+2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 
 3   0870    https://leetcode.com/problems/advantage-shuffle/

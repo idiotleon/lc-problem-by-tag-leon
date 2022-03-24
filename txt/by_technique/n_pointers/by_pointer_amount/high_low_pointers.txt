@@ -18,6 +18,7 @@ References:
 2   0567    https://leetcode.com/problems/permutation-in-string/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
+2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   0941    https://leetcode.com/problems/valid-mountain-array/
 2   0942    https://leetcode.com/problems/di-string-match/
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/

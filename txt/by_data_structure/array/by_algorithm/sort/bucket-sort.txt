@@ -1,0 +1,10 @@
+@author: Leon
+References:
+    https://docs.google.com/spreadsheets/d/1VMMHp5Qd_RmCoRKaNiE5wRs0dftXHzUTrlgQVZVleBg/edit#gid=2064608444
+
+
+### Array
+## By Algorithm
+# Bucket Sort
+
+2   0881    https://leetcode.com/problems/boats-to-save-people/
