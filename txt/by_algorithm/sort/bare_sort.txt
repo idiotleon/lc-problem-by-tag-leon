@@ -11,6 +11,7 @@ References:
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
 2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
