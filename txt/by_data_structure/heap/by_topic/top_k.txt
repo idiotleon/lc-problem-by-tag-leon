@@ -4,7 +4,7 @@ References:
 
 
 ### Heap
-## Priority Queue
+## By Topic
 # Top K
 
 2   0347    ttps://leetcode.com/problems/top-k-frequent-elements/

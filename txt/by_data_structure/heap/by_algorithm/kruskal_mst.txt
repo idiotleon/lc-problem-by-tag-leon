@@ -5,7 +5,7 @@ References:
 
 
 ### Heap
-## Priority Queue
+## By Algorithm
 # Kruskal's Minimum Spanning Tree
 
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

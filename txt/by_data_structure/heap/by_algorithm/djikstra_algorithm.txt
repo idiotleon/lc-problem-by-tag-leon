@@ -5,7 +5,7 @@ References:
 
 
 ### Heap
-## Priority Queue
+## By Algorithm 
 # Dijkstra's Algorithm
 
 3   0743    https://leetcode.com/problems/network-delay-time/

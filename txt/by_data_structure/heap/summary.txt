@@ -5,8 +5,7 @@ References:
 
 
 ### Heap
-## Priority Queue
-# Summary
+## Summary
 
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0347    https://leetcode.com/problems/top-k-frequent-elements/
