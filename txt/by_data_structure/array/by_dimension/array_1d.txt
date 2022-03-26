@@ -38,6 +38,7 @@ References:
 1   1929    https://leetcode.com/problems/concatenation-of-array/
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
+1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/

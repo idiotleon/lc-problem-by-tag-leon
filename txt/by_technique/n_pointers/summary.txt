@@ -72,6 +72,7 @@ References:
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
+1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/

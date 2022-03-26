@@ -7,4 +7,6 @@ References:
 ## By Technique
 # Difference Array
 
+2   1029    https://leetcode.com/problems/two-city-scheduling/
+
 3   1109    https://leetcode.com/problems/corporate-flight-bookings/
