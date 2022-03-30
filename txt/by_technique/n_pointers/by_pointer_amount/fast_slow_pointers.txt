@@ -9,6 +9,8 @@ References:
 
 # 2 Pointers
 
+2   0287    https://leetcode.com/problems/find-the-duplicate-number/
+
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 
 4   0457    https://leetcode.com/problems/circular-array-loop/

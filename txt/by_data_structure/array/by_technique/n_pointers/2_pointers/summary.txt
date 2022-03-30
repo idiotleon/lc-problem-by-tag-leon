@@ -11,6 +11,7 @@ References:
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/

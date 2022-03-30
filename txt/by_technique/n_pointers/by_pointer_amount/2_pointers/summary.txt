@@ -23,6 +23,7 @@ References:
 4   0079    https://leetcode.com/problems/word-search/
 4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
+2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/

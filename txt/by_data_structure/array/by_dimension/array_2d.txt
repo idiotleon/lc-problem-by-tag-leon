@@ -11,6 +11,7 @@ References:
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 
 2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0074    https://leetcode.com/problems/search-a-2d-matrix/
 2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
