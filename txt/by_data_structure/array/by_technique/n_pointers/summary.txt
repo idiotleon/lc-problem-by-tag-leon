@@ -16,6 +16,7 @@ References:
 1   0682    https://leetcode.com/problems/baseball-game/
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 1   0830    https://leetcode.com/problems/positions-of-large-groups/
+1   0896    https://leetcode.com/problems/monotonic-array/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   0997    https://leetcode.com/problems/find-the-town-judge/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/

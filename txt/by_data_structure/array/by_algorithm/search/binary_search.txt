@@ -33,6 +33,7 @@ References:
 3   0658    https://leetcode.com/problems/find-k-closest-elements/
 3   0911    https://leetcode.com/problems/online-election/
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
+3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
 -3  1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/

@@ -15,6 +15,7 @@ References:
 1   0645    https://leetcode.com/problems/set-mismatch/
 1   0682    https://leetcode.com/problems/baseball-game/
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+1   0896    https://leetcode.com/problems/monotonic-array/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1313    https://leetcode.com/problems/decompress-run-length-encoded-list/
 1   1431    https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/

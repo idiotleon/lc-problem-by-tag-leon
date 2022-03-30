@@ -21,6 +21,7 @@ References:
 1   0771    https://leetcode.com/problems/jewels-and-stones/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
 1   0819    https://leetcode.com/problems/most-common-word/
+1   0896    https://leetcode.com/problems/monotonic-array/
 1   1108    https://leetcode.com/problems/defanging-an-ip-address/
 1   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 1   1165    https://leetcode.com/problems/single-row-keyboard/
