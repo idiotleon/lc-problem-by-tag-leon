@@ -9,6 +9,7 @@ References:
 1   0191    https://leetcode.com/problems/number-of-1-bits/
 1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
+3   0029    https://leetcode.com/problems/divide-two-integers/
 2   0136    https://leetcode.com/problems/single-number/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 
