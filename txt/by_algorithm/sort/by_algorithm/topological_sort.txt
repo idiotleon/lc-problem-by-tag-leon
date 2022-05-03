@@ -14,6 +14,7 @@ References:
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   0851    https://leetcode.com/problems/loud-and-rich/
+3   1136    https://leetcode.com/problems/parallel-courses/
 
 4   0269    https://leetcode.com/problems/alien-dictionary/
 

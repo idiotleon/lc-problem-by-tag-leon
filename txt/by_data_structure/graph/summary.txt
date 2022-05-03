@@ -33,6 +33,7 @@ References:
 3   1042    https://leetcode.com/problems/flower-planting-with-no-adjacent/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
+3   1136    https://leetcode.com/problems/parallel-courses/
 3   1245    https://leetcode.com/problems/tree-diameter/
 3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
