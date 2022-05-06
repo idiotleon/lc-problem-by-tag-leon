@@ -29,6 +29,7 @@ References:
 3   0494    https://leetcode.com/problems/target-sum/
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 3   0582    https://leetcode.com/problems/kill-process/
+3   0694    https://leetcode.com/problems/number-of-distinct-islands/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   0934    https://leetcode.com/problems/shortest-bridge/
 3   0935    https://leetcode.com/problems/knight-dialer/

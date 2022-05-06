@@ -140,6 +140,7 @@ References:
 3   0666    https://leetcode.com/problems/path-sum-iv/
 3   0681    https://leetcode.com/problems/next-closest-time/
 3   0687    https://leetcode.com/problems/longest-univalue-path/
+3   0694    https://leetcode.com/problems/number-of-distinct-islands/
 3   0737    https://leetcode.com/problems/sentence-similarity-ii/
 3   0753    https://leetcode.com/problems/cracking-the-safe/
 3   0756    https://leetcode.com/problems/pyramid-transition-matrix/

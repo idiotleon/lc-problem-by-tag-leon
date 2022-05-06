@@ -53,6 +53,7 @@ References:
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0658    https://leetcode.com/problems/find-k-closest-elements/
+3   0694    https://leetcode.com/problems/number-of-distinct-islands/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   0909    https://leetcode.com/problems/snakes-and-ladders/
 3   0911    https://leetcode.com/problems/online-election/

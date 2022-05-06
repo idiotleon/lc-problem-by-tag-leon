@@ -61,6 +61,7 @@ References:
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 3   0562    https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
 3   0638    https://leetcode.com/problems/shopping-offers/
+3   0694    https://leetcode.com/problems/number-of-distinct-islands/
 3   0723    https://leetcode.com/problems/candy-crush/
 3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
 3   0764    https://leetcode.com/problems/largest-plus-sign/
