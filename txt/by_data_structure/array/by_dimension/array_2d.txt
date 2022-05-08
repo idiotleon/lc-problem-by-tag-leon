@@ -7,6 +7,7 @@ References:
 # 2 Dimensional
 
 1   0766    https://leetcode.com/problems/toeplitz-matrix/
+1   0867    https://leetcode.com/problems/transpose-matrix/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 
