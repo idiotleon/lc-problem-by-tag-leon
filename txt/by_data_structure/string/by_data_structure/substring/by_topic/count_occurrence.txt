@@ -14,6 +14,7 @@ References:
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
