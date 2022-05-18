@@ -78,6 +78,7 @@ References:
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 5   1483    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+5   2060    https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0546    https://leetcode.com/problems/remove-boxes/

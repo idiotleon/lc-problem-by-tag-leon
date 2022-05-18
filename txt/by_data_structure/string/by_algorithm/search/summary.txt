@@ -53,6 +53,7 @@ References:
 5   0736    https://leetcode.com/problems/parse-lisp-expression/
 5   1044    https://leetcode.com/problems/longest-duplicate-substring/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/
+5   2060    https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0488    https://leetcode.com/problems/zuma-game/

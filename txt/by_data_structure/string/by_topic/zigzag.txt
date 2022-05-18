@@ -1,11 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### String
 ## By Topic
-# Zig Zag
+# ZigZag
 
 3   0006    https://leetcode.com/problems/zigzag-conversion/
