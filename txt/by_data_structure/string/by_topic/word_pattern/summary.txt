@@ -9,6 +9,7 @@ Reference:
 
 2   0290    https://leetcode.com/problems/word-pattern/
 
+3   0686    https://leetcode.com/problems/repeated-string-match/
 3   1023    https://leetcode.com/problems/camelcase-matching/
 
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/

@@ -7,4 +7,6 @@ References:
 ## String
 # Superstring
 
+3   0686    https://leetcode.com/problems/repeated-string-match/
+
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/

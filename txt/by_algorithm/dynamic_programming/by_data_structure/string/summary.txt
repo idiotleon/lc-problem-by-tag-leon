@@ -2,7 +2,7 @@
 References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### Dynamic Programming
 # String
 
@@ -11,6 +11,7 @@ References:
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
+3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/

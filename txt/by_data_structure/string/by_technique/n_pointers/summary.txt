@@ -98,6 +98,7 @@ Reference:
 3   0541    https://leetcode.com/problems/reverse-string-ii/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0680    https://leetcode.com/problems/valid-palindrome-ii/
+3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0722    https://leetcode.com/problems/remove-comments/
 3   0763    https://leetcode.com/problems/partition-labels/
