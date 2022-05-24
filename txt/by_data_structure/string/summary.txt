@@ -60,6 +60,7 @@ References:
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/
 2   0409    https://leetcode.com/problems/longest-palindrome/
 2   0433    https://leetcode.com/problems/minimum-genetic-mutation/s
+2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 2   0443    https://leetcode.com/problems/string-compression/
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
 2   0504    https://leetcode.com/problems/base-7/
@@ -123,7 +124,6 @@ References:
 3   0388    https://leetcode.com/problems/longest-absolute-file-path/
 3   0394    https://leetcode.com/problems/decode-string/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
-3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 3   0439    https://leetcode.com/problems/ternary-expression-parser/
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
 3   0468    https://leetcode.com/problems/validate-ip-address/

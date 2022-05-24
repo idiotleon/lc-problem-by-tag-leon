@@ -20,16 +20,14 @@ References:
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
-4   0079    https://leetcode.com/problems/word-search/
-4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
 2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/
+2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 2   0443    https://leetcode.com/problems/string-compression/
 2   0567    https://leetcode.com/problems/permutation-in-string/
-4   0635    https://leetcode.com/problems/design-log-storage-system/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
@@ -62,7 +60,6 @@ References:
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
-3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 3   0454    https://leetcode.com/problems/4sum-ii/
 3   0484    https://leetcode.com/problems/find-permutation/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/

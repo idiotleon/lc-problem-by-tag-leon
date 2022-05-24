@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
@@ -98,6 +98,7 @@ References:
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/
 2   0409    https://leetcode.com/problems/longest-palindrome/
 2   0414    https://leetcode.com/problems/third-maximum-number/
+2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 2   0443    https://leetcode.com/problems/string-compression/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
@@ -195,7 +196,6 @@ References:
 3   0334    https://leetcode.com/problems/increasing-triplet-subsequence/
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
-3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0454    https://leetcode.com/problems/4sum-ii/
