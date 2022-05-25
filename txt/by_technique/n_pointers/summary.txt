@@ -12,6 +12,7 @@ Reference:
 1   0088    https://leetcode.com/problems/merge-sorted-array/
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0189    https://leetcode.com/problems/rotate-array/
+1   0242    https://leetcode.com/problems/valid-anagram/
 1   0344    https://leetcode.com/problems/reverse-string/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
 1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
@@ -86,7 +87,6 @@ Reference:
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
-2   0242    https://leetcode.com/problems/valid-anagram/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
 2   0251    https://leetcode.com/problems/flatten-2d-vector/

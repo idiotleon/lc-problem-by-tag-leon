@@ -8,6 +8,7 @@ Reference:
 
 1   0058    https://leetcode.com/problems/length-of-last-word/
 1   0067    https://leetcode.com/problems/add-binary/
+1   0242    https://leetcode.com/problems/valid-anagram/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0392    https://leetcode.com/problems/is-subsequence/
@@ -42,7 +43,6 @@ Reference:
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
-2   0242    https://leetcode.com/problems/valid-anagram/
 2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0299    https://leetcode.com/problems/bulls-and-cows/

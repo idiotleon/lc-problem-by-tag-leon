@@ -7,6 +7,7 @@ Reference:
 ## By Technique
 # an array as the FREQuencieS map
 
+1   0242    https://leetcode.com/problems/valid-anagram/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0771    https://leetcode.com/problems/jewels-and-stones/
@@ -17,7 +18,6 @@ Reference:
 1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
-2   0242    https://leetcode.com/problems/valid-anagram/
 2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0299    https://leetcode.com/problems/bulls-and-cows/
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
