@@ -93,6 +93,7 @@ Reference:
 2   0661    https://leetcode.com/problems/image-smoother/
 2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
 2   0724    https://leetcode.com/problems/find-pivot-index/
+2   0760    https://leetcode.com/problems/find-anagram-mappings/
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
 2   0811    https://leetcode.com/problems/subdomain-visit-count/
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/

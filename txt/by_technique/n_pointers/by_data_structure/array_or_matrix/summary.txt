@@ -49,6 +49,7 @@ Reference:
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/
 2   0661    https://leetcode.com/problems/image-smoother/
 2   0717    https://leetcode.com/problems/1-bit-and-2-bit-characters/
+2   0760    https://leetcode.com/problems/find-anagram-mappings/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   0941    https://leetcode.com/problems/valid-mountain-array/
