@@ -7,6 +7,7 @@ Reference:
 # Anagram
 
 1   0242    https://leetcode.com/problems/valid-anagram/
+1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
