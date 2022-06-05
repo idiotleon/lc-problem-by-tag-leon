@@ -40,6 +40,7 @@ Reference:
 1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 
 2   0038    https://leetcode.com/problems/count-and-say/
+2   0049    https://leetcode.com/problems/group-anagrams/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0171    https://leetcode.com/problems/excel-sheet-column-number/
