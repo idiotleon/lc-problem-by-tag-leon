@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### Array
-# Narrow Range Array, 
+# Narrow Range Array,
     arrays where indexes and values are within the same range
     1 <= nums[idx] <= N, (N, size of the array)
 

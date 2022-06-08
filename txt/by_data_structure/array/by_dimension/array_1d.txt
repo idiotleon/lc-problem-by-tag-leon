@@ -308,6 +308,7 @@ References:
 4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/

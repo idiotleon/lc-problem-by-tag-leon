@@ -1,11 +1,12 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 #### N Pointers
 ### 2 Pointers
 ## Sliding Window
-# with the help of deque(s)
+# with the Help of Deque(s)
 
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   1499    https://leetcode.com/problems/max-value-of-equation/

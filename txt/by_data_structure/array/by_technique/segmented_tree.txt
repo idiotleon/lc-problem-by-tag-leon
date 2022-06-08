@@ -1,9 +1,10 @@
-References:
+@author: Leon
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Array
-## By Technique 
+## By Technique
 # Segmented Tree
 
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/

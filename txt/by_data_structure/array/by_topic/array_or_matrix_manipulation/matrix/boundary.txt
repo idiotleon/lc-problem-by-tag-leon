@@ -1,11 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Array
 ## By Topic
-# Boundary 
+# Boundary
 
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
 

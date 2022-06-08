@@ -28,6 +28,7 @@ References:
 
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   1124    https://leetcode.com/problems/longest-well-performing-interval/
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/

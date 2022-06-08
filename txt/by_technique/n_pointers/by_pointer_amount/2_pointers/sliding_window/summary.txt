@@ -51,6 +51,7 @@ Reference:
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0972    https://leetcode.com/problems/equal-rational-numbers/
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/

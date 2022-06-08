@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/array/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 

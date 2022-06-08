@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
@@ -162,7 +162,8 @@ References:
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0457    https://leetcode.com/problems/circular-array-loop/
 4   0683    https://leetcode.com/problems/k-empty-slots/
-4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/

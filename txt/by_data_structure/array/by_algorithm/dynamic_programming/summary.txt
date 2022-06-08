@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
@@ -85,6 +85,7 @@ References:
 4   0799    https://leetcode.com/problems/champagne-tower/
 4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
