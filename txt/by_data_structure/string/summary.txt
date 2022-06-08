@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/string/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
