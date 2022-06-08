@@ -49,6 +49,7 @@ Reference:
 2   0409    https://leetcode.com/problems/longest-palindrome/
 2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
+2   0567    https://leetcode.com/problems/permutation-in-string/
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0925    https://leetcode.com/problems/long-pressed-name/

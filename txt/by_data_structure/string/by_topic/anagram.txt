@@ -12,6 +12,7 @@ Reference:
 
 2   0049    https://leetcode.com/problems/group-anagrams/
 2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
+2   0567    https://leetcode.com/problems/permutation-in-string/
 2   0760    https://leetcode.com/problems/find-anagram-mappings/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
