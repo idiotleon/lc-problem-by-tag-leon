@@ -1,9 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
+### By Topic
+## Game
 ## Jump Game
 
 3   0055    https://leetcode.com/problems/jump-game/

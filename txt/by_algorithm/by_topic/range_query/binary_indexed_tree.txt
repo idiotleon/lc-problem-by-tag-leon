@@ -1,7 +1,7 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Range Query
 # Binary Indexed Tree
@@ -21,4 +21,3 @@ References:
 
 ### Resource
     https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/
-    

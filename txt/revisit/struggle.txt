@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
@@ -30,3 +30,7 @@ This serves the total list of problems that I do not understand a bit.
 3   0636    https://leetcode.com/problems/exclusive-time-o
 
 
+
+### By Tags
+
+Count Occurences

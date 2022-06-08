@@ -1,10 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Games
-## Sudoku
+### By Topic
+## Game
+# Sudoku
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 

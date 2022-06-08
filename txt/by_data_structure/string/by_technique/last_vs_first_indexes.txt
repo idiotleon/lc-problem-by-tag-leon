@@ -13,6 +13,7 @@ Reference:
 2   0205    https://leetcode.com/problems/isomorphic-strings/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 
+3   0763    https://leetcode.com/problems/partition-labels/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
 4   0514    https://leetcode.com/problems/freedom-trail/

@@ -1,9 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
+### By Topic
+## Game
 # Chess
 
 3   0348    https://leetcode.com/problems/design-tic-tac-toe/

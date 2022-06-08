@@ -3,7 +3,8 @@ References:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
+### By Topic
+## Game
 # Zuma
 
 6   0488    https://leetcode.com/problems/zuma-game/

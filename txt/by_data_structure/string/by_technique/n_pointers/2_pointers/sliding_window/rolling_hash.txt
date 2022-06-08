@@ -4,7 +4,7 @@ Reference:
 
 
 ### String
-## 2 Pointers
+## Two Pointers
 # Rolling Hash
 
 2   0567    https://leetcode.com/problems/permutation-in-string/

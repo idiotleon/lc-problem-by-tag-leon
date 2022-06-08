@@ -1,10 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Games
-## Other
+### By Topic
+## Game
+# Other
 
 2   0292    https://leetcode.com/problems/nim-game/
 2   1025    https://leetcode.com/problems/divisor-game/

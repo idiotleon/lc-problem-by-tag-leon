@@ -1,7 +1,8 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/greedy/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
 
 ### Greedy
 # Array

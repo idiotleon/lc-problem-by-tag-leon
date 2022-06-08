@@ -4,7 +4,7 @@ Reference:
 
 
 ### N Pointers
-## 2 Pointers
+## Two Pointers
 # Sliding Window
 # Rabin-Karp Algorithm
 

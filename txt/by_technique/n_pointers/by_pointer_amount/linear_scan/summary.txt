@@ -166,6 +166,7 @@ Reference:
 3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0670    https://leetcode.com/problems/maximum-swap/
+3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0722    https://leetcode.com/problems/remove-comments/
 3   0723    https://leetcode.com/problems/candy-crush/
 3   0739    https://leetcode.com/problems/daily-temperatures/

@@ -1,9 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
+### By Topic
+## Game
 # Flip Game
 
 1   0293    https://leetcode.com/problems/flip-game/

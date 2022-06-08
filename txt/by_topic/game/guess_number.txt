@@ -1,10 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
-## Guess
+### By Topic
+## Game
+# Guess Number
 
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 

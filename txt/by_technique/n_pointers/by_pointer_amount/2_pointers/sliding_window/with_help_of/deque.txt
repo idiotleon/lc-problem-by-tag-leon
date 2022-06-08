@@ -4,7 +4,7 @@ Reference:
 
 
 #### N Pointers
-### 2 Pointers
+### Two Pointers
 ## Sliding Window
 # with the help of deque(s)
 

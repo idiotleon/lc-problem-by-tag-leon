@@ -1,9 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
+### By Topic
+## Game
 # Summary
 
 2   0292    https://leetcode.com/problems/nim-game/

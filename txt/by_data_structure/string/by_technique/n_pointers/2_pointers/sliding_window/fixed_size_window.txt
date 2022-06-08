@@ -5,7 +5,7 @@ Reference:
 
 ##### String
 #### N Pointers
-### 2 Pointers
+### Two Pointers
 ## Sliding Window
 # Fix-sized Window
 

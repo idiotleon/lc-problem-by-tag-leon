@@ -4,7 +4,7 @@ Reference:
 
 
 ### By Topic
-## Game
-# Dice Roll
+## With Caution
+# Contains Duplicate
 
-4   1223    https://leetcode.com/problems/dice-roll-simulation/
+2   0760    https://leetcode.com/problems/find-anagram-mappings/

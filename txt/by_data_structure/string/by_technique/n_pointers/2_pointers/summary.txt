@@ -4,7 +4,7 @@ Reference:
 
 
 ### String
-## 2 Pointers
+## Two Pointers
 # Summary
 
 1   0067    https://leetcode.com/problems/add-binary/

@@ -1,10 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Game
-## Bulb Switcher
+### By Topic
+## Game
+# Bulb Switcher
 
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 

@@ -4,7 +4,7 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### 2 Pointers
+### Two Pointers
 ## Sliding Window
 # Array
 
