@@ -87,6 +87,7 @@ Reference:
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/

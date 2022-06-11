@@ -8,5 +8,6 @@ Reference:
 
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+-2  2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
