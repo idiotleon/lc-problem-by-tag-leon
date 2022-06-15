@@ -26,6 +26,7 @@ Reference:
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+-2  1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 

@@ -43,6 +43,7 @@ Reference:
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
+-2  1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
