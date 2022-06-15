@@ -5,12 +5,13 @@ Reference:
 
 ### String
 ## By Technique
-# the keep track of the last index(es) of
+# to keep track of the last index/indices
 
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
+2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 
 3   0763    https://leetcode.com/problems/partition-labels/
@@ -20,7 +21,9 @@ Reference:
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 
 
+# to keep track of the first index/indices
 
-# the keep track of the first index(es) of
+2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 
-?   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+
+# to keep track of the last index/indices

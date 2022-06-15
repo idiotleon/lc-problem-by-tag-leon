@@ -10,6 +10,7 @@ Reference:
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0605    https://leetcode.com/problems/can-place-flowers/
+2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/

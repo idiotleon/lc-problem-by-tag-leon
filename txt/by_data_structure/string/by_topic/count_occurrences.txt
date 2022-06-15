@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Count Occurrences
 
+2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
