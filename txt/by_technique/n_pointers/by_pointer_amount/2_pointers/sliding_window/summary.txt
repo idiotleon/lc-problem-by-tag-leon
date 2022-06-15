@@ -7,7 +7,10 @@ Reference:
 ## Sliding Window
 # Summary
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+1   0819    https://leetcode.com/problems/most-common-word/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0165    https://leetcode.com/problems/compare-version-numbers/
@@ -47,6 +50,7 @@ Reference:
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
@@ -60,6 +64,7 @@ Reference:
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
@@ -67,7 +72,9 @@ Reference:
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
+5   0212    https://leetcode.com/problems/word-search-ii/
 5   0214    https://leetcode.com/problems/shortest-palindrome/
+5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   1044    https://leetcode.com/problems/longest-duplicate-substring/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
