@@ -1,7 +1,7 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Depth First Search
 # Array - 1 Dimensional
@@ -12,7 +12,7 @@ References:
 2   0784    https://leetcode.com/problems/letter-case-permutation/
 
 3   0039    https://leetcode.com/problems/combination-sum/
-3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0040    https://leetcode.com/problems/combination-sum-ii/
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/

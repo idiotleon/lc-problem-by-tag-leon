@@ -1,8 +1,8 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://leetcode.com/tag/depth-first-search/
-    
+
 
 ### Depth First Search
 # Array - String:

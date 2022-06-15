@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### Breadth First Search
-# Topological Sort
+# Kahn's Algorithm
 
 2   0207    https://leetcode.com/problems/course-schedule/
 

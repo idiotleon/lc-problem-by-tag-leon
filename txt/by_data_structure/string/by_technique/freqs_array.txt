@@ -37,6 +37,9 @@ Reference:
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
+4   0079    https://leetcode.com/problems/minimum-window-substring/
+4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/

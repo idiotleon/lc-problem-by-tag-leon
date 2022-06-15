@@ -1,7 +1,8 @@
 @author: Leon
-References:
-    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+Reference:
     https://leetcode.com/tag/breadth-first-search/
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
 
 ### Breadth First Search
 ## Graph

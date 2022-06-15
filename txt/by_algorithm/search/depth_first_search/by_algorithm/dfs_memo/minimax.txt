@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-  
-### Depth First Search 
+
+### Depth First Search
 # Minimax
 
 2   1025    https://leetcode.com/problems/divisor-game/

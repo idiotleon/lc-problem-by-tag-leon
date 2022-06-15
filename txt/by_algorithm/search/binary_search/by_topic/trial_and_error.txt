@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/problems/find-k-th-smallest-pair-distance/discuss/109082/Approach-the-problem-using-the-%22trial-and-error%22-algorithm
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 

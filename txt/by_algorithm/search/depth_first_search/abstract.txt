@@ -1,9 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://www.bilibili.com/video/BV1M4411Q7td
     https://zxi.mytechroad.com/blog/leetcode-problem-categories/
-    
+
 
 ### Depth First Search
 ## Abstract

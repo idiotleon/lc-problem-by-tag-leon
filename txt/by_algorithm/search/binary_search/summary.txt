@@ -1,10 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/binary-search/
     https://github.com/huanminwu/LeetCode
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-This serves the list of all the LC problems related to Binary Search, regardless of sub-categories
 
 ### Binary Search
 
