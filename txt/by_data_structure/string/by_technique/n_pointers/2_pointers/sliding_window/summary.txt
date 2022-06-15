@@ -27,7 +27,6 @@ Reference:
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
-4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/

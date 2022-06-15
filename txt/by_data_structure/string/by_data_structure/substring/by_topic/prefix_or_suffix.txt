@@ -1,23 +1,27 @@
 @author: Leon
 Reference:
-https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
 
 ### String
-
 ## Substring
-
 # Prefix vs Suffix
 
-3 1616 https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 
-4 0962 https://leetcode.com/problems/flip-string-to-monotone-increasing/
-4 1163 https://leetcode.com/problems/last-substring-in-lexicographical-order/
+4   0962    ttps://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
+4   1392    https://leetcode.com/problems/longest-happy-prefix
+4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
+
 
 # Prefix
 
-4 0962 https://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
+
 
 # Suffix
 
-4 0962 https://leetcode.com/problems/flip-string-to-monotone-increasing/
-4 1163 https://leetcode.com/problems/last-substring-in-lexicographical-order/
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
