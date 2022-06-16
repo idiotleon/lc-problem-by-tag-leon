@@ -1,9 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
-# With the help of Trie
+## with the help of
+# Trie
 
 4   0139    https://leetcode.com/problems/word-break/

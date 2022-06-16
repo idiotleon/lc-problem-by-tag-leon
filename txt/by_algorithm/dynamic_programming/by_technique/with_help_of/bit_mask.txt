@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
-## with help of 
+## with the help of
 # Bit Mask
 
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

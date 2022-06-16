@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
-## with help of 
+## with the help of
 # Two Pointers
 
 2   1925    https://leetcode.com/problems/count-square-sum-triples/

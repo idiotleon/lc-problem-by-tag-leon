@@ -1,10 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
 ## By Technique
+# with the help of
 # Left or Right Maximum Values
 
 3   0807    https://leetcode.com/problems/max-increase-to-keep-city-skyline/

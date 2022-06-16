@@ -1,9 +1,11 @@
-References:
+@author: Leon
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
 ## By Technique
+# with the help of
 # Padded
 
 4   0312    https://leetcode.com/problems/burst-balloons/

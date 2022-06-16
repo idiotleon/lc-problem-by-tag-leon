@@ -1,9 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode_Graph_III_Shortest_Path.docx
 
-    
+
 ### Dynamic Programming
 ## Floyd Warshall
 

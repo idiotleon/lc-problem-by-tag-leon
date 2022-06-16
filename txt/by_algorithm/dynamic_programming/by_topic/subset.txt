@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
     https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
-    
+
 
 ### Dynamic Programming
 ## By Topic

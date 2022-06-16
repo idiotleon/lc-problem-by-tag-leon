@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
-## with help of 
+## with the help of
 # First or Last Indexes
 
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/

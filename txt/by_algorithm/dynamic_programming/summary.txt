@@ -1,10 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-This serves the total list of problems related to Dynamic Programming, regardless of subcategories
 ### Dynamic Programming
 # Summary
 

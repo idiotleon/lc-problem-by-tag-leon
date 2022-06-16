@@ -1,10 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
 ## By Technique
+# with the help of
 # Left or Right Next Indices
 
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/

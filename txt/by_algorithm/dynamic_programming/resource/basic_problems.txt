@@ -1,6 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+### Dynamic Programming
+## Basic Problems
 
 1   0062    https://leetcode.com/problems/unique-paths/
 1   0070    https://leetcode.com/problems/climbing-stairs/

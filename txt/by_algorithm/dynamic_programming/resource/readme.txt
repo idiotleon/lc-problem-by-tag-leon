@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://www.youtube.com/watch?v=FLbqgyJ-70I
     https://docs.google.com/presentation/d/1OeA0rsnOrklarLM5G2tHHJ6EE37HpRqD7KedzOqkihk/edit?usp=sharing
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx

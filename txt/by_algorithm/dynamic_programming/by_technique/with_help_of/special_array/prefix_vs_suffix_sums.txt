@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
-## with help of 
+## with the help of
 # Prefix Sums
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/

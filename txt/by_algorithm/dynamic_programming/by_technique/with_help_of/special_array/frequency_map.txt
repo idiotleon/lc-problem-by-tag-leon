@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Dynamic Programming
-## with help of 
+## with the help of
 # Freq Map
 
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/

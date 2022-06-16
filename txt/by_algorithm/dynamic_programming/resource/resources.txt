@@ -11,7 +11,7 @@
     https://leetcode.com/problems/distribute-repeating-integers/discuss/935522/Step-by-step-optimization-more-than-10-methods
     https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/discuss/654490/DP-is-Easy!-5-Step-DP-THINKING-process-EXPLAINED!
 
-    
+
 
 ## Knapsack
 
@@ -20,14 +20,14 @@
     https://www.youtube.com/watch?v=rM_G4dboKhc
     https://www.youtube.com/watch?v=nLmhmB6NzcM
     https://blog.csdn.net/txl199106/article/details/45869557
-    
+
 
 
 ## Buying and selling stocks
 
     https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/tuan-mie-gu-piao-wen-ti
     https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxODQxMDM0Mw==&action=getalbum&album_id=1318881141113536512&scene=173&from_msgid=2247484731&from_itemidx=1&count=3#wechat_redirect
-    
+
 
 
 ## Coordinate-related DP

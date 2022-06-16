@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://docs.google.com/presentation/d/1s7lfErTjlXDGyq4YUTe3-wI4DZd9b2rWxQ5iWE0iFcs/edit#slide=id.g896a77e49e_0_0
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
