@@ -35,7 +35,6 @@ References:
 
 
 
-
 # 2. Basic Type ii - in the sequence/order of time - complicated
     https://youtu.be/FLbqgyJ-70I?t=2607
 
@@ -51,6 +50,7 @@ References:
 
 # 3. 双序列型
     https://youtu.be/FLbqgyJ-70I?t=3771
+    https://youtu.be/sSno9rV8Rhg
 
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
