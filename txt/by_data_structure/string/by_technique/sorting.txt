@@ -6,6 +6,8 @@ Reference:
 ### String
 ## Sort
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
+
 2   0791    https://leetcode.com/problems/custom-sort-string/
 
 3   0681    https://leetcode.com/problems/next-closest-time/
