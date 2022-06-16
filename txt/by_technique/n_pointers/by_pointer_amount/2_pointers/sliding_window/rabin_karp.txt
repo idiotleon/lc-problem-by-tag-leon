@@ -8,7 +8,6 @@ Reference:
 # Sliding Window
 # Rabin-Karp Algorithm
 
-1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   0819    https://leetcode.com/problems/most-common-word/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 

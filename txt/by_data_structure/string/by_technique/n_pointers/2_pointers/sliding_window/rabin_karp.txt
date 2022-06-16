@@ -5,9 +5,8 @@ Reference:
 
 ### String
 ## Two Pointers
-# Rolling Hash
+# Rabin Karp Algorithm
 
-1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   0819    https://leetcode.com/problems/most-common-word/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
@@ -32,3 +31,4 @@ Reference:
 Resources:
     https://youtu.be/GcgpR3KHgBs
     https://docs.google.com/presentation/d/13cch4Jx9DKkjds7DCxWxP8QE6NuC8sADNvV9Hy_EcTU/edit#slide=id.g89eaca4c27_0_19
+    https://youtu.be/qQ8vS2btsxI

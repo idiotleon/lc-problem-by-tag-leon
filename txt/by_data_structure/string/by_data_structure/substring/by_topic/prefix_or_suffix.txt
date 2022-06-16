@@ -7,6 +7,8 @@ Reference:
 ## Substring
 # Prefix vs Suffix
 
+1   0014    https://leetcode.com/problems/longest-common-prefix/
+
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 
 4   0962    ttps://leetcode.com/problems/flip-string-to-monotone-increasing/
