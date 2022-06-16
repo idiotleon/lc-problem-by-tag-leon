@@ -1,8 +1,8 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://zxi.mytechroad.com/blog/leetcode-problem-categories/
-    
+
 
 ### Tree
 ## Binary Search Tree

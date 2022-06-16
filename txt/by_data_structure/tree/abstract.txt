@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://www.bilibili.com/video/BV19t411w7Ep
     https://zxi.mytechroad.com/blog/leetcode-problem-categories/

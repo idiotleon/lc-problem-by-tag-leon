@@ -3,14 +3,13 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Math
-# Average
+### By Topic
+## Average
 
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 
 2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
-2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 
 
 
@@ -18,7 +17,6 @@ TODO:
 
 0346
 0615
-0637
 0643
 0644
 0805

@@ -1,11 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Tree
 ## By Topic
-# Binary Binary Tree 
+# Binary Binary Tree
 
 2   0814    https://leetcode.com/problems/binary-tree-pruning/
 

@@ -1,9 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/trie/
     https://www.geeksforgeeks.org/trie-insert-and-search/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Trie
 
@@ -51,4 +51,3 @@ References:
 
 Resource:
     https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132
-    

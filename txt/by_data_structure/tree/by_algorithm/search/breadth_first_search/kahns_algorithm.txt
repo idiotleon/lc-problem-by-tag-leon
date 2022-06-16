@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Tree
 ## Breadth First Search
-# Topological Sort
+# Kahn's Algorithm
 
 3   0310    https://leetcode.com/problems/minimum-height-trees/
