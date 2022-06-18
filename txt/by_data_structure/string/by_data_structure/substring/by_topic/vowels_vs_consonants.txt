@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## Substring
-# Vowels vs Consonants
+# Vowel vs Consonant
 
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 
