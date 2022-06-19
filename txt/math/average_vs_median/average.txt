@@ -12,6 +12,8 @@ Reference:
 2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 
+3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
+
 
 
 TODO:
@@ -28,7 +30,6 @@ TODO:
 1701
 1792
 1825
-1968
 2015
 2090
 2256
