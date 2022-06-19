@@ -9,4 +9,6 @@ Reference:
 1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
 1   2177    https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 
+2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
+
 4   0780    https://leetcode.com/problems/reaching-points/

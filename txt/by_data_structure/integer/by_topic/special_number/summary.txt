@@ -16,6 +16,7 @@ Reference:
 2   0263    https://leetcode.com/problems/ugly-number/
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
+2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
 
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
