@@ -29,6 +29,7 @@ References:
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 2   1869    https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/

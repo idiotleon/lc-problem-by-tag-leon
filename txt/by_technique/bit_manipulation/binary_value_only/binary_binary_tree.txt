@@ -1,8 +1,8 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/bit-manipulation/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Bit Manipulation
 ## Binary Binary Tree

@@ -72,6 +72,7 @@ Reference:
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

@@ -1,10 +1,10 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    
+
 
 ### Bit Manipulation
-# Binary String 
+# Binary String
 
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 2   1869    https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/

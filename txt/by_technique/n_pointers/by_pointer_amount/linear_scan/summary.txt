@@ -138,6 +138,7 @@ Reference:
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
