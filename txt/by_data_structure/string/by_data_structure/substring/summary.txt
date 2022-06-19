@@ -34,6 +34,7 @@ Reference:
 3   0394    https://leetcode.com/problems/decode-string/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
@@ -57,7 +58,6 @@ Reference:
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
-4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/

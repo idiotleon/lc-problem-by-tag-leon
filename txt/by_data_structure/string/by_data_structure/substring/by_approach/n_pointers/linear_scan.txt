@@ -15,6 +15,7 @@ Reference:
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/

@@ -11,6 +11,7 @@ Reference:
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   2083    https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/

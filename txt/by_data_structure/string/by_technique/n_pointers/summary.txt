@@ -127,6 +127,7 @@ Reference:
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0481    https://leetcode.com/problems/magical-string/
 4   0727    https://leetcode.com/problems/minimum-window-subsequence/
 4   0809    https://leetcode.com/problems/expressive-words/
