@@ -1,11 +1,11 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode_Graph_III_Shortest_Path.docx
 
 
 ### Heap
-## By Algorithm 
+## By Algorithm
 # Dijkstra's Algorithm
 
 3   0743    https://leetcode.com/problems/network-delay-time/

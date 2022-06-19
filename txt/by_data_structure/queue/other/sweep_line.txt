@@ -1,4 +1,8 @@
 @author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode
+    https://leetcode.com/tag/queue/
+
 
 ### Sweep Line
 

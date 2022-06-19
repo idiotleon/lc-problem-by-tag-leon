@@ -1,9 +1,9 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/linked-list/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
-    
+
 ### Linked List
 # Doubly Linked List
 

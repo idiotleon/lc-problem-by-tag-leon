@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/stack/
     https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx

@@ -1,11 +1,12 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/graph/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Graph
-# Directed Graph
+## Directed Graph
+# Summary
 
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0310    https://leetcode.com/problems/minimum-height-trees/

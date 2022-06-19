@@ -1,12 +1,12 @@
 @author: Leon
-References:
+Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### Graph
 ## Directed Graph
 # Breadth First Search
-# Topological Sort
+# Kahn's Algorithm
 
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
