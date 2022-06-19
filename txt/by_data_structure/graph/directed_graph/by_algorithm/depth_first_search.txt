@@ -14,7 +14,7 @@ Reference:
 
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0277    https://leetcode.com/problems/find-the-celebrity/
-3   0332    https://leetcode.com/problems/reconstruct-itinerary/s
+3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/

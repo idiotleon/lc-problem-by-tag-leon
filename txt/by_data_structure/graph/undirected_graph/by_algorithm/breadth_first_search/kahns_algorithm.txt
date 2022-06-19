@@ -6,7 +6,7 @@ Reference:
 
 ### Graph
 ## Undirected Graph - Breadth First Search
-# Kahn's Algorithm 
+# Kahn's Algorithm
 
 3   0310    https://leetcode.com/problems/minimum-height-trees/
 
