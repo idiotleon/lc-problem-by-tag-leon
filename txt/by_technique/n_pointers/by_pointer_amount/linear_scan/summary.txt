@@ -210,3 +210,9 @@ Reference:
 # Last Indexes/Occurences of
 
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+
+
+# TLEed
+
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/

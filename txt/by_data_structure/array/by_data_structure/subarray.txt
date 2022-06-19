@@ -16,6 +16,7 @@ Reference:
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

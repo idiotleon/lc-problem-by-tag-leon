@@ -40,6 +40,7 @@ References:
 2   2139    https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2178    https://leetcode.com/problems/maximum-split-of-positive-even-integers/
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/

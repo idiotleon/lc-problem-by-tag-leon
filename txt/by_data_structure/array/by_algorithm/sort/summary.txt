@@ -24,6 +24,7 @@ Reference:
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0015    https://leetcode.com/problems/3sum/
 3   0016    https://leetcode.com/problems/3sum-closest/

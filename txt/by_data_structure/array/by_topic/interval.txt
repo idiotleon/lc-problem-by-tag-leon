@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Interval
 
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
+
 3   1288    https://leetcode.com/problems/remove-covered-intervals/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 

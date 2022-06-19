@@ -12,6 +12,7 @@ Reference:
 
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/

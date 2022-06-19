@@ -9,6 +9,7 @@ References:
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0670    https://leetcode.com/problems/maximum-swap/

@@ -112,3 +112,8 @@ Reference:
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
+
+
+# TLEed
+
+2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
