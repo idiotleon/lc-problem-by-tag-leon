@@ -16,6 +16,7 @@ Reference:
 1   1161    https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+-1  1436    https://leetcode.com/problems/destination-city/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0022    https://leetcode.com/problems/generate-parentheses/
@@ -64,7 +65,6 @@ Reference:
 2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
 2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
--2  1436    https://leetcode.com/problems/destination-city/
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1666    https://leetcode.com/problems/change-the-root-of-a-binary-tree/
