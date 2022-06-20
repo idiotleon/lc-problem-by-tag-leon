@@ -7,7 +7,6 @@ Reference:
 ### Linked List
 # Summary
 
-1   0682    https://leetcode.com/problems/baseball-game/
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
