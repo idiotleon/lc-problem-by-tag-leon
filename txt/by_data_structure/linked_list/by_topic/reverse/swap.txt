@@ -6,5 +6,4 @@ Reference:
 ### Linked List
 # Swap Nodes
 
-
 2   0024    https://leetcode.com/problems/swap-nodes-in-pairs/

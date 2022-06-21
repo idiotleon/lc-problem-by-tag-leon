@@ -10,6 +10,7 @@ Reference:
 2   0021    https://leetcode.com/problems/merge-two-sorted-lists/
 2   0024    https://leetcode.com/problems/swap-nodes-in-pairs/
 2   0203    https://leetcode.com/problems/remove-linked-list-elements/
+2   0206    https://leetcode.com/problems/reverse-linked-list/
 2   0328    https://leetcode.com/problems/odd-even-linked-list/
 
 3   0056    https://leetcode.com/problems/merge-intervals/

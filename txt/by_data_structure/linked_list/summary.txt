@@ -14,6 +14,7 @@ Reference:
 2   0021    https://leetcode.com/problems/merge-two-sorted-lists/
 2   0024    https://leetcode.com/problems/swap-nodes-in-pairs/
 2   0203    https://leetcode.com/problems/remove-linked-list-elements/
+2   0206    https://leetcode.com/problems/reverse-linked-list/
 2   0328    https://leetcode.com/problems/odd-even-linked-list/
 2   0382    https://leetcode.com/problems/linked-list-random-node/
 2   0369    https://leetcode.com/problems/plus-one-linked-list/
@@ -55,7 +56,7 @@ Reference:
 6   0460    https://leetcode.com/problems/lfu-cache/
 
 
-3   find unique number in a data stream 
+3   find unique number in a data stream
 https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream
 
 
