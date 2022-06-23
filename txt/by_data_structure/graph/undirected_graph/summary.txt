@@ -4,7 +4,7 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Graph:
+### Graph
 # Undirected Graph
 
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
