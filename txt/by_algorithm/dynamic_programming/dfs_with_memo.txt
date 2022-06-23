@@ -32,6 +32,7 @@ Reference:
 4   0464    https://leetcode.com/problems/can-i-win/
 4   0486    https://leetcode.com/problems/predict-the-winner/
 4   0514    https://leetcode.com/problems/freedom-trail/
+4   0630    https://leetcode.com/problems/course-schedule-iii/
 4   0656    https://leetcode.com/problems/coin-path/
 4   0799    https://leetcode.com/problems/champagne-tower/
 4   0801    https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/

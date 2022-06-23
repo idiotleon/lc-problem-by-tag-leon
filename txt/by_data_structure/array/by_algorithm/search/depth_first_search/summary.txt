@@ -18,7 +18,7 @@ Reference:
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 
 3   0039    https://leetcode.com/problems/combination-sum/
-3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0040    https://leetcode.com/problems/combination-sum-ii/
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0130    https://leetcode.com/problems/surrounded-regions/
@@ -53,6 +53,7 @@ Reference:
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0474    https://leetcode.com/problems/ones-and-zeroes/
 4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0630    https://leetcode.com/problems/course-schedule-iii/
 4   0656    https://leetcode.com/problems/coin-path/
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

@@ -128,6 +128,7 @@ Reference:
 4   0514    https://leetcode.com/problems/freedom-trail/
 4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
 4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+4   0630    https://leetcode.com/problems/course-schedule-iii/
 4   0639    https://leetcode.com/problems/decode-ways-ii/
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0651    https://leetcode.com/problems/4-keys-keyboard/
