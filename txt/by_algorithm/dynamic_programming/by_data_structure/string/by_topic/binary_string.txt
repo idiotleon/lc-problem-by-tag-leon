@@ -7,4 +7,6 @@ Reference:
 ## String
 # Binary String
 
+3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
