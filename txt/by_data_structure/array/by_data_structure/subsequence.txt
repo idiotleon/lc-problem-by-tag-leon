@@ -24,6 +24,7 @@ Reference:
 4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   1035    https://leetcode.com/problems/uncrossed-lines/
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1425    https://leetcode.com/problems/constrained-subsequence-sum/

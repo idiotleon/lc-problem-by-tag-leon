@@ -14,6 +14,7 @@ Reference:
 
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
 
 
 TODO:
@@ -23,7 +24,6 @@ TODO:
 0637
 0643
 0644
-0805
 0813
 1120
 1343

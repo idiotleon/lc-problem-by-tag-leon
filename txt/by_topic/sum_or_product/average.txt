@@ -13,6 +13,7 @@ Reference:
 
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 
 
@@ -23,7 +24,6 @@ TODO:
 0615
 0643
 0644
-0805
 0813
 1120
 1343

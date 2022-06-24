@@ -68,6 +68,7 @@ Reference:
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
 4   0799    https://leetcode.com/problems/champagne-tower/
+4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   0887    https://leetcode.com/problems/super-egg-drop/
