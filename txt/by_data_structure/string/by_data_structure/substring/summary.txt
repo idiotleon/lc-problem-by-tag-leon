@@ -70,6 +70,7 @@ Reference:
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
 5   0214    https://leetcode.com/problems/shortest-palindrome/
 5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/

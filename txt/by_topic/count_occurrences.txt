@@ -32,6 +32,7 @@ Reference:
 4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1575    https://leetcode.com/problems/count-all-possible-routes/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

@@ -26,6 +26,7 @@ Reference:
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0440    https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 4   1032    https://leetcode.com/problems/stream-of-characters/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0336    https://leetcode.com/problems/palindrome-pairs/
