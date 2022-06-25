@@ -14,6 +14,7 @@ References:
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 1   1832    https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+1   2315    https://leetcode.com/problems/count-asterisks/
 
 2   0078    https://leetcode.com/problems/subsets/
 2   0136    https://leetcode.com/problems/single-number/

@@ -1,13 +1,14 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/stack/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/stack/
 
 
 ### Stack
 # Integers as Stacks
 
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+1   2315    https://leetcode.com/problems/count-asterisks/
 
 2   1021    https://leetcode.com/problems/remove-outermost-parentheses/
 

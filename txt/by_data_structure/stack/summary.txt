@@ -11,6 +11,7 @@ Reference:
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+1   2315    https://leetcode.com/problems/count-asterisks/
 
 2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0385    https://leetcode.com/problems/mini-parser/
