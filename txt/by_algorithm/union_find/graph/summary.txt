@@ -14,6 +14,7 @@ Reference:
 3   0886    https://leetcode.com/problems/possible-bipartition/
 3   1319    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 
 4   0305    https://leetcode.com/problems/number-of-islands-ii/
 4   0399    https://leetcode.com/problems/evaluate-division/

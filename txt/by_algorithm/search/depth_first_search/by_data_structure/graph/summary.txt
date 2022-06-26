@@ -38,6 +38,8 @@ Reference:
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
+3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   0457    https://leetcode.com/problems/circular-array-loop/
