@@ -154,6 +154,7 @@ Reference:
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
+2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/
