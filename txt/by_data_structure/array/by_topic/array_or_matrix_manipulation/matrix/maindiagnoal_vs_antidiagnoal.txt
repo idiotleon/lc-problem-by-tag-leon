@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Main Diagnoal vs Antidiagnoal
 
+1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
@@ -18,7 +20,7 @@ Reference:
 
 
 
-#Tips
+# Tips
     Main Diagonal:  y = -x + b  =>   b = y + x
         isSameMainDiagonal: [row + N - col + 1] = true, N = 2 * n - 1
     Antidiagonal:   y = x + b   =>   b = y - x

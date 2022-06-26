@@ -39,6 +39,7 @@ Reference:
 1   1929    https://leetcode.com/problems/concatenation-of-array/
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
+1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
