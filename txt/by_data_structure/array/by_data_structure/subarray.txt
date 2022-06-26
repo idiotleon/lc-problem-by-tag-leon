@@ -14,6 +14,7 @@ Reference:
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/

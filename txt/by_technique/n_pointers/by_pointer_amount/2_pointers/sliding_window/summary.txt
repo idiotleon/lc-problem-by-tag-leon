@@ -22,6 +22,7 @@ Reference:
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 2   1176    https://leetcode.com/problems/diet-plan-performance/
+2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 -2  1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
@@ -41,7 +42,6 @@ Reference:
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
-4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
@@ -68,6 +68,7 @@ Reference:
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
