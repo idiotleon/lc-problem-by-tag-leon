@@ -14,6 +14,7 @@ Reference:
 2   0292    https://leetcode.com/problems/nim-game/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
+2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0279    https://leetcode.com/problems/perfect-squares/

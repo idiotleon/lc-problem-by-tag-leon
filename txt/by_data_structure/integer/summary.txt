@@ -42,6 +42,7 @@ Reference:
 2   2178    https://leetcode.com/problems/maximum-split-of-positive-even-integers/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
+2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/

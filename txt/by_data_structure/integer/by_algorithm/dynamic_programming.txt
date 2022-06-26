@@ -12,6 +12,7 @@ Reference:
 2   0292    https://leetcode.com/problems/nim-game/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
+2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0343    https://leetcode.com/problems/integer-break/

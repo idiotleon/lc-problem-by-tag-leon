@@ -9,6 +9,7 @@ Reference:
 # House Robber
 
 2   0198    https://leetcode.com/problems/house-robber/
+2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0213    https://leetcode.com/problems/house-robber-ii/
 

@@ -32,6 +32,7 @@ Reference:
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
+2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0053    https://leetcode.com/problems/maximum-subarray/
