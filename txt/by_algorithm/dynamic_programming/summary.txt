@@ -34,6 +34,7 @@ Reference:
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
+3   0053    https://leetcode.com/problems/maximum-subarray/
 3   0091    https://leetcode.com/problems/decode-ways/
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0119    https://leetcode.com/problems/pascals-triangle-ii/
@@ -77,6 +78,7 @@ Reference:
 3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
 3   0935    https://leetcode.com/problems/knight-dialer/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
+3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/
 3   1140    https://leetcode.com/problems/stone-game-ii/
@@ -98,6 +100,7 @@ Reference:
 3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
@@ -154,7 +157,7 @@ Reference:
 4   0879    https://leetcode.com/problems/profitable-schemes/
 4   0887    https://leetcode.com/problems/super-egg-drop/
 4   0894    https://leetcode.com/problems/all-possible-full-binary-trees/
-4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
+4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
 4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
@@ -166,7 +169,7 @@ Reference:
 4   0983    https://leetcode.com/problems/minimum-cost-for-tickets/
 4   1024    https://leetcode.com/problems/video-stitching/
 4   1027    https://leetcode.com/problems/longest-arithmetic-sequence/
-4   1035    https://leetcode.com/problems/uncrossed-lines/4   
+4   1035    https://leetcode.com/problems/uncrossed-lines/
 4   1039    https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1049    https://leetcode.com/problems/last-stone-weight-ii/
