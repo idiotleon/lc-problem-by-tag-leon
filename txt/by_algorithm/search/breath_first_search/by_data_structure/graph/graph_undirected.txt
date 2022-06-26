@@ -25,6 +25,7 @@ Reference:
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 
 4   0721    https://leetcode.com/problems/accounts-merge/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
