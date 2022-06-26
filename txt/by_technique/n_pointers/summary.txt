@@ -265,6 +265,7 @@ Reference:
 3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0041    https://leetcode.com/problems/first-missing-positive/

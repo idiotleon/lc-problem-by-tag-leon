@@ -107,6 +107,7 @@ Reference:
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/

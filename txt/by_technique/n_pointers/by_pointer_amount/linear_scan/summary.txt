@@ -189,6 +189,7 @@ Reference:
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/

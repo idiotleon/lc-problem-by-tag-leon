@@ -7,5 +7,7 @@ Reference:
 ## By Data Structure
 # Matrix
 
+1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+
 3   0059    https://leetcode.com/problems/spiral-matrix-ii/
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/

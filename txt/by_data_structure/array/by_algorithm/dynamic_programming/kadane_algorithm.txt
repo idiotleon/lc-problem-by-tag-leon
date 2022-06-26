@@ -8,6 +8,7 @@ Reference:
 
 3   0053    https://leetcode.com/problems/maximum-subarray/
 3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
+3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
 4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
