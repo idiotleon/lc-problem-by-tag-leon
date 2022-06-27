@@ -9,6 +9,7 @@ Reference:
 # Detect Cycle
 
 3   0277    https://leetcode.com/problems/find-the-celebrity/
+3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 
 4   0457    https://leetcode.com/problems/circular-array-loop/
