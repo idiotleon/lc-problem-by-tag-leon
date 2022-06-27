@@ -7,6 +7,7 @@ Reference:
 ## Prefix Sums
 # Maximum vs Minimum
 
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
