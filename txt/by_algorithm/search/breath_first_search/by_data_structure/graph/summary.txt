@@ -36,6 +36,7 @@ Reference:
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 3   1530    https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 
 4   0721    https://leetcode.com/problems/accounts-merge/

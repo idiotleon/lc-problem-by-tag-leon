@@ -22,6 +22,7 @@ Reference:
 3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   1136    https://leetcode.com/problems/parallel-courses/

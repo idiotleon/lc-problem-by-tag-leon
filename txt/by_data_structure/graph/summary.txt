@@ -45,6 +45,7 @@ Reference:
 3   1514    https://leetcode.com/problems/path-with-maximum-probability/
 3   1519    https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 
 4   0305    https://leetcode.com/problems/number-of-islands-ii/

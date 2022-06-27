@@ -10,4 +10,6 @@ Reference:
 
 1   0062    https://leetcode.com/problems/unique-paths/
 
+3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
+
 4   0656    https://leetcode.com/problems/coin-path/

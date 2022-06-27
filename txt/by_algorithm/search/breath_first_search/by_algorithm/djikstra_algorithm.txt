@@ -8,6 +8,7 @@ Reference:
 
 3   0743    https://leetcode.com/problems/network-delay-time/
 3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 
 4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
 4   0505    https://leetcode.com/problems/the-maze-ii/

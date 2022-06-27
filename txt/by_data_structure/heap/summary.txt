@@ -29,6 +29,7 @@ Reference:
 3   1244    https://leetcode.com/problems/design-a-leaderboard/
 3   1405    https://leetcode.com/problems/longest-happy-string/
 3   1514    https://leetcode.com/problems/path-with-maximum-probability/
+3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 
 4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
 4   0218    https://leetcode.com/problems/the-skyline-problem/
