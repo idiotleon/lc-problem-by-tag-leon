@@ -5,10 +5,12 @@ Reference:
 
 
 ### Graph
-## Directed Graph
+## By Topic
 # Coloring
 
+3   0785    https://leetcode.com/problems/is-graph-bipartite/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
+3   0886    https://leetcode.com/problems/possible-bipartition/
 3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
 
 4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
