@@ -14,6 +14,7 @@ Reference:
 3   0134    https://leetcode.com/problems/gas-station/
 3   0379    https://leetcode.com/problems/design-phone-directory/
 3   0503    https://leetcode.com/problems/next-greater-element-ii/
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/

@@ -35,6 +35,7 @@ Reference:
 3   0840    https://leetcode.com/problems/magic-squares-in-grid/
 3   0877    https://leetcode.com/problems/stone-game/
 3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/

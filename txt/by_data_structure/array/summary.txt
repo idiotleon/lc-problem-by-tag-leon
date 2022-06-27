@@ -271,6 +271,7 @@ Reference:
 3   0909    https://leetcode.com/problems/snakes-and-ladders/
 3   0911    https://leetcode.com/problems/online-election/
 3   0912    https://leetcode.com/problems/sort-an-array/
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   0922    https://leetcode.com/problems/sort-array-by-parity-ii/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   0931    https://leetcode.com/problems/minimum-falling-path-sum/

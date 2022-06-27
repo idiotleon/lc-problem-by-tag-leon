@@ -15,6 +15,7 @@ Reference:
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
