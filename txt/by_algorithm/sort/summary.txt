@@ -49,6 +49,7 @@ Reference:
 3   1288    https://leetcode.com/problems/remove-covered-intervals/
 3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
+3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 
 4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
