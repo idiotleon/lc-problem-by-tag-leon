@@ -27,6 +27,7 @@ Reference:
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
+3   1905    https://leetcode.com/problems/count-sub-islands/
 
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
 4   0505    https://leetcode.com/problems/the-maze-ii/
