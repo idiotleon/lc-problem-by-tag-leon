@@ -17,6 +17,7 @@ Reference:
 2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/

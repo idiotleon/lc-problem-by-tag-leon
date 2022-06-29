@@ -31,6 +31,7 @@ Reference:
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0075    https://leetcode.com/problems/sort-colors/
 3   0259    https://leetcode.com/problems/3sum-smaller/
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0435    https://leetcode.com/problems/non-overlapping-intervals/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/

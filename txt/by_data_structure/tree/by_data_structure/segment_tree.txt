@@ -7,6 +7,7 @@ Reference:
 # Segment Tree
 
 3   0379    https://leetcode.com/problems/design-phone-directory/
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0729    https://leetcode.com/problems/my-calendar-i/
 3   0731    https://leetcode.com/problems/my-calendar-ii/
 3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/

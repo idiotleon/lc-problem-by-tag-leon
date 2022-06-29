@@ -7,6 +7,7 @@ Reference:
 ## By Technique
 # Segmented Tree
 
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
 4   0218    https://leetcode.com/problems/the-skyline-problem/

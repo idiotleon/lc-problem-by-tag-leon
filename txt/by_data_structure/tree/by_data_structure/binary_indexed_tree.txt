@@ -6,6 +6,8 @@ Reference:
 ### Tree
 # Binary Indexed Tree
 
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
+
 4   0218    https://leetcode.com/problems/the-skyline-problem/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0683    https://leetcode.com/problems/k-empty-slots/

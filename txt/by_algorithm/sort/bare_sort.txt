@@ -16,6 +16,7 @@ Reference:
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
