@@ -21,6 +21,7 @@ Reference:
 2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
