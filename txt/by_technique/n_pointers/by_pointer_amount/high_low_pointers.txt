@@ -36,6 +36,7 @@ Reference:
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
+3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 3   0484    https://leetcode.com/problems/find-permutation/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   0541    https://leetcode.com/problems/reverse-string-ii/
