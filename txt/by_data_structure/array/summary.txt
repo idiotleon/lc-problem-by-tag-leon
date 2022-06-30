@@ -67,6 +67,7 @@ Reference:
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
+2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0495    https://leetcode.com/problems/teemo-attacking/

@@ -65,6 +65,7 @@ References:
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
+2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/

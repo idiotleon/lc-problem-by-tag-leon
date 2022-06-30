@@ -25,6 +25,7 @@ Reference:
 2   0398    https://leetcode.com/problems/random-pick-index/
 2   0405    https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 2   0441    https://leetcode.com/problems/arranging-coins/
+2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0573    https://leetcode.com/problems/squirrel-simulation/
 2   0605    https://leetcode.com/problems/can-place-flowers/

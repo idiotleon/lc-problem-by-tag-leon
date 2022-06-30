@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Math
+# Max vs Min
+
+2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
