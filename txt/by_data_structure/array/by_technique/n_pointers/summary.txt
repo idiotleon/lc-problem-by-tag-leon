@@ -168,6 +168,7 @@ Reference:
 4   0220    https://leetcode.com/problems/contains-duplicate-iii/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
+4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0457    https://leetcode.com/problems/circular-array-loop/
 4   0683    https://leetcode.com/problems/k-empty-slots/
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/

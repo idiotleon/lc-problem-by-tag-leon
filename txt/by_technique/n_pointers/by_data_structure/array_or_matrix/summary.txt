@@ -142,6 +142,7 @@ Reference:
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
+4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/

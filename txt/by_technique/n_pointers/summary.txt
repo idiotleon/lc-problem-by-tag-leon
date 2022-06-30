@@ -286,6 +286,7 @@ Reference:
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
