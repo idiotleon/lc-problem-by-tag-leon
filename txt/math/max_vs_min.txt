@@ -7,3 +7,5 @@ Reference:
 # Maximum vs Minimum
 
 2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+
+3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/

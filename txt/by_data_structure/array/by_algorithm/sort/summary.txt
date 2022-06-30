@@ -47,6 +47,7 @@ Reference:
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
+3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0179    https://leetcode.com/problems/largest-number/

@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Math
+# Sum vs Subtraction
+
+3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
