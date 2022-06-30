@@ -7,6 +7,7 @@ Reference:
 # Median
 
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 
 4   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
 4   0295    https://leetcode.com/problems/find-median-from-data-stream/

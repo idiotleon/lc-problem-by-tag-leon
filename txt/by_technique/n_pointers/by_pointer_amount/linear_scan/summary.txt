@@ -190,6 +190,7 @@ Reference:
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 

@@ -4,6 +4,6 @@ Reference:
 
 
 ### Math
-# Max vs Min
+# Maximum vs Minimum
 
 2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/

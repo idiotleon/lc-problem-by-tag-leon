@@ -100,6 +100,7 @@ Reference:
 3   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 3   1901    https://leetcode.com/problems/find-a-peak-element-ii/
 3   1905    https://leetcode.com/problems/count-sub-islands/
+3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/

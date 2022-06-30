@@ -97,6 +97,7 @@ Reference:
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
+3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 
 4   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
 4   0031    https://leetcode.com/problems/next-permutation/

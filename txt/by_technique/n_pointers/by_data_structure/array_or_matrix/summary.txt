@@ -134,6 +134,7 @@ Reference:
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
 3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
+3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
@@ -144,7 +145,7 @@ Reference:
 4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-4   0769     https://leetcode.com/problems/max-chunks-to-make-sorted/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
