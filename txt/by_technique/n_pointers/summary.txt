@@ -48,6 +48,7 @@ Reference:
 1   1598    https://leetcode.com/problems/crawler-log-folder/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/
 1   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 1   1732    https://leetcode.com/problems/find-the-highest-altitude/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/

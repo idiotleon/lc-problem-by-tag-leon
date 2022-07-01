@@ -1,7 +1,7 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/design/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/design/
 
 
 ### Object-Oriented Design
@@ -61,6 +61,6 @@ Reference:
 
 
 Problems not yet included in LC:
-3   find unique number in a data stream 
+3   find unique number in a data stream
 https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream
 
