@@ -189,6 +189,7 @@ Reference:
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
