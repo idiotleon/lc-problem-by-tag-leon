@@ -80,6 +80,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0015    https://leetcode.com/problems/3sum/

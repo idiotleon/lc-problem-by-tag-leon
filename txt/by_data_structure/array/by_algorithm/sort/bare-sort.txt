@@ -13,6 +13,7 @@ Reference:
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
+2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
