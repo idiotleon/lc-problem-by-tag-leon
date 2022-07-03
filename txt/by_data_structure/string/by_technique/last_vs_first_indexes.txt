@@ -8,6 +8,7 @@ Reference:
 # to keep track of the last index/indices
 
 1   1165    https://leetcode.com/problems/single-row-keyboard/
+1   2325    https://leetcode.com/problems/decode-the-message/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0205    https://leetcode.com/problems/isomorphic-strings/
