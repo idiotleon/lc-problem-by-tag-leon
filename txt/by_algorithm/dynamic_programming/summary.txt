@@ -228,6 +228,7 @@ Reference:
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 
 5   0010    https://leetcode.com/problems/regular-expression-matching/
 5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/

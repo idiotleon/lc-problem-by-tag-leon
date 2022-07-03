@@ -96,6 +96,7 @@ Reference:
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/

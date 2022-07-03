@@ -65,6 +65,7 @@ Reference:
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
+4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/

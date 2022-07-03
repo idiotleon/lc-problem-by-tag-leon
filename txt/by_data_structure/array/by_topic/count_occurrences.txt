@@ -23,5 +23,6 @@ Reference:
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
