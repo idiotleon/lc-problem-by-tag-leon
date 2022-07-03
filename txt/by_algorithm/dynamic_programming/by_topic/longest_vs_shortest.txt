@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/dynamic-programming/
+
+
+### Array
+# Longest vs Shortest
+
+3   0376    https://leetcode.com/problems/wiggle-subsequence/

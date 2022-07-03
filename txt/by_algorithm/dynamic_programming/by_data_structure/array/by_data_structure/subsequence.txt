@@ -7,6 +7,8 @@ Reference:
 ## Array
 # Subsequence
 
+3   0376    https://leetcode.com/problems/wiggle-subsequence/
+
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
