@@ -169,6 +169,7 @@ Reference:
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0057    https://leetcode.com/problems/insert-interval/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0135    https://leetcode.com/problems/candy/
 4   0220    https://leetcode.com/problems/contains-duplicate-iii/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/

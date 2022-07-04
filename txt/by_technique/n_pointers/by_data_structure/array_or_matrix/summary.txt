@@ -145,6 +145,7 @@ Reference:
 4   0018    https://leetcode.com/problems/4sum/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+4   0135    https://leetcode.com/problems/candy/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0311    https://leetcode.com/problems/sparse-matrix-multiplication/

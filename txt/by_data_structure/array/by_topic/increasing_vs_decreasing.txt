@@ -5,8 +5,6 @@ Reference:
 
 ### Array
 ## By Topic
-# Array Manipulation
-
-2   1243    https://leetcode.com/problems/array-transformation/
+# Increasing vs Decreasing
 
 4   0135    https://leetcode.com/problems/candy/

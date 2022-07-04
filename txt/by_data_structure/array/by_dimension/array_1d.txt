@@ -66,6 +66,7 @@ References:
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
 2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/
@@ -180,7 +181,6 @@ References:
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
-2   0485    https://leetcode.com/problems/max-consecutive-ones/
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
 3   0494    https://leetcode.com/problems/target-sum/
