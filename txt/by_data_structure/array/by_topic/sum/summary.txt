@@ -21,3 +21,4 @@ Reference:
 4   0656    https://leetcode.com/problems/coin-path/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
+4   1354    https://leetcode.com/problems/construct-target-array-with-multiple-sums/

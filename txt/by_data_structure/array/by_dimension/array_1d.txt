@@ -355,6 +355,7 @@ References:
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 4   1340    https://leetcode.com/problems/jump-game-v/
 4   1345    https://leetcode.com/problems/jump-game-iv/
+4   1354    https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 4   1383    https://leetcode.com/problems/maximum-performance-of-a-team/
 4   1406    https://leetcode.com/problems/stone-game-iii/
 4   1425    https://leetcode.com/problems/constrained-subsequence-sum/

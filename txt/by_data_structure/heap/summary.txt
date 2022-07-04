@@ -49,6 +49,7 @@ Reference:
 4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
 4   1199    https://leetcode.com/problems/minimum-time-to-build-blocks/
+4   1354    https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 4   1383    https://leetcode.com/problems/maximum-performance-of-a-team/
 4   1499    https://leetcode.com/problems/max-value-of-equation/

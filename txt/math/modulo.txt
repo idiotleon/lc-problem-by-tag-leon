@@ -12,3 +12,4 @@ Reference:
 2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
 
 4   0780    https://leetcode.com/problems/reaching-points/
+4   1354    https://leetcode.com/problems/construct-target-array-with-multiple-sums/
