@@ -10,6 +10,7 @@ Reference:
 
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 
+x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/

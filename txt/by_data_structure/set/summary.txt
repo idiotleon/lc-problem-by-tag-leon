@@ -12,6 +12,7 @@ Reference:
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   2215    https://leetcode.com/problems/find-the-difference-of-two-arrays/
 
+2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0475    https://leetcode.com/problems/heaters/
 2   0575    https://leetcode.com/problems/distribute-candies/
 2   0817    https://leetcode.com/problems/linked-list-components/
