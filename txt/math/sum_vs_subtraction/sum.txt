@@ -4,7 +4,7 @@ Reference:
 
 
 ### Math
-# Summation vs Subtraction
+# Summation
 
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 

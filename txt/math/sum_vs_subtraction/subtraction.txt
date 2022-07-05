@@ -3,9 +3,7 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Binary Search
-# Type Double
-
-3   0528    https://leetcode.com/problems/random-pick-with-weight/
+### Math
+# Subtraction
 
 5   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
