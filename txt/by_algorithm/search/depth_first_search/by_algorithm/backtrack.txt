@@ -41,6 +41,7 @@ Reference:
 3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1718    https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
+3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/

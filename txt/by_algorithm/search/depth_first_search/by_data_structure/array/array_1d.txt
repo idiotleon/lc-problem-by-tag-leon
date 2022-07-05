@@ -31,6 +31,7 @@ Reference:
 3   1273    https://leetcode.com/problems/delete-tree-nodes/
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0368    https://leetcode.com/problems/largest-divisible-subset/

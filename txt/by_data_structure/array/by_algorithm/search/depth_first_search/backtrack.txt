@@ -11,12 +11,13 @@ Reference:
 2   0090    https://leetcode.com/problems/subsets-ii/
 
 3   0039    https://leetcode.com/problems/combination-sum/
-3   0040    https://leetcode.com/problems/combination-sum-ii/ 
+3   0040    https://leetcode.com/problems/combination-sum-ii/
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
 3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
