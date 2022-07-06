@@ -6,6 +6,7 @@ Reference:
 ### N Pointers
 # Linear Scan / 1 Pointer
 
+1   0020    https://leetcode.com/problems/valid-parentheses/
 1   0058    https://leetcode.com/problems/length-of-last-word/
 1   0088    https://leetcode.com/problems/merge-sorted-array/
 1   0189    https://leetcode.com/problems/rotate-array/
