@@ -1,12 +1,14 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/sliding-window/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/sliding-window/
 
 
 ### Two Pointers
 ## Sliding Window
 # String
+
+1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0165    https://leetcode.com/problems/compare-version-numbers/

@@ -9,6 +9,7 @@ Reference:
 # Fixed-size Window
 
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 
 2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 2   0567    https://leetcode.com/problems/permutation-in-string/
