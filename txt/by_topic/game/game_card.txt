@@ -3,7 +3,7 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### By Topic 
+### By Topic
 ## Game
 # Card Game
 

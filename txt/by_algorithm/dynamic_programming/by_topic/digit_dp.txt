@@ -1,7 +1,7 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/dynamic-programming/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/dynamic-programming/
 
 
 ### Dynamic Programming
@@ -13,7 +13,7 @@ Reference:
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
 
 4   0600    https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
-4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
+4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 4   1067    https://leetcode.com/problems/digit-count-in-range/
 
 5   0233    https://leetcode.com/problems/number-of-digit-one/

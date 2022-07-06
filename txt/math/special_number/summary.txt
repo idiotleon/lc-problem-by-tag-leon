@@ -4,15 +4,19 @@ Reference:
 
 
 ### Math
-# Shuffle
+# Special Number
 
+1   0204    https://leetcode.com/problems/count-primes/
 1   1056    https://leetcode.com/problems/confusing-number/
 1   1133    https://leetcode.com/problems/largest-unique-number/
 1   1134    https://leetcode.com/problems/armstrong-number/
 
 2   0263    https://leetcode.com/problems/ugly-number/
 2   0507    https://leetcode.com/problems/perfect-number/
+2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+2   1175    https://leetcode.com/problems/prime-arrangements/
 2   1429    https://leetcode.com/problems/first-unique-number/
+2   1952    https://leetcode.com/problems/three-divisors/
 
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
@@ -23,4 +27,5 @@ Reference:
 4   0313    https://leetcode.com/problems/super-ugly-number/
 4   0878    https://leetcode.com/problems/nth-magical-number/
 
+5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
 5   1088    https://leetcode.com/problems/confusing-number-ii/
