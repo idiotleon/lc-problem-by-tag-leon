@@ -6,6 +6,7 @@ Reference:
 ### Math
 # Summation
 
+3   0306    https://leetcode.com/problems/additive-number/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 

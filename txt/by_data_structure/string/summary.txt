@@ -129,6 +129,7 @@ Reference:
 3   0228    https://leetcode.com/problems/summary-ranges/
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0271    https://leetcode.com/problems/encode-and-decode-strings/
+3   0306    https://leetcode.com/problems/additive-number/
 3   0320    https://leetcode.com/problems/generalized-abbreviation/
 3   0388    https://leetcode.com/problems/longest-absolute-file-path/
 3   0394    https://leetcode.com/problems/decode-string/

@@ -22,6 +22,7 @@ Reference:
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0216    https://leetcode.com/problems/combination-sum-iii/
 3   0254    https://leetcode.com/problems/factor-combinations/
+3   0306    https://leetcode.com/problems/additive-number/
 3   0320    https://leetcode.com/problems/generalized-abbreviation/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/

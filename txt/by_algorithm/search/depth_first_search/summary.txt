@@ -103,6 +103,7 @@ Reference:
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0285    https://leetcode.com/problems/inorder-successor-in-bst/
 3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0306    https://leetcode.com/problems/additive-number/
 3   0320    https://leetcode.com/problems/generalized-abbreviation/
 3   0323    https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 3   0331    https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/

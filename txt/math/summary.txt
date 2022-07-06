@@ -64,6 +64,7 @@ Reference:
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0223    https://leetcode.com/problems/rectangle-area/
 3   0279    https://leetcode.com/problems/perfect-squares/
+3   0306    https://leetcode.com/problems/additive-number/
 3   0319    https://leetcode.com/problems/bulb-switcher/
 3   0343    https://leetcode.com/problems/integer-break/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
