@@ -6,6 +6,7 @@ Reference:
 ### Math
 # Summation vs Subtraction
 
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 
 4   1354    https://leetcode.com/problems/construct-target-array-with-multiple-sums/

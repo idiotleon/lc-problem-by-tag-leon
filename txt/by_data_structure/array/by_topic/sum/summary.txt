@@ -11,6 +11,7 @@ Reference:
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/

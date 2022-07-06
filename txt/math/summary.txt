@@ -79,8 +79,10 @@ Reference:
 3   0611    https://leetcode.com/problems/valid-triangle-number/
 3   0670    https://leetcode.com/problems/maximum-swap/
 3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
-3   0858    https://leetcode.com/problems/mirror-reflection/
 3   0812    https://leetcode.com/problems/largest-triangle-area/
+3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+3   0858    https://leetcode.com/problems/mirror-reflection/
+3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 3   0914    https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
 3   0939    https://leetcode.com/problems/minimum-area-rectangle/
 3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
@@ -95,6 +97,7 @@ Reference:
 3   1286    https://leetcode.com/problems/iterator-for-combination/
 3   1291    https://leetcode.com/problems/sequential-digits/
 3   1401    https://leetcode.com/problems/circle-and-rectangle-overlapping/
+3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
@@ -131,6 +134,7 @@ Reference:
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 4   1610    https://leetcode.com/problems/maximum-number-of-visible-points/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
+4   2005    https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/
 
 5   0149    https://leetcode.com/problems/max-points-on-a-line/
 5   0335    https://leetcode.com/problems/self-crossing/
