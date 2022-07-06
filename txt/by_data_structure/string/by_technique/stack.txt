@@ -6,6 +6,8 @@ Reference:
 ### String
 ## with a Stack
 
+1   0020    https://leetcode.com/problems/valid-parentheses/
+
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 -2  2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/

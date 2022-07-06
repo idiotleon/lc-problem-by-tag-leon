@@ -5,6 +5,7 @@ Reference:
 
 ### Array
 ## By Topic
+# Matrix Manipulation
 # Main Diagnoal vs Antidiagnoal
 
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
@@ -21,7 +22,7 @@ Reference:
 
 
 # Tips
-    Main Diagonal:  y = -x + b  =>   b = y + x
+    Main Diagonal:  y = -x + b  =>  b = y + x
         isSameMainDiagonal: [row + N - col + 1] = true, N = 2 * n - 1
-    Antidiagonal:   y = x + b   =>   b = y - x
+    Antidiagonal:   y = x + b   =>  b = y - x
         isSameAntidiagonal: [row + col] = true, N = 2 * n - 1

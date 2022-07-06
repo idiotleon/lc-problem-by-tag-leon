@@ -1,12 +1,13 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/stack/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/stack/
 
 
 ### Stack
 # Summary
 
+1   0020    https://leetcode.com/problems/valid-parentheses/
 1   0682    https://leetcode.com/problems/baseball-game/
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 1   1598    https://leetcode.com/problems/crawler-log-folder/

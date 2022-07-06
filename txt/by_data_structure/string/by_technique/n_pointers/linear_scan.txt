@@ -7,6 +7,7 @@ Reference:
 # Linear Scan / 1 Pointer
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
+1   0020    https://leetcode.com/problems/valid-parentheses/
 1   0058    https://leetcode.com/problems/length-of-last-word/
 1   0067    https://leetcode.com/problems/add-binary/
 1   0242    https://leetcode.com/problems/valid-anagram/
