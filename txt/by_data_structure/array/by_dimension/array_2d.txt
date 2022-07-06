@@ -126,6 +126,7 @@ Reference:
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
 4   0759    https://leetcode.com/problems/employee-free-time/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0790    https://leetcode.com/problems/domino-and-tromino-tiling/
 4   0794    https://leetcode.com/problems/valid-tic-tac-toe-state/
 4   0815    https://leetcode.com/problems/bus-routes/

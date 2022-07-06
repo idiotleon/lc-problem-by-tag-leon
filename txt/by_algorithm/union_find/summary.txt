@@ -32,6 +32,7 @@ Reference:
 4   0684    https://leetcode.com/problems/redundant-connection/
 4   0721    https://leetcode.com/problems/accounts-merge/
 4   0765    https://leetcode.com/problems/couples-holding-hands/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0839    https://leetcode.com/problems/similar-string-groups/
 4   0924    https://leetcode.com/problems/minimize-malware-spread/
 4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/

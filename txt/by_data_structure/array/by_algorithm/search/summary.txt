@@ -102,6 +102,7 @@ Reference:
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 4   0740    https://leetcode.com/problems/delete-and-earn/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 4   0815    https://leetcode.com/problems/bus-routes/

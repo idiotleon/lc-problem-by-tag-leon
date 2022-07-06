@@ -25,6 +25,7 @@ Reference:
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   1136    https://leetcode.com/problems/parallel-courses/
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1591    https://leetcode.com/problems/strange-printer-ii/

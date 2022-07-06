@@ -48,6 +48,7 @@ Reference:
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 4   0719    https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0975    https://leetcode.com/problems/odd-even-jump/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/

@@ -20,6 +20,7 @@ Reference:
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   0684    https://leetcode.com/problems/redundant-connection/
 4   0721    https://leetcode.com/problems/accounts-merge/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0924    https://leetcode.com/problems/minimize-malware-spread/
 4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

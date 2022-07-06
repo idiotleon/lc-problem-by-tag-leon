@@ -256,6 +256,7 @@ Reference:
 4   0726    https://leetcode.com/problems/number-of-atoms/
 4   0740    https://leetcode.com/problems/delete-and-earn/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0799    https://leetcode.com/problems/champagne-tower/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/

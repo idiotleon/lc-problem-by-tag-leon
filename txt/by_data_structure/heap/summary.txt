@@ -45,6 +45,7 @@ Reference:
 4   0656    https://leetcode.com/problems/coin-path/
 4   0683    https://leetcode.com/problems/k-empty-slots/
 4   0759    https://leetcode.com/problems/employee-free-time/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0855    https://leetcode.com/problems/exam-room/
 4   0871    https://leetcode.com/problems/minimum-number-of-refueling-stops/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

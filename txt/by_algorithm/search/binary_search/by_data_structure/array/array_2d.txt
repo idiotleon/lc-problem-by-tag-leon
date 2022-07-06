@@ -20,6 +20,7 @@ Reference:
 4   0354    https://leetcode.com/problems/russian-doll-envelopes/
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 
