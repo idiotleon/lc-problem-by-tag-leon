@@ -11,6 +11,7 @@ Reference:
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 
 3   0056    https://leetcode.com/problems/merge-intervals/description/
+3   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   0253    https://leetcode.com/problems/meeting-rooms-ii/
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/

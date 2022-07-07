@@ -40,6 +40,7 @@ Reference:
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 
 3   0049    https://leetcode.com/problems/group-anagrams/
+3   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   0133    https://leetcode.com/problems/clone-graph/
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0244    https://leetcode.com/problems/shortest-word-distance-ii/
