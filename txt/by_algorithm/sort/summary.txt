@@ -12,6 +12,7 @@ Reference:
 1   1859    https://leetcode.com/problems/sorting-the-sentence/
 
 x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
+3   0147    https://leetcode.com/problems/insertion-sort-list/
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0280    https://leetcode.com/problems/wiggle-sort/
 2   0362    https://leetcode.com/problems/design-hit-counter/
