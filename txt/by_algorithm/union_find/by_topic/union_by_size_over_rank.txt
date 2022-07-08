@@ -1,0 +1,13 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/union-find/
+
+
+### Union Find
+## By Topic
+# Union by Size over Union by Rank
+
+3   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+
+5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
