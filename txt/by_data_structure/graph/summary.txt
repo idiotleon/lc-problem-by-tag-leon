@@ -58,6 +58,7 @@ Reference:
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 4   0924    https://leetcode.com/problems/minimize-malware-spread/
 4   0928    https://leetcode.com/problems/minimize-malware-spread-ii/
+4   0947    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/
 4   1135    https://leetcode.com/problems/connecting-cities-with-minimum-cost/
 4   1136    https://leetcode.com/problems/parallel-courses/
