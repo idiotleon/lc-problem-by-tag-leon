@@ -8,6 +8,7 @@ Reference:
 
 2   0409    https://leetcode.com/problems/longest-palindrome/
 
+3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
