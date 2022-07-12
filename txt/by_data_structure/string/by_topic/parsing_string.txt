@@ -6,7 +6,7 @@ Reference:
 
 ### String
 ## By Topic
-# Parsing String:
+# Parsing String
 
 1   0067    https://leetcode.com/problems/add-binary/
 1   0258    https://leetcode.com/problems/add-digits/

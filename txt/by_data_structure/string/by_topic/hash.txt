@@ -4,6 +4,7 @@ Reference:
 
 
 ### String
+## By Topic
 # Hash
 
 4   0249    https://leetcode.com/problems/group-shifted-strings/

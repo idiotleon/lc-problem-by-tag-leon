@@ -4,7 +4,8 @@ Reference:
 
 
 ### String
-## Word Pattern
+## By Topic
+# Word Pattern
 # Rabin-Karp Algorithm
 
 1   0819    https://leetcode.com/problems/most-common-word/

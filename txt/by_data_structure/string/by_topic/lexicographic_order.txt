@@ -4,6 +4,7 @@ Reference:
 
 
 ### String
-# lexicographical Order
+## By Topic
+# Lexicographical Order
 
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
