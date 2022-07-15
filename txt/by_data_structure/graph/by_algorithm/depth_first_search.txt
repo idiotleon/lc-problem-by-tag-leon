@@ -11,6 +11,7 @@ Reference:
 
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0690    https://leetcode.com/problems/employee-importance/
+2   0695    https://leetcode.com/problems/max-area-of-island/
 2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 

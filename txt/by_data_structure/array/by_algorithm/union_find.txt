@@ -8,11 +8,11 @@ Reference:
 # Union Find
 
 2   0695    https://leetcode.com/problems/max-area-of-island/
+2   0945    https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 
 3   0130    https://leetcode.com/problems/surrounded-regions/
 3   0200    https://leetcode.com/problems/number-of-islands/
 3   0547    https://leetcode.com/problems/friend-circles/
-2   0945    https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
 
 4   0305    https://leetcode.com/problems/number-of-islands-ii/

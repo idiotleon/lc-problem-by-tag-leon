@@ -8,6 +8,8 @@ Reference:
 ## By Topic
 # Union by Size over Union by Rank
 
+2   0695    https://leetcode.com/problems/max-area-of-island/
+
 3   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/

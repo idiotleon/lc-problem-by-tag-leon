@@ -8,6 +8,7 @@ Reference:
 # Undirected Graph
 
 2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   0695    https://leetcode.com/problems/max-area-of-island/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 3   0133    https://leetcode.com/problems/clone-graph/

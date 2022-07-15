@@ -8,6 +8,7 @@ Reference:
 ## By Algorithm
 # Union Find
 
+2   0695    https://leetcode.com/problems/max-area-of-island/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 3   0684    https://leetcode.com/problems/redundant-connection/

@@ -10,6 +10,7 @@ Reference:
 -1  1436    https://leetcode.com/problems/destination-city/
 
 2   0690    https://leetcode.com/problems/employee-importance/
+2   0695    https://leetcode.com/problems/max-area-of-island/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 3   0133    https://leetcode.com/problems/clone-graph/
