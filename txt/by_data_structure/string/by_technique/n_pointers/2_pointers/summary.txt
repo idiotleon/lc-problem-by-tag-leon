@@ -11,6 +11,7 @@ Reference:
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
+1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 
