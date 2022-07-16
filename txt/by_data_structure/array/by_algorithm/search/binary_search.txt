@@ -17,6 +17,7 @@ Reference:
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1150    https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/

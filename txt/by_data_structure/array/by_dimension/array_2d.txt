@@ -28,6 +28,7 @@ Reference:
 2   0832    https://leetcode.com/problems/flipping-an-image/
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/

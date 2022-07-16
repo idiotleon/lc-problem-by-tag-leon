@@ -8,6 +8,8 @@ Reference:
 ## By Technique
 # First or Last Indices
 
+2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
+
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 

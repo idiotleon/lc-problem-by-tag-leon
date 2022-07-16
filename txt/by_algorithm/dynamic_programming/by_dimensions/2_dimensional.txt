@@ -14,6 +14,7 @@ Reference:
 2   0064    https://leetcode.com/problems/minimum-path-sum/
 2   0198    https://leetcode.com/problems/house-robber/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0062    https://leetcode.com/problems/unique-paths/
