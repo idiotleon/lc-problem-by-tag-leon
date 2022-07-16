@@ -114,6 +114,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2083    https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0008    https://leetcode.com/problems/string-to-integer-atoi/

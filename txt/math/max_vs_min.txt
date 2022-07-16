@@ -7,6 +7,7 @@ Reference:
 # Maximum vs Minimum
 
 2   0453    https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/

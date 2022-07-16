@@ -80,6 +80,7 @@ Reference:
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 
 3   0006    https://leetcode.com/problems/zigzag-conversion/
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
