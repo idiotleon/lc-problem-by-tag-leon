@@ -122,6 +122,7 @@ Reference:
 4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
 4   0489    https://leetcode.com/problems/robot-room-cleaner/
 4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0646    https://leetcode.com/problems/maximum-length-of-pair-chain/
 4   0668    https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/

@@ -25,6 +25,7 @@ Reference:
 3   1391    https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0721    https://leetcode.com/problems/accounts-merge/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/

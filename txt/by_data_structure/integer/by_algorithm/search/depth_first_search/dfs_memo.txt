@@ -18,6 +18,7 @@ Reference:
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 
 4   0375    https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0818    https://leetcode.com/problems/race-car/
 4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1510    https://leetcode.com/problems/stone-game-iv/

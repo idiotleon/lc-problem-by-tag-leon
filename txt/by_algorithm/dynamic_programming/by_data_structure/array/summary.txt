@@ -54,6 +54,7 @@ Reference:
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0656    https://leetcode.com/problems/coin-path/
 4   0673    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/

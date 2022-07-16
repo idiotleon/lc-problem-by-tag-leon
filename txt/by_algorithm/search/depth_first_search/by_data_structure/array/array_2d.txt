@@ -37,6 +37,7 @@ Reference:
 4   0329    https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 4   0351    https://leetcode.com/problems/android-unlock-patterns/
 4   0489    https://leetcode.com/problems/robot-room-cleaner/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0688    https://leetcode.com/problems/knight-probability-in-chessboard/
 4   0778    https://leetcode.com/problems/swim-in-rising-water/
 4   0924    https://leetcode.com/problems/minimize-malware-spread/
