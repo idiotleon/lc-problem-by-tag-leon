@@ -37,3 +37,5 @@ Reference:
 
 5   0685    https://leetcode.com/problems/redundant-connection-ii/
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
+
+6   0749    https://leetcode.com/problems/contain-virus/

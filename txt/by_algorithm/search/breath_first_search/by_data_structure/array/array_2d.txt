@@ -45,3 +45,5 @@ Reference:
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
+
+6   0749    https://leetcode.com/problems/contain-virus/

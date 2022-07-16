@@ -39,4 +39,5 @@ Reference:
 4   1258    https://leetcode.com/problems/synonymous-sentences/
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 
+6   0749    https://leetcode.com/problems/contain-virus/
 6   0913    https://leetcode.com/problems/cat-and-mouse/

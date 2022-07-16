@@ -94,4 +94,5 @@ Reference:
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 
+6   0749    https://leetcode.com/problems/contain-virus/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/

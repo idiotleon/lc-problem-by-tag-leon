@@ -24,3 +24,5 @@ Reference:
 
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
+
+6   0749    https://leetcode.com/problems/contain-virus/

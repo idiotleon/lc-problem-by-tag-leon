@@ -64,6 +64,8 @@ Reference:
 5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
 
+6   0749    https://leetcode.com/problems/contain-virus/
+
 
 
 Resources:

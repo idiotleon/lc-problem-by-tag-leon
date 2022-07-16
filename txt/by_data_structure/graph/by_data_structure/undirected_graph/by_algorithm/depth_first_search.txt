@@ -38,6 +38,8 @@ Reference:
 
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
 
+6   0749    https://leetcode.com/problems/contain-virus/
+
 
 # Resources:
     https://leetcode.com/problems/accounts-merge/discuss/109162/summary-for-dfs-templates

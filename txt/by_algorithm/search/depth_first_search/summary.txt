@@ -345,6 +345,7 @@ Reference:
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0488    https://leetcode.com/problems/zuma-game/
 6   0679    https://leetcode.com/problems/24-game/
+6   0749    https://leetcode.com/problems/contain-virus/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
 
 
