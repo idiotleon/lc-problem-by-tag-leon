@@ -280,6 +280,7 @@ References:
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
+3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

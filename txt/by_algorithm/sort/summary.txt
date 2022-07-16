@@ -57,6 +57,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
+3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 
 4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
 4   0148    https://leetcode.com/problems/sort-list/

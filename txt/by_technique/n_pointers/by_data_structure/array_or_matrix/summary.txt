@@ -141,6 +141,7 @@ Reference:
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/
+3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
