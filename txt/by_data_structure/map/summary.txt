@@ -14,6 +14,7 @@ Reference:
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
+1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0049    https://leetcode.com/problems/group-anagrams/
@@ -38,6 +39,7 @@ Reference:
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 
 3   0049    https://leetcode.com/problems/group-anagrams/
 3   0128    https://leetcode.com/problems/longest-consecutive-sequence/
