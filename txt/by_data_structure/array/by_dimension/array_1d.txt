@@ -42,6 +42,7 @@ References:
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
+1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/

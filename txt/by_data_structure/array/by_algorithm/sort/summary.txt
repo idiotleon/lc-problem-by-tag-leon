@@ -11,6 +11,7 @@ Reference:
 1   1051    https://leetcode.com/problems/height-checker/
 1   1636    https://leetcode.com/problems/sort-array-by-increasing-frequency/
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
+1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 
 x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0280    https://leetcode.com/problems/wiggle-sort/

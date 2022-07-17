@@ -14,6 +14,7 @@ Reference:
 1   0884    https://leetcode.com/problems/uncommon-words-from-two-sentences/
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
+1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0049    https://leetcode.com/problems/group-anagrams/
