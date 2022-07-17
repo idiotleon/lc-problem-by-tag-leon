@@ -4,10 +4,12 @@ Reference:
 
 
 ### Division vs Multiplication
-# Division
+## Division
+# Summary
 
 1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
 
+2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 
@@ -15,23 +17,9 @@ Reference:
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0343    https://leetcode.com/problems/integer-break/
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
-3   1201    https://leetcode.com/problems/ugly-number-iii/
-
-4   1250    https://leetcode.com/problems/check-if-it-is-a-good-array/
-
-
-## Greatest Common Divisor
-
-2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
-2   1447    https://leetcode.com/problems/simplified-fractions/
-
-3   0365    https://leetcode.com/problems/water-and-jug-problem/
 3   0914    https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+3   1201    https://leetcode.com/problems/ugly-number-iii/
+3   2344    https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
 
 4   1250    https://leetcode.com/problems/check-if-it-is-a-good-array/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
-
-
-
-
-

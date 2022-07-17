@@ -106,6 +106,7 @@ Reference:
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
+3   2344    https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
 
 4   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
 4   0031    https://leetcode.com/problems/next-permutation/
