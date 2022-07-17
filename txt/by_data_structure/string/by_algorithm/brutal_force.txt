@@ -6,5 +6,7 @@ Reference:
 ### String
 # Brutal Force
 
+2   2343    https://leetcode.com/problems/query-kth-smallest-trimmed-number/
+
 4   0916    https://leetcode.com/problems/word-subsets/
 4   1152    https://leetcode.com/problems/analyze-user-website-visit-pattern/
