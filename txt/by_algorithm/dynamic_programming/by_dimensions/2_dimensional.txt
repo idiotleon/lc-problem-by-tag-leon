@@ -113,6 +113,7 @@ Reference:
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
+5   0629    https://leetcode.com/problems/k-inverse-pairs-array/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 5   0920    https://leetcode.com/problems/number-of-music-playlists/
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/

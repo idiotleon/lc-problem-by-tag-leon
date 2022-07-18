@@ -35,7 +35,7 @@ Reference:
 4   0799    https://leetcode.com/problems/champagne-tower/
 4   0818    https://leetcode.com/problems/race-car/
 4   0887    https://leetcode.com/problems/super-egg-drop/
-4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/   
+4   0902    https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 4   0982    https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 4   1067    https://leetcode.com/problems/digit-count-in-range/
 4   1220    https://leetcode.com/problems/count-vowels-permutation/
@@ -47,6 +47,7 @@ Reference:
 
 5   0233    https://leetcode.com/problems/number-of-digit-one/
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   0629    https://leetcode.com/problems/k-inverse-pairs-array/
 5   0818    https://leetcode.com/problems/race-car/
 5   0920    https://leetcode.com/problems/number-of-music-playlists/
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/

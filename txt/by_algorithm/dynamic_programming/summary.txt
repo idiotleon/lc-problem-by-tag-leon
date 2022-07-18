@@ -239,6 +239,7 @@ Reference:
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
+5   0629    https://leetcode.com/problems/k-inverse-pairs-array/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0818    https://leetcode.com/problems/race-car/
@@ -279,7 +280,8 @@ Resources:
     https://blog.csdn.net/txl199106/article/details/45869557
     https://blog.csdn.net/txl199106/category_2239693.html
     https://leetcode.com/discuss/general-discussion/712010/the-art-of-dynamic-programming-an-intuitive-approach-from-apprentice-to-master/
-    
+
+
 # Prefix Sums:
     about why `count += prefixSums.get(sum - k)`
     https://leetcode.com/problems/subarray-sum-equals-k/discuss/535507/Explanation-to-why-map.get(sum-k)-is-done-than-count%2B%2B

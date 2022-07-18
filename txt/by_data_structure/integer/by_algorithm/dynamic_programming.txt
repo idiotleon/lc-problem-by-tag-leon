@@ -37,5 +37,6 @@ Reference:
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
+5   0629    https://leetcode.com/problems/k-inverse-pairs-array/
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0920    https://leetcode.com/problems/number-of-music-playlists/
