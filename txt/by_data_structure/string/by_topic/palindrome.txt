@@ -11,6 +11,7 @@ Reference:
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 
 2   0009    https://leetcode.com/problems/palindrome-number/
+1   0125    https://leetcode.com/problems/valid-palindrome/
 2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0409    https://leetcode.com/problems/longest-palindrome/
 2   1328    https://leetcode.com/problems/break-a-palindrome/

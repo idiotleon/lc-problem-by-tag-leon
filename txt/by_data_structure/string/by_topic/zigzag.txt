@@ -1,7 +1,6 @@
 @author: Leon
 Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### String
@@ -9,3 +8,8 @@ Reference:
 # ZigZag
 
 3   0006    https://leetcode.com/problems/zigzag-conversion/
+3   0103    https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+3   0281    https://leetcode.com/problems/zigzag-iterator/
+3   1104    https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
+3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
+3   1372    https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
