@@ -7,4 +7,6 @@ Reference:
 ## By Topic
 # Lexicographical Order
 
+2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/

@@ -10,6 +10,7 @@ Reference:
 2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1609    https://leetcode.com/problems/even-odd-tree/
+2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 
 3   0310    https://leetcode.com/problems/minimum-height-trees/
 3   0365    https://leetcode.com/problems/water-and-jug-problem/

@@ -44,6 +44,7 @@ Reference:
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1609    https://leetcode.com/problems/even-odd-tree/
+2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 3   0101    https://leetcode.com/problems/symmetric-tree/

@@ -108,6 +108,7 @@ Reference:
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1592    https://leetcode.com/problems/rearrange-spaces-between-words/
 2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 2   1657    https://leetcode.com/problems/determine-if-two-strings-are-close/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
@@ -116,7 +117,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2083    https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
-2   22579    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0008    https://leetcode.com/problems/string-to-integer-atoi/

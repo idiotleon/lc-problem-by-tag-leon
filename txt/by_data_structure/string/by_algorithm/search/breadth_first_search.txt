@@ -9,6 +9,7 @@ Reference:
 1   0014    https://leetcode.com/problems/longest-common-prefix/
 
 2   0433    https://leetcode.com/problems/minimum-genetic-mutation/
+2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 
 3   1061    https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 3   1087    https://leetcode.com/problems/brace-expansion/

@@ -11,6 +11,7 @@ Reference:
 2   0433    https://leetcode.com/problems/minimum-genetic-mutation/
 2   0988    https://leetcode.com/problems/smallest-string-starting-from-leaf/
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
