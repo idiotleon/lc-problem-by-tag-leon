@@ -9,6 +9,8 @@ Reference:
 
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 
+2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
+
 3   0059    https://leetcode.com/problems/spiral-matrix-ii/
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/

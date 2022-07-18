@@ -17,7 +17,6 @@ Reference:
 2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
-3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
@@ -35,6 +34,7 @@ Reference:
 2   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 2   1854    https://leetcode.com/problems/maximum-population-year
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
@@ -56,6 +56,7 @@ Reference:
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0348    https://leetcode.com/problems/design-tic-tac-toe/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0419    https://leetcode.com/problems/battleships-in-a-board/
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0498    https://leetcode.com/problems/diagonal-traverse/

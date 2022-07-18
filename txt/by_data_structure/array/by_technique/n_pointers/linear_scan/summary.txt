@@ -76,6 +76,7 @@ Reference:
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/

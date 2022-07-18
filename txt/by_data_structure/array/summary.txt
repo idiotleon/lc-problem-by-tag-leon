@@ -155,6 +155,7 @@ Reference:
 2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
+2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/

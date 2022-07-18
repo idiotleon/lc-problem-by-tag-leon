@@ -27,6 +27,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/

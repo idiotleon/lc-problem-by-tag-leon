@@ -12,3 +12,5 @@ Reference:
 2   0945    https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 2   1122    https://leetcode.com/problems/relative-sort-array/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
+
