@@ -13,6 +13,7 @@ Reference:
 1   0509    https://leetcode.com/problems/fibonacci-number/
 1   1137    https://leetcode.com/problems/n-th-tribonacci-number/
 
+2   0022    https://leetcode.com/problems/generate-parentheses/
 2   0063    https://leetcode.com/problems/unique-paths-ii/
 2   0064    https://leetcode.com/problems/minimum-path-sum/
 2   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
