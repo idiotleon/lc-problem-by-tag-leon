@@ -18,6 +18,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 
+3   0056    https://leetcode.com/problems/merge-intervals/
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 3   0870    https://leetcode.com/problems/advantage-shuffle/
