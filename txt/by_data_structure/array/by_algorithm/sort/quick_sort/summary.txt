@@ -1,0 +1,11 @@
+@author: Leon
+Reference:
+    https://docs.google.com/spreadsheets/d/1VMMHp5Qd_RmCoRKaNiE5wRs0dftXHzUTrlgQVZVleBg/edit#gid=2064608444
+
+
+### Array
+## By Algorithm
+# Sort
+# Summary
+
+2   2343    https://leetcode.com/problems/query-kth-smallest-trimmed-number/

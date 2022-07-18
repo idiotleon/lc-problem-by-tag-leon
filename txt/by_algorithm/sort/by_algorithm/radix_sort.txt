@@ -6,6 +6,8 @@ Reference:
 ### Sort
 # Radix Sort
 
+2   2343    https://leetcode.com/problems/query-kth-smallest-trimmed-number/
+
 4   0660    https://leetcode.com/problems/remove-9/
 
 5   0273    https://leetcode.com/problems/integer-to-english-words/
