@@ -12,6 +12,7 @@ Reference:
 
 2   0063    https://leetcode.com/problems/unique-paths-ii/
 2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0198    https://leetcode.com/problems/house-robber/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/

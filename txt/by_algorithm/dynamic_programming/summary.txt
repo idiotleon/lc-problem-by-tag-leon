@@ -16,6 +16,7 @@ Reference:
 2   0022    https://leetcode.com/problems/generate-parentheses/
 2   0063    https://leetcode.com/problems/unique-paths-ii/
 2   0064    https://leetcode.com/problems/minimum-path-sum/
+2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 2   0122    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 2   0198    https://leetcode.com/problems/house-robber/

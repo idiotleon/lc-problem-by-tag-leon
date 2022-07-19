@@ -9,6 +9,7 @@ Reference:
 1   0062    https://leetcode.com/problems/unique-paths/
 1   0509    https://leetcode.com/problems/fibonacci-number/
 
+2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0292    https://leetcode.com/problems/nim-game/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
