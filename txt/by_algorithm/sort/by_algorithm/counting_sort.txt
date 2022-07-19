@@ -14,9 +14,9 @@ Reference:
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
+2   2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
-
 
 
 Resource:

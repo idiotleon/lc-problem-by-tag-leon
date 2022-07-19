@@ -31,6 +31,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
+2   2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
