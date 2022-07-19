@@ -13,6 +13,7 @@ Reference:
 2   0504    https://leetcode.com/problems/base-7/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0069    https://leetcode.com/problems/sqrtx/

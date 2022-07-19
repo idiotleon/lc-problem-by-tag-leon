@@ -29,6 +29,7 @@ Reference:
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 2   1946    https://leetcode.com/problems/largest-number-after-mutating-substring/
 2   2083    https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
+2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
