@@ -1,10 +1,12 @@
 @author: Leon
 Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/sliding-window/
 
 
-### Integer
-# Two Pointers
+### Two Pointers
+## Sliding Window
+# Array
 
 1   1056    https://leetcode.com/problems/confusing-number/
 

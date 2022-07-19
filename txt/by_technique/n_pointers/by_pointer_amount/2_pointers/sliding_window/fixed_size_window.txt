@@ -18,6 +18,7 @@ Reference:
 2   1176    https://leetcode.com/problems/diet-plan-performance/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 

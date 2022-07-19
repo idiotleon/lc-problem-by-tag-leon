@@ -18,6 +18,7 @@ Reference:
 1   1056    https://leetcode.com/problems/confusing-number/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
+1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 
@@ -54,7 +55,7 @@ Reference:
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
-1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
+2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/

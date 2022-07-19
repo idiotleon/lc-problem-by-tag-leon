@@ -41,6 +41,7 @@ Reference:
 2   2139    https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2178    https://leetcode.com/problems/maximum-split-of-positive-even-integers/
+2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
 2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/

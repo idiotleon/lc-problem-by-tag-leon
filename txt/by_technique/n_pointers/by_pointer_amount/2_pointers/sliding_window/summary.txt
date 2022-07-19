@@ -27,6 +27,7 @@ Reference:
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 -2  1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
+2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/

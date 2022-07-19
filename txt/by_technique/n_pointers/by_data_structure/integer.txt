@@ -11,6 +11,7 @@ Reference:
 
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0670    https://leetcode.com/problems/maximum-swap/
