@@ -8,6 +8,7 @@ Reference:
 # Sequence
 
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 
 3   1138    https://leetcode.com/problems/alphabet-board-path/
 

@@ -8,6 +8,7 @@ Reference:
 # Consecutive
 
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
