@@ -16,6 +16,7 @@ Reference:
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0712    https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1055    https://leetcode.com/problems/shortest-way-to-form-string/

@@ -28,6 +28,7 @@ Reference:
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   0787    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 3   0909    https://leetcode.com/problems/snakes-and-ladders/
 3   0950    https://leetcode.com/problems/reveal-cards-in-increasing-order/
 3   1054    https://leetcode.com/problems/distant-barcodes/

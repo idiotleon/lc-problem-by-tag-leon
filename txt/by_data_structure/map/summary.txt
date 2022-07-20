@@ -60,6 +60,7 @@ Reference:
 3   0663    https://leetcode.com/problems/equal-tree-partition/
 3   0729    https://leetcode.com/problems/my-calendar-i/
 3   0748    https://leetcode.com/problems/shortest-completing-word/
+3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0846    https://leetcode.com/problems/hand-of-straights/
 3   0870    https://leetcode.com/problems/advantage-shuffle/

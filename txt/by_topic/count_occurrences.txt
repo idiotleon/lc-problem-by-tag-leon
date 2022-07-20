@@ -18,6 +18,7 @@ Reference:
 3   0096    https://leetcode.com/problems/unique-binary-search-trees/
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/
