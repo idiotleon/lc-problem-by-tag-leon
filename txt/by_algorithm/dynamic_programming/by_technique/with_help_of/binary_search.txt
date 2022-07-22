@@ -9,6 +9,8 @@ Reference:
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+
 4   0354    https://leetcode.com/problems/russian-doll-envelopes/
 4   0887    https://leetcode.com/problems/super-egg-drop/
 4   0975    https://leetcode.com/problems/odd-even-jump/

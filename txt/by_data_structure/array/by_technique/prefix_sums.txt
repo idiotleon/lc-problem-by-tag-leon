@@ -7,5 +7,7 @@ Reference:
 ## By Technique
 # Prefix Sums
 
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/

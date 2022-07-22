@@ -25,6 +25,7 @@ Reference:
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/

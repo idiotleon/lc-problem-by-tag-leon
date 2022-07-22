@@ -354,6 +354,7 @@ Reference:
 3   1686    https://leetcode.com/problems/stone-game-vi/
 3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/

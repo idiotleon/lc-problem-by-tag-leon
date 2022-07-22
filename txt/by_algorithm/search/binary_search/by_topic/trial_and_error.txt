@@ -18,6 +18,7 @@ Reference:
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1891    https://leetcode.com/problems/cutting-ribbons/
 3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/

@@ -25,6 +25,7 @@ References:
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
