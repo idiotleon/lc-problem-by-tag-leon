@@ -8,15 +8,16 @@ Reference:
 # Palindrome
 
 1   0125    https://leetcode.com/problems/valid-palindrome/
+1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 
 2   0009    https://leetcode.com/problems/palindrome-number/
-1   0125    https://leetcode.com/problems/valid-palindrome/
 2   0266    https://leetcode.com/problems/palindrome-permutation/
 2   0409    https://leetcode.com/problems/longest-palindrome/
 2   1328    https://leetcode.com/problems/break-a-palindrome/
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
-2   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+2   2002    https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
+2   2131    https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
@@ -26,9 +27,10 @@ Reference:
 3   1400    https://leetcode.com/problems/construct-k-palindrome-strings/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 
-4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
 4   0132    https://leetcode.com/problems/palindrome-partitioning-ii/
+4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
 4   0479    https://leetcode.com/problems/largest-palindrome-product/
 4   0516    https://leetcode.com/problems/longest-palindromic-subsequence/
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
@@ -41,7 +43,33 @@ Reference:
 4   1278    https://leetcode.com/problems/palindrome-partitioning-iii/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   1542    https://leetcode.com/problems/find-longest-awesome-substring/
+4   1682    https://leetcode.com/problems/longest-palindromic-subsequence-ii/
+4   1745    https://leetcode.com/problems/palindrome-partitioning-iv/
+4   1771    https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
+4   1842    https://leetcode.com/problems/next-palindrome-using-same-digits/
+4   2193    https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/
+4   2217    https://leetcode.com/problems/find-palindrome-with-fixed-length/
 
 5   0214    https://leetcode.com/problems/shortest-palindrome/
 5   0336    https://leetcode.com/problems/palindrome-pairs/
 5   0564    https://leetcode.com/problems/find-the-closest-palindrome/
+
+6   1960    https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/
+
+
+TODO:
+
+2   2002    https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
+2   2131    https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+
+3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+
+4   1682    https://leetcode.com/problems/longest-palindromic-subsequence-ii/
+4   1771    https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
+4   1842    https://leetcode.com/problems/next-palindrome-using-same-digits/
+4   2193    https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/
+4   2217    https://leetcode.com/problems/find-palindrome-with-fixed-length/
+
+6   1960    https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/
+
+2330    https://leetcode.com/problems/valid-palindrome-iv/

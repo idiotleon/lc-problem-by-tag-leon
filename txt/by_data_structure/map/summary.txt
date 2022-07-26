@@ -85,6 +85,7 @@ Reference:
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   0355    https://leetcode.com/problems/design-twitter/
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0442    https://leetcode.com/problems/find-all-duplicates-in-an-array/

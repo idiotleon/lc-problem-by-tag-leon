@@ -23,7 +23,7 @@ Reference:
 
 
 
-3   find unique number in a data stream 
+3   find unique number in a data stream
 https://leetcode.com/discuss/interview-question/414970/Amazon-or-Phone-Screen-or-First-Unique-Number-in-Data-Stream
 
 

@@ -43,6 +43,7 @@ Reference:
 4   0138    https://leetcode.com/problems/copy-list-with-random-pointer/
 4   0146    https://leetcode.com/problems/lru-cache/
 4   0148    https://leetcode.com/problems/sort-list/
+4   0355    https://leetcode.com/problems/design-twitter/
 
 5   0432    https://leetcode.com/problems/all-oone-data-structure/
 
