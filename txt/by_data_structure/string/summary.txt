@@ -53,6 +53,7 @@ Reference:
 1   2309    https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 1   2325    https://leetcode.com/problems/decode-the-message/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
+1   2351    https://leetcode.com/problems/first-letter-to-appear-twice/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0022    https://leetcode.com/problems/generate-parentheses/
