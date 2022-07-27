@@ -79,6 +79,7 @@ References:
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   1900    https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/
+4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/
 5   0493    https://leetcode.com/problems/reverse-pairs/

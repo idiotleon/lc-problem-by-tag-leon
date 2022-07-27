@@ -8,5 +8,6 @@ Reference:
 ## By Technique
 # Bit Mask
 
+4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/

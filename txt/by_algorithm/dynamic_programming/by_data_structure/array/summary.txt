@@ -100,6 +100,7 @@ Reference:
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
+4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/

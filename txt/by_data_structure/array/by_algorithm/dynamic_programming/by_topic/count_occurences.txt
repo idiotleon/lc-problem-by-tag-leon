@@ -12,4 +12,6 @@ Reference:
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 
+4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
+
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
