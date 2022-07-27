@@ -38,6 +38,7 @@ Reference:
 3   1357    https://leetcode.com/problems/apply-discount-every-n-orders/
 3   1472    https://leetcode.com/problems/design-browser-history/
 3   1586    https://leetcode.com/problems/binary-search-tree-iterator-ii/
+3   2353    https://leetcode.com/problems/design-a-food-rating-system/
 
 4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0295    https://leetcode.com/problems/find-median-from-data-stream/

@@ -39,6 +39,7 @@ Reference:
 3   1244    https://leetcode.com/problems/design-a-leaderboard/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+3   2353    https://leetcode.com/problems/design-a-food-rating-system/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
