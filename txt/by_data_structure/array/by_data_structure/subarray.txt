@@ -18,6 +18,7 @@ Reference:
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
+2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

@@ -86,6 +86,7 @@ Reference:
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
+2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0015    https://leetcode.com/problems/3sum/
