@@ -39,6 +39,7 @@ Reference:
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
+2   2349    https://leetcode.com/problems/design-a-number-container-system/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
 
 3   0049    https://leetcode.com/problems/group-anagrams/
