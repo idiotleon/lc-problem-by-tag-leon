@@ -45,6 +45,7 @@ Reference:
 1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+1   2347    https://leetcode.com/problems/best-poker-hand/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/

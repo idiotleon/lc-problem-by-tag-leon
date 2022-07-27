@@ -43,6 +43,7 @@ Reference:
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+1   2347    https://leetcode.com/problems/best-poker-hand/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
@@ -354,7 +355,7 @@ Reference:
 3   1686    https://leetcode.com/problems/stone-game-vi/
 3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
-   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
