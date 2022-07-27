@@ -9,4 +9,6 @@ Reference:
 
 2   1243    https://leetcode.com/problems/array-transformation/
 
+3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
+
 4   0135    https://leetcode.com/problems/candy/

@@ -212,6 +212,7 @@ Reference:
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/
+3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/
