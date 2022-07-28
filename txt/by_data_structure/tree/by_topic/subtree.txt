@@ -7,6 +7,8 @@ Reference:
 ## By Data Structure
 # Subtree
 
+1   2236    https://leetcode.com/problems/root-equals-sum-of-children/
+
 2   0100    https://leetcode.com/problems/same-tree/
 2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0669    https://leetcode.com/problems/trim-a-binary-search-tree/

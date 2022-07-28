@@ -45,6 +45,7 @@ Reference:
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
+1   2224    https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 1   2283    https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
