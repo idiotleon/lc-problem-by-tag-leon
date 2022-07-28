@@ -6,6 +6,8 @@ Reference:
 ### Tree
 # Complete Binary Tree
 
+1   2331    https://leetcode.com/problems/evaluate-boolean-binary-tree/
+
 2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
 
 3   1104    https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/

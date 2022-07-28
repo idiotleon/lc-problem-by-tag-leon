@@ -17,6 +17,7 @@ Reference:
 1   1290    https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 -1  1436    https://leetcode.com/problems/destination-city/
+1   2331    https://leetcode.com/problems/evaluate-boolean-binary-tree/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0022    https://leetcode.com/problems/generate-parentheses/

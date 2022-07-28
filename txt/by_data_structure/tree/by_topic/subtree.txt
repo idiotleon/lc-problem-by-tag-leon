@@ -8,6 +8,7 @@ Reference:
 # Subtree
 
 1   2236    https://leetcode.com/problems/root-equals-sum-of-children/
+1   2331    https://leetcode.com/problems/evaluate-boolean-binary-tree/
 
 2   0100    https://leetcode.com/problems/same-tree/
 2   0226    https://leetcode.com/problems/invert-binary-tree/

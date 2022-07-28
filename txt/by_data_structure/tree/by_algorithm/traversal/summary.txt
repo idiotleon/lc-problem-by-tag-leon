@@ -11,6 +11,7 @@ Reference:
 1   0700    https://leetcode.com/problems/search-in-a-binary-search-tree/
 1   0872    https://leetcode.com/problems/leaf-similar-trees/
 1   0965    https://leetcode.com/problems/univalued-binary-tree/
+1   2331    https://leetcode.com/problems/evaluate-boolean-binary-tree/
 
 2   0094    https://leetcode.com/problems/binary-tree-inorder-traversal/
 2   0100    https://leetcode.com/problems/same-tree/
