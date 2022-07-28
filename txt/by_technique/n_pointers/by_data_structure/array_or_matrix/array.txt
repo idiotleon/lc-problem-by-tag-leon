@@ -86,6 +86,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/

@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### N Pointers
+## Linear Scan / 1 Pointer
+# Low vs High Indices
+
+2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/

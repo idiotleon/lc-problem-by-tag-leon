@@ -3,8 +3,10 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### N Pointers
-# Linear Scan / 1 Pointer
+### Array
+## N Pointers
+# Linear Scan / 1 pointer
+# Left vs Right Passes
 
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 
