@@ -16,6 +16,7 @@ Reference:
 2   0074    https://leetcode.com/problems/search-a-2d-matrix/
 2   0118    https://leetcode.com/problems/pascals-triangle/
 2   0207    https://leetcode.com/problems/course-schedule/
+2   0251    https://leetcode.com/problems/flatten-2d-vector/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0463    https://leetcode.com/problems/island-perimeter/
