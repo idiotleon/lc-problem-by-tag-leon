@@ -169,6 +169,7 @@ Reference:
 3   0816    https://leetcode.com/problems/ambiguous-coordinates/
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   0949    https://leetcode.com/problems/largest-time-for-given-digits/
 3   0966    https://leetcode.com/problems/vowel-spellchecker/
 3   1023    https://leetcode.com/problems/camelcase-matching/

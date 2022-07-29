@@ -7,4 +7,7 @@ Reference:
 ## By Topic
 # Hash
 
+3   0271    https://leetcode.com/problems/encode-and-decode-strings/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
+
 4   0249    https://leetcode.com/problems/group-shifted-strings/

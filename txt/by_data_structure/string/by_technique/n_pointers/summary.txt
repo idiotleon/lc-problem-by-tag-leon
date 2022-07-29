@@ -120,6 +120,7 @@ Reference:
 3   0763    https://leetcode.com/problems/partition-labels/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   0838    https://leetcode.com/problems/push-dominoes/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/description/
 3   1055    https://leetcode.com/problems/shortest-way-to-form-string/
 3   1023    https://leetcode.com/problems/camelcase-matching/

@@ -66,6 +66,7 @@ Reference:
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
 2   0811    https://leetcode.com/problems/subdomain-visit-count/
 2   0859    https://leetcode.com/problems/buddy-strings/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 2   0929    https://leetcode.com/problems/unique-email-addresses/
 2   0942    https://leetcode.com/problems/di-string-match/
 2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
