@@ -38,6 +38,7 @@ Reference:
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 1   2347    https://leetcode.com/problems/best-poker-hand/
+1   2357    https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0136    https://leetcode.com/problems/single-number/
