@@ -9,6 +9,7 @@ Reference:
 # Summary
 
 3   0743    https://leetcode.com/problems/network-delay-time/
+3   2359    https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 
 4   0505    https://leetcode.com/problems/the-maze-ii/
 4   1102    https://leetcode.com/problems/path-with-maximum-minimum-value/

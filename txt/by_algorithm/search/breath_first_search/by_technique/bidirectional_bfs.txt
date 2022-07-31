@@ -7,6 +7,7 @@ Reference:
 # Bidirectional BFS
 
 3   1197    https://leetcode.com/problems/minimum-knight-moves/
+3   2359    https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 
 4   0126    https://leetcode.com/problems/word-ladder-ii/
 4   0127    https://leetcode.com/problems/word-ladder/

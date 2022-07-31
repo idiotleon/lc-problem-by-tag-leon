@@ -211,6 +211,7 @@ Reference:
 3   1905    https://leetcode.com/problems/count-sub-islands/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
+3   2359    https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
