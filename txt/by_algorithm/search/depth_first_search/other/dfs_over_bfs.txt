@@ -38,6 +38,7 @@ Reference:
 4   1373    https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 4   1463    https://leetcode.com/problems/cherry-pickup-ii/
 4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
+4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/
 
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

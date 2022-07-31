@@ -54,6 +54,7 @@ Reference:
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 4   1548    https://leetcode.com/problems/the-most-similar-path-in-a-graph/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
+4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/
 
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

@@ -14,3 +14,4 @@ Reference:
 
 4   0457    https://leetcode.com/problems/circular-array-loop/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
+4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/

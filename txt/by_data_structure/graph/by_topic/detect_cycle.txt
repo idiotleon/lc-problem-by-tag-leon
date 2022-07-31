@@ -1,11 +1,13 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/graph/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/graph/
 
 
 ### Graph
 ## Detect Cycle
+
+2   0207    https://leetcode.com/problems/course-schedule/
 
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
@@ -13,3 +15,4 @@ Reference:
 4   0457    https://leetcode.com/problems/circular-array-loop/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
 4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/

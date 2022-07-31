@@ -64,6 +64,7 @@ Reference:
 4   1225    https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 4   1240    https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
 4   1258    https://leetcode.com/problems/synonymous-sentences/
+4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/
 5   0212    https://leetcode.com/problems/word-search-ii/

@@ -75,6 +75,7 @@ Reference:
 4   1627    https://leetcode.com/problems/graph-connectivity-with-threshold/
 4   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/
 
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/
