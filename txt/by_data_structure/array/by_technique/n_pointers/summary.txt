@@ -132,6 +132,7 @@ Reference:
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+3   0484    https://leetcode.com/problems/find-permutation/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0611    https://leetcode.com/problems/valid-triangle-number/

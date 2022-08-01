@@ -235,6 +235,7 @@ Reference:
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+3   0484    https://leetcode.com/problems/find-permutation/
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
 3   0494    https://leetcode.com/problems/target-sum/
