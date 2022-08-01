@@ -107,6 +107,7 @@ Reference:
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
+2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/
