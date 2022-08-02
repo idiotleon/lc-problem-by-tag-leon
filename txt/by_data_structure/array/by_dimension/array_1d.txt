@@ -41,6 +41,7 @@ Reference:
 1   1920    https://leetcode.com/problems/build-array-from-permutation/
 1   1929    https://leetcode.com/problems/concatenation-of-array/
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+1   2190    https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
