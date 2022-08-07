@@ -72,6 +72,7 @@ Reference:
 2   1666    https://leetcode.com/problems/change-the-root-of-a-binary-tree/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 2   1973    https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/
+2   2368    https://leetcode.com/problems/reachable-nodes-with-restrictions/
 
 3   0039    https://leetcode.com/problems/combination-sum/
 3   0040    https://leetcode.com/problems/combination-sum-ii/

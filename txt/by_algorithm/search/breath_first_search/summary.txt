@@ -46,6 +46,7 @@ Reference:
 2   1609    https://leetcode.com/problems/even-odd-tree/
 2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
+2   2368    https://leetcode.com/problems/reachable-nodes-with-restrictions/
 
 3   0101    https://leetcode.com/problems/symmetric-tree/
 3   0103    https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/

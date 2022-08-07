@@ -8,6 +8,7 @@ Reference:
 # Undirected Graph
 
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
+2   2368    https://leetcode.com/problems/reachable-nodes-with-restrictions/
 
 3   0133    https://leetcode.com/problems/clone-graph/
 3   0286    https://leetcode.com/problems/walls-and-gates/
