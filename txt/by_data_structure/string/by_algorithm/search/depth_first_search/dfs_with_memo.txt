@@ -12,6 +12,7 @@ Reference:
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0514    https://leetcode.com/problems/freedom-trail/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 
 5   2060    https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/

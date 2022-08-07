@@ -40,6 +40,7 @@ Reference:
 4   1028    https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 4   1092    https://leetcode.com/problems/shortest-common-supersequence/
 4   1216    https://leetcode.com/problems/valid-palindrome-iii/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 

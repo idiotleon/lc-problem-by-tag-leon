@@ -15,3 +15,4 @@ Reference:
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/

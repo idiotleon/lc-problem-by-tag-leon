@@ -39,6 +39,7 @@ Reference:
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1216    https://leetcode.com/problems/valid-palindrome-iii/
+4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1278    https://leetcode.com/problems/palindrome-partitioning-iii/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
