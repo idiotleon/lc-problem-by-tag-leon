@@ -25,6 +25,7 @@ Reference:
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   1690    https://leetcode.com/problems/stone-game-vii/
 3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0312    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/

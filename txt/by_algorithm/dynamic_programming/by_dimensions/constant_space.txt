@@ -30,7 +30,8 @@ Reference:
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
-3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+3   2130    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0309    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 4   0337    https://leetcode.com/problems/house-robber-iii/

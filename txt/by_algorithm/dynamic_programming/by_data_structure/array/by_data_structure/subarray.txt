@@ -22,6 +22,7 @@ Reference:
 3   1695    https://leetcode.com/problems/maximum-erasure-value
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0410    https://leetcode.com/problems/split-array-largest-sum/

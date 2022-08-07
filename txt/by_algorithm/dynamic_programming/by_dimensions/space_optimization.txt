@@ -8,5 +8,6 @@ Reference:
 # Space Optimization
 
 3   1143    https://leetcode.com/problems/longest-common-subsequence/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 5   1388    https://leetcode.com/problems/pizza-with-3n-slices/
