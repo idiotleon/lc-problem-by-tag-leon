@@ -82,6 +82,7 @@ Reference:
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 4   1563    https://leetcode.com/problems/stone-game-v/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
+4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/
 5   0493    https://leetcode.com/problems/reverse-pairs/

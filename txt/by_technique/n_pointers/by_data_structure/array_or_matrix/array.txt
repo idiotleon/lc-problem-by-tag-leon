@@ -169,5 +169,6 @@ Reference:
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
+4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
