@@ -152,6 +152,7 @@ Reference:
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
+3   2365    https://leetcode.com/problems/task-scheduler-ii/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0042    https://leetcode.com/problems/trapping-rain-water/
