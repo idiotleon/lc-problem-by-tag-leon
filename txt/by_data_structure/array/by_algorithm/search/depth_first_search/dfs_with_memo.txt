@@ -16,6 +16,7 @@ Reference:
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1690    https://leetcode.com/problems/stone-game-vii/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0120    https://leetcode.com/problems/triangle/
 4   0312    https://leetcode.com/problems/burst-balloons/

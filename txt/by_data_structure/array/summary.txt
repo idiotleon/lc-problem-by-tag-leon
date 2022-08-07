@@ -385,6 +385,7 @@ Reference:
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/
 3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0041    https://leetcode.com/problems/first-missing-positive/

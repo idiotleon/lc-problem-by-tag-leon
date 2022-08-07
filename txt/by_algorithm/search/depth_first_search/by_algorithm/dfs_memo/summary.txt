@@ -23,6 +23,7 @@ Reference:
 3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1197    https://leetcode.com/problems/minimum-knight-moves/
 3   1485    https://leetcode.com/problems/clone-binary-tree-with-random-pointer/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0097    https://leetcode.com/problems/interleaving-string/
 4   0120    https://leetcode.com/problems/triangle/

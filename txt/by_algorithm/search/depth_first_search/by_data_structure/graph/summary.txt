@@ -42,6 +42,7 @@ Reference:
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 3   2359    https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
 4   0399    https://leetcode.com/problems/evaluate-division/
 4   0457    https://leetcode.com/problems/circular-array-loop/
