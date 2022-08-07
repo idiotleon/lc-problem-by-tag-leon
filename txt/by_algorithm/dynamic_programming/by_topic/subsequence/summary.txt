@@ -49,6 +49,7 @@ Reference:
 4   1246    https://leetcode.com/problems/palindrome-removal/
 4   1278    https://leetcode.com/problems/palindrome-partitioning-iii/
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 

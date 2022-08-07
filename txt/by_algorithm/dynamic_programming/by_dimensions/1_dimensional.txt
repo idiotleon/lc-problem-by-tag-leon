@@ -148,6 +148,7 @@ Reference:
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
+4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/

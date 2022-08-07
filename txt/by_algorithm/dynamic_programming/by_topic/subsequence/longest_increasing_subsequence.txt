@@ -27,6 +27,7 @@ Reference:
 4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
 4   1187    https://leetcode.com/problems/make-array-strictly-increasing/
 4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 

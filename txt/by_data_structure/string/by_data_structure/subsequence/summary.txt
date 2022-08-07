@@ -40,5 +40,6 @@ Reference:
 4   1092    https://leetcode.com/problems/shortest-common-supersequence/
 4   1216    https://leetcode.com/problems/valid-palindrome-iii/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/

@@ -9,4 +9,9 @@ Reference:
 
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 
-4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
+4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
+4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
+
+
+TODO: to complement the list
+https://github.com/An7One/leetcode-problems-by-tag-an7one/tree/main/txt/by_algorithm/dynamic_programming/by_topic/subsequence
