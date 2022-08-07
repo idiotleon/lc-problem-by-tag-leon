@@ -12,6 +12,7 @@ Reference:
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 3   1664    https://leetcode.com/problems/ways-to-make-a-fair-array/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/

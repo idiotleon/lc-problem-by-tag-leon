@@ -20,6 +20,7 @@ Reference:
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
 4   0576    https://leetcode.com/problems/out-of-boundary-paths/

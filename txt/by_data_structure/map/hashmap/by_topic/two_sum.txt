@@ -9,6 +9,7 @@ Reference:
 
 2   0001    https://leetcode.com/problems/two-sum/
 
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

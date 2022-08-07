@@ -7,5 +7,6 @@ Reference:
 ## HashMap
 # Count Occurrences
 
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
