@@ -7,4 +7,6 @@ Reference:
 ## By Algorithm
 # Bucket Sort
 
+1   2363    https://leetcode.com/problems/merge-similar-items/
+
 2   0881    https://leetcode.com/problems/boats-to-save-people/
