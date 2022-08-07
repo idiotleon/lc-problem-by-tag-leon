@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Pair
+
+3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/

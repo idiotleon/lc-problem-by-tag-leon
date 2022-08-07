@@ -25,6 +25,7 @@ Reference:
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
+3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
