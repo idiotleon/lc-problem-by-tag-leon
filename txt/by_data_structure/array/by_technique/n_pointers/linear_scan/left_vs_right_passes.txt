@@ -9,12 +9,13 @@ Reference:
 # Left vs Right Passes
 
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0238    https://leetcode.com/problems/product-of-array-except-self/
 3   0739    https://leetcode.com/problems/daily-temperatures/
 3   0807    https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 3   0845    https://leetcode.com/problems/longest-mountain-in-array/
-2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 
 4   0135    https://leetcode.com/problems/candy/
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
