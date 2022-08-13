@@ -135,6 +135,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
+2   2094    https://leetcode.com/problems/finding-3-digit-even-numbers/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2164    https://leetcode.com/problems/sort-even-and-odd-indices-independently/
