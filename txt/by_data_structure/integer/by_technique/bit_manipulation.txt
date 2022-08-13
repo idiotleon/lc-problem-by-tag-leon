@@ -12,6 +12,7 @@ Reference:
 3   0029    https://leetcode.com/problems/divide-two-integers/
 2   0136    https://leetcode.com/problems/single-number/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+2   2220    https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0477    https://leetcode.com/problems/total-hamming-distance/

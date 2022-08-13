@@ -42,6 +42,7 @@ Reference:
 2   2139    https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2178    https://leetcode.com/problems/maximum-split-of-positive-even-integers/
+2   2220    https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 2   2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
