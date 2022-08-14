@@ -1,0 +1,57 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+# Distinct vs Repeated
+
+1   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+
+2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
+2   1695    https://leetcode.com/problems/maximum-erasure-value/
+
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+3   0686    https://leetcode.com/problems/repeated-string-match/
+
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
+
+5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
+5   2376    https://leetcode.com/problems/count-special-integers/
+
+
+## Distinct
+
+1   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+
+2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
+2   1695    https://leetcode.com/problems/maximum-erasure-value/
+
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1316    https://leetcode.com/problems/distinct-echo-substrings/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
+
+5   0828    https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
+5   2376    https://leetcode.com/problems/count-special-integers/
+
+
+## Repetitive
+
+3   0686    https://leetcode.com/problems/repeated-string-match/
+
+4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   1062    https://leetcode.com/problems/longest-repeating-substring/
+
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
+
+
