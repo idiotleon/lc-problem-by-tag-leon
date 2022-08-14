@@ -54,6 +54,7 @@ Reference:
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
