@@ -88,6 +88,7 @@ Reference:
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
+2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

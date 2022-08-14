@@ -9,6 +9,7 @@ Reference:
 
 2   1243    https://leetcode.com/problems/array-transformation/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
+2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 
 3   0484    https://leetcode.com/problems/find-permutation/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/

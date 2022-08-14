@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Increasing vs Decreasing
 
+2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
+
 3   0484    https://leetcode.com/problems/find-permutation/
 
 4   0135    https://leetcode.com/problems/candy/
