@@ -41,3 +41,6 @@ Reference:
 5   0629    https://leetcode.com/problems/k-inverse-pairs-array/
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0920    https://leetcode.com/problems/number-of-music-playlists/
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
+5   2376    https://leetcode.com/problems/count-special-integers/
+

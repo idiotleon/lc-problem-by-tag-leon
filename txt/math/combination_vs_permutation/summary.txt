@@ -4,28 +4,36 @@ Reference:
 
 
 ### Math
-# Permutation
+## Combination and Permutation
+# Summary
 
 1   1920    https://leetcode.com/problems/build-array-from-permutation/
 
+2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+2   0567    https://leetcode.com/problems/permutation-in-string/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 
+3   0039    https://leetcode.com/problems/combination-sum/
+3   0040    https://leetcode.com/problems/combination-sum-ii/
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0060    https://leetcode.com/problems/permutation-sequence/
+3   0254    https://leetcode.com/problems/factor-combinations/
 3   0670    https://leetcode.com/problems/maximum-swap/
 3   1053    https://leetcode.com/problems/previous-permutation-with-one-swap/
+3   1286    https://leetcode.com/problems/iterator-for-combination/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 
 4   0031    https://leetcode.com/problems/next-permutation/
+5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   2376    https://leetcode.com/problems/count-special-integers/
 
 
-### Other
-
-2   0567    https://leetcode.com/problems/permutation-in-string/
+Resources:
+    https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/

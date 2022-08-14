@@ -33,4 +33,6 @@ Reference:
 4   2005    https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/
 
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   1088    https://leetcode.com/problems/confusing-number-ii/
+5   2376    https://leetcode.com/problems/count-special-integers/

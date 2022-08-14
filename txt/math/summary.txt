@@ -147,7 +147,9 @@ Reference:
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
 5   0899    https://leetcode.com/problems/orderly-queue/
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   1622    https://leetcode.com/problems/fancy-sequence/
+5   2376    https://leetcode.com/problems/count-special-integers/
 
 6   0391    https://leetcode.com/problems/perfect-rectangle/
 6   0587    https://leetcode.com/problems/erect-the-fence/

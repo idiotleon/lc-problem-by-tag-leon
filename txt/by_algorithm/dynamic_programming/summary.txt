@@ -265,6 +265,7 @@ Reference:
 5   1622    https://leetcode.com/problems/fancy-sequence/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 5   2060    https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
+5   2376    https://leetcode.com/problems/count-special-integers/
 
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

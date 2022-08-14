@@ -6,7 +6,7 @@ Reference:
 
 ### Dynamic Programming
 ## By Topic
-# Digit DP
+# Digit Dynamic Programming
 
 2   0762    https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 
@@ -18,5 +18,6 @@ Reference:
 
 5   0233    https://leetcode.com/problems/number-of-digit-one/
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
+5   2376    https://leetcode.com/problems/count-special-integers/
 
 6   1397    https://leetcode.com/problems/find-all-good-strings/

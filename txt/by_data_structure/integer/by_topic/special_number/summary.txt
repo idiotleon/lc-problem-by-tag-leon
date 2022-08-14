@@ -34,4 +34,7 @@ Reference:
 4   0906    https://leetcode.com/problems/super-palindromes/
 4   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 
+5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
 5   1088    https://leetcode.com/problems/confusing-number-ii/
+5   2376    https://leetcode.com/problems/count-special-integers/
+
