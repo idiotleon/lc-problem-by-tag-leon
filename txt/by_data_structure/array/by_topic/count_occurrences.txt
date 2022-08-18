@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Count Occurences
 
+1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
+
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
