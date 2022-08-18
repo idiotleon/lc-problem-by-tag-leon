@@ -33,6 +33,7 @@ Reference:
 2   1410    https://leetcode.com/problems/html-entity-parser/
 2   1592    https://leetcode.com/problems/rearrange-spaces-between-words/
 -2  1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 
 3   0008    https://leetcode.com/problems/string-to-integer-atoi/
 3   0029    https://leetcode.com/problems/divide-two-integers/

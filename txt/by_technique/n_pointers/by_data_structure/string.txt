@@ -77,6 +77,7 @@ Reference:
 2   1694    https://leetcode.com/problems/reformat-phone-number/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 

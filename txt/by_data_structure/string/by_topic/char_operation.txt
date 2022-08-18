@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Character Operation
 
+2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+
 3   0306    https://leetcode.com/problems/additive-number/
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
