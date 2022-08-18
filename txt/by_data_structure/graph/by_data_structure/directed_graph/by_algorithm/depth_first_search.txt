@@ -22,6 +22,7 @@ Reference:
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 3   1129    https://leetcode.com/problems/shortest-path-with-alternating-colors/
 3   1466    https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+3   2192    https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 3   2359    https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 
 4   0457    https://leetcode.com/problems/circular-array-loop/

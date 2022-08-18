@@ -13,6 +13,7 @@ Reference:
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+3   2192    https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 
 4   1136    https://leetcode.com/problems/parallel-courses/
 4   1591    https://leetcode.com/problems/strange-printer-ii/

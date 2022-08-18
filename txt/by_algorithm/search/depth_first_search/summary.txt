@@ -210,6 +210,7 @@ Reference:
 3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 3   1718    https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 3   1905    https://leetcode.com/problems/count-sub-islands/
+3   2192    https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 3   2316    https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 3   2359    https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
