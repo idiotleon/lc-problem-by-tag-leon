@@ -25,6 +25,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1122    https://leetcode.com/problems/relative-sort-array/
 2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/

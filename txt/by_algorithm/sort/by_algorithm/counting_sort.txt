@@ -11,6 +11,7 @@ Reference:
 
 2   0791    https://leetcode.com/problems/custom-sort-string/
 2   1122    https://leetcode.com/problems/relative-sort-array/
+2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2094    https://leetcode.com/problems/finding-3-digit-even-numbers/

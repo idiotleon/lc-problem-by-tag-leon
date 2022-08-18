@@ -18,6 +18,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   2195    https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 -2  2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
