@@ -63,6 +63,7 @@ Reference:
 3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   0609    https://leetcode.com/problems/find-duplicate-file-in-system/3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
 3   0652    https://leetcode.com/problems/find-duplicate-subtrees/
+3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   0663    https://leetcode.com/problems/equal-tree-partition/
 3   0729    https://leetcode.com/problems/my-calendar-i/
 3   0748    https://leetcode.com/problems/shortest-completing-word/

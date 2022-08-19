@@ -195,6 +195,7 @@ Reference:
 3   0541    https://leetcode.com/problems/reverse-string-ii/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
+3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0670    https://leetcode.com/problems/maximum-swap/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
