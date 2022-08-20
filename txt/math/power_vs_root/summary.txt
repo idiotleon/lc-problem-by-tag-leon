@@ -7,6 +7,7 @@ Reference:
 ## Exponential vs Root
 # Summary
 
+2   0342    https://leetcode.com/problems/power-of-four/
 2   0970    https://leetcode.com/problems/powerful-integers/
 2   1952    https://leetcode.com/problems/three-divisors/
 2   2178    https://leetcode.com/problems/maximum-split-of-positive-even-integers/
