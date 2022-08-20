@@ -8,5 +8,6 @@ Reference:
 # Undirected Graph
 
 3   0310    https://leetcode.com/problems/minimum-height-trees/
+3   2385    https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
 
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
