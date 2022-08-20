@@ -86,6 +86,7 @@ Reference:
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+2   2384    https://leetcode.com/problems/largest-palindromic-number/
 
 3   0006    https://leetcode.com/problems/zigzag-conversion/
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/

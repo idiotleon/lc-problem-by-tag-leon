@@ -8,6 +8,7 @@ Reference:
 # Count Occurrences
 
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   2384    https://leetcode.com/problems/largest-palindromic-number/
 
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0792    https://leetcode.com/problems/number-of-matching-subsequences/

@@ -7,6 +7,7 @@ Reference:
 # Sequence
 
 2   0409    https://leetcode.com/problems/longest-palindrome/
+2   2384    https://leetcode.com/problems/largest-palindromic-number/
 
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/

@@ -18,6 +18,7 @@ Reference:
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
 2   2002    https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
 2   2131    https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+2   2384    https://leetcode.com/problems/largest-palindromic-number/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
