@@ -25,6 +25,7 @@ Reference:
 3   1372    https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
+4   0549    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
 4   1289    https://leetcode.com/problems/minimum-falling-path-sum-ii/
 
 

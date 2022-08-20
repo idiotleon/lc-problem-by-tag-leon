@@ -112,6 +112,7 @@ Reference:
 4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 4   0545    https://leetcode.com/problems/boundary-of-binary-tree/
+4   0549    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 4   0894    https://leetcode.com/problems/all-possible-full-binary-trees/
