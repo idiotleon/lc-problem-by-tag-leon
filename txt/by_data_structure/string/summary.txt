@@ -122,6 +122,7 @@ Reference:
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/

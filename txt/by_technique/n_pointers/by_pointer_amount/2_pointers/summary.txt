@@ -58,6 +58,7 @@ Reference:
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

@@ -19,6 +19,7 @@ Reference:
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
+2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 

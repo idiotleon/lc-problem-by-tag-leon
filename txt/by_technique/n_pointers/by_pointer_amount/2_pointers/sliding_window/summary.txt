@@ -28,6 +28,7 @@ Reference:
 -2  1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
+2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
