@@ -23,6 +23,7 @@ Reference:
 2   0202    https://leetcode.com/problems/happy-number/
 2   0263    https://leetcode.com/problems/ugly-number/
 2   0292    https://leetcode.com/problems/nim-game/
+2   0326    https://leetcode.com/problems/power-of-three/
 2   0342    https://leetcode.com/problems/power-of-four/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   0385    https://leetcode.com/problems/mini-parser/

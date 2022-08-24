@@ -22,6 +22,7 @@ Reference:
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0202    https://leetcode.com/problems/happy-number/
 2   0292    https://leetcode.com/problems/nim-game/
+2   0326    https://leetcode.com/problems/power-of-three/
 2   0382    https://leetcode.com/problems/linked-list-random-node/
 2   0384    https://leetcode.com/problems/shuffle-an-array/
 2   0398    https://leetcode.com/problems/random-pick-index/
