@@ -13,6 +13,7 @@ Reference:
 1   0242    https://leetcode.com/problems/valid-anagram/
 1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
 1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
+1   0383    https://leetcode.com/problems/ransom-note/
 1   0392    https://leetcode.com/problems/is-subsequence/
 1   0415    https://leetcode.com/problems/add-strings/
 1   0506    https://leetcode.com/problems/relative-ranks/

@@ -8,6 +8,7 @@ Reference:
 # an array as the FREQuencieS map
 
 1   0242    https://leetcode.com/problems/valid-anagram/
+1   0383    https://leetcode.com/problems/ransom-note/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0771    https://leetcode.com/problems/jewels-and-stones/
