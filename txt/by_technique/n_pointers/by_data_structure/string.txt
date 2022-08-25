@@ -31,6 +31,8 @@ Reference:
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
 1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+1   2000    https://leetcode.com/problems/reverse-prefix-of-word/
+1   2011    https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 1   2027    https://leetcode.com/problems/minimum-moves-to-convert-string/
 1   2103    https://leetcode.com/problems/rings-and-rods/
 1   2108    https://leetcode.com/problems/find-first-palindromic-string-in-the-array/

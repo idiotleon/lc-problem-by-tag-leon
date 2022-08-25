@@ -9,6 +9,7 @@ Reference:
 # Prefix
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
+1   2000    https://leetcode.com/problems/reverse-prefix-of-word/
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/

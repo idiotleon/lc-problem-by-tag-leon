@@ -12,6 +12,7 @@ Reference:
 1   0293    https://leetcode.com/problems/flip-game/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1859    https://leetcode.com/problems/sorting-the-sentence/
+1   2000    https://leetcode.com/problems/reverse-prefix-of-word/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/

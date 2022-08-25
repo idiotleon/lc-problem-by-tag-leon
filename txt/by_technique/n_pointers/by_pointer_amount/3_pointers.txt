@@ -20,3 +20,5 @@ Reference:
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   1395    https://leetcode.com/problems/count-number-of-teams/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+3   1995    https://leetcode.com/problems/count-special-quadruplets/
+
