@@ -10,6 +10,7 @@ Reference:
 1   0867    https://leetcode.com/problems/transpose-matrix/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
+1   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 
 2   0064    https://leetcode.com/problems/minimum-path-sum/

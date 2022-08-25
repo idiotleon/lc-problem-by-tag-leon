@@ -8,6 +8,7 @@ Reference:
 # Matrix Manipulation
 
 1   0867    https://leetcode.com/problems/transpose-matrix/
+1   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 
 2   0251    https://leetcode.com/problems/flatten-2d-vector/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
