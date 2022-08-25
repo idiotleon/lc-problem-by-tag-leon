@@ -7,6 +7,8 @@ Reference:
 ## Array
 # Subsequence
 
+2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 
 4   0805    https://leetcode.com/problems/split-array-with-same-average/

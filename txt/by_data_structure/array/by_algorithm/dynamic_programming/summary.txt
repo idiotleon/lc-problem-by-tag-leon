@@ -19,6 +19,7 @@ Reference:
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
+2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0062    https://leetcode.com/problems/unique-paths/

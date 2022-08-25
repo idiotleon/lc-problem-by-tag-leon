@@ -34,6 +34,7 @@ Reference:
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
+2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 

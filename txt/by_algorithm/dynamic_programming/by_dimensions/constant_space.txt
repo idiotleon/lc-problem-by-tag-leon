@@ -18,7 +18,7 @@ Reference:
 2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 2   0746    https://leetcode.com/problems/min-cost-climbing-stairs/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
-3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
@@ -28,6 +28,7 @@ Reference:
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   2130    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/

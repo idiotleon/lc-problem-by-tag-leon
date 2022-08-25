@@ -9,6 +9,7 @@ Reference:
 # Buy and Sell Stocks
 
 2   0122    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 
 3   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
