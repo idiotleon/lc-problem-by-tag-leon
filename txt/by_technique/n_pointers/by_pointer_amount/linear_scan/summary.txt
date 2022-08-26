@@ -43,6 +43,7 @@ Reference:
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1816    https://leetcode.com/problems/truncate-sentence/
+1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1827    https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 1   1832    https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 1   1844    https://leetcode.com/problems/replace-all-digits-with-characters/
