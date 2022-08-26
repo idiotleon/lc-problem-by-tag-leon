@@ -13,6 +13,7 @@ Reference:
 1   0204    https://leetcode.com/problems/count-primes/
 1   0509    https://leetcode.com/problems/fibonacci-number/
 1   1137    https://leetcode.com/problems/n-th-tribonacci-number/
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 
 2   0022    https://leetcode.com/problems/generate-parentheses/
 2   0053    https://leetcode.com/problems/maximum-subarray/

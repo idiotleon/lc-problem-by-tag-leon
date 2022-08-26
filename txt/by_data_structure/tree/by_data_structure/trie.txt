@@ -8,6 +8,7 @@ Reference:
 ### Trie
 
 1   0819    https://leetcode.com/problems/most-common-word/
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 
 2   0676    https://leetcode.com/problems/implement-magic-dictionary/
 2   0677    https://leetcode.com/problems/map-sum-pairs/

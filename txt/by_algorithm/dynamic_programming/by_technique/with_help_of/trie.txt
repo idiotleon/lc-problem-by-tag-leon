@@ -7,4 +7,6 @@ Reference:
 ## with the help of
 # Trie
 
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
 4   0139    https://leetcode.com/problems/word-break/

@@ -7,6 +7,8 @@ Reference:
 ## String
 # KMP Algorithm
 
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
 2   0028    https://leetcode.com/problems/implement-strstr/
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/

@@ -12,6 +12,7 @@ Reference:
 1   0872    https://leetcode.com/problems/leaf-similar-trees/
 1   0965    https://leetcode.com/problems/univalued-binary-tree/
 1   1161    https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 1   2236    https://leetcode.com/problems/root-equals-sum-of-children/
 1   2331    https://leetcode.com/problems/evaluate-boolean-binary-tree/
 

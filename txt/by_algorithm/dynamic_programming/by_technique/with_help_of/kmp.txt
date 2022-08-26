@@ -7,4 +7,6 @@ Reference:
 ## with the help of
 # KMP Algorithm
 
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
 6   0471    https://leetcode.com/problems/encode-string-with-shortest-length/

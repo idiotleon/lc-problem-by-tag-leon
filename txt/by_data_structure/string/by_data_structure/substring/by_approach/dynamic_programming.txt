@@ -7,6 +7,8 @@ Reference:
 ## Substring
 # Dynamic Programming
 
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0647    https://leetcode.com/problems/palindromic-substrings/

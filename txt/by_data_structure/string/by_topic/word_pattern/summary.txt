@@ -9,6 +9,7 @@ Reference:
 # Summary
 
 1   0819    https://leetcode.com/problems/most-common-word/
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
 2   0028    https://leetcode.com/problems/implement-strstr/

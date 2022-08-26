@@ -6,6 +6,8 @@ Reference:
 ### Dynamic Programming
 # String
 
+1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
 2   0022    https://leetcode.com/problems/generate-parentheses/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
