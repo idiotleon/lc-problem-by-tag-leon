@@ -107,6 +107,7 @@ Reference:
 4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
@@ -119,3 +120,4 @@ Reference:
 
 6   0546    https://leetcode.com/problems/remove-boxes/
 6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
+

@@ -43,6 +43,7 @@ Reference:
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
 
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 5   1622    https://leetcode.com/problems/fancy-sequence/

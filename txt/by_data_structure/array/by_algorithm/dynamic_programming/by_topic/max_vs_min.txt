@@ -14,3 +14,5 @@ Reference:
 
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
+
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/

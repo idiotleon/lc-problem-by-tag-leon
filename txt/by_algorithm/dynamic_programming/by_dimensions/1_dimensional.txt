@@ -152,6 +152,7 @@ Reference:
 4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0552    https://leetcode.com/problems/student-attendance-record-ii/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0629    https://leetcode.com/problems/k-inverse-pairs-array/
@@ -164,3 +165,4 @@ Reference:
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
+

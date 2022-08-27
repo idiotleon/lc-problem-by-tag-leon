@@ -6,6 +6,8 @@ Reference:
 ### Dynamic Programming
 # Kadane's Algorithm
 
+2   0121    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 3   0053    https://leetcode.com/problems/maximum-subarray/
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
@@ -13,3 +15,5 @@ Reference:
 
 4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+
+5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
