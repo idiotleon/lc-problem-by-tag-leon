@@ -23,6 +23,7 @@ Reference:
 3   1891    https://leetcode.com/problems/cutting-ribbons/
 3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 3   1954    https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
+3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0644    https://leetcode.com/problems/maximum-average-subarray-ii/

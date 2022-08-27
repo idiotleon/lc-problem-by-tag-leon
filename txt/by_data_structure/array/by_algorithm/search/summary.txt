@@ -82,6 +82,7 @@ Reference:
 3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
+3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/

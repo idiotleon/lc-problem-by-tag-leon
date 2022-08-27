@@ -17,6 +17,7 @@ Reference:
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
 3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
+3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 
 4   0081    https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/

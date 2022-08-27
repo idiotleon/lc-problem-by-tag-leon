@@ -15,6 +15,7 @@ Reference:
 3   0436    https://leetcode.com/problems/find-right-interval/
 -3  1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1901    https://leetcode.com/problems/find-a-peak-element-ii/
+3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 
 4   0174    https://leetcode.com/problems/dungeon-game/
 4   0354    https://leetcode.com/problems/russian-doll-envelopes/
