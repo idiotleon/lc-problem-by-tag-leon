@@ -1,0 +1,11 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Matrix Manipulation
+# Order/Sequence
+
+4   2392    https://leetcode.com/problems/build-a-matrix-with-conditions/
