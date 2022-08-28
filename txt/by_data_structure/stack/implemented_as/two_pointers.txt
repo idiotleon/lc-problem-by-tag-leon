@@ -1,10 +1,12 @@
 @author: Leon
 Reference:
-    https://leetcode.com/tag/stack/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/stack/
 
 
 ### Stack
-## Two Pointers as Stacks
+## Two Pointers as as Stack
+
+1   2390    https://leetcode.com/problems/removing-stars-from-a-string/
 
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/

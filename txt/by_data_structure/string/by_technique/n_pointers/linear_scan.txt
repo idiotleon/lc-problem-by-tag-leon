@@ -53,6 +53,7 @@ Reference:
 1   2325    https://leetcode.com/problems/decode-the-message/
 1   2224    https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 1   2351    https://leetcode.com/problems/first-letter-to-appear-twice/
+1   2390    https://leetcode.com/problems/removing-stars-from-a-string/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0049    https://leetcode.com/problems/group-anagrams/
