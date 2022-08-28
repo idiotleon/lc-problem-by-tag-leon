@@ -8,6 +8,7 @@ Reference:
 # Bubble Sort
 
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
+3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
 3   2350    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
