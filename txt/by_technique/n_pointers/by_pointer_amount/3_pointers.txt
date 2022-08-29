@@ -9,6 +9,7 @@ Reference:
 1   0088    https://leetcode.com/problems/merge-sorted-array/
 1   0997    https://leetcode.com/problems/find-the-town-judge/
 
+2   1805    https://leetcode.com/problems/number-of-different-integers-in-a-string/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 
 3   0015    https://leetcode.com/problems/3sum/

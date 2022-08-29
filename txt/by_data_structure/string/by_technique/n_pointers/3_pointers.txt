@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### String
+### N Pointers
+## 3 Pointers
+
+2   1805    https://leetcode.com/problems/number-of-different-integers-in-a-string/

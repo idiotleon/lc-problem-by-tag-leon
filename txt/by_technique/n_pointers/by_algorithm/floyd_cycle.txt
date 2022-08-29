@@ -3,8 +3,8 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### By Technique
-## N Pointers
+### N Pointers
+## By Algorithm
 # Floyd Cycle
 
 2   0160    https://leetcode.com/problems/intersection-of-two-linked-lists/

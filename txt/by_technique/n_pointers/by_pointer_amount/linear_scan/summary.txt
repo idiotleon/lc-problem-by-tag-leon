@@ -4,7 +4,8 @@ Reference:
 
 
 ### N Pointers
-# Linear Scan / 1 Pointer
+## Linear Scan / 1 Pointer
+# Summary
 
 1   0020    https://leetcode.com/problems/valid-parentheses/
 1   0058    https://leetcode.com/problems/length-of-last-word/

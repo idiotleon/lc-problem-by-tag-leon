@@ -4,7 +4,7 @@ Reference:
 
 
 #### N Pointers
-### Two Pointers
+### 2 Pointers
 ## Sliding Window
 # Fixed-size Window
 

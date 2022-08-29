@@ -3,7 +3,8 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Two Pointers
+### N Pointers
+## 2 Pointers
 # Summary
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/

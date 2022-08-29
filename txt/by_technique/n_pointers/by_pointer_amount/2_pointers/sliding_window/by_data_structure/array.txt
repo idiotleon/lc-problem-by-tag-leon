@@ -4,7 +4,8 @@ Reference:
     https://leetcode.com/tag/sliding-window/
 
 
-### Two Pointers
+#### N Pointers
+### 2 Pointers
 ## Sliding Window
 # Array
 

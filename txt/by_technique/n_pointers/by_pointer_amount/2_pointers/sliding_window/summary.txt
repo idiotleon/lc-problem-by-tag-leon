@@ -3,7 +3,8 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Two Pointers
+#### N Pointers
+### 2 Pointers
 ## Sliding Window
 # Summary
 
