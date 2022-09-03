@@ -7,6 +7,7 @@ Reference:
 # Special Array
 
 1   0189    https://leetcode.com/problems/rotate-array/
+1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 2   0268    https://leetcode.com/problems/missing-number/
 2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/

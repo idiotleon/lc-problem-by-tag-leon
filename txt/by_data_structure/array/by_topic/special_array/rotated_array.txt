@@ -7,6 +7,7 @@ Reference:
 # Rotated Array
 
 1   0189    https://leetcode.com/problems/rotate-array/
+1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 

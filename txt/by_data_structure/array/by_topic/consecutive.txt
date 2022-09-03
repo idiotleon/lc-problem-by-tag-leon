@@ -8,6 +8,7 @@ Reference:
 # Consecutive
 
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 
 2   0053    https://leetcode.com/problems/maximum-subarray/

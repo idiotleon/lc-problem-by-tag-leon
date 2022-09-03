@@ -6,6 +6,8 @@ Reference:
 ### Array
 # Circular Array
 
+1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+
 2   0362    https://leetcode.com/problems/design-hit-counter/
 2   0622    https://leetcode.com/problems/design-circular-queue/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
