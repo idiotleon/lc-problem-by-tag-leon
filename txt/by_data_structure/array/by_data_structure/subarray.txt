@@ -20,6 +20,7 @@ Reference:
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 -2  2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
+2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

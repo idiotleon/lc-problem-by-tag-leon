@@ -92,6 +92,7 @@ Reference:
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2391    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
+   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

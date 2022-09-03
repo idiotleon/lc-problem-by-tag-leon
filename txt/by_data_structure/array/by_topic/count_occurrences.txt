@@ -17,6 +17,7 @@ Reference:
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
+2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0377    https://leetcode.com/problems/combination-sum-iv/

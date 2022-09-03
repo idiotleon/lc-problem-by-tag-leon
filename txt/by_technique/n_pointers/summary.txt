@@ -217,6 +217,7 @@ Reference:
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
+2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/
