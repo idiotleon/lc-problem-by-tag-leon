@@ -10,6 +10,7 @@ Reference:
 # Array
 
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+1   2395    https://leetcode.com/problems/find-subarrays-with-equal-sum/
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/

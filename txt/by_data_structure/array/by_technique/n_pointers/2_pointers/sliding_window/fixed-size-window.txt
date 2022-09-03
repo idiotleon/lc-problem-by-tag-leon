@@ -8,6 +8,7 @@ Reference:
 # Fixed-Size Sliding Window
 
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
+1   2395    https://leetcode.com/problems/find-subarrays-with-equal-sum/
 
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
