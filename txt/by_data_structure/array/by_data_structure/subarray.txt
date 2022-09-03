@@ -94,5 +94,5 @@ Reference:
 
 
 
-Resources:
+Resource:
     https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706
