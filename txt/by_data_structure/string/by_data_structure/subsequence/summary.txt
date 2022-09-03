@@ -8,6 +8,7 @@ Reference:
 # Summary
 
 1   0392    https://leetcode.com/problems/is-subsequence/
+1   1768    https://leetcode.com/problems/merge-strings-alternately/
 
 2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 
