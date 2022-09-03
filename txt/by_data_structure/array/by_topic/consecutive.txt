@@ -7,14 +7,91 @@ Reference:
 ## By Topic
 # Consecutive
 
+1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 
+2   0053    https://leetcode.com/problems/maximum-subarray/
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   0413    https://leetcode.com/problems/arithmetic-slices/
+2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
+2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
+-2  2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
+2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
+3   0011    https://leetcode.com/problems/container-with-most-water/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
+3   0152    https://leetcode.com/problems/maximum-product-subarray/
+3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+3   0220    https://leetcode.com/problems/contains-duplicate-iii/
+3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
+3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+3   0484    https://leetcode.com/problems/find-permutation/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0525    https://leetcode.com/problems/contiguous-array/
+3   0548    https://leetcode.com/problems/split-array-with-equal-sum/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
+3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
+3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   0764    https://leetcode.com/problems/largest-plus-sign/
+3   0840    https://leetcode.com/problems/magic-squares-in-grid/
+3   0877    https://leetcode.com/problems/stone-game/
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
+3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
+3   1140    https://leetcode.com/problems/stone-game-ii/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
+3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+3   1695    https://leetcode.com/problems/maximum-erasure-value/
+3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
+3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
+3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
+
+4   0220    https://leetcode.com/problems/contains-duplicate-iii/
+4   0312    https://leetcode.com/problems/burst-balloons/
+4   0321    https://leetcode.com/problems/create-maximum-number/
+4   0410    https://leetcode.com/problems/split-array-largest-sum/
+4   0486    https://leetcode.com/problems/predict-the-winner/
+4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+4   0813    https://leetcode.com/problems/largest-sum-of-averages/
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+4   0907    https://leetcode.com/problems/sum-of-subarray-minimums/
+4   0915    https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+4   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
+4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
+4   1124    https://leetcode.com/problems/longest-well-performing-interval/
+4   1186    https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+4   1231    https://leetcode.com/problems/divide-chocolate/
+4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
+4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+4   1563    https://leetcode.com/problems/stone-game-v/
+4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
+4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
+5   0327    https://leetcode.com/problems/count-of-range-sum/
+5   0493    https://leetcode.com/problems/reverse-pairs/
+5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 
-TODO:
-#Subarray
+6   1000    https://leetcode.com/problems/minimum-cost-to-merge-stones/
