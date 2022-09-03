@@ -25,6 +25,7 @@ Reference:
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1768    https://leetcode.com/problems/merge-strings-alternately/
 1   1816    https://leetcode.com/problems/truncate-sentence/
