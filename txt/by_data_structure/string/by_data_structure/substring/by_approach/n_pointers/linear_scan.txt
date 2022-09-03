@@ -9,6 +9,7 @@ Reference:
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   0058    https://leetcode.com/problems/length-of-last-word/
+1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1859    https://leetcode.com/problems/sorting-the-sentence/
 1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/

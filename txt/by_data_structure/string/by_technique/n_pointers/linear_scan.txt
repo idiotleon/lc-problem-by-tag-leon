@@ -26,6 +26,7 @@ Reference:
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 1   1417    https://leetcode.com/problems/reformat-the-string/
 1   1446    https://leetcode.com/problems/consecutive-characters/
+1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 1   1768    https://leetcode.com/problems/merge-strings-alternately/
 1   1816    https://leetcode.com/problems/truncate-sentence/
