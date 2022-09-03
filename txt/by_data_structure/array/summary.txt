@@ -33,6 +33,7 @@ Reference:
 1   1732    https://leetcode.com/problems/find-the-highest-altitude/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
+1   1779    https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 1   1909    https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
@@ -445,6 +446,7 @@ Reference:
 4   0489    https://leetcode.com/problems/robot-room-cleaner/
 4   0502    https://leetcode.com/problems/ipo/
 4   0505    https://leetcode.com/problems/the-maze-ii/
+4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0616    https://leetcode.com/problems/add-bold-tag-in-string/
 4   0621    https://leetcode.com/problems/task-scheduler/
 4   0630    https://leetcode.com/problems/course-schedule-iii/
@@ -564,7 +566,6 @@ Reference:
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 5   0493    https://leetcode.com/problems/reverse-pairs/
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
-4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 5   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
 5   0691    https://leetcode.com/problems/stickers-to-spell-word/
 5   0774    https://leetcode.com/problems/minimize-max-distance-to-gas-station/
