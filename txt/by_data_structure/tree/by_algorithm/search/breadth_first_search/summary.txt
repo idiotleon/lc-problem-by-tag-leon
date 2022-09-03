@@ -55,6 +55,7 @@ Reference:
 3   2385    https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
 
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/

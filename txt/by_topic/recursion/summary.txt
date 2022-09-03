@@ -10,4 +10,5 @@ Reference:
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 
+4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0372    https://leetcode.com/problems/super-pow/

@@ -48,6 +48,7 @@ Reference:
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
+4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0314    https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 4   0545    https://leetcode.com/problems/boundary-of-binary-tree/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/

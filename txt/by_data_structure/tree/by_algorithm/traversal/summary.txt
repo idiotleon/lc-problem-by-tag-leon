@@ -108,6 +108,7 @@ Reference:
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 4   0250    https://leetcode.com/problems/count-univalue-subtrees/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0337    https://leetcode.com/problems/house-robber-iii/
 4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/

@@ -44,6 +44,7 @@ Reference:
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
 4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0535    https://leetcode.com/problems/convert-bst-to-greater-tree/
 4   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 
