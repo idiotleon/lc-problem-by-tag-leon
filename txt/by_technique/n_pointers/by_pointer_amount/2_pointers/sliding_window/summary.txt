@@ -79,6 +79,7 @@ Reference:
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
+4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0214    https://leetcode.com/problems/shortest-palindrome/

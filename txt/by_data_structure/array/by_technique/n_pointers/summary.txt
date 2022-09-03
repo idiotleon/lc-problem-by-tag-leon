@@ -210,6 +210,7 @@ Reference:
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 

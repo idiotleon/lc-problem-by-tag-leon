@@ -137,6 +137,7 @@ Reference:
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1537    https://leetcode.com/problems/get-the-maximum-score/
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
+4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/

@@ -553,6 +553,7 @@ Reference:
 4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 4   2392    https://leetcode.com/problems/build-a-matrix-with-conditions/
+4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/
 5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
