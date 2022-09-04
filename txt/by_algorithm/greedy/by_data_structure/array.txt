@@ -82,6 +82,7 @@ Reference:
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+4   2402    https://leetcode.com/problems/meeting-rooms-iii/
 
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
 5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/

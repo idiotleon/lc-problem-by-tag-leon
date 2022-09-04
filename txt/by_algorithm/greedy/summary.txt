@@ -108,6 +108,7 @@ Reference:
 4   1584    https://leetcode.com/problems/min-cost-to-connect-all-points/
 4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 4   1697    https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
+4   2402    https://leetcode.com/problems/meeting-rooms-iii/
 
 5   0499    https://leetcode.com/problems/the-maze-iii/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
