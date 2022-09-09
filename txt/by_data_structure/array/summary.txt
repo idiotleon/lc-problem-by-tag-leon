@@ -391,6 +391,7 @@ Reference:
 3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
+3   1996    https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/

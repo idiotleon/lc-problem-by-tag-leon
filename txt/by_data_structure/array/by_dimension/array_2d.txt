@@ -108,6 +108,7 @@ Reference:
 3   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 3   1901    https://leetcode.com/problems/find-a-peak-element-ii/
 3   1905    https://leetcode.com/problems/count-sub-islands/
+3   1996    https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/
 3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
