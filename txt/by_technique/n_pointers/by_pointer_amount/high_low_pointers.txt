@@ -29,6 +29,7 @@ Reference:
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

@@ -10,7 +10,7 @@ Reference:
 1   0067    https://leetcode.com/problems/add-binary/
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
-1   178    https://leetcode.com/problems/merge-strings-alternately/
+1   1768    https://leetcode.com/problems/merge-strings-alternately/
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
@@ -34,6 +34,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/

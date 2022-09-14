@@ -182,6 +182,7 @@ Reference:
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

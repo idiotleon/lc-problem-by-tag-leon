@@ -115,6 +115,7 @@ Reference:
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/

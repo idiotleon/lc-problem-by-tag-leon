@@ -1,12 +1,13 @@
 @author: Leon
 Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
-    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
 ### String
 ## By Topic
 # Partition
+
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0131    https://leetcode.com/problems/palindrome-partitioning-i/
 

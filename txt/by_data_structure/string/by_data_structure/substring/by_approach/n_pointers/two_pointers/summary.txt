@@ -16,6 +16,7 @@ Reference:
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0763    https://leetcode.com/problems/partition-labels/
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
