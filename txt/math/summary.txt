@@ -140,6 +140,7 @@ Reference:
 4   1411    https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 4   1610    https://leetcode.com/problems/maximum-number-of-visible-points/
+4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   2005    https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/
 

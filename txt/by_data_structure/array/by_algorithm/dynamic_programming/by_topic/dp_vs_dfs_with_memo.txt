@@ -13,6 +13,7 @@ Reference:
 
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
+4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 
 
 # DFS with memo over DP

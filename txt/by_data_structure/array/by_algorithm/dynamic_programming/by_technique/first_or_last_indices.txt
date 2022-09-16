@@ -15,3 +15,4 @@ Reference:
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
+4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/

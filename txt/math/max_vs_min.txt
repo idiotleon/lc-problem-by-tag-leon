@@ -12,3 +12,5 @@ Reference:
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 3   2344    https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
+
+4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/

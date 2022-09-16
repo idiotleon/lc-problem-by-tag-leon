@@ -9,3 +9,5 @@ Reference:
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+
+4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/

@@ -235,6 +235,7 @@ Reference:
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   1692    https://leetcode.com/problems/count-ways-to-distribute-candies/
 4   1695    https://leetcode.com/problems/jump-game-vi/
+4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
