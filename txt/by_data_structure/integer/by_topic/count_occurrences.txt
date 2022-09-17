@@ -7,6 +7,7 @@ Reference:
 # Count Occurrences
 
 1   0062    https://leetcode.com/problems/unique-paths/
+1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2180    https://leetcode.com/problems/count-integers-with-even-digit-sum/
 
 2   1925    https://leetcode.com/problems/count-square-sum-triples/

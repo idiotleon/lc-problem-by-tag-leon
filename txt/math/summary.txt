@@ -13,6 +13,7 @@ Reference:
 1   0645    https://leetcode.com/problems/set-mismatch/
 1   1304    https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/

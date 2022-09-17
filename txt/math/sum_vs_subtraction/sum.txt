@@ -6,6 +6,7 @@ Reference:
 ### Math
 # Summation
 
+1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2235    https://leetcode.com/problems/add-two-integers/
 
 3   0306    https://leetcode.com/problems/additive-number/

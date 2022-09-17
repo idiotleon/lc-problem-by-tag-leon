@@ -6,6 +6,8 @@ Reference:
 ### Integer
 # Linear Scan
 
+1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
