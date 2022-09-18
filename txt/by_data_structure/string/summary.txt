@@ -136,6 +136,7 @@ Reference:
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
+2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0008    https://leetcode.com/problems/string-to-integer-atoi/

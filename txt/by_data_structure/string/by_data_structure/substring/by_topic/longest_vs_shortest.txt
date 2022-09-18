@@ -10,6 +10,7 @@ Reference:
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
+2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 
 3   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
