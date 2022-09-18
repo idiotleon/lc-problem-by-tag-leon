@@ -1,0 +1,11 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Math
+## Division vs Multiplication
+# Division
+# Least Common multiple
+
+1   2413    https://leetcode.com/problems/smallest-even-multiple
