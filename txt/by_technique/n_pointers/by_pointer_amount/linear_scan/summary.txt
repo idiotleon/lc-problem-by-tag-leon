@@ -136,6 +136,7 @@ Reference:
 2   0941    https://leetcode.com/problems/valid-mountain-array/
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
+2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1002    https://leetcode.com/problems/find-common-characters/
 2   1064    https://leetcode.com/problems/fixed-point/

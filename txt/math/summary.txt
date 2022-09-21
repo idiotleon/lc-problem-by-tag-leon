@@ -40,6 +40,7 @@ Reference:
 2   0789    https://leetcode.com/problems/escape-the-ghosts/
 2   0836    https://leetcode.com/problems/rectangle-overlap/
 2   0970    https://leetcode.com/problems/powerful-integers/
+2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0991    https://leetcode.com/problems/broken-calculator/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1037    https://leetcode.com/problems/valid-boomerang/

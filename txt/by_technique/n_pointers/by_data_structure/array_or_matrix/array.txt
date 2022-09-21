@@ -66,6 +66,7 @@ Reference:
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   0941    https://leetcode.com/problems/valid-mountain-array/
+2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1064    https://leetcode.com/problems/fixed-point/

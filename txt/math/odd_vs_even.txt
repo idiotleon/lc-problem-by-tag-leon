@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Math
+# Odd vs Even
+
+2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/

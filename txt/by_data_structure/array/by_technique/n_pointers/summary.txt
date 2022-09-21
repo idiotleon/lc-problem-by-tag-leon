@@ -75,6 +75,7 @@ Reference:
 2   0941    https://leetcode.com/problems/valid-mountain-array/
 2   0942    https://leetcode.com/problems/di-string-match/
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
+2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1064    https://leetcode.com/problems/fixed-point/
@@ -115,7 +116,7 @@ Reference:
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
-2   23291    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
+2   2329    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/
