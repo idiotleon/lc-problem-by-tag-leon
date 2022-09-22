@@ -23,7 +23,7 @@ Reference:
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 4   0715    https://leetcode.com/problems/range-module/
-4   0910    https://leetcode.com/problems/smallest-range-ii/ 
+4   0910    https://leetcode.com/problems/smallest-range-ii/
 4   1067    https://leetcode.com/problems/digit-count-in-range/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/

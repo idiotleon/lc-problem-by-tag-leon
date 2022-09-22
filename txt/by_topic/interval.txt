@@ -6,6 +6,8 @@ Reference:
 ### By Topic
 ## Interval
 
+2   1272    https://leetcode.com/problems/remove-interval/
+
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 

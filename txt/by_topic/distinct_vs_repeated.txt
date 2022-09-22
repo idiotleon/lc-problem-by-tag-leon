@@ -53,5 +53,3 @@ Reference:
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
 
 5   1012    https://leetcode.com/problems/numbers-with-repeated-digits/
-
-
