@@ -5,6 +5,8 @@ Reference:
 
 
 ### Bit Manipulation
-## Binary Binary Tree
+## Operations
+# Is Power of Two
 
-2   0814    https://leetcode.com/problems/binary-tree-pruning/
+2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+

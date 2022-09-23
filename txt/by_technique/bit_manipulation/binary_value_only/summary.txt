@@ -1,0 +1,26 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Bit Manipulation
+# Binary String
+
+2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
+1   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+
+2   0814    https://leetcode.com/problems/binary-tree-pruning/
+2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+2   1869    https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+
+3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+
+4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
+
+5   0782    https://leetcode.com/problems/transform-to-chessboard/
+5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
