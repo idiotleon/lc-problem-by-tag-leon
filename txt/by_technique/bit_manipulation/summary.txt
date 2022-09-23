@@ -42,6 +42,7 @@ References:
 3   0260    https://leetcode.com/problems/single-number-iii/
 3   0289    https://leetcode.com/problems/game-of-life/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/
+3   0338    https://leetcode.com/problems/counting-bits/
 3   0379    https://leetcode.com/problems/design-phone-directory/
 3   0393    https://leetcode.com/problems/utf-8-validation/
 3   0397    https://leetcode.com/problems/integer-replacement/

@@ -9,6 +9,7 @@ Reference:
 
 1   0020    https://leetcode.com/problems/valid-parentheses/
 1   0058    https://leetcode.com/problems/length-of-last-word/
+1   0067    https://leetcode.com/problems/add-binary/
 1   0088    https://leetcode.com/problems/merge-sorted-array/
 1   0189    https://leetcode.com/problems/rotate-array/
 1   0242    https://leetcode.com/problems/valid-anagram/

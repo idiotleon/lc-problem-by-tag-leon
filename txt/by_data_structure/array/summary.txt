@@ -238,7 +238,6 @@ Reference:
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0334    https://leetcode.com/problems/increasing-triplet-subsequence/
-3   0338    https://leetcode.com/problems/counting-bits/
 3   0348    https://leetcode.com/problems/design-tic-tac-toe/
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/

@@ -16,6 +16,7 @@ Reference:
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/
+3   0338    https://leetcode.com/problems/counting-bits/
 3   0477    https://leetcode.com/problems/total-hamming-distance/
 
 4   1900    https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/

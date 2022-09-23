@@ -13,6 +13,7 @@ Reference:
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 
+3   0338    https://leetcode.com/problems/counting-bits/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   2400    https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
