@@ -15,6 +15,7 @@ Reference:
 
 3   0338    https://leetcode.com/problems/counting-bits/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   2400    https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 

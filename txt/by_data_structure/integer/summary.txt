@@ -75,6 +75,7 @@ Reference:
 3   0858    https://leetcode.com/problems/mirror-reflection/
 3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
 3   1291    https://leetcode.com/problems/sequential-digits/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/

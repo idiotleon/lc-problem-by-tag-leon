@@ -23,6 +23,7 @@ Reference:
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 3   1718    https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/

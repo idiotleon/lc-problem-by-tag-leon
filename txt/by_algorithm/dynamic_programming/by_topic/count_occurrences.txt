@@ -18,6 +18,7 @@ Reference:
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
+3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
