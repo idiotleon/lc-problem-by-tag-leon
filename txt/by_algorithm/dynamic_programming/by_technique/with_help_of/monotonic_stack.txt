@@ -5,7 +5,7 @@ Reference:
 
 ### Dynamic Programming
 ## with the help of
-# Monotonic Stacks
+# Monotonic Stack
 
 3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 

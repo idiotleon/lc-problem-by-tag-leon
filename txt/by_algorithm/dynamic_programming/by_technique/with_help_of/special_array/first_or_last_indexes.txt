@@ -5,7 +5,7 @@ Reference:
 
 ### Dynamic Programming
 ## with the help of
-# First or Last Indexes
+# First or Last Indices
 
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/

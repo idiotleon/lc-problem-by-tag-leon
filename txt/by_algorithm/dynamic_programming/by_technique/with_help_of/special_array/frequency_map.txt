@@ -5,7 +5,7 @@ Reference:
 
 ### Dynamic Programming
 ## with the help of
-# Freq Map
+# Frequency Map
 
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 

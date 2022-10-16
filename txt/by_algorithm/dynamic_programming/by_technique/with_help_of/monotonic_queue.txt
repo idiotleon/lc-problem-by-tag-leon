@@ -5,7 +5,7 @@ Reference:
 
 ### Dynamic Programming
 ## with the help of
-# Monotonic Queues
+# Monotonic Queue
 
 4   1695    https://leetcode.com/problems/jump-game-vi/
 
