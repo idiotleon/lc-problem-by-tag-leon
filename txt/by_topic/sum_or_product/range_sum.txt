@@ -6,6 +6,8 @@ Reference:
 ### By Topic
 ## Range Sum
 
+1   1652    https://leetcode.com/problems/defuse-the-bomb/
+
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/

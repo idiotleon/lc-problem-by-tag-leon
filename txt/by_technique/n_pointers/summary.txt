@@ -51,6 +51,7 @@ Reference:
 1   1450    https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1652    https://leetcode.com/problems/defuse-the-bomb/
 1   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/
 1   1678    https://leetcode.com/problems/goal-parser-interpretation/

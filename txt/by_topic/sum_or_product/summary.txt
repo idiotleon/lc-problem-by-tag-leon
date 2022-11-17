@@ -8,6 +8,7 @@ Reference:
 
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+1   1652    https://leetcode.com/problems/defuse-the-bomb/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0112    https://leetcode.com/problems/path-sum/

@@ -31,6 +31,7 @@ Reference:
 1   1450    https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   1636    https://leetcode.com/problems/sort-array-by-increasing-frequency/
+1   1652    https://leetcode.com/problems/defuse-the-bomb/
 1   1732    https://leetcode.com/problems/find-the-highest-altitude/
 1   1748    https://leetcode.com/problems/sum-of-unique-elements/
 1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
