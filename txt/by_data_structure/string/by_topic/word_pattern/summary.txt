@@ -16,6 +16,7 @@ Reference:
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0567    https://leetcode.com/problems/permutation-in-string/
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
 3   0686    https://leetcode.com/problems/repeated-string-match/

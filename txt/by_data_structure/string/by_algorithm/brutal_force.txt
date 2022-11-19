@@ -8,6 +8,7 @@ Reference:
 
 1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 
+2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 2   2343    https://leetcode.com/problems/query-kth-smallest-trimmed-number/
 
 4   0916    https://leetcode.com/problems/word-subsets/

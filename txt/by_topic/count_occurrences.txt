@@ -17,6 +17,7 @@ Reference:
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
+2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/

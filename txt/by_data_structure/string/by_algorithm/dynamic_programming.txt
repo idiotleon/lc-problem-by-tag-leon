@@ -9,6 +9,7 @@ Reference:
 1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 
 2   0022    https://leetcode.com/problems/generate-parentheses/
+2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0091    https://leetcode.com/problems/decode-ways/

@@ -11,6 +11,7 @@ Reference:
 
 2   0028    https://leetcode.com/problems/implement-strstr/
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
+2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
