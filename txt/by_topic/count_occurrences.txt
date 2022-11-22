@@ -6,6 +6,7 @@ Reference:
 ### By Topic
 # Count Occurrences
 
+1   1385    https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
 1   2085    https://leetcode.com/problems/count-common-words-with-one-occurrence/
 
