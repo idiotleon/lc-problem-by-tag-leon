@@ -10,6 +10,7 @@ Reference:
 1   0344    https://leetcode.com/problems/reverse-string/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   0917    https://leetcode.com/problems/reverse-only-letters/
+1   1370    https://leetcode.com/problems/increasing-decreasing-string/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/

@@ -28,6 +28,7 @@ Reference:
 1   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+1   1370    https://leetcode.com/problems/increasing-decreasing-string/
 1   1417    https://leetcode.com/problems/reformat-the-string/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
@@ -70,7 +71,6 @@ Reference:
 2   0022    https://leetcode.com/problems/generate-parentheses/
 2   0028    https://leetcode.com/problems/implement-strstr/
 2   0038    https://leetcode.com/problems/count-and-say/
-1   0125    https://leetcode.com/problems/valid-palindrome/
 2   0157    https://leetcode.com/problems/read-n-characters-given-read4/
 2   0165    https://leetcode.com/problems/compare-version-numbers/
 2   0168    https://leetcode.com/problems/excel-sheet-column-title/

@@ -7,6 +7,8 @@ Reference:
 ## Linear Scan / 1 Pointer
 # Left vs Right Passes
 
+1   1370    https://leetcode.com/problems/increasing-decreasing-string/
+
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
