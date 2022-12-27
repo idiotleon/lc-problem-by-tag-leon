@@ -13,6 +13,7 @@ Reference:
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
+2   2279    https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 
 -3  0658    https://leetcode.com/problems/find-k-closest-elements/
 3   1244    https://leetcode.com/problems/design-a-leaderboard/

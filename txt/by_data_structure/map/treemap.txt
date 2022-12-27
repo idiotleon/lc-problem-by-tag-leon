@@ -9,6 +9,7 @@ Reference:
 2   0252    https://leetcode.com/problems/meeting-rooms/description/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+2   2279    https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 
 3   0056    https://leetcode.com/problems/merge-intervals/description/
 3   0128    https://leetcode.com/problems/longest-consecutive-sequence/
