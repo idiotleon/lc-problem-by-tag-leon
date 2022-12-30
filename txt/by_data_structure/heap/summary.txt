@@ -59,6 +59,7 @@ Reference:
 4   1499    https://leetcode.com/problems/max-value-of-equation/
 4   1605    https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 4   1675    https://leetcode.com/problems/minimize-deviation-in-array/
+4   1834    https://leetcode.com/problems/single-threaded-cpu/
 4   2402    https://leetcode.com/problems/meeting-rooms-iii/
 
 5   0480    https://leetcode.com/problems/sliding-window-median/
