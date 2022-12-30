@@ -6,6 +6,8 @@ Reference:
 ### Array
 # Binary Array
 
+2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/
+
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/

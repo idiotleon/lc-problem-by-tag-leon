@@ -81,6 +81,7 @@ Reference:
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
