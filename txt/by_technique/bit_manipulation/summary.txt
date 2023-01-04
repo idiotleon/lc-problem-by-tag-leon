@@ -1,5 +1,5 @@
 @author: Leon
-References:
+Reference:
     https://leetcode.com/tag/bit-manipulation/
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
@@ -96,7 +96,7 @@ References:
 
 
 
-###Resources:
+Resource:
     https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
     http://graphics.stanford.edu/~seander/bithacks.html
     https://leetcode.com/problems/sum-of-two-integers/discuss/132479/Simple-explanation-on-how-to-arrive-at-the-solution

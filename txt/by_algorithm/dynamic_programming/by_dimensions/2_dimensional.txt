@@ -127,5 +127,5 @@ Reference:
 
 
 
-Resources:
+Resource:
     https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/tutorial/

@@ -35,5 +35,5 @@ Reference:
 
 
 
-Resources:
+Resource:
     https://youtu.be/SWr4cSY2fCk

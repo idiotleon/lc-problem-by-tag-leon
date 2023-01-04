@@ -9,4 +9,3 @@ Reference:
 # Is Power of Two
 
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
-

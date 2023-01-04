@@ -166,5 +166,5 @@ Reference:
 
 
 
-Resources:
+Resource:
     https://leetcode.com/problems/race-car/discuss/124326/summary-of-the-bfs-and-dp-solutions-with-intuitive-explanation

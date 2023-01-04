@@ -32,7 +32,7 @@ x, not recommended to apply KMP algorithm
 -, not optimized to apply KMP algorithm
 
 
-Resources:
+Resource:
     https://blog.csdn.net/v_JULY_v/article/details/7041827
     https://leetcode-cn.com/problems/implement-strstr/solution/bang-ni-ba-kmpsuan-fa-xue-ge-tong-tou-ming-ming-ba/
     https://mp.weixin.qq.com/s/r9pbkMyFyMAvmkf4QnL-1g

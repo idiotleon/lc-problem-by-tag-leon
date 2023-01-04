@@ -166,4 +166,3 @@ Reference:
 5   1349    https://leetcode.com/problems/maximum-students-taking-exam/
 5   1622    https://leetcode.com/problems/fancy-sequence/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
-

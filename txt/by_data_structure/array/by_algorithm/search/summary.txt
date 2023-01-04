@@ -164,5 +164,5 @@ Reference:
 
 
 
-Resources:
+Resource:
     https://leetcode.com/problems/combination-sum/discuss/16502/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning/653087

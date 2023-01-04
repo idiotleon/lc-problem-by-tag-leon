@@ -18,7 +18,7 @@ Reference:
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 
 
-# Resources
+# Resource:
     http://codeforces.com/blog/entry/337
     https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
     https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/

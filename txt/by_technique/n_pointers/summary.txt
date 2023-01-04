@@ -292,7 +292,7 @@ Reference:
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
 3   0722    https://leetcode.com/problems/remove-comments/
-3   0723    https://leetcode.com/problems/candy-crush/3   0739    https://leetcode.com/problems/daily-temperatures/
+3   0723    https://leetcode.com/problems/candy-crush/
 3   0739    https://leetcode.com/problems/daily-temperatures/
 3   0748    https://leetcode.com/problems/shortest-completing-word/
 3   0763    https://leetcode.com/problems/partition-labels/description/
@@ -397,7 +397,7 @@ Reference:
 
 
 
-Resources:
+Resource:
     https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
     https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/hua-dong-chuang-kou-ji-qiao-jin-jie
 

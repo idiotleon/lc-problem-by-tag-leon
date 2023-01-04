@@ -39,5 +39,5 @@ Reference:
 5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
 
 
-Resources:
+Resource:
     https://leetcode.com/problems/meeting-rooms-ii/discuss/203658/HashMapTreeMap-resolves-Scheduling-Problem

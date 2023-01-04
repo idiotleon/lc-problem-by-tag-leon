@@ -37,7 +37,7 @@ Reference:
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
-4   0656    https://leetcode.com/problems/coin-path
+4   0656    https://leetcode.com/problems/coin-path/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/

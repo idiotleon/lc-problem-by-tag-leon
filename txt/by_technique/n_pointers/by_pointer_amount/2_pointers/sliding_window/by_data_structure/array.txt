@@ -47,13 +47,13 @@ Reference:
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 
 
-Resources:
-https://leetcode.com/problems/binary-subarrays-with-sum/discuss/187005/3-ways-to-solve-this-kind-of-problem
+Resource:
+    https://leetcode.com/problems/binary-subarrays-with-sum/discuss/187005/3-ways-to-solve-this-kind-of-problem
 
-Characteristics of the problems that can be solved by sliding window:
-    1. That if a wider scope of the sliding window is valid, the narrower scope of that wider scope is valid mush hold.
-    2. That if a narrower scope of the sliding window is invalid, the wider scope of that narrower scope is invalid mush hold.
-https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
-https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers/378274
+    Characteristics of the problems that can be solved by sliding window:
+        1. That if a wider scope of the sliding window is valid, the narrower scope of that wider scope is valid mush hold.
+        2. That if a narrower scope of the sliding window is invalid, the wider scope of that narrower scope is invalid mush hold.
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers
+    https://leetcode.com/problems/subarray-sum-equals-k/discuss/301242/General-summary-of-what-kind-of-problem-can-cannot-solved-by-Two-Pointers/378274
 
     https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706

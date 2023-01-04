@@ -278,7 +278,7 @@ Reference:
 6   1397    https://leetcode.com/problems/find-all-good-strings/
 
 
-Resources:
+Resource:
     https://mp.weixin.qq.com/s/Abx8UFOmG4n-dDLJqKV_IA
     https://mp.weixin.qq.com/s/6g-FaeRdgjQHKPLyAB9IKA
     https://leetcode.com/problems/race-car/discuss/124326/summary-of-the-bfs-and-dp-solutions-with-intuitive-explanation

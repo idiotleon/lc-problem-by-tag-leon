@@ -77,7 +77,6 @@ Reference:
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
 2   0811    https://leetcode.com/problems/subdomain-visit-count/
 2   0859    https://leetcode.com/problems/buddy-strings/
-3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 2   0929    https://leetcode.com/problems/unique-email-addresses/
 2   0942    https://leetcode.com/problems/di-string-match/
 2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
@@ -105,12 +104,14 @@ Reference:
 3   0006    https://leetcode.com/problems/zigzag-conversion/
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   0541    https://leetcode.com/problems/reverse-string-ii/
 3   0722    https://leetcode.com/problems/remove-comments/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   0838    https://leetcode.com/problems/push-dominoes/
+3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
@@ -119,7 +120,6 @@ Reference:
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 4   0227    https://leetcode.com/problems/basic-calculator-ii/
 4   0249    https://leetcode.com/problems/group-shifted-strings/
-3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0809    https://leetcode.com/problems/expressive-words/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/

@@ -195,6 +195,6 @@ Reference:
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 
 
-###Resources
+### Resource
     https://www.bilibili.com/video/BV19t411w7Ep
     https://zxi.mytechroad.com/blog/leetcode-problem-categories/
