@@ -188,6 +188,7 @@ Reference:
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
+2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/

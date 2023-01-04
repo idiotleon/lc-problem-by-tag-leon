@@ -22,6 +22,7 @@ Reference:
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/

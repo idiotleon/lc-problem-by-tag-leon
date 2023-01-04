@@ -11,6 +11,7 @@ Reference:
 1   2085    https://leetcode.com/problems/count-common-words-with-one-occurrence/
 
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
+2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
