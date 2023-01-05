@@ -150,6 +150,7 @@ Reference:
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 3   0484    https://leetcode.com/problems/find-permutation/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/

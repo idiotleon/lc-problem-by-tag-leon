@@ -65,6 +65,7 @@ Reference:
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0419    https://leetcode.com/problems/battleships-in-a-board/
 3   0436    https://leetcode.com/problems/find-right-interval/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0519    https://leetcode.com/problems/random-flip-matrix/
 3   0542    https://leetcode.com/problems/01-matrix/

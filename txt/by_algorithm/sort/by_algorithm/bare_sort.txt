@@ -30,6 +30,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 3   0870    https://leetcode.com/problems/advantage-shuffle/
 3   1090    https://leetcode.com/problems/largest-values-from-labels/

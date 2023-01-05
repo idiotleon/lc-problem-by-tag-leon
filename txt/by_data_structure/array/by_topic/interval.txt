@@ -12,6 +12,7 @@ Reference:
 2   1272    https://leetcode.com/problems/remove-interval/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   1288    https://leetcode.com/problems/remove-covered-intervals/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 

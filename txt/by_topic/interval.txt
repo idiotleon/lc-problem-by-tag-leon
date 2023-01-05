@@ -9,6 +9,7 @@ Reference:
 2   1272    https://leetcode.com/problems/remove-interval/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
 4   0057    https://leetcode.com/problems/insert-interval/

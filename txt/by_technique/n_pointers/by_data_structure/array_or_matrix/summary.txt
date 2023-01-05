@@ -132,6 +132,7 @@ Reference:
 3   0360    https://leetcode.com/problems/sort-transformed-array/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0454    https://leetcode.com/problems/4sum-ii/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/

@@ -274,6 +274,7 @@ Reference:
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0454    https://leetcode.com/problems/4sum-ii/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
