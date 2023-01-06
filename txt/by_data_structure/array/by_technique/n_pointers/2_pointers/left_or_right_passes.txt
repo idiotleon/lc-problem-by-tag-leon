@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## N Pointers - 2 Pointers
+# Left or Right Passes
+
+2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/

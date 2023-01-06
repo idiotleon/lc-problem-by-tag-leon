@@ -25,6 +25,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2391    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
+2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/
 3   0228    https://leetcode.com/problems/summary-ranges/

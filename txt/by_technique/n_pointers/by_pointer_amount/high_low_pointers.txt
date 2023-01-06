@@ -32,6 +32,7 @@ Reference:
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
+2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
