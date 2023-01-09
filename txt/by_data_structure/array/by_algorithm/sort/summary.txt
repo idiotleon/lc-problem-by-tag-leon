@@ -10,6 +10,7 @@ Reference:
 1   0455    https://leetcode.com/problems/assign-cookies/
 1   0506    https://leetcode.com/problems/relative-ranks/
 1   1051    https://leetcode.com/problems/height-checker/
+1   1356    https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 1   1636    https://leetcode.com/problems/sort-array-by-increasing-frequency/
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
