@@ -104,6 +104,7 @@ Reference:
 1   2190    https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 1   2200    https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 1   2206    https://leetcode.com/problems/divide-array-into-equal-pairs/
+1   2214    https://leetcode.com/problems/minimum-health-to-beat-game/
 1   2224    https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 1   2239    https://leetcode.com/problems/find-closest-number-to-zero/
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
