@@ -173,6 +173,7 @@ Reference:
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 2   0925    https://leetcode.com/problems/long-pressed-name/
 2   0929    https://leetcode.com/problems/unique-email-addresses/
+2   0942    https://leetcode.com/problems/di-string-match/
 2   0953    https://leetcode.com/problems/verifying-an-alien-dictionary/
 2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
