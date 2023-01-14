@@ -7,6 +7,7 @@ Reference:
 # Summary
 
 1   0455    https://leetcode.com/problems/assign-cookies/
+1   0506    https://leetcode.com/problems/relative-ranks/
 1   1046    https://leetcode.com/problems/last-stone-weight/
 1   1051    https://leetcode.com/problems/height-checker/
 1   1356    https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/

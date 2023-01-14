@@ -10,6 +10,7 @@ Reference:
 1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0500    https://leetcode.com/problems/keyboard-row/
+1   0506    https://leetcode.com/problems/relative-ranks/
 1   0819    https://leetcode.com/problems/most-common-word/
 1   0884    https://leetcode.com/problems/uncommon-words-from-two-sentences/
 1   1165    https://leetcode.com/problems/single-row-keyboard/
