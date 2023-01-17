@@ -160,6 +160,7 @@ Reference:
 4   0481    https://leetcode.com/problems/magical-string/
 4   0727    https://leetcode.com/problems/minimum-window-subsequence/
 4   0809    https://leetcode.com/problems/expressive-words/
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/

@@ -13,7 +13,7 @@ Reference:
 
 4   0410    https://leetcode.com/problems/split-array-largest-sum/
 4   0689    https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1563    https://leetcode.com/problems/stone-game-v/
@@ -28,6 +28,7 @@ Reference:
 
 3   1140    https://leetcode.com/problems/stone-game-ii/
 
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1406    https://leetcode.com/problems/stone-game-iii/
 4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 

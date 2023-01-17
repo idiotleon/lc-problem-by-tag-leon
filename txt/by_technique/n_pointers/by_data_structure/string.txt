@@ -129,6 +129,7 @@ Reference:
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0481    https://leetcode.com/problems/magical-string/
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/

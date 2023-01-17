@@ -379,6 +379,7 @@ Reference:
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   0809    https://leetcode.com/problems/expressive-words/
 4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/

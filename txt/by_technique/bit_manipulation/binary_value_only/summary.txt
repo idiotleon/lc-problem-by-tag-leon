@@ -17,7 +17,7 @@ Reference:
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 
-4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 

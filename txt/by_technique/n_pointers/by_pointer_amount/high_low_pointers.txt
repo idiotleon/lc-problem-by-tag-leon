@@ -73,6 +73,7 @@ Reference:
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   0481    https://leetcode.com/problems/magical-string/
+4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
