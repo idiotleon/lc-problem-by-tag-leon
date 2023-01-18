@@ -27,6 +27,7 @@ Reference:
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0437    https://leetcode.com/problems/path-sum-iii/
 3   0454    https://leetcode.com/problems/4sum-ii/
+3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   1010    https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
