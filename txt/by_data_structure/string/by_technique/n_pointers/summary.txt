@@ -18,6 +18,7 @@ Reference:
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0392    https://leetcode.com/problems/is-subsequence/
 1   0415    https://leetcode.com/problems/add-strings/
+1   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
 1   0557    https://leetcode.com/problems/reverse-words-in-a-string-iii/
 1   0709    https://leetcode.com/problems/to-lower-case/
 1   0771    https://leetcode.com/problems/jewels-and-stones/
