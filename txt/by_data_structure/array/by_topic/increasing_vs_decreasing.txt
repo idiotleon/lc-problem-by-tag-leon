@@ -7,6 +7,7 @@ Reference:
 ## By Topic
 # Increasing vs Decreasing
 
+1   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
