@@ -14,6 +14,7 @@ Reference:
 1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
 1   0349    https://leetcode.com/problems/intersection-of-two-arrays/
 1   0455    https://leetcode.com/problems/assign-cookies/
+1   0485    https://leetcode.com/problems/max-consecutive-ones/
 1   0506    https://leetcode.com/problems/relative-ranks/
 1   0645    https://leetcode.com/problems/set-mismatch/
 1   0682    https://leetcode.com/problems/baseball-game/

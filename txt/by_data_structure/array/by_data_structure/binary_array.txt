@@ -6,6 +6,8 @@ Reference:
 ### Array
 # Binary Array
 
+1   0485    https://leetcode.com/problems/max-consecutive-ones/
+
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/
 
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
