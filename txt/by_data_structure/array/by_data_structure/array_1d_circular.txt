@@ -8,6 +8,7 @@ Reference:
 
 1   1652    https://leetcode.com/problems/defuse-the-bomb/
 1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+1   2490    https://leetcode.com/problems/circular-sentence/
 
 2   0362    https://leetcode.com/problems/design-hit-counter/
 2   0622    https://leetcode.com/problems/design-circular-queue/

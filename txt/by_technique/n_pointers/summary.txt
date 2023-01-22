@@ -122,6 +122,7 @@ Reference:
 1   2357    https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 1   2390    https://leetcode.com/problems/removing-stars-from-a-string/
 1   2395    https://leetcode.com/problems/find-subarrays-with-equal-sum/
+1   2490    https://leetcode.com/problems/circular-sentence/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
