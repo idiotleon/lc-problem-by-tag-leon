@@ -6,6 +6,7 @@ Reference:
 ### Integer
 # Parsing Integer
 
+1   0693    https://leetcode.com/problems/binary-number-with-alternating-bits/
 1   1134    https://leetcode.com/problems/armstrong-number/
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
