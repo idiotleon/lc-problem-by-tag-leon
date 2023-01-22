@@ -13,6 +13,7 @@ Reference:
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
 1   2490    https://leetcode.com/problems/circular-sentence/
+1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0243    https://leetcode.com/problems/shortest-word-distance/
