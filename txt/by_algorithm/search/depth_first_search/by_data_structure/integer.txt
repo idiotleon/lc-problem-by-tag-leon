@@ -45,3 +45,4 @@ Reference:
 
 5   0808    https://leetcode.com/problems/soup-servings/
 5   0932    https://leetcode.com/problems/beautiful-array/
+5   1088    https://leetcode.com/problems/confusing-number-ii/

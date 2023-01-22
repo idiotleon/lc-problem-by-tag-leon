@@ -346,6 +346,7 @@ Reference:
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/
+5   1088    https://leetcode.com/problems/confusing-number-ii/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
