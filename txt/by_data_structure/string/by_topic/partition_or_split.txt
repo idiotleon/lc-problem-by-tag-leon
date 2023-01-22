@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## By Topic
-# Partition
+# Partition Or Split
 
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 

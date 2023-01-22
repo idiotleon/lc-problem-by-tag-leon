@@ -7,4 +7,6 @@ Reference:
 ## By Topic
 # Binary String
 
+2   2546    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
+
 4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
