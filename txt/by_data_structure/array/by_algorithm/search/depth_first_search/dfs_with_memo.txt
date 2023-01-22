@@ -44,6 +44,7 @@ Reference:
 4   1575    https://leetcode.com/problems/count-all-possible-routes/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
+4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
 
 5   0568    https://leetcode.com/problems/maximum-vacation-days/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/

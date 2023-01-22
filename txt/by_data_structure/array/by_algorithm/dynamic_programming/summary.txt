@@ -142,6 +142,7 @@ Reference:
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
+4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
 
 5   0123    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/

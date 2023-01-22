@@ -4,14 +4,14 @@ Reference:
 
 
 ### Array
-# Partition
+# Partition Or Split
 
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0548    https://leetcode.com/problems/split-array-with-equal-sum/
-3   0763    https://leetcode.com/problems/partition-labels/description/
+3   0763    https://leetcode.com/problems/partition-labels/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
@@ -25,7 +25,10 @@ Reference:
 4   1043    https://leetcode.com/problems/partition-array-for-maximum-sum/
 4   1105    https://leetcode.com/problems/filling-bookcase-shelves/
 4   1335    https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
 
 
 TODO:
-#Subarray
+# Partition or Split - Subarray
+
+4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array

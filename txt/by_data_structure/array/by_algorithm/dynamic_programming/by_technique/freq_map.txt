@@ -12,5 +12,6 @@ Reference:
 
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
+4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
 
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

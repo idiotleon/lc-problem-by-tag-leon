@@ -142,6 +142,7 @@ Reference:
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
+4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/
 5   0140    https://leetcode.com/problems/word-break-ii/
