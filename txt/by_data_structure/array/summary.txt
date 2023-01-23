@@ -102,6 +102,7 @@ Reference:
 2   0495    https://leetcode.com/problems/teemo-attacking/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0622    https://leetcode.com/problems/design-circular-queue/
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/

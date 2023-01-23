@@ -30,6 +30,7 @@ Reference:
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
+2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   0734    https://leetcode.com/problems/sentence-similarity/
 2   0760    https://leetcode.com/problems/find-anagram-mappings/
 2   0791    https://leetcode.com/problems/custom-sort-string/

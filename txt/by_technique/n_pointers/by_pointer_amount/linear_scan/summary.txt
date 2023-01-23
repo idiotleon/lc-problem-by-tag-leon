@@ -141,6 +141,7 @@ Reference:
 2   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
+2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/
 2   0661    https://leetcode.com/problems/image-smoother/
