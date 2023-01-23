@@ -8,6 +8,7 @@ Reference:
 ## Detect Cycle
 
 2   0207    https://leetcode.com/problems/course-schedule/
+2   0997    https://leetcode.com/problems/find-the-town-judge/
 
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/

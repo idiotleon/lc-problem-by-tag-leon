@@ -13,6 +13,7 @@ Reference:
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
 2   0690    https://leetcode.com/problems/employee-importance/
+2   0997    https://leetcode.com/problems/find-the-town-judge/
 2   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 
 3   0210    https://leetcode.com/problems/course-schedule-ii/

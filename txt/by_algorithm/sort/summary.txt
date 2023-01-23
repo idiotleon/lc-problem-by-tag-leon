@@ -25,6 +25,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
 2   0791    https://leetcode.com/problems/custom-sort-string/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
+2   0997    https://leetcode.com/problems/find-the-town-judge/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1122    https://leetcode.com/problems/relative-sort-array/
 2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
