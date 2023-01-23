@@ -7,6 +7,7 @@ Reference:
 # Binary Search
 
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   2485   https://leetcode.com/problems/find-the-pivot-integer/
 
 3   0069    https://leetcode.com/problems/sqrtx/
 3   1201    https://leetcode.com/problems/ugly-number-iii/

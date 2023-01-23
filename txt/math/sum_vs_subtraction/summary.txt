@@ -11,6 +11,7 @@ Reference:
 
 2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+2   2485   https://leetcode.com/problems/find-the-pivot-integer/
 
 3   0306    https://leetcode.com/problems/additive-number/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/

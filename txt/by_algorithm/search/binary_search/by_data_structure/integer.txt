@@ -8,6 +8,7 @@ Reference:
 # Integer
 
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
+2   2485   https://leetcode.com/problems/find-the-pivot-integer/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/
