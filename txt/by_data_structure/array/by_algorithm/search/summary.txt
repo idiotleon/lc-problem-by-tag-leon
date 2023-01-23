@@ -74,6 +74,7 @@ Reference:
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1424    https://leetcode.com/problems/diagonal-traverse-ii/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1535    https://leetcode.com/problems/find-the-index-of-the-large-integer/
 3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1891    https://leetcode.com/problems/cutting-ribbons/
