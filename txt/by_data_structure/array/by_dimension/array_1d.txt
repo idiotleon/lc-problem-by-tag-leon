@@ -326,6 +326,7 @@ Reference:
 3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
+3   2300    https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/

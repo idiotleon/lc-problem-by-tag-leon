@@ -42,6 +42,7 @@ Reference:
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
+3   2300    https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
