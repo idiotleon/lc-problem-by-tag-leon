@@ -10,6 +10,8 @@ Reference:
 
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 
+2   2614    https://leetcode.com/problems/prime-in-diagonal/
+
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/

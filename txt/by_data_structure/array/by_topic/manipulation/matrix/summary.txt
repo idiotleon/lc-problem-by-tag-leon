@@ -16,6 +16,7 @@ Reference:
 2   0661    https://leetcode.com/problems/image-smoother/
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
+2   2614    https://leetcode.com/problems/prime-in-diagonal/
 
 3   0006    https://leetcode.com/problems/zigzag-conversion
 3   0036    https://leetcode.com/problems/valid-sudoku/

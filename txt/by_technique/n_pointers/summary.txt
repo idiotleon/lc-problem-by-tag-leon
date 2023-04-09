@@ -257,6 +257,7 @@ Reference:
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+2   2614    https://leetcode.com/problems/prime-in-diagonal/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/

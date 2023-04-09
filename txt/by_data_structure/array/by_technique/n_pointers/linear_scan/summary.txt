@@ -114,6 +114,7 @@ Reference:
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2391    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
+2   2614    https://leetcode.com/problems/prime-in-diagonal/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
