@@ -97,6 +97,7 @@ Reference:
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
 3   2353    https://leetcode.com/problems/design-a-food-rating-system/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
+3   2615    https://leetcode.com/problems/sum-of-distances/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/

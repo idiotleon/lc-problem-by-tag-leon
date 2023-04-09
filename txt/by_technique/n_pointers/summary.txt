@@ -360,6 +360,7 @@ Reference:
 3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2365    https://leetcode.com/problems/task-scheduler-ii/
+3   2615    https://leetcode.com/problems/sum-of-distances/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0041    https://leetcode.com/problems/first-missing-positive/
