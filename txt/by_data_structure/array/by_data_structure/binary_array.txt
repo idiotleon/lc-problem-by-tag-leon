@@ -11,6 +11,7 @@ Reference:
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
+3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
 
 4   1562    https://leetcode.com/problems/find-latest-group-of-size-m/
 
