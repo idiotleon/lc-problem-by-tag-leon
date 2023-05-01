@@ -6,6 +6,7 @@ Reference:
 ### Math
 # Summation vs Subtraction
 
+1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2235    https://leetcode.com/problems/add-two-integers/
 

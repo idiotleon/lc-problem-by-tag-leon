@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Sum
 
+1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/

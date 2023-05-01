@@ -6,6 +6,8 @@ Reference:
 ### Array
 # Subset Sum
 
+1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 4   0805    https://leetcode.com/problems/split-array-with-same-average/

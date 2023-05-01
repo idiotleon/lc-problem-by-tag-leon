@@ -37,6 +37,7 @@ Reference:
 1   1431    https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 1   1450    https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
+1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 1   1636    https://leetcode.com/problems/sort-array-by-increasing-frequency/
 1   1652    https://leetcode.com/problems/defuse-the-bomb/
 1   1732    https://leetcode.com/problems/find-the-highest-altitude/
