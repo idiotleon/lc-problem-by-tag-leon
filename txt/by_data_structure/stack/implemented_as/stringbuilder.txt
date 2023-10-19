@@ -7,4 +7,5 @@ Reference:
 ### Stack
 ## StringBuilders as Stacks
 
+2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/

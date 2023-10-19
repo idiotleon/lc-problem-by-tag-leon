@@ -6,6 +6,8 @@ Reference:
 ### Stack
 ## Parsing String
 
+2   0844    https://leetcode.com/problems/backspace-string-compare/
+
 3   0071    https://leetcode.com/problems/simplify-path/
 3   0394    https://leetcode.com/problems/decode-string/
 3   0439    https://leetcode.com/problems/ternary-expression-parser/

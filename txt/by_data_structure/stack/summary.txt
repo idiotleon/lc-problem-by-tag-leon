@@ -18,6 +18,7 @@ Reference:
 2   0226    https://leetcode.com/problems/invert-binary-tree/
 2   0385    https://leetcode.com/problems/mini-parser/
 2   0496    https://leetcode.com/problems/next-greater-element-i/
+2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
 2   1021    https://leetcode.com/problems/remove-outermost-parentheses/
 2   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/

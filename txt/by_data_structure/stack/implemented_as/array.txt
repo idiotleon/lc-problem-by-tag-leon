@@ -7,6 +7,8 @@ Reference:
 ### Stack
 # Arrays as Stacks
 
+2   0844    https://leetcode.com/problems/backspace-string-compare/
+
 3   0388    https://leetcode.com/problems/longest-absolute-file-path/
 3   0735    https://leetcode.com/problems/asteroid-collision/
 
