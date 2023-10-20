@@ -1,0 +1,58 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Technique
+# an array as the FREQuencieS map
+
+1   0242    https://leetcode.com/problems/valid-anagram/
+1   0383    https://leetcode.com/problems/ransom-note/
+1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
+1   0389    https://leetcode.com/problems/find-the-difference/
+1   0771    https://leetcode.com/problems/jewels-and-stones/
+1   1207    https://leetcode.com/problems/unique-number-of-occurrences/
+1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+1   1370    https://leetcode.com/problems/increasing-decreasing-string/
+1   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+1   1832    https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+1   1941    https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+1   2068    https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
+1   2186    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
+1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+1   2283    https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
+1   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
+1   2309    https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
+1   2351    https://leetcode.com/problems/first-letter-to-appear-twice/
+
+2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2   0049    https://leetcode.com/problems/group-anagrams/
+2   0266    https://leetcode.com/problems/palindrome-permutation/
+2   0299    https://leetcode.com/problems/bulls-and-cows/
+2   0409    https://leetcode.com/problems/longest-palindrome/
+2   0567    https://leetcode.com/problems/permutation-in-string/
+2   1002    https://leetcode.com/problems/find-common-characters/
+2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+2   1657    https://leetcode.com/problems/determine-if-two-strings-are-close/
+2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
+
+3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
+3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
+3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+3   0748    https://leetcode.com/problems/shortest-completing-word/
+3   0763    https://leetcode.com/problems/partition-labels/
+3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+4   0079    https://leetcode.com/problems/minimum-window-substring/
+4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
