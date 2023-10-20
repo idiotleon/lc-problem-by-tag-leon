@@ -143,6 +143,7 @@ Reference:
 4   1591    https://leetcode.com/problems/strange-printer-ii/
 4   1595    https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
+4   1802    https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
 

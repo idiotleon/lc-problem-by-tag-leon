@@ -430,6 +430,7 @@ Reference:
 4   1675    https://leetcode.com/problems/minimize-deviation-in-array/
 4   1695    https://leetcode.com/problems/jump-game-vi/
 4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
+4   1802    https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
