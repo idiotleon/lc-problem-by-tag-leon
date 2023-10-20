@@ -21,6 +21,7 @@ Reference:
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
 3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   0796    https://leetcode.com/problems/rotate-string/
 3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
 

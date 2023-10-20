@@ -187,6 +187,7 @@ Reference:
 3   0763    https://leetcode.com/problems/partition-labels/description/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
+3   0796    https://leetcode.com/problems/rotate-string/
 3   0816    https://leetcode.com/problems/ambiguous-coordinates/
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/

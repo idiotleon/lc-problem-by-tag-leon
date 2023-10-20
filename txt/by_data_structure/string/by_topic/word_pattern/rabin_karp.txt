@@ -14,6 +14,7 @@ Reference:
 2   0567    https://leetcode.com/problems/permutation-in-string/
 
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+3   0796    https://leetcode.com/problems/rotate-string/
 
 4   0079    https://leetcode.com/problems/word-search/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/

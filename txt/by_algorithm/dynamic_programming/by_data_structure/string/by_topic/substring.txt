@@ -12,6 +12,7 @@ Reference:
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0686    https://leetcode.com/problems/repeated-string-match/
+3   0796    https://leetcode.com/problems/rotate-string/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/

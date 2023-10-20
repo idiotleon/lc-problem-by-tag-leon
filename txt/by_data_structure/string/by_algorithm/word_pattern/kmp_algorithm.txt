@@ -16,6 +16,7 @@ Reference:
 
 3   0459    https://leetcode.com/problems/repeated-substring-pattern/
 3   0686    https://leetcode.com/problems/repeated-string-match/
+3   0796    https://leetcode.com/problems/rotate-string/
 3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
 
 x4  1062    https://leetcode.com/problems/longest-repeating-substring/

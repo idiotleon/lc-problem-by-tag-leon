@@ -6,5 +6,7 @@ Reference:
 ### String
 ## Shifting the String
 
+3   0796    https://leetcode.com/problems/rotate-string/
+
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0301    https://leetcode.com/problems/remove-invalid-parentheses/

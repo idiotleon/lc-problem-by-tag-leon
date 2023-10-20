@@ -12,6 +12,7 @@ Reference:
 2   2343    https://leetcode.com/problems/query-kth-smallest-trimmed-number/
 
 3   0093    https://leetcode.com/problems/restore-ip-addresses/
+3   0796    https://leetcode.com/problems/rotate-string/
 
 4   0916    https://leetcode.com/problems/word-subsets/
 4   1152    https://leetcode.com/problems/analyze-user-website-visit-pattern/

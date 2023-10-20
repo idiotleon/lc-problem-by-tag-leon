@@ -51,6 +51,7 @@ Reference:
 3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
 3   0763    https://leetcode.com/problems/partition-labels/description/
+3   0796    https://leetcode.com/problems/rotate-string/
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
