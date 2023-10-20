@@ -19,6 +19,7 @@ Reference:
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0394    https://leetcode.com/problems/decode-string/
 3   0841    https://leetcode.com/problems/keys-and-rooms/
 
