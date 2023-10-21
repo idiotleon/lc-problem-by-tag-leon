@@ -27,5 +27,5 @@ Reference:
 
 
 
-Resources:
+### Resource
     https://leetcode.com/articles/introduction-to-n-ary-trees/

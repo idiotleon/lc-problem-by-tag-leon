@@ -42,6 +42,6 @@ Reference:
 5   1649    https://leetcode.com/problems/create-sorted-array-through-instructions/
 
 
-Resource:
+### Resource:
     https://leetcode.com/problems/top-k-frequent-words/discuss/431008/summary-of-all-the-methods-you-can-imagine-of-this-problem/691132
     https://leetcode.com/problems/delete-node-in-a-bst/solution/

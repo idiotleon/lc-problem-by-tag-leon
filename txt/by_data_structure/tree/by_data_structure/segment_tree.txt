@@ -28,6 +28,6 @@ Reference:
 6   0308    https://leetcode.com/problems/range-sum-query-2d-mutable/
 
 
-### Resources
+### Resource:
     https://youtu.be/e_bK-dgPvfM
     https://docs.google.com/presentation/d/1ai907zOZSflW9rMmEA9JdjwPwlozxuhPq_q55XO4NHA/edit#slide=id.p
