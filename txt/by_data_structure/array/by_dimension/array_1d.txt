@@ -25,6 +25,7 @@ Reference:
 1   0896    https://leetcode.com/problems/monotonic-array/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
+1   0977    https://leetcode.com/problems/squares-of-a-sorted-array/
 1   0997    https://leetcode.com/problems/find-the-town-judge/
 1   1046    https://leetcode.com/problems/last-stone-weight/
 1   1051    https://leetcode.com/problems/height-checker/
