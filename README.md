@@ -1,9 +1,9 @@
-# Solution by Leon(an7one)
+# Solution by idiotleon
 
 | Langauge |                                 URL                                  |
 | :------: | :------------------------------------------------------------------: |
-|   Cpp    |  [github](https://github.com/An7One/leetcode-solutions-cpp-an7one)   |
-|    Go    |        [github](https://github.com/An7One/lc-solns-go-an7one)        |
-|  \*Java  |  [github](https://github.com/An7One/leetcode-solutions-java-an7one)  |
-| \*Kotlin | [github](https://github.com/An7One/leetcode-solutions-kotlin-an7one) |
-|  \*Rust  |        [github](https://github.com/An7One/lc_soln_rust_leon)         |
+|   Cpp    |  [github](https://github.com/idiotleon/leetcode-solution-cpp-leon)   |
+|    Go    |        [github](https://github.com/idiotleon/lc-soln-go-leon)        |
+|  \*Java  |  [github](https://github.com/idiotleon/leetcode-solution-java-leon)  |
+| \*Kotlin | [github](https://github.com/idiotleon/leetcode-solution-kotlin-leon) |
+|  \*Rust  |       [github](https://github.com/idiotleon/lc_soln_rust_leon)       |
