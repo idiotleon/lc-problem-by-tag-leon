@@ -101,6 +101,7 @@ Reference:
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 4   1300    https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1802    https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
@@ -122,6 +123,7 @@ Resource:
     https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/Summary-of-solutions-for-problems-%22reducible%22-to-LeetCode-378
     https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485044&idx=1&sn=e6b95782141c17abe206bfe2323a4226&chksm=9bd7f87caca0716aa5add0ddddce0bfe06f1f878aafb35113644ebf0cf0bfe51659da1c1b733&scene=21#wechat_redirect
     https://leetcode.com/problems/minimum-speed-to-arrive-on-time/discuss/1226468/c-binary-answer-cheat-sheet
+    https://blog.csdn.net/EbowTang/article/details/50770315
 
     # Termination Conditions: while(left < right) vs while(left <= right)
     https://stackoverflow.com/a/30928332/6061609

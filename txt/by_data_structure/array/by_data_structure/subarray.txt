@@ -85,6 +85,7 @@ Reference:
 4   1526    https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 4   1547    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 4   1563    https://leetcode.com/problems/stone-game-v/
+4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/

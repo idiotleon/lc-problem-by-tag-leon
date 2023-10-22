@@ -291,6 +291,7 @@ Reference:
 4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 5   0224    https://leetcode.com/problems/basic-calculator/

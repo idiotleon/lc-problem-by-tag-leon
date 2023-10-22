@@ -14,5 +14,6 @@ Reference:
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   1340    https://leetcode.com/problems/jump-game-v/
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/

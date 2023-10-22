@@ -68,6 +68,7 @@ Reference:
 4   1231    https://leetcode.com/problems/divide-chocolate/
 4   1235    https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 4   1300    https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1802    https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 

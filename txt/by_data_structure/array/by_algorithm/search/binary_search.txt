@@ -58,6 +58,7 @@ Reference:
 4   1121    https://leetcode.com/problems/divide-array-into-increasing-sequences/
 4   1231    https://leetcode.com/problems/divide-chocolate/
 4   1292    https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1802    https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
