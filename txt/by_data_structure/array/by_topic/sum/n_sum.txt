@@ -7,8 +7,11 @@ Reference:
 ## By Topic
 # N Sum
 
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
+
 2   0001    https://leetcode.com/problems/two-sum/
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0015    https://leetcode.com/problems/3sum/
 3   0016    https://leetcode.com/problems/3sum-closest/

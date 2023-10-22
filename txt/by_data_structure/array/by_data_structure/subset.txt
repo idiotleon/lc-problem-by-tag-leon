@@ -6,6 +6,10 @@ Reference:
 ### Array
 # Subset
 
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
+
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
+
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 
 4   0368    https://leetcode.com/problems/largest-divisible-subset/

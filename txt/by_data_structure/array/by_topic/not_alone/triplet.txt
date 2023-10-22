@@ -4,13 +4,8 @@ Reference:
 
 
 ### Array
-# Peak
+# Triplet
 
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
-2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
-
-4   0162    https://leetcode.com/problems/find-peak-element/
-
-5   1095    https://leetcode.com/problems/find-in-mountain-array/

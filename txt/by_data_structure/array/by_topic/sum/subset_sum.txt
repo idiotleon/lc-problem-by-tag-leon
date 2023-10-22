@@ -7,6 +7,9 @@ Reference:
 # Subset Sum
 
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
+
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
 4   0698    https://leetcode.com/problems/partition-to-k-equal-sum-subsets/

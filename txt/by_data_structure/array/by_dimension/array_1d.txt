@@ -70,6 +70,7 @@ Reference:
 1   2441    https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 1   2490    https://leetcode.com/problems/circular-sentence/
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
@@ -184,6 +185,7 @@ Reference:
 2   2391    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/

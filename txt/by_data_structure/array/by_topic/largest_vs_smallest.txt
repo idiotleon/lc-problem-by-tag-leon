@@ -11,6 +11,7 @@ Reference:
 1   2441    https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 1   2500    https://leetcode.com/problems/delete-greatest-value-in-each-row/
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
 2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
@@ -18,6 +19,7 @@ Reference:
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/

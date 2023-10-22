@@ -8,9 +8,11 @@ Reference:
 # Sequence
 
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   1138    https://leetcode.com/problems/alphabet-board-path/
 

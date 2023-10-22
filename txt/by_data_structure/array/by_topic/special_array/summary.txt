@@ -8,10 +8,12 @@ Reference:
 
 1   0189    https://leetcode.com/problems/rotate-array/
 1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
 2   0268    https://leetcode.com/problems/missing-number/
 2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
+2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
