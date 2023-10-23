@@ -12,6 +12,7 @@ Reference:
 2   0690    https://leetcode.com/problems/employee-importance/
 2   0695    https://leetcode.com/problems/max-area-of-island/
 2   0997    https://leetcode.com/problems/find-the-town-judge/
+2   1615    https://leetcode.com/problems/maximal-network-rank/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 2   2368    https://leetcode.com/problems/reachable-nodes-with-restrictions/
 

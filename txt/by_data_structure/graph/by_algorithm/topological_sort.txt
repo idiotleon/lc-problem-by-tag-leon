@@ -9,3 +9,8 @@ Reference:
 # Topological Sort
 
 2   0997    https://leetcode.com/problems/find-the-town-judge/
+
+
+# Almost
+
+2   1615    https://leetcode.com/problems/maximal-network-rank/
