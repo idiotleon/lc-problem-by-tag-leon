@@ -6,6 +6,7 @@ Reference:
 ### Bit Manipulation
 # Bit Masking
 
+1   0342    https://leetcode.com/problems/power-of-four/
 1   1009    https://leetcode.com/problems/complement-of-base-10-integer/
 1   1832    https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 1   1935    https://leetcode.com/problems/maximum-number-of-words-you-can-type/

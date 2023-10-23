@@ -8,4 +8,6 @@ Reference:
 ## Operations
 # Is Power of Two
 
+1   0342    https://leetcode.com/problems/power-of-four/
+
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
