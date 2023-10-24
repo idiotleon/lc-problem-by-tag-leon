@@ -16,7 +16,7 @@ Reference:
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
-2   1854    https://leetcode.com/problems/maximum-population-year
+2   1854    https://leetcode.com/problems/maximum-population-year/
 2   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 
