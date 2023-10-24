@@ -10,6 +10,7 @@ Reference:
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 
 2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
+2   1120    https://leetcode.com/problems/maximum-average-subtree/
 
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 
