@@ -22,6 +22,7 @@ Reference:
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/discuss/1000132/Python-DP-%2B-bitmasks-explained
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/

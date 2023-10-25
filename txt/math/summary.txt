@@ -92,6 +92,7 @@ Reference:
 3   0611    https://leetcode.com/problems/valid-triangle-number/
 3   0670    https://leetcode.com/problems/maximum-swap/
 3   0750    https://leetcode.com/problems/number-of-corner-rectangles/
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   0812    https://leetcode.com/problems/largest-triangle-area/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0858    https://leetcode.com/problems/mirror-reflection/

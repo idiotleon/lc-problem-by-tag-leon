@@ -20,6 +20,7 @@ Reference:
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
 3   0397    https://leetcode.com/problems/integer-replacement/
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0967    https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/

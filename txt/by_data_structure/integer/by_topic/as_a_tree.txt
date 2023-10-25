@@ -3,11 +3,7 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Divide and Conquer
-# Integer
-
-2   0544    https://leetcode.com/problems/output-contest-matches/
+### Integer
+# As a Tree
 
 3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
-
-5   0932    https://leetcode.com/problems/beautiful-array/

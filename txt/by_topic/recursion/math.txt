@@ -6,4 +6,6 @@ Reference:
 ### Recursion
 # Math
 
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
+
 4   0372    https://leetcode.com/problems/super-pow/

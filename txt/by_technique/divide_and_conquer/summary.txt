@@ -15,6 +15,7 @@ Reference:
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 3   0169    https://leetcode.com/problems/majority-element/
 3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   0889    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 3   1265    https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 

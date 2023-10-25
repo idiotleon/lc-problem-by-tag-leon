@@ -151,6 +151,7 @@ Reference:
 3   0753    https://leetcode.com/problems/cracking-the-safe/
 3   0756    https://leetcode.com/problems/pyramid-transition-matrix/
 3   0776    https://leetcode.com/problems/split-bst/
+3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   0783    https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 3   0785    https://leetcode.com/problems/is-graph-bipartite/
 3   0797    https://leetcode.com/problems/all-paths-from-source-to-target/
