@@ -9,6 +9,7 @@ Reference:
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
 
 3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
+3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   1123    https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
