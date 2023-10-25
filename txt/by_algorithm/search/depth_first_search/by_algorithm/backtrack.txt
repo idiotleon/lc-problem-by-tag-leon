@@ -22,6 +22,7 @@ Reference:
 3   0113    https://leetcode.com/problems/path-sum-ii/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0216    https://leetcode.com/problems/combination-sum-iii/
+?3  0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0254    https://leetcode.com/problems/factor-combinations/
 3   0306    https://leetcode.com/problems/additive-number/
 3   0320    https://leetcode.com/problems/generalized-abbreviation/

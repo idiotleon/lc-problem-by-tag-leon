@@ -16,6 +16,7 @@ Reference:
 
 3   0050    https://leetcode.com/problems/powx-n/
 3   0216    https://leetcode.com/problems/combination-sum-iii/
+3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0254    https://leetcode.com/problems/factor-combinations/
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/

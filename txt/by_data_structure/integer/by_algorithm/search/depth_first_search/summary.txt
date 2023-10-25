@@ -17,6 +17,7 @@ Reference:
 2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 
 3   0050    https://leetcode.com/problems/powx-n/
+3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0343    https://leetcode.com/problems/integer-break/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/

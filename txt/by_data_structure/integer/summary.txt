@@ -66,6 +66,7 @@ Reference:
 3   0069    https://leetcode.com/problems/sqrtx/
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0216    https://leetcode.com/problems/combination-sum-iii/
+3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0254    https://leetcode.com/problems/factor-combinations/
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0338    https://leetcode.com/problems/counting-bits/
