@@ -7,6 +7,7 @@ Reference:
 ### Binary Search
 # Given API
 
+2   0278    https://leetcode.com/problems/first-bad-version/
 2   1237    https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1618    https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/

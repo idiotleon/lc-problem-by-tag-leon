@@ -8,6 +8,7 @@ Reference:
 
 2   0035    https://leetcode.com/problems/search-insert-position/
 ?2  0268    https://leetcode.com/problems/missing-number/
+2   0278    https://leetcode.com/problems/first-bad-version/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
@@ -35,6 +36,7 @@ Reference:
 ## Lower Bound
 
 ?2  0268    https://leetcode.com/problems/missing-number/
+2   0278    https://leetcode.com/problems/first-bad-version/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
