@@ -32,7 +32,7 @@ Reference:
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
-3   0834    https://leetcode.com/problems/binary-trees-with-factors/
+3   0823    https://leetcode.com/problems/binary-trees-with-factors/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   0667    https://leetcode.com/problems/beautiful-arrangement/
 3   0696    https://leetcode.com/problems/count-binary-substrings/

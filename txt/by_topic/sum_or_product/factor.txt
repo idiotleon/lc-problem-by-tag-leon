@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Factor
+
+3   0823    https://leetcode.com/problems/binary-trees-with-factors/
