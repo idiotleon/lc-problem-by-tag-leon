@@ -156,6 +156,7 @@ Reference:
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
+4   0314    https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 4   0337    https://leetcode.com/problems/house-robber-iii/
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
