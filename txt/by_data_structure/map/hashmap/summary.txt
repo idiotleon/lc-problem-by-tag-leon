@@ -70,7 +70,7 @@ Reference:
 3   0663    https://leetcode.com/problems/equal-tree-partition/
 3   0748    https://leetcode.com/problems/shortest-completing-word/
 3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
-3   0834    https://leetcode.com/problems/binary-trees-with-factors/
+3   0823    https://leetcode.com/problems/binary-trees-with-factors/
 3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/s
 3   0939    https://leetcode.com/problems/minimum-area-rectangle/

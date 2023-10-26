@@ -15,6 +15,7 @@ Reference:
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+3   0823    https://leetcode.com/problems/binary-trees-with-factors/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 3   2615    https://leetcode.com/problems/sum-of-distances/

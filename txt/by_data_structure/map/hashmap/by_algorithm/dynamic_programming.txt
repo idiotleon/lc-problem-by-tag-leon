@@ -8,7 +8,7 @@ Reference:
 # By Algorithm
 # Dynamic Programming
 
-3   0834    https://leetcode.com/problems/binary-trees-with-factors/
+3   0823    https://leetcode.com/problems/binary-trees-with-factors/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
