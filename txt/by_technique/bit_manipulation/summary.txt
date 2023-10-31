@@ -37,6 +37,7 @@ Reference:
 2   2220    https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
+2   2433    https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 2   2546    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
