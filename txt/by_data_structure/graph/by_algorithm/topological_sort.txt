@@ -14,3 +14,5 @@ Reference:
 # Almost
 
 2   1615    https://leetcode.com/problems/maximal-network-rank/
+
+3   0261    https://leetcode.com/problems/graph-valid-tree/

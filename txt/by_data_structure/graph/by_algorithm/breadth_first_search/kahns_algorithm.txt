@@ -10,6 +10,7 @@ Reference:
 
 3   0310    https://leetcode.com/problems/minimum-height-trees/
 
+-3  0261    https://leetcode.com/problems/graph-valid-tree/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 3   1557    https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/

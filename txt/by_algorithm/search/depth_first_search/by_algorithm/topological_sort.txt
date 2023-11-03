@@ -9,6 +9,7 @@ Reference:
 2   0207    https://leetcode.com/problems/course-schedule/
 
 3   0210    https://leetcode.com/problems/course-schedule-ii/
+x3  0261    https://leetcode.com/problems/graph-valid-tree/
 3   0802    https://leetcode.com/problems/find-eventual-safe-states/
 3   1059    https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
 
