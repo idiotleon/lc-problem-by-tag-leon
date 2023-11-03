@@ -13,6 +13,7 @@ Reference:
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   0977    https://leetcode.com/problems/squares-of-a-sorted-array/
 1   0997    https://leetcode.com/problems/find-the-town-judge/
+1   2460    https://leetcode.com/problems/apply-operations-to-an-array/
 
 2   0283    https://leetcode.com/problems/move-zeroes/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/

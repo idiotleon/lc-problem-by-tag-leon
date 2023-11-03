@@ -13,6 +13,7 @@ Reference:
 1   0977    https://leetcode.com/problems/squares-of-a-sorted-array/
 1   1370    https://leetcode.com/problems/increasing-decreasing-string/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
+1   2460    https://leetcode.com/problems/apply-operations-to-an-array/
 
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
