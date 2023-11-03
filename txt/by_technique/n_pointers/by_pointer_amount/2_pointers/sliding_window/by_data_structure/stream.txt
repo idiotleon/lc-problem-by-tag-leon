@@ -1,0 +1,12 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/sliding-window/
+
+
+#### N Pointers
+### 2 Pointers
+## Sliding Window
+# Stream
+
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/

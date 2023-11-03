@@ -6,6 +6,8 @@ Reference:
 
 ### Object-Oriented Design
 
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
+
 2   0359    https://leetcode.com/problems/logger-rate-limiter/
 2   0362    https://leetcode.com/problems/design-hit-counter/
 2   0382    https://leetcode.com/problems/linked-list-random-node/

@@ -8,6 +8,7 @@ Reference:
 ## Sliding Window
 # Fixed-size Window
 
+1   0346    https://leetcode.com/problems/moving-average-from-data-stream/
 1   0643    https://leetcode.com/problems/maximum-average-subarray-i/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 1   2395    https://leetcode.com/problems/find-subarrays-with-equal-sum/

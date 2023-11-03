@@ -24,6 +24,7 @@ Reference:
 4   0154    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 4   0218    https://leetcode.com/problems/the-skyline-problem/
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 4   1439    https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
