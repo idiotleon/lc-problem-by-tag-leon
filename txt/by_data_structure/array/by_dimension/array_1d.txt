@@ -88,6 +88,7 @@ Reference:
 2   0268    https://leetcode.com/problems/missing-number/
 2   0278    https://leetcode.com/problems/first-bad-version/
 2   0280    https://leetcode.com/problems/wiggle-sort/
+2   0283    https://leetcode.com/problems/move-zeroes/
 2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/

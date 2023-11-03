@@ -150,6 +150,7 @@ Reference:
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
 2   0251    https://leetcode.com/problems/flatten-2d-vector/
+2   0283    https://leetcode.com/problems/move-zeroes/
 2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   0299    https://leetcode.com/problems/bulls-and-cows/
