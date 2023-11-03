@@ -20,6 +20,7 @@ Reference:
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
 4   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 4   1147    https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
 4   1297    https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/

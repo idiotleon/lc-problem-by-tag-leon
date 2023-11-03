@@ -70,6 +70,7 @@ Reference:
 4   0139    https://leetcode.com/problems/word-break/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/

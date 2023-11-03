@@ -15,6 +15,7 @@ Reference:
 3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 
 4   0072    https://leetcode.com/problems/edit-distance/
+4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1202    https://leetcode.com/problems/smallest-string-with-swaps/
 4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
@@ -49,3 +50,5 @@ Reference:
 
 3   0306    https://leetcode.com/problems/additive-number/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+
+4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
