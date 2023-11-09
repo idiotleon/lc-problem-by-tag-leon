@@ -271,6 +271,7 @@ Reference:
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   1506    https://leetcode.com/problems/find-root-of-n-ary-tree/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/

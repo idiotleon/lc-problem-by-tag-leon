@@ -216,6 +216,7 @@ Reference:
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
+3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 

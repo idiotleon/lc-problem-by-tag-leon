@@ -115,6 +115,7 @@ Reference:
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+3   1503    https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/

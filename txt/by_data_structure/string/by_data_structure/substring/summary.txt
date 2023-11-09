@@ -62,6 +62,7 @@ Reference:
 3   1554    https://leetcode.com/problems/strings-differ-by-one-character/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

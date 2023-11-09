@@ -116,6 +116,7 @@ Reference:
 3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0158    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
