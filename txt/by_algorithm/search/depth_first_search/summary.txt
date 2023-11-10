@@ -213,6 +213,7 @@ Reference:
 3   1644    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/
 3   1660    https://leetcode.com/problems/correct-a-binary-tree/
 3   1718    https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
+3   1743    https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 3   1905    https://leetcode.com/problems/count-sub-islands/
 3   2192    https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
