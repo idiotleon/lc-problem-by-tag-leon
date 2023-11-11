@@ -13,6 +13,7 @@ Reference:
 1   2500    https://leetcode.com/problems/delete-greatest-value-in-each-row/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
+2   0573    https://leetcode.com/problems/squirrel-simulation/
 2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/

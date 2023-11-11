@@ -168,6 +168,7 @@ Reference:
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/
 2   0567    https://leetcode.com/problems/permutation-in-string/
+2   0573    https://leetcode.com/problems/squirrel-simulation/
 2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   0628    https://leetcode.com/problems/maximum-product-of-three-numbers/
