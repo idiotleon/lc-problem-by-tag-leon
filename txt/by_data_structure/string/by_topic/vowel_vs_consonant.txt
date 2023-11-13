@@ -1,0 +1,12 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+# Vowel vs Consonant
+
+2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+2   2785    https://leetcode.com/problems/sort-vowels-in-a-string/
+
+4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
