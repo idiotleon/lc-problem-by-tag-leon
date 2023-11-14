@@ -11,6 +11,7 @@ Reference:
 2   0347    ttps://leetcode.com/problems/top-k-frequent-elements/
 2   0692    https://leetcode.com/problems/top-k-frequent-words/
 2   0414    https://leetcode.com/problems/third-maximum-number/
+2   1845    https://leetcode.com/problems/seat-reservation-manager/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2279    https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/

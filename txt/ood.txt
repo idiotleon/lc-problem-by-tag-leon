@@ -19,6 +19,7 @@ Reference:
 2   0707    https://leetcode.com/problems/design-linked-list/
 2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
 2   0933    https://leetcode.com/problems/number-of-recent-calls/
+2   1845    https://leetcode.com/problems/seat-reservation-manager/
 
 3   0155    https://leetcode.com/problems/min-stack/
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
