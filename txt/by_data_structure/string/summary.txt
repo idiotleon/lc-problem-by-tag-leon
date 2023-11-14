@@ -218,6 +218,7 @@ Reference:
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
+3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

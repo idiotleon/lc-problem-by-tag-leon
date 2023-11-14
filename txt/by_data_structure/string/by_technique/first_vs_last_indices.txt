@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## By Technique
-# to keep track of the last index/indices
+# to keep track of the first or last index/indices
 
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   2325    https://leetcode.com/problems/decode-the-message/
@@ -17,6 +17,7 @@ Reference:
 
 3   0763    https://leetcode.com/problems/partition-labels/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 
 4   0514    https://leetcode.com/problems/freedom-trail/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/

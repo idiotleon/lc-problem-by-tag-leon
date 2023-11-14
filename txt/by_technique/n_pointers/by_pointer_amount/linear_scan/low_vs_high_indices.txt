@@ -10,3 +10,4 @@ Reference:
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
