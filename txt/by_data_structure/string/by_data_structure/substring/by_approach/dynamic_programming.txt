@@ -15,6 +15,7 @@ Reference:
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
+3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0139    https://leetcode.com/problems/word-break/

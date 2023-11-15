@@ -19,6 +19,7 @@ Reference:
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
+3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
