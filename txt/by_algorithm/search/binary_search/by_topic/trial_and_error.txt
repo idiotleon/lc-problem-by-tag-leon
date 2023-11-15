@@ -7,6 +7,7 @@ Reference:
 ### Binary Search
 # Trial and Error / Guess the Number
 
+2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   1618    https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 2   2485   https://leetcode.com/problems/find-the-pivot-integer/
