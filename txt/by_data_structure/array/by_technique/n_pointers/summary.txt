@@ -126,6 +126,7 @@ Reference:
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
+2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/

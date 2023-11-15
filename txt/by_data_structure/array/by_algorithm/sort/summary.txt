@@ -35,6 +35,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
+2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   2094    https://leetcode.com/problems/finding-3-digit-even-numbers/
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/

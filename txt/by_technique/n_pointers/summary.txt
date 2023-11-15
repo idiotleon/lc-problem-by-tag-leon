@@ -235,6 +235,7 @@ Reference:
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1805    https://leetcode.com/problems/number-of-different-integers-in-a-string/
+2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1913    https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/

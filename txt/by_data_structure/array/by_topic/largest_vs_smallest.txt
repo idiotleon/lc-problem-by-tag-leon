@@ -16,6 +16,7 @@ Reference:
 2   0573    https://leetcode.com/problems/squirrel-simulation/
 2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/

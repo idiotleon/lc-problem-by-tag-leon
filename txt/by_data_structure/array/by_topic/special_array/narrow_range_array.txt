@@ -10,6 +10,7 @@ Reference:
 
 2   0268    https://leetcode.com/problems/missing-number/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
+2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/

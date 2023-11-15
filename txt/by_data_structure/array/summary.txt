@@ -183,6 +183,7 @@ Reference:
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
+2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1854    https://leetcode.com/problems/maximum-population-year
 2   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
