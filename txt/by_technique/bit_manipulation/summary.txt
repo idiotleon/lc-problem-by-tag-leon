@@ -34,6 +34,7 @@ Reference:
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 2   1869    https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+2   1980    https://leetcode.com/problems/find-unique-binary-string/
 2   2220    https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/

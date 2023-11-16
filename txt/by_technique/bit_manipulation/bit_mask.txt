@@ -13,6 +13,7 @@ Reference:
 1   2103    https://leetcode.com/problems/rings-and-rods/
 
 2   0078    https://leetcode.com/problems/subsets/
+2   1980    https://leetcode.com/problems/find-unique-binary-string/
 
 3   0289    https://leetcode.com/problems/game-of-life/
 3   0318    https://leetcode.com/problems/maximum-product-of-word-lengths/

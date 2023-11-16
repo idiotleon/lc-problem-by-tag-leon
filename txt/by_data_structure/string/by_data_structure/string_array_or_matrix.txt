@@ -11,6 +11,7 @@ Reference:
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0290    https://leetcode.com/problems/word-pattern/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   1980    https://leetcode.com/problems/find-unique-binary-string/
 
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
