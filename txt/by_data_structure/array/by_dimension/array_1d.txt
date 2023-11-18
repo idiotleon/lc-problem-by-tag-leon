@@ -160,6 +160,7 @@ Reference:
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+2   1877    https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 2   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
