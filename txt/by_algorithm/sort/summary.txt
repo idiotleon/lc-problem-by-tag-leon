@@ -36,6 +36,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2094    https://leetcode.com/problems/finding-3-digit-even-numbers/
