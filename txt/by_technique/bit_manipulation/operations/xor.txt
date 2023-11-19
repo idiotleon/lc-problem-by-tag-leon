@@ -25,6 +25,7 @@ Reference:
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   1457    https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+3   2939    https://leetcode.com/problems/maximum-xor-product/
 
 4   0421    https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 4   0481    https://leetcode.com/problems/magical-string/
