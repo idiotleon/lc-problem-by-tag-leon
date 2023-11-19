@@ -74,6 +74,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   1311    https://leetcode.com/problems/get-watched-videos-by-your-friends/
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
+3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   1996    https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
