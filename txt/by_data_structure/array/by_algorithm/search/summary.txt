@@ -160,6 +160,7 @@ Reference:
 5   0786    https://leetcode.com/problems/k-th-smallest-prime-fraction/
 5   0803    https://leetcode.com/problems/bricks-falling-when-hit/
 5   0847    https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+5   0932    https://leetcode.com/problems/beautiful-array/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/

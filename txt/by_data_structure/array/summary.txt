@@ -618,6 +618,7 @@ Reference:
 5   0850    https://leetcode.com/problems/rectangle-area-ii/
 5   0857    https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+5   0932    https://leetcode.com/problems/beautiful-array/
 5   0959    https://leetcode.com/problems/regions-cut-by-slashes/
 5   0960    https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 5   1036    https://leetcode.com/problems/escape-a-large-maze/

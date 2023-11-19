@@ -28,4 +28,5 @@ Reference:
 4   0162    https://leetcode.com/problems/find-peak-element/
 4   0683    https://leetcode.com/problems/k-empty-slots/
 
+5   0932    https://leetcode.com/problems/beautiful-array/
 5   1095    https://leetcode.com/problems/find-in-mountain-array/

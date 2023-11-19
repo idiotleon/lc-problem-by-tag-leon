@@ -20,3 +20,5 @@ Reference:
 3   2365    https://leetcode.com/problems/task-scheduler-ii/
 
 4   0135    https://leetcode.com/problems/candy/
+
+5   0932    https://leetcode.com/problems/beautiful-array/

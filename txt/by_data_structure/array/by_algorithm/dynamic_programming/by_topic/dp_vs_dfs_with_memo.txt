@@ -6,6 +6,9 @@ Reference:
 
 ### Array
 ## DP vs DFS with memo
+
+5   0932    https://leetcode.com/problems/beautiful-array/
+
 # DP over DFS with memo
 
 3   0221    https://leetcode.com/problems/maximal-square/
