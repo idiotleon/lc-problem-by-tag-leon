@@ -56,6 +56,7 @@ Reference:
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1918    https://leetcode.com/problems/kth-smallest-subarray-sum/
 3   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/

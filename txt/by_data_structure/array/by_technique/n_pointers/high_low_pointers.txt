@@ -51,6 +51,7 @@ Reference:
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/

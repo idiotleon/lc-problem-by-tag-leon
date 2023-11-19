@@ -212,6 +212,7 @@ Reference:
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1826    https://leetcode.com/problems/faulty-sensor/
+3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/

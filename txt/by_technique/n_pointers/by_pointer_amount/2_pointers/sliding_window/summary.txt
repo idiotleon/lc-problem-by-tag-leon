@@ -52,6 +52,7 @@ Reference:
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
+3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 
