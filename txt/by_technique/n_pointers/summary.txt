@@ -268,6 +268,7 @@ Reference:
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/

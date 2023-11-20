@@ -7,6 +7,7 @@ Reference:
 # Summary
 
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 
 3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/

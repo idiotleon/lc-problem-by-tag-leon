@@ -37,6 +37,7 @@ Reference:
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

@@ -13,6 +13,7 @@ Reference:
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/

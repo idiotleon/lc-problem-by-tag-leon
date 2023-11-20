@@ -218,6 +218,7 @@ Reference:
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/

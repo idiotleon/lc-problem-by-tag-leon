@@ -6,6 +6,8 @@ Reference:
 ### Range Query
 # Segment Tree
 
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+
 3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0379    https://leetcode.com/problems/design-phone-directory/
 3   0729    https://leetcode.com/problems/my-calendar-i/

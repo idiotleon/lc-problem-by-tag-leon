@@ -7,6 +7,8 @@ Reference:
 ## By Technique
 # Segmented Tree
 
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
