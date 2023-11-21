@@ -15,6 +15,7 @@ Reference:
 3   0130    https://leetcode.com/problems/surrounded-regions/
 3   0200    https://leetcode.com/problems/number-of-islands/
 3   0210    https://leetcode.com/problems/course-schedule-ii/
+3   0286    https://leetcode.com/problems/walls-and-gates/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/s
 3   0339    https://leetcode.com/problems/nested-list-weight-sum/
 3   0638    https://leetcode.com/problems/shopping-offers/
