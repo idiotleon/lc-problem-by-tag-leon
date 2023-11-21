@@ -7,4 +7,6 @@ Reference:
 ### Bit Manipulation
 # Abstract (in draft)
 
+1   0190    https://leetcode.com/problems/reverse-bits/
+
 2   1980    https://leetcode.com/problems/find-unique-binary-string/

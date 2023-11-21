@@ -8,6 +8,7 @@ Reference:
 # Summary
 
 1   0067    https://leetcode.com/problems/add-binary/
+1   0190    https://leetcode.com/problems/reverse-bits/
 1   0342    https://leetcode.com/problems/power-of-four/description/
 1   0389    https://leetcode.com/problems/find-the-difference/
 1   0645    https://leetcode.com/problems/set-mismatch/

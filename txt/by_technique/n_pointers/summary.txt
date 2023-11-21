@@ -13,6 +13,7 @@ Reference:
 1   0088    https://leetcode.com/problems/merge-sorted-array/
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0189    https://leetcode.com/problems/rotate-array/
+1   0190    https://leetcode.com/problems/reverse-bits/
 1   0242    https://leetcode.com/problems/valid-anagram/
 1   0344    https://leetcode.com/problems/reverse-string/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/

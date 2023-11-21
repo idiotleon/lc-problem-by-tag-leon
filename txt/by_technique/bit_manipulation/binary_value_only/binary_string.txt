@@ -6,6 +6,7 @@ Reference:
 ### Bit Manipulation
 # Binary String
 
+1   0190    https://leetcode.com/problems/reverse-bits/
 1   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 
 2   1869    https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
