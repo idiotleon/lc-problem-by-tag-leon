@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Two Sum
+
+3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
