@@ -304,6 +304,7 @@ Reference:
 3   0582    https://leetcode.com/problems/kill-process/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/
 3   0611    https://leetcode.com/problems/valid-triangle-number/
+3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
 3   0638    https://leetcode.com/problems/shopping-offers/
 3   0658    https://leetcode.com/problems/find-k-closest-elements/
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/

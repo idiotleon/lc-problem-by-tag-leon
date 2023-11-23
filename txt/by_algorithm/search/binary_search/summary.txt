@@ -54,6 +54,7 @@ Reference:
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
 3   0658    https://leetcode.com/problems/find-k-closest-elements/
 3   0702    https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray/
