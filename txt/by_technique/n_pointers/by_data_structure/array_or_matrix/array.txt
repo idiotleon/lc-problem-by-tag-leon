@@ -180,6 +180,7 @@ Reference:
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
+3   1630    https://leetcode.com/problems/arithmetic-subarrays/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1826    https://leetcode.com/problems/faulty-sensor/

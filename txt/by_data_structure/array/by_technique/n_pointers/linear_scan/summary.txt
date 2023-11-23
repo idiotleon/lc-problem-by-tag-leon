@@ -163,6 +163,7 @@ Reference:
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+3   1630    https://leetcode.com/problems/arithmetic-subarrays/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/

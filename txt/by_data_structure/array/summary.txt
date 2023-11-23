@@ -409,6 +409,7 @@ Reference:
 3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
 3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 3   1626    https://leetcode.com/problems/best-team-with-no-conflicts/
+3   1630    https://leetcode.com/problems/arithmetic-subarrays/
 3   1642    https://leetcode.com/problems/furthest-building-you-can-reach/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/

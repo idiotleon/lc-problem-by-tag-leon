@@ -359,6 +359,7 @@ Reference:
 3   1577    https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 3   1580    https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+3   1630    https://leetcode.com/problems/arithmetic-subarrays/
 3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
