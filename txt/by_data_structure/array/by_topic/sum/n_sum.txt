@@ -22,3 +22,10 @@ Reference:
 3   1010    https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 
 4   0018    https://leetcode.com/problems/4sum/
+
+
+
+# 2 Sum Direct Derivative
+
+2   0001    https://leetcode.com/problems/two-sum/
+2   1099    https://leetcode.com/problems/two-sum-less-than-k/
