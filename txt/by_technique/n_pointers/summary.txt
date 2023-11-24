@@ -22,6 +22,7 @@ Reference:
 1   0383    https://leetcode.com/problems/ransom-note/
 1   0387    https://leetcode.com/problems/first-unique-character-in-a-string/
 1   0392    https://leetcode.com/problems/is-subsequence/
+1   0412    https://leetcode.com/problems/fizz-buzz/
 1   0415    https://leetcode.com/problems/add-strings/
 1   0455    https://leetcode.com/problems/assign-cookies/
 1   0485    https://leetcode.com/problems/max-consecutive-ones/

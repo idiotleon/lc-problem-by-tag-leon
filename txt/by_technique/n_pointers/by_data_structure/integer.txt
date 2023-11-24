@@ -8,6 +8,7 @@ Reference:
 # Integer
 
 1   0190    https://leetcode.com/problems/reverse-bits/
+1   0412    https://leetcode.com/problems/fizz-buzz/
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 1   1399    https://leetcode.com/problems/count-largest-group/
 1   1556    https://leetcode.com/problems/thousand-separator/
