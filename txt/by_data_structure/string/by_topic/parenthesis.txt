@@ -18,6 +18,7 @@ Reference:
 3   1249    https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 3   1087    https://leetcode.com/problems/brace-expansion/
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/

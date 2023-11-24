@@ -13,6 +13,7 @@ Reference:
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
+3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 
 4   0072    https://leetcode.com/problems/edit-distance/
 4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
@@ -24,6 +25,7 @@ Reference:
 # Swap
 
 3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
+3   1963   https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 
 4   1202    https://leetcode.com/problems/smallest-string-with-swaps/
 

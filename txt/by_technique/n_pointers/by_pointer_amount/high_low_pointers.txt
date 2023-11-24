@@ -69,6 +69,7 @@ Reference:
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
 3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
+3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 

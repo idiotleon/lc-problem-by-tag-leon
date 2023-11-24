@@ -28,6 +28,7 @@ Reference:
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/

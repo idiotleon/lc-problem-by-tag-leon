@@ -9,5 +9,6 @@ Reference:
 
 3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
 3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
