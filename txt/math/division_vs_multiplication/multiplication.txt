@@ -6,6 +6,8 @@ Reference:
 ### Division vs Multiplication
 ## Multiplication
 
+1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/

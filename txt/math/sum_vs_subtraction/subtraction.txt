@@ -6,4 +6,6 @@ Reference:
 ### Math
 # Subtraction
 
+1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
 5   0644    https://leetcode.com/problems/maximum-average-subarray-ii/
