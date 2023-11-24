@@ -65,6 +65,7 @@ Reference:
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 1   1556    https://leetcode.com/problems/thousand-separator/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
+1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 1   1652    https://leetcode.com/problems/defuse-the-bomb/
 1   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 1   1672    https://leetcode.com/problems/richest-customer-wealth/

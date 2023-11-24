@@ -7,6 +7,7 @@ Reference:
 ## with a Stack
 
 1   0020    https://leetcode.com/problems/valid-parentheses/
+1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 1   2390    https://leetcode.com/problems/removing-stars-from-a-string/
 
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
