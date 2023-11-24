@@ -89,6 +89,7 @@ Reference:
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1103    https://leetcode.com/problems/distribute-candies-to-people/
 2   1184    https://leetcode.com/problems/distance-between-bus-stops/
+2   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 2   1217    https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 2   1243    https://leetcode.com/problems/array-transformation/
 2   1272    https://leetcode.com/problems/remove-interval/
