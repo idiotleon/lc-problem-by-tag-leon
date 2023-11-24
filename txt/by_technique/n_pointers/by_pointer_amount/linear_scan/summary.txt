@@ -186,6 +186,7 @@ Reference:
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/

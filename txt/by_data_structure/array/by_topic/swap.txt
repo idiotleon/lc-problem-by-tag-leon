@@ -12,6 +12,7 @@ x2  0283    https://leetcode.com/problems/move-zeroes/
 
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
+3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 
