@@ -229,6 +229,7 @@ Reference:
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
+2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

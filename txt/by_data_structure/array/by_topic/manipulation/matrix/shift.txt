@@ -1,0 +1,11 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+#### Array
+### By Topic
+## Matrix Manipulation
+# Shift
+
+2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
