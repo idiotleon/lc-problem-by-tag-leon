@@ -7,6 +7,7 @@ Reference:
 ## By Technique
 # Prefix Sums
 
+3   0554    https://leetcode.com/problems/brick-wall/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 

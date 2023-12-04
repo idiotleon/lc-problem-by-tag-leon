@@ -9,3 +9,5 @@ Reference:
 
 2   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
+
+3   0554    https://leetcode.com/problems/brick-wall/
