@@ -240,6 +240,7 @@ Reference:
 3   0444    https://leetcode.com/problems/sequence-reconstruction/
 3   0448    https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 3   0462    https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+3   0477    https://leetcode.com/problems/total-hamming-distance/
 3   0484    https://leetcode.com/problems/find-permutation/
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
