@@ -14,6 +14,7 @@ Reference:
 2   0111    https://leetcode.com/problems/minimum-depth-of-binary-tree/
 2   0112    https://leetcode.com/problems/path-sum/
 2   0257    https://leetcode.com/problems/binary-tree-paths/
+2   0404    https://leetcode.com/problems/sum-of-left-leaves/
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
 2   0872    https://leetcode.com/problems/leaf-similar-trees/
