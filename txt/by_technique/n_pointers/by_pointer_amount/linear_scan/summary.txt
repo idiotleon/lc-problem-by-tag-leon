@@ -216,6 +216,7 @@ Reference:
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/

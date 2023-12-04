@@ -8,5 +8,6 @@ Reference:
 # Lexicographical Order
 
 2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/

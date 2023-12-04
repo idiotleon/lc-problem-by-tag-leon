@@ -100,6 +100,7 @@ Reference:
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/

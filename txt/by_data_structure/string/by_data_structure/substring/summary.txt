@@ -37,6 +37,7 @@ Reference:
 2   1946    https://leetcode.com/problems/largest-number-after-mutating-substring/
 2   2083    https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
