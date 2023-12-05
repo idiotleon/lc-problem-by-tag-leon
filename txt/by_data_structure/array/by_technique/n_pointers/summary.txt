@@ -243,6 +243,7 @@ Reference:
 4   0287    https://leetcode.com/problems/find-the-duplicate-number/
 4   0296    https://leetcode.com/problems/best-meeting-point/
 4   0457    https://leetcode.com/problems/circular-array-loop/
+4   0621    https://leetcode.com/problems/task-scheduler/
 4   0683    https://leetcode.com/problems/k-empty-slots/
 4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/

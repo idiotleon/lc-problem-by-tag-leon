@@ -52,6 +52,7 @@ Reference:
 
 4   0079    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+4   0621    https://leetcode.com/problems/task-scheduler/
 4   1177    https://leetcode.com/problems/can-make-palindrome-from-substring/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
