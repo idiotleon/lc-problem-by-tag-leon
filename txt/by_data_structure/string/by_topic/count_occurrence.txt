@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## By Topic
-# Count Occurrences
+# Count Occurrence
 
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1668    https://leetcode.com/problems/maximum-repeating-substring/

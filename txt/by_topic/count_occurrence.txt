@@ -4,7 +4,7 @@ Reference:
 
 
 ### By Topic
-# Count Occurrences
+# Count Occurrence
 
 1   1385    https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 1   1295    https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
@@ -51,6 +51,7 @@ Reference:
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
+3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 
 4   0222    https://leetcode.com/problems/count-complete-tree-nodes/
 4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/

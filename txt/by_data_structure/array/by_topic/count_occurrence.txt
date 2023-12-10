@@ -5,7 +5,7 @@ Reference:
 
 ### Array
 ## By Topic
-# Count Occurences
+# Count Occurence
 
 1   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 1   1295    https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
@@ -36,6 +36,7 @@ Reference:
 3   2300    https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
+3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 4   2328    https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/

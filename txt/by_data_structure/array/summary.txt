@@ -453,6 +453,7 @@ Reference:
 3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 3   2615    https://leetcode.com/problems/sum-of-distances/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
+3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0041    https://leetcode.com/problems/first-missing-positive/
