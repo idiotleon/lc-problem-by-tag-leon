@@ -121,6 +121,7 @@ Reference:
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 3   2344    https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
 3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
+3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 
 4   0004    https://leetcode.com/problems/median-of-two-sorted-arrays/
 4   0031    https://leetcode.com/problems/next-permutation/

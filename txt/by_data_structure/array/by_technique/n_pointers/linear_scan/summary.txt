@@ -175,6 +175,7 @@ Reference:
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2365    https://leetcode.com/problems/task-scheduler-ii/
 3   2615    https://leetcode.com/problems/sum-of-distances/
+3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/
