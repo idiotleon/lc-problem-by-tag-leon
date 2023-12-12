@@ -233,6 +233,7 @@ Reference:
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
+2   0038    https://leetcode.com/problems/count-and-say/
 3   0048    https://leetcode.com/problems/rotate-image/
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0059    https://leetcode.com/problems/spiral-matrix-ii/
