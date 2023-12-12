@@ -88,6 +88,7 @@ Reference:
 2   0567    https://leetcode.com/problems/permutation-in-string/
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
 2   0811    https://leetcode.com/problems/subdomain-visit-count/
+2   0824    https://leetcode.com/problems/goat-latin/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0859    https://leetcode.com/problems/buddy-strings/
 2   0925    https://leetcode.com/problems/long-pressed-name/

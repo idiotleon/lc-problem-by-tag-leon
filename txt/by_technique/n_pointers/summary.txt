@@ -185,6 +185,7 @@ Reference:
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
 2   0811    https://leetcode.com/problems/subdomain-visit-count/
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   0824    https://leetcode.com/problems/goat-latin/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
 2   0859    https://leetcode.com/problems/buddy-strings/

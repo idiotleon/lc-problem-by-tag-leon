@@ -7,4 +7,7 @@ Reference:
 ## By Topic
 # Constructing the String
 
+2   0038    https://leetcode.com/problems/count-and-say/
+2   0824    https://leetcode.com/problems/goat-latin/
+
 4   0267    https://leetcode.com/problems/palindrome-permutation-ii/

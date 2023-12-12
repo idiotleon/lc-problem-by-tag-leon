@@ -77,6 +77,7 @@ Reference:
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
 2   0567    https://leetcode.com/problems/permutation-in-string/
 2   0806    https://leetcode.com/problems/number-of-lines-to-write-string/
+2   0824    https://leetcode.com/problems/goat-latin/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   0925    https://leetcode.com/problems/long-pressed-name/
 2   0929    https://leetcode.com/problems/unique-email-addresses/
