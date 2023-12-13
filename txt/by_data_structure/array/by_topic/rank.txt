@@ -7,6 +7,7 @@ Reference:
 ## By Topic
 # Rank
 
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 
 5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/

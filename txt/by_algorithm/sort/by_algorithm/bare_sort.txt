@@ -21,6 +21,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
