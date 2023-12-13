@@ -200,6 +200,7 @@ Reference:
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
 3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/

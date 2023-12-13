@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## Substring
-# Count Occurrences
+# Count Occurrence
 
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
@@ -19,6 +19,7 @@ Reference:
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/

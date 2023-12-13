@@ -123,6 +123,7 @@ Reference:
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 
 4   0158    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/

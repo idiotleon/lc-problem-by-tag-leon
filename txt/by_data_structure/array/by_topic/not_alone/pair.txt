@@ -10,4 +10,5 @@ Reference:
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/

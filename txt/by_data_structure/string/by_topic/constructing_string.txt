@@ -10,4 +10,6 @@ Reference:
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0824    https://leetcode.com/problems/goat-latin/
 
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
+
 4   0267    https://leetcode.com/problems/palindrome-permutation-ii/

@@ -65,6 +65,7 @@ Reference:
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

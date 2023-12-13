@@ -128,6 +128,7 @@ Reference:
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
 3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 
 4   0076    https://leetcode.com/problems/minimum-window-substring/

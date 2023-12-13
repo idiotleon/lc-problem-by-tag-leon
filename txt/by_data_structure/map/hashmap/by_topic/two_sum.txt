@@ -11,6 +11,7 @@ Reference:
 
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 
 5   1074    https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

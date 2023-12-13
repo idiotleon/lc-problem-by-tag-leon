@@ -16,6 +16,7 @@ Reference:
 3   0245    https://leetcode.com/problems/shortest-word-distance-iii/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 
 5   0943    https://leetcode.com/problems/find-the-shortest-superstring/
 5   1178    https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/

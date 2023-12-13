@@ -8,4 +8,5 @@ Reference:
 # Frequency HashMap
 
 3   0554    https://leetcode.com/problems/brick-wall/
+3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 
