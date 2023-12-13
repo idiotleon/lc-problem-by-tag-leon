@@ -6,4 +6,7 @@ Reference:
 ### By Topic
 ## Simulation
 
+2   0038    https://leetcode.com/problems/count-and-say/
+2   0824    https://leetcode.com/problems/goat-latin/
+
 4   1233    https://leetcode.com/problems/dice-roll-simulation/
