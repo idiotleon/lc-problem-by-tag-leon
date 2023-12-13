@@ -8,6 +8,7 @@ Reference:
 # Linear Scan / 1 pointer
 # Low vs High Indices
 
+2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/

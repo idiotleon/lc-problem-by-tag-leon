@@ -232,6 +232,7 @@ Reference:
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/

@@ -37,6 +37,7 @@ Reference:
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 2   1657    https://leetcode.com/problems/determine-if-two-strings-are-close/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
