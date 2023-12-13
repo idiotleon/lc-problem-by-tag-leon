@@ -7,6 +7,7 @@ Reference:
 # Partition Or Split
 
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
+2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/

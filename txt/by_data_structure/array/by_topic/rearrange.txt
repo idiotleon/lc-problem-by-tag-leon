@@ -8,6 +8,7 @@ Reference:
 # Rearrange
 
 2   0283    https://leetcode.com/problems/move-zeroes/
+2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/

@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Map
+## HashMap
+# Rank
+
+2   1331    https://leetcode.com/problems/rank-transform-of-an-array/

@@ -5,7 +5,7 @@ Reference:
 
 ### Map
 ## HashMap
-# Count Occurrences
+# Count Occurrence
 
 1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
 1   2085    https://leetcode.com/problems/count-common-words-with-one-occurrence/

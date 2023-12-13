@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Map
+## HashMap
+# Subarray
+
+2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
