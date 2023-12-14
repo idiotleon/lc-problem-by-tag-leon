@@ -42,6 +42,7 @@ Reference:
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
+2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
