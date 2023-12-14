@@ -15,6 +15,7 @@ Reference:
 3   0046    https://leetcode.com/problems/permutations/
 3   0047    https://leetcode.com/problems/permutations-ii/
 3   0131    https://leetcode.com/problems/palindrome-partitioning/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
 3   1239    https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/

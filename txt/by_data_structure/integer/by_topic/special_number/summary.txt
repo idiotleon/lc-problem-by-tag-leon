@@ -21,6 +21,7 @@ Reference:
 3   0137    https://leetcode.com/problems/single-number-ii/
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0260    https://leetcode.com/problems/single-number-iii/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0526    https://leetcode.com/problems/beautiful-arrangement/
 3   1015    https://leetcode.com/problems/smallest-integer-divisible-by-k/
 3   1215    https://leetcode.com/problems/stepping-numbers/
@@ -28,7 +29,6 @@ Reference:
 
 4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
 4   0264    https://leetcode.com/problems/ugly-number-ii/
-4   0386    https://leetcode.com/problems/lexicographical-numbers/
 4   0660    https://leetcode.com/problems/remove-9/
 4   0788    https://leetcode.com/problems/rotated-digits/
 4   0906    https://leetcode.com/problems/super-palindromes/

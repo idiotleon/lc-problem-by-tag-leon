@@ -20,6 +20,7 @@ Reference:
 3   0254    https://leetcode.com/problems/factor-combinations/
 3   0279    https://leetcode.com/problems/perfect-squares/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0397    https://leetcode.com/problems/integer-replacement/
 3   0779    https://leetcode.com/problems/k-th-symbol-in-grammar/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/

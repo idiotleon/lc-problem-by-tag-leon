@@ -49,6 +49,7 @@ Reference:
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0436    https://leetcode.com/problems/find-right-interval/
 3   0494    https://leetcode.com/problems/target-sum/
 3   0491    https://leetcode.com/problems/increasing-subsequences/

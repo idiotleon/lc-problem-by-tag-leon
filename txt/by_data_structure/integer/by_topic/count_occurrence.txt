@@ -4,7 +4,7 @@ Reference:
 
 
 ### Integer
-# Count Occurrences
+# Count Occurrence
 
 1   0062    https://leetcode.com/problems/unique-paths/
 1   1399    https://leetcode.com/problems/count-largest-group/

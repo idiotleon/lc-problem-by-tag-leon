@@ -8,4 +8,6 @@ Reference:
 # Array Manipulation
 # Constructing Arrays
 
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
+
 5   0932    https://leetcode.com/problems/beautiful-array/

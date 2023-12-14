@@ -15,6 +15,7 @@ Reference:
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0484    https://leetcode.com/problems/find-permutation/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2365    https://leetcode.com/problems/task-scheduler-ii/

@@ -27,6 +27,7 @@ Reference:
 3   0286    https://leetcode.com/problems/walls-and-gates/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0494    https://leetcode.com/problems/target-sum/
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 3   0582    https://leetcode.com/problems/kill-process/

@@ -7,4 +7,4 @@ Reference:
 ## Special Number
 # Lexicographical Number
 
-4   0386    https://leetcode.com/problems/lexicographical-numbers/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/

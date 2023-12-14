@@ -119,6 +119,7 @@ Reference:
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0357    https://leetcode.com/problems/count-numbers-with-unique-digits/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0394    https://leetcode.com/problems/decode-string/
 3   0397    https://leetcode.com/problems/integer-replacement/
 3   0401    https://leetcode.com/problems/binary-watch/
