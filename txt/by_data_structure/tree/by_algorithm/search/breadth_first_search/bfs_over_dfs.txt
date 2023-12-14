@@ -11,6 +11,7 @@ Reference:
 2   0429    https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 2   0637    https://leetcode.com/problems/average-of-levels-in-binary-tree/
 2   0919    https://leetcode.com/problems/complete-binary-tree-inserter/
+2   1161    https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1609    https://leetcode.com/problems/even-odd-tree/
 

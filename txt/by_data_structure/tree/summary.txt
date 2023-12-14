@@ -51,6 +51,7 @@ Reference:
 2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 2   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
+2   1161    https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 2   1305    https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
