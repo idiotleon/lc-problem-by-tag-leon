@@ -30,6 +30,7 @@ Reference:
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
+2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/

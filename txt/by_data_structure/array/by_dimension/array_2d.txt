@@ -43,6 +43,7 @@ Reference:
 2   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 2   1854    https://leetcode.com/problems/maximum-population-year
+2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/

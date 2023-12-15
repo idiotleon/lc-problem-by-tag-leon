@@ -194,6 +194,7 @@ Reference:
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
+2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/

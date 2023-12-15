@@ -11,6 +11,7 @@ Reference:
 2   0695    https://leetcode.com/problems/max-area-of-island/
 2   0733    https://leetcode.com/problems/flood-fill/
 2   0784    https://leetcode.com/problems/letter-case-permutation/
+2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 
 3   0130    https://leetcode.com/problems/surrounded-regions/
 3   0207    https://leetcode.com/problems/course-schedule/
