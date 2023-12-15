@@ -146,6 +146,7 @@ Reference:
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+2   1436    https://leetcode.com/problems/destination-city/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1464    https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/

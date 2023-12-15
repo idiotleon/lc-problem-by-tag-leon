@@ -10,6 +10,7 @@ Reference:
 2   0207    https://leetcode.com/problems/course-schedule/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
 2   0997    https://leetcode.com/problems/find-the-town-judge/
+2   1436    https://leetcode.com/problems/destination-city/
 
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0444    https://leetcode.com/problems/sequence-reconstruction/

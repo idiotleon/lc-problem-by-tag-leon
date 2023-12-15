@@ -23,6 +23,7 @@ Reference:
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
+2   1436    https://leetcode.com/problems/destination-city/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/

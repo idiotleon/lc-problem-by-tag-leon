@@ -33,6 +33,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+2   1436    https://leetcode.com/problems/destination-city/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 2   1564    https://leetcode.com/problems/put-boxes-into-the-warehouse-i/
