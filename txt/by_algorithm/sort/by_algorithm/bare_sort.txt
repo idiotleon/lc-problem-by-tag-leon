@@ -16,6 +16,7 @@ Reference:
 1   2229    https://leetcode.com/problems/check-if-an-array-is-consecutive/
 1   2341    https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 1   2500    https://leetcode.com/problems/delete-greatest-value-in-each-row/
+1   2558    https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 
 x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/

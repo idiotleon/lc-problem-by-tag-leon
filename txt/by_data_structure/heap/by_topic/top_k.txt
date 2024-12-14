@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Top K
 
+1   2558    https://leetcode.com/problems/take-gifts-from-the-richest-pile/
+
 2   0215    https://leetcode.com/problems/kth-largest-element-in-an-array/
 2   0347    ttps://leetcode.com/problems/top-k-frequent-elements/
 2   0692    https://leetcode.com/problems/top-k-frequent-words/
