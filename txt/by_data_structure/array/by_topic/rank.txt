@@ -10,4 +10,6 @@ Reference:
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 
+3   1331    https://leetcode.com/problems/rank-transform-of-an-array/
+
 5   1632    https://leetcode.com/problems/rank-transform-of-a-matrix/
