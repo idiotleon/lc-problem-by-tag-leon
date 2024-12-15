@@ -1,0 +1,15 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/problemset/?search=next+greater&page=1
+
+
+### By Topic
+## Next
+
+2   0496    https://leetcode.com/problems/next-greater-element-i/
+
+3   0503    https://leetcode.com/problems/next-greater-element-ii/
+
+4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   2454    https://leetcode.com/problems/next-greater-element-iv/

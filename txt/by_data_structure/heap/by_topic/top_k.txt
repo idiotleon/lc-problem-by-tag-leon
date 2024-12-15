@@ -21,6 +21,7 @@ Reference:
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 -3  0658    https://leetcode.com/problems/find-k-closest-elements/
 3   1244    https://leetcode.com/problems/design-a-leaderboard/
+3   1792    https://leetcode.com/problems/maximum-average-pass-ratio/
 
 4   0355    https://leetcode.com/problems/design-twitter/
 4   1834    https://leetcode.com/problems/single-threaded-cpu/
