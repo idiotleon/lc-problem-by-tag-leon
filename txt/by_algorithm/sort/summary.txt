@@ -87,6 +87,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 3   2332    https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 3   2350    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
+3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 
 4   0023    https://leetcode.com/problems/merge-k-sorted-lists/
 4   0148    https://leetcode.com/problems/sort-list/

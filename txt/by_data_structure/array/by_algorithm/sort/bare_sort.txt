@@ -47,3 +47,4 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   1996    https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
+3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
