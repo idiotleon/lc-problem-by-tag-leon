@@ -59,6 +59,7 @@ Reference:
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
+3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0042    https://leetcode.com/problems/trapping-rain-water/

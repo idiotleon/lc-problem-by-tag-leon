@@ -19,6 +19,7 @@ Reference:
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
 3   0938    https://leetcode.com/problems/range-sum-of-bst/
 3   1508    https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 
 4   0307    https://leetcode.com/problems/range-sum-query-mutable/
 4   0632    https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/

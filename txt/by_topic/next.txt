@@ -12,6 +12,7 @@ Reference:
 3   0503    https://leetcode.com/problems/next-greater-element-ii/
 3   0739    https://leetcode.com/problems/daily-temperatures/
 3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
+3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
 4   2454    https://leetcode.com/problems/next-greater-element-iv/

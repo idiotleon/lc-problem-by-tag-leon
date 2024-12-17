@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Local
+
+3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/

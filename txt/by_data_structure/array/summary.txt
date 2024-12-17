@@ -463,6 +463,7 @@ Reference:
 3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 3   2615    https://leetcode.com/problems/sum-of-distances/
+3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 

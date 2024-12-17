@@ -360,6 +360,7 @@ Reference:
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 3   2615    https://leetcode.com/problems/sum-of-distances/
+3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 
 4   0018    https://leetcode.com/problems/4sum/
