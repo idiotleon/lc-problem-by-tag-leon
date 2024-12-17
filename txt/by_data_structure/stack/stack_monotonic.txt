@@ -54,19 +54,6 @@ Reference:
 
 
 
-
-# Non-decreasing
-    to pop out s > e
-
-4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
-4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
-4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
-
-5   0085    https://leetcode.com/problems/maximal-rectangle/
-
-
-
-
 # Strickly decreasing:
     to pop out s <= e
     to find the first element larger than the current element,
@@ -83,13 +70,23 @@ Reference:
 
 
 
+# Non-decreasing
+    to pop out s > e
+
+4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
+
+5   0085    https://leetcode.com/problems/maximal-rectangle/
+
+
 
 # Non-increasing
     to pop out s < e
+
 3   0402    https://leetcode.com/problems/remove-k-digits/
 3   0503    https://leetcode.com/problems/next-greater-element-ii/
 3   0739    https://leetcode.com/problems/daily-temperatures/
-
 
 
 
@@ -99,6 +96,13 @@ Resource:
     https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
 
 
+Related Tag:
+    adjacent
+    next
+    local(subarray)
+
+
 Question to address:
     1. increasing vs decreasing
     2. strictly vs non-strictly
+    3. index vs value (as stack content)

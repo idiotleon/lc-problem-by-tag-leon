@@ -231,6 +231,7 @@ Reference:
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/

@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Linked List
+# Monotonic Stack
+
+3   1019    https://leetcode.com/problems/next-greater-node-in-linked-list/
