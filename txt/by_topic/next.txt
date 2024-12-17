@@ -15,6 +15,8 @@ Reference:
 3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
+4   0768    https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+4   0769    https://leetcode.com/problems/max-chunks-to-make-sorted/
 4   2454    https://leetcode.com/problems/next-greater-element-iv/
 
 
