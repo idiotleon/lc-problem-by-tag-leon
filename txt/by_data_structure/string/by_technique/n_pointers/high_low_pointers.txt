@@ -29,6 +29,7 @@ Reference:
 3   0838    https://leetcode.com/problems/push-dominoes/
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
 3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0227    https://leetcode.com/problems/basic-calculator-ii/

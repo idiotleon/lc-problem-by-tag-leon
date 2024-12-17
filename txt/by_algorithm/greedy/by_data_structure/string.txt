@@ -12,6 +12,7 @@ Reference:
 3   0758    https://leetcode.com/problems/bold-words-in-string/
 3   0763    https://leetcode.com/problems/partition-labels/description/
 3   1405    https://leetcode.com/problems/longest-happy-string/
+3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 
 4   0616    https://leetcode.com/problems/add-bold-tag-in-string/
 4   0936    https://leetcode.com/problems/stamping-the-sequence/

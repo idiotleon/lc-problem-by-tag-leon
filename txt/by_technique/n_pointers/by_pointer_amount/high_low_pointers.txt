@@ -72,6 +72,7 @@ Reference:
 3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
+3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 
 4   0042    https://leetcode.com/problems/trapping-rain-water/
