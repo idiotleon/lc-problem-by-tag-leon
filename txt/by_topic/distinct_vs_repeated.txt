@@ -17,7 +17,9 @@ Reference:
 3   0686    https://leetcode.com/problems/repeated-string-match/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
+4   0316    https://leetcode.com/problems/remove-duplicate-letters/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/
+4   1081    https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 4   1316    https://leetcode.com/problems/distinct-echo-substrings/
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/

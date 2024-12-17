@@ -12,4 +12,6 @@ Reference:
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 
+4   0316    https://leetcode.com/problems/remove-duplicate-letters/description/
+4   1082    https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
