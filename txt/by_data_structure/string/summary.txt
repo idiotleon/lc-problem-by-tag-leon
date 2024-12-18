@@ -137,6 +137,7 @@ Reference:
 2   1980    https://leetcode.com/problems/find-unique-binary-string/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2083    https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
+2   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/

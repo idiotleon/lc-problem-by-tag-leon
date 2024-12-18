@@ -9,6 +9,7 @@ Reference:
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0824    https://leetcode.com/problems/goat-latin/
+2   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/

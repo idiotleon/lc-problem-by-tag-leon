@@ -255,6 +255,7 @@ Reference:
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
+2   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/

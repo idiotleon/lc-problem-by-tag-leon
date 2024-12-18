@@ -117,6 +117,7 @@ Reference:
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+2   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
