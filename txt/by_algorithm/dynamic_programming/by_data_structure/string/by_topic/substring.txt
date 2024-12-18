@@ -15,6 +15,7 @@ Reference:
 3   0686    https://leetcode.com/problems/repeated-string-match/
 3   0796    https://leetcode.com/problems/rotate-string/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0294    https://leetcode.com/problems/flip-game-ii/

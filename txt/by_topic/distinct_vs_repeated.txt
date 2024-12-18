@@ -15,6 +15,7 @@ Reference:
 
 3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0686    https://leetcode.com/problems/repeated-string-match/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0316    https://leetcode.com/problems/remove-duplicate-letters/
@@ -50,6 +51,7 @@ Reference:
 ## Repetitive
 
 3   0686    https://leetcode.com/problems/repeated-string-match/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   1062    https://leetcode.com/problems/longest-repeating-substring/

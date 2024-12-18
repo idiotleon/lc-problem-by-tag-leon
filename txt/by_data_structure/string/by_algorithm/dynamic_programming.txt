@@ -23,6 +23,7 @@ Reference:
 3   1641    https://leetcode.com/problems/count-sorted-vowel-strings/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0072    https://leetcode.com/problems/edit-distance/

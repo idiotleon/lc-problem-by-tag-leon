@@ -21,6 +21,7 @@ Reference:
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0187    https://leetcode.com/problems/repeated-dna-sequences/
 4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/

@@ -16,6 +16,7 @@ Reference:
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   1156    https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/
 4   0076    https://leetcode.com/problems/minimum-window-substring/

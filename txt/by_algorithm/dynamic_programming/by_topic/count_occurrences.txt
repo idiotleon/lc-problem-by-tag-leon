@@ -24,6 +24,7 @@ Reference:
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 3   2400    https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0576    https://leetcode.com/problems/out-of-boundary-paths/
 4   0651    https://leetcode.com/problems/4-keys-keyboard/

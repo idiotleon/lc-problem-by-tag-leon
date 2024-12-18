@@ -50,6 +50,7 @@ Reference:
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
 
 4   0079    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
