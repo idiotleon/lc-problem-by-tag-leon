@@ -7,6 +7,8 @@ Reference:
 ## By Technique
 # Monotonic Stack
 
+2   1475    https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
 3   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/

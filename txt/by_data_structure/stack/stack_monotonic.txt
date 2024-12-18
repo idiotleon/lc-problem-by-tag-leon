@@ -10,6 +10,7 @@ Reference:
 
 2   0385    https://leetcode.com/problems/mini-parser/
 2   0496    https://leetcode.com/problems/next-greater-element-i/
+2   1475    https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 
 3   0255    https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
 3   0484    https://leetcode.com/problems/find-permutation/

@@ -152,6 +152,7 @@ Reference:
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1464    https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 2   1471    https://leetcode.com/problems/the-k-strongest-values-in-an-array/
+2   1475    https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
