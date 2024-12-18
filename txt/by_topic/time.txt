@@ -4,8 +4,13 @@ Reference:
 
 
 ### By Topic
+# Time
+
+2   0539    https://leetcode.com/problems/minimum-time-difference/
+
+
 ## Time Elapse
 
 3   2849    https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
 
-4   0636    https://leetcode.com/problems/exclusive-time-of-functions/
+4   0636    https://leetcode.com/problems/exclusive-time-of-functions

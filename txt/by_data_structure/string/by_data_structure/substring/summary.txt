@@ -22,6 +22,7 @@ Reference:
 2   0028    https://leetcode.com/problems/implement-strstr/
 2   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/
 2   0443    https://leetcode.com/problems/string-compression/
+2   0539    https://leetcode.com/problems/minimum-time-difference/
 2   0567    https://leetcode.com/problems/permutation-in-string/
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/

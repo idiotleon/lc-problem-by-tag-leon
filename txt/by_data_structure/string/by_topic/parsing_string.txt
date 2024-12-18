@@ -26,6 +26,7 @@ Reference:
 2   0408    https://leetcode.com/problems/valid-word-abbreviation/
 2   0443    https://leetcode.com/problems/string-compression/
 2   0504    https://leetcode.com/problems/base-7/
+2   0539    https://leetcode.com/problems/minimum-time-difference/
 2   0544    https://leetcode.com/problems/output-contest-matches/
 2   0800    https://leetcode.com/problems/similar-rgb-color/
 2   0824    https://leetcode.com/problems/goat-latin/

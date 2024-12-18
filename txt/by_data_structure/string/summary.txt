@@ -94,6 +94,7 @@ Reference:
 2   0451    https://leetcode.com/problems/sort-characters-by-frequency/
 2   0504    https://leetcode.com/problems/base-7/
 2   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
+2   0539    https://leetcode.com/problems/minimum-time-difference/
 2   0544    https://leetcode.com/problems/output-contest-matches/
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
 2   0567    https://leetcode.com/problems/permutation-in-string/
