@@ -28,6 +28,7 @@ Reference:
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1593    https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 3   2939    https://leetcode.com/problems/maximum-xor-product/
+3   3011    https://leetcode.com/problems/find-if-array-can-be-sorted/
 
 4   0051    https://leetcode.com/problems/n-queens/
 4   0052    https://leetcode.com/problems/n-queens-ii/
