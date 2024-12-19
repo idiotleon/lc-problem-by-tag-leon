@@ -56,6 +56,7 @@ Reference:
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0076    https://leetcode.com/problems/minimum-window-substring/

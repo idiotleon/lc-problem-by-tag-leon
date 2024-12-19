@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## By Topic
-# LR String
+# Left Right String
 
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/

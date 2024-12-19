@@ -7,6 +7,7 @@ Reference:
 ## Shifting the String
 
 3   0796    https://leetcode.com/problems/rotate-string/
+3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
