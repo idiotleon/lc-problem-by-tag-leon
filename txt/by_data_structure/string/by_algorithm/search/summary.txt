@@ -56,6 +56,7 @@ Reference:
 5   0425    https://leetcode.com/problems/word-squares/
 5   0472    https://leetcode.com/problems/concatenated-words/
 5   0736    https://leetcode.com/problems/parse-lisp-expression/
+5   0772    https://leetcode.com/problems/basic-calculator-iii/
 5   1044    https://leetcode.com/problems/longest-duplicate-substring/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/
 5   2060    https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
