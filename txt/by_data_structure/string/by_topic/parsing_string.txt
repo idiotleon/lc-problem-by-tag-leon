@@ -67,6 +67,7 @@ Reference:
 
 4   0043    https://leetcode.com/problems/multiply-strings/
 4   0065    https://leetcode.com/problems/valid-number/
+4   0224    https://leetcode.com/problems/basic-calculator/
 4   0227    https://leetcode.com/problems/basic-calculator-ii/
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
 4   0591    https://leetcode.com/problems/tag-validator/
@@ -75,7 +76,6 @@ Reference:
 4   0726    https://leetcode.com/problems/number-of-atoms/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 
-5   0224    https://leetcode.com/problems/basic-calculator/
 5   0282    https://leetcode.com/problems/expression-add-operators/
 5   0273    https://leetcode.com/problems/integer-to-english-words/
 5   0736    https://leetcode.com/problems/parse-lisp-expression/

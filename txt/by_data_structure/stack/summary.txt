@@ -66,6 +66,7 @@ Reference:
 4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0084    https://leetcode.com/problems/largest-rectangle-in-histogram/
 4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
+4   0224    https://leetcode.com/problems/basic-calculator/
 4   0227    https://leetcode.com/problems/basic-calculator-ii/
 4   0316    https://leetcode.com/problems/remove-duplicate-letters/
 4   0456    https://leetcode.com/problems/132-pattern/
@@ -90,7 +91,6 @@ Reference:
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 
 5   0085    https://leetcode.com/problems/maximal-rectangle/
-5   0224    https://leetcode.com/problems/basic-calculator/
 5   0772    https://leetcode.com/problems/basic-calculator-iii/
 5   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 5   1096    https://leetcode.com/problems/brace-expansion-ii/
