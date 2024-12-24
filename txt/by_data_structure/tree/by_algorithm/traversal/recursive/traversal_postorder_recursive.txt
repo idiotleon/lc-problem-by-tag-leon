@@ -63,5 +63,6 @@ Reference:
 4   0968    https://leetcode.com/problems/binary-tree-cameras/
 4   0979    https://leetcode.com/problems/distribute-coins-in-binary-tree/
 4   1373    https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+4   3203    https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
 
 5   0834    https://leetcode.com/problems/sum-of-distances-in-tree/

@@ -182,6 +182,7 @@ Reference:
 4   1516    https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/
 4   1569    https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
+4   3203    https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
 
 5   0099    https://leetcode.com/problems/recover-binary-search-tree/
 5   0315    https://leetcode.com/problems/count-of-smaller-numbers-after-self/

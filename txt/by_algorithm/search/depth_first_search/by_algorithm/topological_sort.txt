@@ -16,6 +16,7 @@ x3  1743    https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 
 4   1136    https://leetcode.com/problems/parallel-courses/
 4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+4   3203    https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
 
 5   1203    https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
