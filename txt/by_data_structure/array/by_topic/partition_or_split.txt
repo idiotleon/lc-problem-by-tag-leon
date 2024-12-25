@@ -4,7 +4,7 @@ Reference:
 
 
 ### Array
-# Partition Or Split
+# Partition or Split
 
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
@@ -33,3 +33,8 @@ TODO:
 # Partition or Split - Subarray
 
 4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array
+
+
+## Related Problem List
+
+pivot

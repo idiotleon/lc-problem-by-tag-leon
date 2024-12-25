@@ -1,0 +1,13 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Pivot
+
+2   0724    https://leetcode.com/problems/find-pivot-index/
+2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
+
+3   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
