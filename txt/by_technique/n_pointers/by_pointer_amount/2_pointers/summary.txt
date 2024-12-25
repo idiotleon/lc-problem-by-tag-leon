@@ -84,6 +84,7 @@ Reference:
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   0611    https://leetcode.com/problems/valid-triangle-number/
 3   0680    https://leetcode.com/problems/valid-palindrome-ii/
+3   0713    https://leetcode.com/problems/subarray-product-less-than-k/
 3   0763    https://leetcode.com/problems/partition-labels/description/
 3   0777    https://leetcode.com/problems/swap-adjacent-in-lr-string/
 3   0825    https://leetcode.com/problems/friends-of-appropriate-ages/
