@@ -10,9 +10,11 @@ Reference:
 1   1370    https://leetcode.com/problems/increasing-decreasing-string/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
+2   0724    https://leetcode.com/problems/find-pivot-index/
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
+2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/

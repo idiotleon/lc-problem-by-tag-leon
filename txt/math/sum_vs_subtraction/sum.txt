@@ -10,8 +10,10 @@ Reference:
 1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2235    https://leetcode.com/problems/add-two-integers/
 
+2   0724    https://leetcode.com/problems/find-pivot-index/
 2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2485   https://leetcode.com/problems/find-the-pivot-integer/
 

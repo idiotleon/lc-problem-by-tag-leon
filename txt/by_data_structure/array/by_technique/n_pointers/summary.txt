@@ -138,6 +138,7 @@ Reference:
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
