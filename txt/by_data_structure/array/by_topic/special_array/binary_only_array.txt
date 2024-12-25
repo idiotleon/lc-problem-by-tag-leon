@@ -1,0 +1,12 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Binary Only Array
+
+2   0485    https://leetcode.com/problems/max-consecutive-ones/
+
+3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
