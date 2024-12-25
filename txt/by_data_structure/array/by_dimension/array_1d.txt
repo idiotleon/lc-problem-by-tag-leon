@@ -185,6 +185,7 @@ Reference:
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
+2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/

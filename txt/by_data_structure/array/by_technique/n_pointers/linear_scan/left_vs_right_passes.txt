@@ -11,6 +11,7 @@ Reference:
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 

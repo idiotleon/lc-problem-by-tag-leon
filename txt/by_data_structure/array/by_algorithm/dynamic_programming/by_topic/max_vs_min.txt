@@ -8,6 +8,7 @@ Reference:
 # Maximum vs Minimum
 
 2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/

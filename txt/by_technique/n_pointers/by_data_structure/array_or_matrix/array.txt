@@ -123,6 +123,7 @@ Reference:
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
+2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/

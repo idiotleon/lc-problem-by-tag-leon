@@ -6,4 +6,6 @@ Reference:
 ### By Topic
 ## Suffix Sum
 
+2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
+
 4   1444    https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
