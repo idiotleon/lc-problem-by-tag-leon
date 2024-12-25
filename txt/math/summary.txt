@@ -88,6 +88,7 @@ Reference:
 3   0470    https://leetcode.com/problems/implement-rand10-using-rand7/
 3   0497    https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 3   0519    https://leetcode.com/problems/random-flip-matrix/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
 3   0593    https://leetcode.com/problems/valid-square/
 3   0611    https://leetcode.com/problems/valid-triangle-number/
 3   0670    https://leetcode.com/problems/maximum-swap/
