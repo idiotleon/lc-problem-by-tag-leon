@@ -314,6 +314,7 @@ Reference:
 3   0547    https://leetcode.com/problems/friend-circles/
 3   0548    https://leetcode.com/problems/split-array-with-equal-sum/
 3   0554    https://leetcode.com/problems/brick-wall/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   0558    https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0604    https://leetcode.com/problems/design-compressed-string-iterator/

@@ -37,6 +37,7 @@ Reference:
 3   0494    https://leetcode.com/problems/target-sum/
 3   0518    https://leetcode.com/problems/coin-change-2/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 3   0764    https://leetcode.com/problems/largest-plus-sign/

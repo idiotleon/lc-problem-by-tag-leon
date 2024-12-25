@@ -17,6 +17,7 @@ Reference:
 2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
+2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 2   1151    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
@@ -28,13 +29,13 @@ Reference:
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
-4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   0152    https://leetcode.com/problems/maximum-product-subarray/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 3   0220    https://leetcode.com/problems/contains-duplicate-iii/
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
 3   0325    https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 3   0484    https://leetcode.com/problems/find-permutation/
+3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/
 3   0525    https://leetcode.com/problems/contiguous-array/
 3   0548    https://leetcode.com/problems/split-array-with-equal-sum/
@@ -64,6 +65,7 @@ Reference:
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 
+4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0220    https://leetcode.com/problems/contains-duplicate-iii/
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0321    https://leetcode.com/problems/create-maximum-number/
