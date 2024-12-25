@@ -369,6 +369,7 @@ Reference:
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
 3   0966    https://leetcode.com/problems/vowel-spellchecker/
 3   0969    https://leetcode.com/problems/pancake-sorting/
+3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
 3   0986    https://leetcode.com/problems/interval-list-intersections/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/

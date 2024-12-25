@@ -10,6 +10,9 @@ Reference:
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
+3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
+
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 4   1655    https://leetcode.com/problems/distribute-repeating-integers/
 4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/

@@ -48,6 +48,7 @@ Reference:
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
 3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
 3   0935    https://leetcode.com/problems/knight-dialer/
+3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/
 3   1140    https://leetcode.com/problems/stone-game-ii/
