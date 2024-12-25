@@ -13,6 +13,7 @@ Reference:
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 
+4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0813    https://leetcode.com/problems/largest-sum-of-averages/
 4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/

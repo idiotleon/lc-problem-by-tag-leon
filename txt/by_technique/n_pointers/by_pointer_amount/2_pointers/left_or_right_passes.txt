@@ -9,4 +9,5 @@ Reference:
 
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 
+4   0042    https://leetcode.com/problems/trapping-rain-water/
 4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
