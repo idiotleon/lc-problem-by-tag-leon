@@ -31,6 +31,7 @@ Reference:
 2   0366    https://leetcode.com/problems/find-leaves-of-binary-tree/
 2   0404    https://leetcode.com/problems/sum-of-left-leaves/
 2   0501    https://leetcode.com/problems/find-mode-in-binary-search-tree/
+2   0515    https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 2   0530    https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 2   0563    https://leetcode.com/problems/binary-tree-tilt/
 2   0589    https://leetcode.com/problems/n-ary-tree-preorder-traversal/
