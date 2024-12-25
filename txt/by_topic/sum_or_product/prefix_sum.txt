@@ -10,6 +10,7 @@ Reference:
 
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
 3   0437    https://leetcode.com/problems/path-sum-iii/
+3   0523    https://leetcode.com/problems/continuous-subarray-sum/
 3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
 3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
