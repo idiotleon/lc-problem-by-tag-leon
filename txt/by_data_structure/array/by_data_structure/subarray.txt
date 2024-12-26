@@ -23,6 +23,7 @@ Reference:
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
+2   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
