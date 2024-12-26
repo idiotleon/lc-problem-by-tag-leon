@@ -51,6 +51,7 @@ Reference:
 4   1258    https://leetcode.com/problems/synonymous-sentences/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
+4   2707    https://leetcode.com/problems/extra-characters-in-a-string/
 
 5   0140    https://leetcode.com/problems/word-break-ii/
 5   0282    https://leetcode.com/problems/expression-add-operators/
@@ -68,4 +69,3 @@ Reference:
 6   0087    https://leetcode.com/problems/scramble-string/
 6   0488    https://leetcode.com/problems/zuma-game/
 6   0679    https://leetcode.com/problems/24-game/
-

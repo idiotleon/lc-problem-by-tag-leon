@@ -332,6 +332,7 @@ Reference:
 4   1900    https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/
 4   2360    https://leetcode.com/problems/longest-cycle-in-a-graph/
 4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
+4   2707    https://leetcode.com/problems/extra-characters-in-a-string/
 4   3203    https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
 
 5   0037    https://leetcode.com/problems/sudoku-solver/

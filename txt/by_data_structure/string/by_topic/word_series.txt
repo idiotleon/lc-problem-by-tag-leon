@@ -14,6 +14,7 @@ Reference:
 4   0126    https://leetcode.com/problems/word-ladder-ii/
 4   0127    https://leetcode.com/problems/word-ladder/
 4   0139    https://leetcode.com/problems/word-break/
+4   2707    https://leetcode.com/problems/extra-characters-in-a-string/
 
 5   0140    https://leetcode.com/problems/word-break/
 5   0212    https://leetcode.com/problems/word-search-ii/

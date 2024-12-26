@@ -48,6 +48,7 @@ Reference:
 4   1220    https://leetcode.com/problems/count-vowels-permutation/
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   1320    https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
+4   2707    https://leetcode.com/problems/extra-characters-in-a-string/
 
 5   0282    https://leetcode.com/problems/expression-add-operators/
 5   0291    https://leetcode.com/problems/word-pattern-ii/
