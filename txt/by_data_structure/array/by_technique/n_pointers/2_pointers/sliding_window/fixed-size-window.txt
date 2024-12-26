@@ -19,3 +19,4 @@ Reference:
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+4   2772    https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/

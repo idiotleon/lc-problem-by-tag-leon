@@ -268,6 +268,7 @@ Reference:
 4   1574    https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
+4   2772    https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/
 
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 

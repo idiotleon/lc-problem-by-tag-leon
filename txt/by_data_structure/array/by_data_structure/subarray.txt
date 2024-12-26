@@ -101,6 +101,7 @@ Reference:
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/
+4   2772    https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/
 5   0493    https://leetcode.com/problems/reverse-pairs/
@@ -111,3 +112,30 @@ Reference:
 
 Resource:
     https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC++Python-Sliding-Window/556706
+
+
+
+
+Not yet fully done
+subarray - sliding window
+
+2   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
+2   1493    https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+2   2730    https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/
+
+3   0904    https://leetcode.com/problems/fruit-into-baskets/
+3   0930    https://leetcode.com/problems/binary-subarrays-with-sum/
+3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/
+3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+3   2401    https://leetcode.com/problems/longest-nice-subarray/
+3   2537    https://leetcode.com/problems/count-the-number-of-good-subarrays/
+
+4   0862    https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
+4   1234    https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+4   1425    https://leetcode.com/problems/constrained-subsequence-sum/
+4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
+4   2555    https://leetcode.com/problems/maximize-win-from-two-segments/
+4   2772    https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/
