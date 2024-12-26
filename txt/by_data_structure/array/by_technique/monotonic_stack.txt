@@ -20,3 +20,4 @@ Reference:
 4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+4   2289    https://leetcode.com/problems/steps-to-make-array-non-decreasing/

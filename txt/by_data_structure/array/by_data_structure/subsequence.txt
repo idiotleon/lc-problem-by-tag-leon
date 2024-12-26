@@ -35,6 +35,7 @@ Reference:
 4   1458    https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 4   1819    https://leetcode.com/problems/number-of-different-subsequences-gcds/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+4   2289    https://leetcode.com/problems/steps-to-make-array-non-decreasing/
 
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/
 5   0493    https://leetcode.com/problems/reverse-pairs/
