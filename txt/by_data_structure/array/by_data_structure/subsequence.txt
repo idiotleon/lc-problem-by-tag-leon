@@ -7,6 +7,7 @@ Reference:
 # Subsequence
 
 2   0413    https://leetcode.com/problems/arithmetic-slices/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/

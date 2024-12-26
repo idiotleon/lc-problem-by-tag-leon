@@ -214,6 +214,7 @@ Reference:
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/

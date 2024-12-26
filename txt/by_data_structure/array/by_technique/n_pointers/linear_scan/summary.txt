@@ -114,6 +114,7 @@ Reference:
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
 2   2202    https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/

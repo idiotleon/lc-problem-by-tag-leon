@@ -7,6 +7,7 @@ Reference:
 ## Interval
 
 2   1272    https://leetcode.com/problems/remove-interval/
+2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
