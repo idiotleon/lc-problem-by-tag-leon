@@ -79,6 +79,7 @@ Reference:
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1535    https://leetcode.com/problems/find-the-index-of-the-large-integer/
 3   1690    https://leetcode.com/problems/stone-game-vii/
+3   1760    https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1898    https://leetcode.com/problems/maximum-number-of-removable-characters/
 3   1891    https://leetcode.com/problems/cutting-ribbons/

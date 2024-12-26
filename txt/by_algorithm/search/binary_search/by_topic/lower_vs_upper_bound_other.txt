@@ -25,6 +25,7 @@ Reference:
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/
+3   1760    https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 3   1954    https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
 3   2387    https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/
 
@@ -49,6 +50,7 @@ Reference:
 3   1060    https://leetcode.com/problems/missing-element-in-sorted-array/
 3   1283    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 3   1482    https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3   1760    https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 3   1954    https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
 
 

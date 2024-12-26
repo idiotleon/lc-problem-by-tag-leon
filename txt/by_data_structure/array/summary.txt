@@ -436,6 +436,7 @@ Reference:
 3   1690    https://leetcode.com/problems/stone-game-vii/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
+3   1760    https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 3   1792    https://leetcode.com/problems/maximum-average-pass-ratio/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1826    https://leetcode.com/problems/faulty-sensor/
