@@ -12,6 +12,7 @@ Reference:
 2   1167    https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 
 3   0377    https://leetcode.com/problems/combination-sum-iv/
+3   0494    https://leetcode.com/problems/target-sum/
 3   0877    https://leetcode.com/problems/stone-game/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1197    https://leetcode.com/problems/minimum-knight-moves/

@@ -32,6 +32,7 @@ Reference:
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0494    https://leetcode.com/problems/target-sum/
 3   0718    https://leetcode.com/problems/maximum-length-of-repeated-subarray
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0877    https://leetcode.com/problems/stone-game/s

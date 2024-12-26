@@ -18,6 +18,7 @@ Reference:
 
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
+3   0494    https://leetcode.com/problems/target-sum/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1314    https://leetcode.com/problems/matrix-block-sum/

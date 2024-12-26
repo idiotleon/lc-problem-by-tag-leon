@@ -19,6 +19,7 @@ Reference:
 2   2485    https://leetcode.com/problems/find-the-pivot-integer/
 
 3   0306    https://leetcode.com/problems/additive-number/
+3   0494    https://leetcode.com/problems/target-sum/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   0873    https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/

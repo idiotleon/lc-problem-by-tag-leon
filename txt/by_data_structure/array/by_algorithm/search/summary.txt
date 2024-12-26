@@ -52,8 +52,8 @@ Reference:
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0436    https://leetcode.com/problems/find-right-interval/
-3   0494    https://leetcode.com/problems/target-sum/
 3   0491    https://leetcode.com/problems/increasing-subsequences/
+3   0494    https://leetcode.com/problems/target-sum/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0658    https://leetcode.com/problems/find-k-closest-elements/

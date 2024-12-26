@@ -28,6 +28,7 @@ Reference:
 3   0377    https://leetcode.com/problems/combination-sum-iv/
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
+3   0494    https://leetcode.com/problems/target-sum/
 3   0583    https://leetcode.com/problems/delete-operation-for-two-strings/
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0666    https://leetcode.com/problems/path-sum-iv/
