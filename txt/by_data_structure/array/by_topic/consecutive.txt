@@ -92,6 +92,7 @@ Reference:
 4   1563    https://leetcode.com/problems/stone-game-v/
 4   1856    https://leetcode.com/problems/maximum-subarray-min-product/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+4   2009    https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
 5   0327    https://leetcode.com/problems/count-of-range-sum/

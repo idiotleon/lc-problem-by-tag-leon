@@ -63,6 +63,7 @@ Reference:
 4   0992    https://leetcode.com/problems/subarrays-with-k-different-integers/
 4   0995    https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   2009    https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
 
 
 

@@ -468,6 +468,7 @@ Reference:
 4   1889    https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
+4   2009    https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
 4   2354    https://leetcode.com/problems/number-of-excellent-pairs/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 4   2547    https://leetcode.com/problems/minimum-cost-to-split-an-array/

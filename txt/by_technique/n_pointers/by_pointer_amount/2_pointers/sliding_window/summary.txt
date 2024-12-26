@@ -81,6 +81,7 @@ Reference:
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 4   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 4   1499    https://leetcode.com/problems/max-value-of-equation/
+4   2009    https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 
