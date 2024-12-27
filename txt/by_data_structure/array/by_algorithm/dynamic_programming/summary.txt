@@ -51,6 +51,7 @@ Reference:
 3   0935    https://leetcode.com/problems/knight-dialer/
 3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/

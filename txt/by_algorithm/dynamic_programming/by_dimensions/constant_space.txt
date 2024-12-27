@@ -29,6 +29,7 @@ Reference:
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   0714    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   2130    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/

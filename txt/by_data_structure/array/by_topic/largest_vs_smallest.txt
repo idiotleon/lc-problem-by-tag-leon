@@ -29,6 +29,7 @@ Reference:
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   3011    https://leetcode.com/problems/find-if-array-can-be-sorted/
 

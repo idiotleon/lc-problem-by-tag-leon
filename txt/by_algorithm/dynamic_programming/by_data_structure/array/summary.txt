@@ -37,6 +37,7 @@ Reference:
 3   0834    https://leetcode.com/problems/binary-trees-with-factors/
 3   0877    https://leetcode.com/problems/stone-game/s
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
 3   1477    https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/

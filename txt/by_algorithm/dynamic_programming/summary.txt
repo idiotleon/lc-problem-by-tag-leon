@@ -86,6 +86,7 @@ Reference:
 3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
 3   0935    https://leetcode.com/problems/knight-dialer/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1139    https://leetcode.com/problems/largest-1-bordered-square/

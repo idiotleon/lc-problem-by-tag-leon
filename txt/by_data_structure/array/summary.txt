@@ -377,6 +377,7 @@ Reference:
 3   0986    https://leetcode.com/problems/interval-list-intersections/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1020    https://leetcode.com/problems/number-of-enclaves/
 3   1031    https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 3   1033    https://leetcode.com/problems/moving-stones-until-consecutive/

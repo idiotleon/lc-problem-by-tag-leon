@@ -63,6 +63,7 @@ Reference:
 3   0931    https://leetcode.com/problems/minimum-falling-path-sum/
 3   0935    https://leetcode.com/problems/knight-dialer/
 3   0978    https://leetcode.com/problems/longest-turbulent-subarray/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1048    https://leetcode.com/problems/longest-string-chain/
 3   1140    https://leetcode.com/problems/stone-game-ii/
 3   1143    https://leetcode.com/problems/longest-common-subsequence/

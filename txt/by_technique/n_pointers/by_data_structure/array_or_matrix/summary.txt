@@ -189,6 +189,7 @@ Reference:
 3   0974    https://leetcode.com/problems/subarray-sums-divisible-by-k/
 3   0986    https://leetcode.com/problems/interval-list-intersections/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1089    https://leetcode.com/problems/duplicate-zeros/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/

@@ -172,6 +172,7 @@ Reference:
 3   0904    https://leetcode.com/problems/fruit-into-baskets/
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   0986    https://leetcode.com/problems/interval-list-intersections/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 3   1198    https://leetcode.com/problems/find-smallest-common-element-in-all-rows/
 3   1248    https://leetcode.com/problems/count-number-of-nice-subarrays/

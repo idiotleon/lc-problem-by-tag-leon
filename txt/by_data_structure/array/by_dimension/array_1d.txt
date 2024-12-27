@@ -125,6 +125,7 @@ Reference:
 2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
 2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
