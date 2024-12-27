@@ -18,6 +18,7 @@ Reference:
 2   0971    https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
+2   2265    https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
 3   0101    https://leetcode.com/problems/symmetric-tree/

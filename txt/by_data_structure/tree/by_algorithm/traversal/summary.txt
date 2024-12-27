@@ -49,6 +49,7 @@ Reference:
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1973    https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/
+2   2265    https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
 3   0101    https://leetcode.com/problems/symmetric-tree/

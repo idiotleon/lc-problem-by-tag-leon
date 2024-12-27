@@ -31,6 +31,7 @@ Reference:
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1973    https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/
+2   2265    https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
