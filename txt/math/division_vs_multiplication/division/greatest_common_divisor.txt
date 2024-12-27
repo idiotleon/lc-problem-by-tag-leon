@@ -10,6 +10,7 @@ Reference:
 
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1447    https://leetcode.com/problems/simplified-fractions/
+2   2427    https://leetcode.com/problems/number-of-common-factors/
 
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
 3   0914    https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/

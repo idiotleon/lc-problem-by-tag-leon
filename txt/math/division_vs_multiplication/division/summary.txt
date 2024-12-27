@@ -14,6 +14,7 @@ Reference:
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
+2   2427    https://leetcode.com/problems/number-of-common-factors/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0279    https://leetcode.com/problems/perfect-squares/
