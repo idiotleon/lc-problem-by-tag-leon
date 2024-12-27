@@ -70,6 +70,7 @@ Reference:
 1   2351    https://leetcode.com/problems/first-letter-to-appear-twice/
 1   2390    https://leetcode.com/problems/removing-stars-from-a-string/
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+1   3110    https://leetcode.com/problems/score-of-a-string/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0022    https://leetcode.com/problems/generate-parentheses/

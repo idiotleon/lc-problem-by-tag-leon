@@ -140,6 +140,7 @@ Reference:
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
+1   3110    https://leetcode.com/problems/score-of-a-string/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
