@@ -13,6 +13,7 @@ Reference:
 1   1556    https://leetcode.com/problems/thousand-separator/
 1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
