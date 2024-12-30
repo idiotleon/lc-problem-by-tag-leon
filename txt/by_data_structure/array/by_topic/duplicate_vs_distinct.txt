@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Duplicate vs Distinct
+
+2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/

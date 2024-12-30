@@ -56,6 +56,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 2   2785    https://leetcode.com/problems/sort-vowels-in-a-string/
+2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
