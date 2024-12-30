@@ -215,6 +215,7 @@ Reference:
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
+2   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/

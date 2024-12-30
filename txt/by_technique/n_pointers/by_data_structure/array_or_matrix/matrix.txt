@@ -15,6 +15,7 @@ Reference:
 2   1272    https://leetcode.com/problems/remove-interval/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+2   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
