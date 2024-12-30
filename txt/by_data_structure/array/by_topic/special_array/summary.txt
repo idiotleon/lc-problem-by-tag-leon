@@ -14,6 +14,7 @@ Reference:
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0852    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
+2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/

@@ -8,6 +8,7 @@ Reference:
 # Pivot
 
 2   0724    https://leetcode.com/problems/find-pivot-index/
+2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 
 3   2219    https://leetcode.com/problems/maximum-sum-score-of-array/

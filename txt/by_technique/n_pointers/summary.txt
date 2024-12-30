@@ -245,6 +245,7 @@ Reference:
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   1694    https://leetcode.com/problems/reformat-phone-number/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
+2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1805    https://leetcode.com/problems/number-of-different-integers-in-a-string/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/

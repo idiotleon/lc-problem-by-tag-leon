@@ -110,6 +110,7 @@ Reference:
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
