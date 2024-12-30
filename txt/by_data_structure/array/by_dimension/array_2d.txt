@@ -46,6 +46,7 @@ Reference:
 2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
+2   2303    https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
