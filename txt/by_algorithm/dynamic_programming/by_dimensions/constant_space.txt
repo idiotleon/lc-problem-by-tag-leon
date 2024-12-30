@@ -32,6 +32,7 @@ Reference:
 3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1262    https://leetcode.com/problems/greatest-sum-divisible-by-three/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+3   1746    https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/
 3   2130    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 

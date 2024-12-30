@@ -31,6 +31,7 @@ Reference:
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+3   1746    https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/
 3   3011    https://leetcode.com/problems/find-if-array-can-be-sorted/
 
 4   1438    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/

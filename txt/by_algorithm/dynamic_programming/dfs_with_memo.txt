@@ -25,6 +25,7 @@ Reference:
 3   1155    https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   1690    https://leetcode.com/problems/stone-game-vii/
+3   1746    https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/
 3   2304    https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 3   2400    https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/

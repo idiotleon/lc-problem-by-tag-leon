@@ -44,6 +44,7 @@ Reference:
 3   1306    https://leetcode.com/problems/jump-game-iii/
 3   1376    https://leetcode.com/problems/time-needed-to-inform-all-employees/
 3   1690    https://leetcode.com/problems/stone-game-vii/
+3   1746    https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/
 3   1905    https://leetcode.com/problems/count-sub-islands/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/

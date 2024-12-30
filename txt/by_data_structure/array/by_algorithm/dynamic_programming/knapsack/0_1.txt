@@ -11,6 +11,7 @@ Reference:
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0494    https://leetcode.com/problems/target-sum/
 3   0923    https://leetcode.com/problems/3sum-with-multiplicity/
+3   1746    https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/
 
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0473    https://leetcode.com/problems/matchsticks-to-square/
