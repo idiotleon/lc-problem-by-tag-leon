@@ -74,6 +74,7 @@ Reference:
 1   2500    https://leetcode.com/problems/delete-greatest-value-in-each-row/
 1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/
 1   2558    https://leetcode.com/problems/take-gifts-from-the-richest-pile/
+1   2678    https://leetcode.com/problems/number-of-senior-citizens/
 
 2   0001    https://leetcode.com/problems/two-sum/
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/

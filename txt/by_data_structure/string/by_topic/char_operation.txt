@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Character Operation
 
+1   2678    https://leetcode.com/problems/number-of-senior-citizens/
+
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 
 3   0306    https://leetcode.com/problems/additive-number/

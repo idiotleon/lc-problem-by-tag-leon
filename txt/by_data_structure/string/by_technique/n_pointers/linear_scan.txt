@@ -63,6 +63,7 @@ Reference:
 1   2224    https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 1   2351    https://leetcode.com/problems/first-letter-to-appear-twice/
 1   2390    https://leetcode.com/problems/removing-stars-from-a-string/
+1   2678    https://leetcode.com/problems/number-of-senior-citizens/
 1   3110    https://leetcode.com/problems/score-of-a-string/
 
 2   0038    https://leetcode.com/problems/count-and-say/
