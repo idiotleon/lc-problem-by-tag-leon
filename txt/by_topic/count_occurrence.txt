@@ -56,6 +56,7 @@ Reference:
 3   2300    https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
+3   2466    https://leetcode.com/problems/count-ways-to-build-good-strings/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/

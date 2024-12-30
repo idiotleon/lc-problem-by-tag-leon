@@ -7,4 +7,6 @@ Reference:
 ## Special Number
 # Good Number
 
+3   2466    https://leetcode.com/problems/count-ways-to-build-good-strings/
+
 4   0788    https://leetcode.com/problems/rotated-digits/
