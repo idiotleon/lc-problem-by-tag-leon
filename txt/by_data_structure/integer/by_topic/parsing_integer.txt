@@ -7,6 +7,7 @@ Reference:
 # Parsing Integer
 
 1   0693    https://leetcode.com/problems/binary-number-with-alternating-bits/
+1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   1134    https://leetcode.com/problems/armstrong-number/
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/

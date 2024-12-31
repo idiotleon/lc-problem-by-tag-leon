@@ -7,6 +7,7 @@ Reference:
 ## Special Number
 # Summary
 
+1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   1056    https://leetcode.com/problems/confusing-number/
 1   1134    https://leetcode.com/problems/armstrong-number/
 1   2180    https://leetcode.com/problems/count-integers-with-even-digit-sum/

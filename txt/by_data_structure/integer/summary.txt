@@ -14,6 +14,7 @@ Reference:
 1   0412    https://leetcode.com/problems/fizz-buzz/
 1   0509    https://leetcode.com/problems/fibonacci-number/
 1   0693    https://leetcode.com/problems/binary-number-with-alternating-bits/
+1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 1   1304    https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/

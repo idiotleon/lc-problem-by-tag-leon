@@ -6,6 +6,7 @@ Reference:
 ### By Topic
 # Count Occurrence
 
+1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   1385    https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 1   1295    https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 1   1399    https://leetcode.com/problems/count-largest-group/

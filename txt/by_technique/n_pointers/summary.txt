@@ -35,6 +35,7 @@ Reference:
 1   0682    https://leetcode.com/problems/baseball-game/
 1   0697    https://leetcode.com/problems/degree-of-an-array/
 1   0709    https://leetcode.com/problems/to-lower-case/
+1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 1   0771    https://leetcode.com/problems/jewels-and-stones/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/

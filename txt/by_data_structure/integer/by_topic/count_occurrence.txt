@@ -7,6 +7,7 @@ Reference:
 # Count Occurrence
 
 1   0062    https://leetcode.com/problems/unique-paths/
+1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   1399    https://leetcode.com/problems/count-largest-group/
 1   1556    https://leetcode.com/problems/thousand-separator/
 1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
