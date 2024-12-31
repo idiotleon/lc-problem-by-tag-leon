@@ -386,6 +386,7 @@ Reference:
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 3   1630    https://leetcode.com/problems/arithmetic-subarrays/
 3   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+3   1652    https://leetcode.com/problems/defuse-the-bomb/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/

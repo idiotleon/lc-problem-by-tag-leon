@@ -60,6 +60,7 @@ Reference:
 3   1546    https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 3   1590    https://leetcode.com/problems/make-sum-divisible-by-p/
 3   1630    https://leetcode.com/problems/arithmetic-subarrays/
+3   1652    https://leetcode.com/problems/defuse-the-bomb/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1695    https://leetcode.com/problems/maximum-erasure-value/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/

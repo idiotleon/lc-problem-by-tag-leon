@@ -183,6 +183,7 @@ Reference:
 3   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   1630    https://leetcode.com/problems/arithmetic-subarrays/
+3   1652    https://leetcode.com/problems/defuse-the-bomb/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
