@@ -125,6 +125,7 @@ Reference:
 3   1538    https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/
 3   1594    https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 3   1792    https://leetcode.com/problems/maximum-average-pass-ratio/
+3   1886    https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 3   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 3   1901    https://leetcode.com/problems/find-a-peak-element-ii/
 3   1905    https://leetcode.com/problems/count-sub-islands/

@@ -237,6 +237,7 @@ Reference:
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
+3   1886    https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 3   1995    https://leetcode.com/problems/count-special-quadruplets/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/

@@ -395,6 +395,7 @@ Reference:
 3   1826    https://leetcode.com/problems/faulty-sensor/
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 3   1868    https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/
+3   1886    https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 3   1914    https://leetcode.com/problems/cyclically-rotating-a-grid/
 3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/

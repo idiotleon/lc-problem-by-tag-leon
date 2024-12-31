@@ -26,6 +26,7 @@ Reference:
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+3   1886    https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/
 

@@ -306,6 +306,7 @@ Reference:
 3   1630    https://leetcode.com/problems/arithmetic-subarrays/
 3   1652    https://leetcode.com/problems/defuse-the-bomb/
 3   1759    https://leetcode.com/problems/count-number-of-homogenous-substrings/
+3   1886    https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
