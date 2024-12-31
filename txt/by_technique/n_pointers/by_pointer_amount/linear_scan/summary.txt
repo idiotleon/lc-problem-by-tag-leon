@@ -151,6 +151,7 @@ Reference:
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
+2   0507    https://leetcode.com/problems/perfect-number/
 2   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
 2   0551    https://leetcode.com/problems/student-attendance-record-i/
 2   0566    https://leetcode.com/problems/reshape-the-matrix/

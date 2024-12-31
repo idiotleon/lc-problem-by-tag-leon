@@ -38,6 +38,7 @@ Reference:
 2   0342    https://leetcode.com/problems/power-of-four/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   0385    https://leetcode.com/problems/mini-parser/
+2   0507    https://leetcode.com/problems/perfect-number/
 2   0544    https://leetcode.com/problems/output-contest-matches/
 2   0970    https://leetcode.com/problems/powerful-integers/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/

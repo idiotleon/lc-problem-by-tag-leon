@@ -14,6 +14,7 @@ Reference:
 1   2180    https://leetcode.com/problems/count-integers-with-even-digit-sum/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 
+2   0507    https://leetcode.com/problems/perfect-number/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 

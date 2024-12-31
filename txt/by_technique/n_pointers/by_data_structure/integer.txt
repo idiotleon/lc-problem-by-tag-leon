@@ -17,6 +17,7 @@ Reference:
 1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 
+2   0507    https://leetcode.com/problems/perfect-number/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/

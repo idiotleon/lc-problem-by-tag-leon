@@ -15,6 +15,7 @@ Reference:
 2   0136    https://leetcode.com/problems/single-number/
 2   0246    https://leetcode.com/problems/strobogrammatic-number/
 2   0263    https://leetcode.com/problems/ugly-number/
+2   0507    https://leetcode.com/problems/perfect-number/
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
 2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
