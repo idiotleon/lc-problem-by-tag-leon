@@ -42,6 +42,7 @@ Reference:
 2   1657    https://leetcode.com/problems/determine-if-two-strings-are-close/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 

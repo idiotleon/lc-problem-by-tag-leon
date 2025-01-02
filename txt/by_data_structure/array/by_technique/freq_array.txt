@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Technique
+# Frequency Array
+
+2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
