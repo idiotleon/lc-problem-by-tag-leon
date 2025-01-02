@@ -11,6 +11,7 @@ Reference:
 1   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
+1   2011    https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
 1   2418    https://leetcode.com/problems/sort-the-people/
 1   2490    https://leetcode.com/problems/circular-sentence/
