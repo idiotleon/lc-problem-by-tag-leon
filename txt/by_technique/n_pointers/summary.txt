@@ -222,6 +222,7 @@ Reference:
 2   1243    https://leetcode.com/problems/array-transformation/
 2   1272    https://leetcode.com/problems/remove-interval/
 2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+2   1309    https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 2   1328    https://leetcode.com/problems/break-a-palindrome/description/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/

@@ -44,6 +44,7 @@ Reference:
 2   0991    https://leetcode.com/problems/broken-calculator/
 2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 2   1025    https://leetcode.com/problems/divisor-game/
+2   1309    https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
 2   1399    https://leetcode.com/problems/count-largest-group/
 2   1447    https://leetcode.com/problems/simplified-fractions/

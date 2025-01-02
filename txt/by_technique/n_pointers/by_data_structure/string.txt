@@ -88,6 +88,7 @@ Reference:
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1002    https://leetcode.com/problems/find-common-characters/
 2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
+2   1309    https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 2   1328    https://leetcode.com/problems/break-a-palindrome/description/
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/

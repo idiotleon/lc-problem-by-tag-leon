@@ -32,6 +32,7 @@ Reference:
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1309    https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 2   1668    https://leetcode.com/problems/maximum-repeating-substring/
