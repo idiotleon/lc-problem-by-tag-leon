@@ -264,6 +264,7 @@ Reference:
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/

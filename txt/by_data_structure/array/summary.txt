@@ -208,6 +208,7 @@ Reference:
 2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/

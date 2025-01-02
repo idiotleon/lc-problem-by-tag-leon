@@ -144,6 +144,7 @@ Reference:
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/

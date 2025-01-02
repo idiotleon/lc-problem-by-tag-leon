@@ -15,6 +15,7 @@ Reference:
 2   1176    https://leetcode.com/problems/diet-plan-performance/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 
 3   2134    https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 

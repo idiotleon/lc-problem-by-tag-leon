@@ -44,6 +44,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
+2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   2094    https://leetcode.com/problems/finding-3-digit-even-numbers/
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/

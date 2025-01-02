@@ -28,6 +28,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1877    https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
+2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 2   2279    https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
