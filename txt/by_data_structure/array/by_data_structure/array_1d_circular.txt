@@ -16,6 +16,7 @@ Reference:
 2   1184    https://leetcode.com/problems/distance-between-bus-stops/
 2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+2   3206    https://leetcode.com/problems/alternating-groups-i/
 
 3   0134    https://leetcode.com/problems/gas-station/
 3   0379    https://leetcode.com/problems/design-phone-directory/

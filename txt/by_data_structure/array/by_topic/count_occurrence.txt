@@ -28,6 +28,7 @@ Reference:
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
+2   3206    https://leetcode.com/problems/alternating-groups-i/
 
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
