@@ -11,6 +11,7 @@ Reference:
 1   2413    https://leetcode.com/problems/smallest-even-multiple/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 
+2   0507    https://leetcode.com/problems/perfect-number/
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
