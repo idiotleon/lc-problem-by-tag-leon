@@ -20,6 +20,7 @@ Reference:
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/

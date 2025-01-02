@@ -52,6 +52,7 @@ Reference:
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
+2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   1952    https://leetcode.com/problems/three-divisors/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 2   2139    https://leetcode.com/problems/minimum-moves-to-reach-target-score/
