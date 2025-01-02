@@ -8,3 +8,4 @@ Reference:
 # Duplicate vs Distinct
 
 2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/

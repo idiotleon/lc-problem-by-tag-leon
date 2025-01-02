@@ -165,6 +165,7 @@ Reference:
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/
