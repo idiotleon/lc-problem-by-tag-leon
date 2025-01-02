@@ -33,6 +33,7 @@ Reference:
 2   0789    https://leetcode.com/problems/escape-the-ghosts/
 2   0832    https://leetcode.com/problems/flipping-an-image/
 2   0885    https://leetcode.com/problems/spiral-matrix-iii/
+2   0867    https://leetcode.com/problems/transpose-matrix/
 2   0997    https://leetcode.com/problems/find-the-town-judge/
 2   1029    https://leetcode.com/problems/two-city-scheduling/
 2   1182    https://leetcode.com/problems/shortest-distance-to-target-color/

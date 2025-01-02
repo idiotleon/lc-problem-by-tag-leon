@@ -23,6 +23,7 @@ Reference:
 1   0747    https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 1   0766    https://leetcode.com/problems/toeplitz-matrix/
 1   0830    https://leetcode.com/problems/positions-of-large-groups/
+1   0867    https://leetcode.com/problems/transpose-matrix/
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
 1   0977    https://leetcode.com/problems/squares-of-a-sorted-array/
