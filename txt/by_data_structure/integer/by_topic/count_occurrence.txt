@@ -13,6 +13,7 @@ Reference:
 1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2180    https://leetcode.com/problems/count-integers-with-even-digit-sum/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+1   2595    https://leetcode.com/problems/number-of-even-and-odd-bits/
 
 2   0507    https://leetcode.com/problems/perfect-number/
 2   1399    https://leetcode.com/problems/count-largest-group/
