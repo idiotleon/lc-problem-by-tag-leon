@@ -10,6 +10,7 @@ Reference:
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
+2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
 
 3   0554    https://leetcode.com/problems/brick-wall/
 3   1712    https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/

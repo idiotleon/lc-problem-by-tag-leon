@@ -38,6 +38,7 @@ Reference:
 2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
+2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0053    https://leetcode.com/problems/maximum-subarray/

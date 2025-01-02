@@ -250,6 +250,7 @@ Reference:
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/

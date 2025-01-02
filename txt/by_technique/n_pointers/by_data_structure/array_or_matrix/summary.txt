@@ -146,6 +146,7 @@ Reference:
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
