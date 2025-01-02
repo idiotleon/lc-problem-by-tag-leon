@@ -91,6 +91,7 @@ Reference:
 2   0997    https://leetcode.com/problems/find-the-town-judge/
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1103    https://leetcode.com/problems/distribute-candies-to-people/
+2   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 2   1184    https://leetcode.com/problems/distance-between-bus-stops/
 2   1213    https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 2   1217    https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
@@ -104,13 +105,13 @@ Reference:
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 2   1460    https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
+2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
-2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/

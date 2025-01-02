@@ -22,6 +22,7 @@ Reference:
 2   0744    https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 2   0784    https://leetcode.com/problems/letter-case-permutation/
 2   0944    https://leetcode.com/problems/delete-columns-to-make-sorted/
+2   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 2   1366    https://leetcode.com/problems/rank-teams-by-votes/
 2   1436    https://leetcode.com/problems/destination-city/

@@ -17,6 +17,7 @@ Reference:
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0507    https://leetcode.com/problems/perfect-number/
 2   0605    https://leetcode.com/problems/can-place-flowers/
+2   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
