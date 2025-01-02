@@ -24,6 +24,7 @@ Reference:
 1   2177    https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 1   2235    https://leetcode.com/problems/add-two-integers/
 1   2413    https://leetcode.com/problems/smallest-even-multiple/
+1   2469    https://leetcode.com/problems/convert-the-temperature/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
