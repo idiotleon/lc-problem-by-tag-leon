@@ -7,6 +7,8 @@ Reference:
 ### Union Find
 # Array
 
+2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
+
 3   0737    https://leetcode.com/problems/sentence-similarity-ii/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/

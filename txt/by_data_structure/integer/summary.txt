@@ -18,7 +18,6 @@ Reference:
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 1   1304    https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 1   1342    https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
-1   1399    https://leetcode.com/problems/count-largest-group/
 1   1556    https://leetcode.com/problems/thousand-separator/
 1   1742    https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 1   2180    https://leetcode.com/problems/count-integers-with-even-digit-sum/
@@ -46,6 +45,7 @@ Reference:
 2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 2   1025    https://leetcode.com/problems/divisor-game/
 2   1387    https://leetcode.com/problems/sort-integers-by-the-power-value/
+2   1399    https://leetcode.com/problems/count-largest-group/
 2   1447    https://leetcode.com/problems/simplified-fractions/
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/

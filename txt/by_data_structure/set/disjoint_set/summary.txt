@@ -7,6 +7,8 @@ References:
 ### Union Find
 # Summary
 
+2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
+
 3   0200    https://leetcode.com/problems/number-of-islands/
 3   0261    https://leetcode.com/problems/graph-valid-tree/
 3   0323    https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/

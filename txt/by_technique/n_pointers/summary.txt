@@ -58,7 +58,6 @@ Reference:
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 1   1370    https://leetcode.com/problems/increasing-decreasing-string/
 1   1385    https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
-1   1399    https://leetcode.com/problems/count-largest-group/
 1   1417    https://leetcode.com/problems/reformat-the-string/
 1   1431    https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 1   1446    https://leetcode.com/problems/consecutive-characters/
@@ -224,6 +223,7 @@ Reference:
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
+2   1399    https://leetcode.com/problems/count-largest-group/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1436    https://leetcode.com/problems/destination-city/
 2   1437    https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
