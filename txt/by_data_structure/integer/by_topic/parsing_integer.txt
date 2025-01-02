@@ -17,6 +17,7 @@ Reference:
 2   0507    https://leetcode.com/problems/perfect-number/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+2   2160    https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
 2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
