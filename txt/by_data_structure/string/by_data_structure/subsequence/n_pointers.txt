@@ -13,6 +13,7 @@ Reference:
 1   1768    https://leetcode.com/problems/merge-strings-alternately/
 
 2   0844    https://leetcode.com/problems/backspace-string-compare/
+2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   1023    https://leetcode.com/problems/camelcase-matching/

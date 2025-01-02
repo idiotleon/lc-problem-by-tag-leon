@@ -126,6 +126,7 @@ Reference:
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
