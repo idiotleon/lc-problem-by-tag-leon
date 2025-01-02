@@ -26,6 +26,7 @@ Reference:
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 2   2373    https://leetcode.com/problems/largest-local-values-in-a-matrix/
+2   2656    https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/

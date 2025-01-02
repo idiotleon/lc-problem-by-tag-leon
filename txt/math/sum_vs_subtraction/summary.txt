@@ -18,6 +18,7 @@ Reference:
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2218    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2485    https://leetcode.com/problems/find-the-pivot-integer/
+2   2656    https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 
 3   0306    https://leetcode.com/problems/additive-number/
 3   0494    https://leetcode.com/problems/target-sum/
