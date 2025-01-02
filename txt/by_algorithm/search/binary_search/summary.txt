@@ -34,6 +34,7 @@ Reference:
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
 2   2485    https://leetcode.com/problems/find-the-pivot-integer/
+2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0050    https://leetcode.com/problems/powx-n/

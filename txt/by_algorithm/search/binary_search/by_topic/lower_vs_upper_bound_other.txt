@@ -17,6 +17,7 @@ Reference:
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
+2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 
 ?3  0069    https://leetcode.com/problems/sqrtx/
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
@@ -43,6 +44,7 @@ Reference:
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
+2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 
 3   0209    https://leetcode.com/problems/minimum-size-subarray-sum/
 3   0378    https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
@@ -60,6 +62,7 @@ Reference:
 
 2   1170    https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 2   1365    https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 
 ?3  0069    https://leetcode.com/problems/sqrtx/
 3   1552    https://leetcode.com/problems/magnetic-force-between-two-balls/

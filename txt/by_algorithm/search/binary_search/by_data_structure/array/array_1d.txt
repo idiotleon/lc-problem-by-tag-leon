@@ -27,6 +27,7 @@ Reference:
 2   1539    https://leetcode.com/problems/kth-missing-positive-number/
 2   2089    https://leetcode.com/problems/find-target-indices-after-sorting-array/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
+2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0153    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/

@@ -32,6 +32,7 @@ Reference:
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   2187    https://leetcode.com/problems/minimum-time-to-complete-trips/
+2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0039    https://leetcode.com/problems/combination-sum/
