@@ -163,6 +163,7 @@ Reference:
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
+2   2373    https://leetcode.com/problems/largest-local-values-in-a-matrix/
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2329    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/

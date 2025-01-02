@@ -236,6 +236,7 @@ Reference:
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
 2   2358    https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
+2   2373    https://leetcode.com/problems/largest-local-values-in-a-matrix/
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
