@@ -7,4 +7,6 @@ Reference:
 ## By Technique
 # Frequency Array
 
+1   3005    https://leetcode.com/problems/count-elements-with-maximum-frequency/
+
 2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/

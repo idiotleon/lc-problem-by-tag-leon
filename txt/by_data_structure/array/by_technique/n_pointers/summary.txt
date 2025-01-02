@@ -74,6 +74,7 @@ Reference:
 1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/
 1   2678    https://leetcode.com/problems/number-of-senior-citizens/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
+1   3005    https://leetcode.com/problems/count-elements-with-maximum-frequency/
 
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   0136    https://leetcode.com/problems/single-number/
