@@ -15,6 +15,7 @@ Reference:
 
 2   0573    https://leetcode.com/problems/squirrel-simulation/
 2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 2   1509    https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 2   1561    https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/

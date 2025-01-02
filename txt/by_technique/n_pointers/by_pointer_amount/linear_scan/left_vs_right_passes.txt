@@ -12,6 +12,7 @@ Reference:
 
 2   0724    https://leetcode.com/problems/find-pivot-index/
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1662    https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/

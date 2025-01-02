@@ -165,6 +165,7 @@ Reference:
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1272    https://leetcode.com/problems/remove-interval/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/

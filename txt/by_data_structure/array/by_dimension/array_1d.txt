@@ -145,6 +145,7 @@ Reference:
 2   1217    https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 2   1243    https://leetcode.com/problems/array-transformation/
 2   1287    https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/

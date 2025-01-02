@@ -8,6 +8,7 @@ Reference:
 # Left or Right Passes
 
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
+2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 
