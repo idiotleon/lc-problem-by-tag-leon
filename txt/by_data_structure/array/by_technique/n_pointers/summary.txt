@@ -95,6 +95,7 @@ Reference:
 2   0760    https://leetcode.com/problems/find-anagram-mappings/
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   0849    https://leetcode.com/problems/maximize-distance-to-closest-person/
+2   0860    https://leetcode.com/problems/lemonade-change/
 2   0881    https://leetcode.com/problems/boats-to-save-people/
 2   0941    https://leetcode.com/problems/valid-mountain-array/
 2   0942    https://leetcode.com/problems/di-string-match/
