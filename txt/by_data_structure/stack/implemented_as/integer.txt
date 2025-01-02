@@ -11,6 +11,7 @@ Reference:
 1   2315    https://leetcode.com/problems/count-asterisks/
 
 2   1021    https://leetcode.com/problems/remove-outermost-parentheses/
+2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 

@@ -27,6 +27,7 @@ Reference:
 2   0567    https://leetcode.com/problems/permutation-in-string/
 2   1071    https://leetcode.com/problems/greatest-common-divisor-of-strings/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 2   1100    https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/

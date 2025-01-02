@@ -7,6 +7,7 @@ Reference:
 ## Parsing String
 
 2   0844    https://leetcode.com/problems/backspace-string-compare/
+2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 3   0071    https://leetcode.com/problems/simplify-path/
 3   0394    https://leetcode.com/problems/decode-string/

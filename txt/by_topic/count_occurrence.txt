@@ -19,6 +19,7 @@ Reference:
 2   0605    https://leetcode.com/problems/can-place-flowers/
 2   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 2   1267    https://leetcode.com/problems/count-servers-that-communicate/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1399    https://leetcode.com/problems/count-largest-group/

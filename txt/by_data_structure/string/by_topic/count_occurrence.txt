@@ -8,6 +8,7 @@ Reference:
 # Count Occurrence
 
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
+2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
 
