@@ -8,6 +8,7 @@ Reference:
 # Sum
 
 1   1491    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+1   2859    https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/

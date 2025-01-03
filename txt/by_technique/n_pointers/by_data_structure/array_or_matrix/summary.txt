@@ -62,6 +62,7 @@ Reference:
 1   2490    https://leetcode.com/problems/circular-sentence/
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/
+1   2859    https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 1   3005    https://leetcode.com/problems/count-elements-with-maximum-frequency/
 
