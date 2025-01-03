@@ -26,6 +26,7 @@ Reference:
 1   2413    https://leetcode.com/problems/smallest-even-multiple/
 1   2469    https://leetcode.com/problems/convert-the-temperature/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+1   2769    https://leetcode.com/problems/find-the-maximum-achievable-number/
 
 2   0017    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 2   0202    https://leetcode.com/problems/happy-number/

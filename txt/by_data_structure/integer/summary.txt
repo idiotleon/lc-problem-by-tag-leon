@@ -26,6 +26,7 @@ Reference:
 1   2553    https://leetcode.com/problems/separate-the-digits-in-an-array/
 1   2520    https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 1   2595    https://leetcode.com/problems/number-of-even-and-odd-bits/
+1   2769    https://leetcode.com/problems/find-the-maximum-achievable-number/
 
 2   0038    https://leetcode.com/problems/count-and-say/
 2   0077    https://leetcode.com/problems/combinations/
