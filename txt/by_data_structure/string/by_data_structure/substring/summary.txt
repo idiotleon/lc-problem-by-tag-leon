@@ -14,6 +14,7 @@ Reference:
 1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1859    https://leetcode.com/problems/sorting-the-sentence/
+1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 1   2000    https://leetcode.com/problems/reverse-prefix-of-word/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/

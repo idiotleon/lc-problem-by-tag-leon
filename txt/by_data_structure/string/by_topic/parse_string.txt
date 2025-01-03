@@ -15,6 +15,7 @@ Reference:
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   2224    https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 
