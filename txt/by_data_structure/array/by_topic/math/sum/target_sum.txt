@@ -7,5 +7,7 @@ Reference:
 ## By Topic
 # Target Sum
 
+2   1013    https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
+
 3   0494    https://leetcode.com/problems/target-sum/
 3   0560    https://leetcode.com/problems/subarray-sum-equals-k/

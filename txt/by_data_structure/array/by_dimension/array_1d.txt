@@ -132,7 +132,7 @@ Reference:
 2   0973    https://leetcode.com/problems/k-closest-points-to-origin/
 2   0985    https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 2   0989    https://leetcode.com/problems/add-to-array-form-of-integer/
-3   1014    https://leetcode.com/problems/best-sightseeing-pair/
+2   1013    https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 2   1052    https://leetcode.com/problems/grumpy-bookstore-owner/
 2   1064    https://leetcode.com/problems/fixed-point/
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
@@ -323,6 +323,7 @@ Reference:
 3   0986    https://leetcode.com/problems/interval-list-intersections/
 3   0990    https://leetcode.com/problems/satisfiability-of-equality-equations/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
+3   1014    https://leetcode.com/problems/best-sightseeing-pair/
 3   1023    https://leetcode.com/problems/camelcase-matching/
 3   1033    https://leetcode.com/problems/moving-stones-until-consecutive/
 3   1048    https://leetcode.com/problems/longest-string-chain/

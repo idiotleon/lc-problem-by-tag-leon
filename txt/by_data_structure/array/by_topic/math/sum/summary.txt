@@ -11,6 +11,7 @@ Reference:
 1   2859    https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 
+2   1013    https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 2   1099    https://leetcode.com/problems/two-sum-less-than-k/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/

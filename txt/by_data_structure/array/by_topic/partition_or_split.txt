@@ -6,6 +6,7 @@ Reference:
 ### Array
 # Partition or Split
 
+2   1013    https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 2   1375    https://leetcode.com/problems/bulb-switcher-iii/
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
