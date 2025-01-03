@@ -6,6 +6,8 @@ Reference:
 ### String
 ## Shifting the String
 
+2   1427    https://leetcode.com/problems/perform-string-shifts/
+
 3   0796    https://leetcode.com/problems/rotate-string/
 3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 

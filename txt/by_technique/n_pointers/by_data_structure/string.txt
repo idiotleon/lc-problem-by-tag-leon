@@ -91,6 +91,7 @@ Reference:
 2   1309    https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 2   1328    https://leetcode.com/problems/break-a-palindrome/description/
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
+2   1427    https://leetcode.com/problems/perform-string-shifts/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1578    https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/

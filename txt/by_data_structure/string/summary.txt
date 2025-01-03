@@ -124,6 +124,7 @@ Reference:
 2   1328    https://leetcode.com/problems/break-a-palindrome/description/
 2   1332    https://leetcode.com/problems/remove-palindromic-subsequences/
 2   1410    https://leetcode.com/problems/html-entity-parser/
+2   1427    https://leetcode.com/problems/perform-string-shifts/
 2   1456    https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 2   1513    https://leetcode.com/problems/number-of-substrings-with-only-1s/
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
