@@ -123,6 +123,7 @@ Reference:
 2   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
+2   1413    https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/description/
 2   1436    https://leetcode.com/problems/destination-city/

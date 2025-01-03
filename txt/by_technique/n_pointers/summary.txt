@@ -232,6 +232,7 @@ Reference:
 2   1337    https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 2   1346    https://leetcode.com/problems/check-if-n-and-its-double-exist/
 2   1399    https://leetcode.com/problems/count-largest-group/
+2   1413    https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 2   1423    https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 2   1427    https://leetcode.com/problems/perform-string-shifts/
 2   1436    https://leetcode.com/problems/destination-city/
