@@ -11,6 +11,7 @@ Reference:
 1   0058    https://leetcode.com/problems/length-of-last-word/
 1   0293    https://leetcode.com/problems/flip-game/
 1   0557    https://leetcode.com/problems/reverse-words-in-a-string-iii/
+1   1422    https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1859    https://leetcode.com/problems/sorting-the-sentence/

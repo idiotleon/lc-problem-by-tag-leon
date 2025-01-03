@@ -31,6 +31,7 @@ Reference:
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 1   1370    https://leetcode.com/problems/increasing-decreasing-string/
 1   1417    https://leetcode.com/problems/reformat-the-string/
+1   1422    https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1598    https://leetcode.com/problems/crawler-log-folder/

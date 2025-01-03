@@ -12,6 +12,7 @@ Reference:
 1   0415    https://leetcode.com/problems/add-strings/
 1   0520    https://leetcode.com/problems/detect-capital/
 1   0804    https://leetcode.com/problems/unique-morse-code-words/
+1   1422    https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 1   1678    https://leetcode.com/problems/goal-parser-interpretation/
 1   1880    https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
