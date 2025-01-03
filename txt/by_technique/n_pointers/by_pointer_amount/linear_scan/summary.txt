@@ -272,6 +272,7 @@ Reference:
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+2   3178    https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
