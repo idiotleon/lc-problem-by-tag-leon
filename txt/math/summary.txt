@@ -66,6 +66,7 @@ Reference:
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 2   1952    https://leetcode.com/problems/three-divisors/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
+2   2073    https://leetcode.com/problems/time-needed-to-buy-tickets/
 2   2160    https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 2   2178    https://leetcode.com/problems/maximum-split-of-positive-even-integers/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/

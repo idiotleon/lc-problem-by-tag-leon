@@ -272,6 +272,7 @@ Reference:
 2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2042    https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+2   2073    https://leetcode.com/problems/time-needed-to-buy-tickets/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 2   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 2   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
