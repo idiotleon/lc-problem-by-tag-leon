@@ -20,6 +20,7 @@ Reference:
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
+2   2582    https://leetcode.com/problems/pass-the-pillow/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 
 3   0152    https://leetcode.com/problems/maximum-product-subarray/

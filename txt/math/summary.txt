@@ -20,6 +20,7 @@ Reference:
 1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1837    https://leetcode.com/problems/sum-of-digits-in-base-k/
 1   1881    https://leetcode.com/problems/maximum-value-after-insertion/
+1   1903    https://leetcode.com/problems/largest-odd-number-in-string/
 1   2160    https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 1   2177    https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 1   2235    https://leetcode.com/problems/add-two-integers/
@@ -74,6 +75,7 @@ Reference:
 2   2310    https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
 2   2427    https://leetcode.com/problems/number-of-common-factors/
 2   2485    https://leetcode.com/problems/find-the-pivot-integer/
+2   2582    https://leetcode.com/problems/pass-the-pillow/
 2   2656    https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/

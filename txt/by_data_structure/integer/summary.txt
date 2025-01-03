@@ -73,6 +73,7 @@ Reference:
 2   2320    https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 2   2427    https://leetcode.com/problems/number-of-common-factors/
 2   2485   https://leetcode.com/problems/find-the-pivot-integer/
+2   2582    https://leetcode.com/problems/pass-the-pillow/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/
