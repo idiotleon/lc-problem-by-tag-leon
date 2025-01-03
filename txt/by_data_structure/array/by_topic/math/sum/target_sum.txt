@@ -8,3 +8,4 @@ Reference:
 # Target Sum
 
 3   0494    https://leetcode.com/problems/target-sum/
+3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
