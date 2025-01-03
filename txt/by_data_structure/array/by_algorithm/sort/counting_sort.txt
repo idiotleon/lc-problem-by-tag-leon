@@ -15,4 +15,5 @@ Reference:
 2   1608    https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 2   2094    https://leetcode.com/problems/finding-3-digit-even-numbers/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
+2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 
