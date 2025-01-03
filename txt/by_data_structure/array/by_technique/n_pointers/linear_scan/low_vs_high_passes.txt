@@ -6,7 +6,7 @@ Reference:
 ### Array
 ## N Pointers
 # Linear Scan / 1 pointer
-# Left vs Right Passes
+# Low vs High Passes
 
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 

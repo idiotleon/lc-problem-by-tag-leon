@@ -286,6 +286,7 @@ Reference:
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2259    https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/

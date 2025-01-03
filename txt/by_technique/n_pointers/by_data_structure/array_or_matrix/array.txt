@@ -137,6 +137,7 @@ Reference:
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 2   2303    https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/

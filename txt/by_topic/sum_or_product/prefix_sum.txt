@@ -8,6 +8,7 @@ Reference:
 
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
+2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
 3   0437    https://leetcode.com/problems/path-sum-iii/

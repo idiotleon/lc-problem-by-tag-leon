@@ -32,6 +32,7 @@ Reference:
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 2   2210    https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
