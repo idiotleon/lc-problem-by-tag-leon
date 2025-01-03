@@ -1,0 +1,13 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+    https://leetcode.com/tag/dynamic-programming/
+
+
+### Dynamic Programming
+## By Topic
+# Climbb Ladder
+
+1   0070    https://leetcode.com/problems/climbing-stairs/
+
+2   0746    https://leetcode.com/problems/min-cost-climbing-stairs/

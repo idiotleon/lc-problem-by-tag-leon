@@ -7,6 +7,7 @@ Reference:
 ## Prefix Sums
 # Maximum vs Minimum
 
+2   0746    https://leetcode.com/problems/min-cost-climbing-stairs/
 2   2016    https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/
 
