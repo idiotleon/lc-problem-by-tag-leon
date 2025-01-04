@@ -112,6 +112,7 @@ Reference:
 4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
+4   0314    https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 4   0431    https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 4   0545    https://leetcode.com/problems/boundary-of-binary-tree/

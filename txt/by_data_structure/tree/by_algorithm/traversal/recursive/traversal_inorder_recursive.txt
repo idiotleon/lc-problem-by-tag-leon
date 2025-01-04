@@ -32,6 +32,7 @@ Reference:
 3   1612    https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/
 
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+4   0314    https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
 4   0742    https://leetcode.com/problems/closest-leaf-in-a-binary-tree/
 4   0863    https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/

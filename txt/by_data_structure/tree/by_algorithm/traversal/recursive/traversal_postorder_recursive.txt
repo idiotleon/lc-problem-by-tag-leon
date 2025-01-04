@@ -55,6 +55,7 @@ Reference:
 4   0145    https://leetcode.com/problems/binary-tree-postorder-traversal/
 4   0250    https://leetcode.com/problems/count-univalue-subtrees/
 4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
+4   0314    https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 4   0337    https://leetcode.com/problems/house-robber-iii/
 4   0545    https://leetcode.com/problems/boundary-of-binary-tree/
 4   0549    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/
