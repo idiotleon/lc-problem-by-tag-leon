@@ -21,6 +21,7 @@ Reference:
 2   1492    https://leetcode.com/problems/the-kth-factor-of-n/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+2   2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 2   2582    https://leetcode.com/problems/pass-the-pillow/
 2   3178    https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/

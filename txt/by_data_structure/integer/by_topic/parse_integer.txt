@@ -22,6 +22,7 @@ Reference:
 2   2160    https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 2   2165    https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 2   2191    https://leetcode.com/problems/sort-the-jumbled-numbers/
+2   2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 2   2243    https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 
 3   0050    https://leetcode.com/problems/powx-n/
