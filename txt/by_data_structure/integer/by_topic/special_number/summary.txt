@@ -29,6 +29,7 @@ Reference:
 3   1215    https://leetcode.com/problems/stepping-numbers/
 3   1201    https://leetcode.com/problems/ugly-number-iii/
 3   2466    https://leetcode.com/problems/count-ways-to-build-good-strings/
+3   2485    https://leetcode.com/problems/find-the-pivot-integer/
 
 4   0248    https://leetcode.com/problems/strobogrammatic-number-iii/
 4   0264    https://leetcode.com/problems/ugly-number-ii/

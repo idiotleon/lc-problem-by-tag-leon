@@ -28,3 +28,4 @@ Reference:
 3   0338    https://leetcode.com/problems/counting-bits/
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/
 3   0670    https://leetcode.com/problems/maximum-swap/
+3   2485    https://leetcode.com/problems/find-the-pivot-integer/
