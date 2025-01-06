@@ -51,6 +51,7 @@ Reference:
 3   0739    https://leetcode.com/problems/daily-temperatures/
 3   0856    https://leetcode.com/problems/score-of-parentheses/
 3   0901    https://leetcode.com/problems/online-stock-span/
+3   0938    https://leetcode.com/problems/range-sum-of-bst/
 3   0946    https://leetcode.com/problems/validate-stack-sequences/
 3   0962    https://leetcode.com/problems/maximum-width-ramp/
 3   1003    https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/

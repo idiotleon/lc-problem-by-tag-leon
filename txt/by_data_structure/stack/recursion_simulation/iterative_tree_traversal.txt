@@ -16,6 +16,7 @@ Reference:
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
+3   0938    https://leetcode.com/problems/range-sum-of-bst/
 
 4   0230    https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 4   0538    https://leetcode.com/problems/convert-bst-to-greater-tree/
