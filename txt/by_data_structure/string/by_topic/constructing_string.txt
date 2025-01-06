@@ -13,5 +13,6 @@ Reference:
 
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+3   2381    https://leetcode.com/problems/shifting-letters-ii/
 
 4   0267    https://leetcode.com/problems/palindrome-permutation-ii/

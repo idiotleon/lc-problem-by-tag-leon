@@ -10,6 +10,7 @@ Reference:
 
 3   0796    https://leetcode.com/problems/rotate-string/
 3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
+3   2381    https://leetcode.com/problems/shifting-letters-ii/
 
 4   0249    https://leetcode.com/problems/group-shifted-strings/
 4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
