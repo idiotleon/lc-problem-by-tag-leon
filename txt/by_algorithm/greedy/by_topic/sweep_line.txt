@@ -6,6 +6,7 @@ Reference:
 ### Greedy
 ## Sweep Line
 
+2   0252    https://leetcode.com/problems/meeting-rooms/
 2   1094    https://leetcode.com/problems/car-pooling/
 2   1854    https://leetcode.com/problems/maximum-population-year
 2   1893    https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/

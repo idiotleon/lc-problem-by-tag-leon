@@ -11,6 +11,7 @@ Reference:
 1   1710    https://leetcode.com/problems/maximum-units-on-a-truck/
 1   2144    https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
+2   0252    https://leetcode.com/problems/meeting-rooms/
 2   0485    https://leetcode.com/problems/max-consecutive-ones/
 2   0495    https://leetcode.com/problems/teemo-attacking/
 2   0581    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/

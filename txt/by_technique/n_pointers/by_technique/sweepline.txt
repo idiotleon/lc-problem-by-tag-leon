@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Technique
+# Sweep Line
+
+2   0252    https://leetcode.com/problems/meeting-rooms/

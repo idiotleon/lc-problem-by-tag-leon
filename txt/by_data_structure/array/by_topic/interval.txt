@@ -9,6 +9,7 @@ Reference:
 
 1   1450    https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 
+2   0252    https://leetcode.com/problems/meeting-rooms/
 2   1272    https://leetcode.com/problems/remove-interval/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
