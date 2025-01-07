@@ -1,0 +1,9 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Integer
+# Prefix
+
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/

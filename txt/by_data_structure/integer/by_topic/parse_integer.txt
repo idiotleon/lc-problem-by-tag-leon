@@ -29,6 +29,7 @@ Reference:
 3   0069    https://leetcode.com/problems/sqrtx/
 3   0842    https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 3   2466    https://leetcode.com/problems/count-ways-to-build-good-strings/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0372    https://leetcode.com/problems/super-pow/
 4   0556    https://leetcode.com/problems/next-greater-element-iii/
