@@ -25,6 +25,7 @@ Reference:
 2   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
+2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 
 3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0696    https://leetcode.com/problems/count-binary-substrings/

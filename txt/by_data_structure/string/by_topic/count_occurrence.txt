@@ -14,6 +14,7 @@ Reference:
 2   1668    https://leetcode.com/problems/maximum-repeating-substring/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
+2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 
 3   0647    https://leetcode.com/problems/palindromic-substrings/
 3   0792    https://leetcode.com/problems/number-of-matching-subsequences/
