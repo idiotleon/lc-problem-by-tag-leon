@@ -65,6 +65,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0075    https://leetcode.com/problems/sort-colors/
 3   0147    https://leetcode.com/problems/insertion-sort-list/
+3   0253    https://leetcode.com/problems/meeting-rooms-ii/
 3   0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0435    https://leetcode.com/problems/non-overlapping-intervals/

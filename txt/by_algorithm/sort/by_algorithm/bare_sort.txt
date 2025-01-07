@@ -46,6 +46,7 @@ x2  0128    https://leetcode.com/problems/longest-consecutive-sequence/
 2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
+3   0253    https://leetcode.com/problems/meeting-rooms-ii/
 3   0406    https://leetcode.com/problems/queue-reconstruction-by-height/
 3   0435    https://leetcode.com/problems/non-overlapping-intervals/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/

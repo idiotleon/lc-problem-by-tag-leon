@@ -11,6 +11,7 @@ Reference:
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
+3   0253    https://leetcode.com/problems/meeting-rooms-ii/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   1353    https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 

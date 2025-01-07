@@ -15,6 +15,7 @@ Reference:
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 
 3   0056    https://leetcode.com/problems/merge-intervals/
+3   0253    https://leetcode.com/problems/meeting-rooms-ii/
 3   0435    https://leetcode.com/problems/non-overlapping-intervals/
 3   0452    https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 3   1288    https://leetcode.com/problems/remove-covered-intervals/
