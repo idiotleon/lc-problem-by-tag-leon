@@ -353,6 +353,7 @@ Reference:
 3   2485    https://leetcode.com/problems/find-the-pivot-integer/
 3   2615    https://leetcode.com/problems/sum-of-distances/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/

@@ -12,3 +12,5 @@ Reference:
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/

@@ -134,6 +134,7 @@ Reference:
 3   1933    https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2381    https://leetcode.com/problems/shifting-letters-ii/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0158    https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/

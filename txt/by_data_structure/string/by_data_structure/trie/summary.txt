@@ -13,6 +13,8 @@ Reference:
 1   1967    https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
+
 4   0079    https://leetcode.com/problems/word-search/
 4   0211    https://leetcode.com/problems/add-and-search-word-data-structure-design/
 4   0635    https://leetcode.com/problems/design-log-storage-system/

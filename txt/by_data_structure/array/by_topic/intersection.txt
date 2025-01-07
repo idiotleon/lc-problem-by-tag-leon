@@ -12,3 +12,4 @@ Reference:
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 
 3   0554    https://leetcode.com/problems/brick-wall/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/

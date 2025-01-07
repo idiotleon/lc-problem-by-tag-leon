@@ -51,6 +51,7 @@ Reference:
 3   2340    https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   1955    https://leetcode.com/problems/count-number-of-special-subsequences/
 4   2289    https://leetcode.com/problems/steps-to-make-array-non-decreasing/

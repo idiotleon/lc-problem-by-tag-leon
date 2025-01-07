@@ -70,6 +70,7 @@ Reference:
 3   1087    https://leetcode.com/problems/brace-expansion/
 3   1360    https://leetcode.com/problems/number-of-days-between-two-dates/
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0043    https://leetcode.com/problems/multiply-strings/
 4   0065    https://leetcode.com/problems/valid-number/

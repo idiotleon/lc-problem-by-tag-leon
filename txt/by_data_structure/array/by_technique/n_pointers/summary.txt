@@ -277,6 +277,7 @@ Reference:
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 3   3011    https://leetcode.com/problems/find-if-array-can-be-sorted/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

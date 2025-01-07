@@ -242,6 +242,7 @@ Reference:
 3   2381    https://leetcode.com/problems/shifting-letters-ii/
 3   2489    https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/
 3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 4   0032    https://leetcode.com/problems/longest-valid-parentheses/

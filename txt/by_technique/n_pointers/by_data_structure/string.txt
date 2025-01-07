@@ -141,6 +141,7 @@ Reference:
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 3   2381    https://leetcode.com/problems/shifting-letters-ii/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0076    https://leetcode.com/problems/minimum-window-substring/
 4   0159    https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
