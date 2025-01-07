@@ -7,6 +7,8 @@ Reference:
 ## Substring
 # High Low Pointers
 
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
+
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 4   1163     https://leetcode.com/problems/last-substring-in-lexicographical-order/

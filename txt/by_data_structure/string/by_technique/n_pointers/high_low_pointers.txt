@@ -9,6 +9,7 @@ Reference:
 
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0917    https://leetcode.com/problems/reverse-only-letters/
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 
 2   0246    https://leetcode.com/problems/strobogrammatic-number/

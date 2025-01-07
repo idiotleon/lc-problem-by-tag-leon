@@ -7,6 +7,8 @@ Reference:
 ## By Topic
 # Count Occurrence
 
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
+
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 2   1668    https://leetcode.com/problems/maximum-repeating-substring/

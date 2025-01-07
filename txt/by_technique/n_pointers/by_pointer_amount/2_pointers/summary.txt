@@ -19,6 +19,7 @@ Reference:
 1   0905    https://leetcode.com/problems/sort-array-by-parity/
 1   0977    https://leetcode.com/problems/squares-of-a-sorted-array/
 1   1056    https://leetcode.com/problems/confusing-number/
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
 1   1470    https://leetcode.com/problems/shuffle-the-array/
 1   1768    https://leetcode.com/problems/merge-strings-alternately/
 1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/

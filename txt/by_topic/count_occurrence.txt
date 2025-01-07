@@ -9,6 +9,7 @@ Reference:
 1   0728    https://leetcode.com/problems/self-dividing-numbers/
 1   1385    https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 1   1295    https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
 1   1688    https://leetcode.com/problems/count-of-matches-in-tournament/
 1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
 1   2085    https://leetcode.com/problems/count-common-words-with-one-occurrence/

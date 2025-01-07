@@ -8,6 +8,7 @@ Reference:
 ## Two Pointers
 # Summary
 
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/

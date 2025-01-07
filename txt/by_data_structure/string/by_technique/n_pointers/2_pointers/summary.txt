@@ -10,6 +10,7 @@ Reference:
 1   0067    https://leetcode.com/problems/add-binary/
 1   0125    https://leetcode.com/problems/valid-palindrome/
 1   0345    https://leetcode.com/problems/reverse-vowels-of-a-string/
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
 1   1768    https://leetcode.com/problems/merge-strings-alternately/
 1   2109    https://leetcode.com/problems/adding-spaces-to-a-string/
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/

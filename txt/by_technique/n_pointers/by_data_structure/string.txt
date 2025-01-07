@@ -26,6 +26,7 @@ Reference:
 1   1165    https://leetcode.com/problems/single-row-keyboard/
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 1   1370    https://leetcode.com/problems/increasing-decreasing-string/
+1   1408    https://leetcode.com/problems/string-matching-in-an-array/
 1   1446    https://leetcode.com/problems/consecutive-characters/
 1   1598    https://leetcode.com/problems/crawler-log-folder/
 1   1614    https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
