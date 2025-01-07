@@ -17,6 +17,7 @@ Reference:
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   1160    https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+2   1218    https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
