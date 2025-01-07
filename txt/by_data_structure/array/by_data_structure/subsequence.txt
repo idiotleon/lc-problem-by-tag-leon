@@ -21,6 +21,7 @@ Reference:
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 3   1673    https://leetcode.com/problems/find-the-most-competitive-subsequence/
 3   2305    https://leetcode.com/problems/fair-distribution-of-cookies/
+3   2389    https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 
 4   0128    https://leetcode.com/problems/longest-consecutive-sequence/
 4   0312    https://leetcode.com/problems/burst-balloons/

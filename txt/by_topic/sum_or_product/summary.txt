@@ -46,6 +46,7 @@ Reference:
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 3   2171    https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
+3   2389    https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 
 4   0018    https://leetcode.com/problems/4sum/
 4   0124    https://leetcode.com/problems/binary-tree-maximum-path-sum/

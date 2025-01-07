@@ -18,5 +18,6 @@ Reference:
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/
 3   1658    https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+3   2389    https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/

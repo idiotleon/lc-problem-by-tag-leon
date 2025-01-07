@@ -392,6 +392,7 @@ Reference:
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
 3   2365    https://leetcode.com/problems/task-scheduler-ii/
 3   2369    https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
+3   2389    https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 3   2615    https://leetcode.com/problems/sum-of-distances/
 3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
