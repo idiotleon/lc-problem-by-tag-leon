@@ -17,6 +17,8 @@ Reference:
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
 
 3   0113    https://leetcode.com/problems/path-sum-ii/
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0332    https://leetcode.com/problems/reconstruct-itinerary/
 ?3  0386    https://leetcode.com/problems/lexicographical-numbers/
 3   0623    https://leetcode.com/problems/add-one-row-to-tree/

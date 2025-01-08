@@ -102,6 +102,7 @@ Reference:
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
 3   0210    https://leetcode.com/problems/course-schedule-ii/
 3   0216    https://leetcode.com/problems/combination-sum-iii/
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0247    https://leetcode.com/problems/strobogrammatic-number-ii/
 3   0254    https://leetcode.com/problems/factor-combinations/

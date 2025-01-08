@@ -60,8 +60,10 @@ Reference:
 3   0129    https://leetcode.com/problems/sum-root-to-leaf-numbers/
 3   0144    https://leetcode.com/problems/binary-tree-preorder-traversal/
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
-3   0285    https://leetcode.com/problems/inorder-successor-in-bst/3
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0255    https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
+3   0285    https://leetcode.com/problems/inorder-successor-in-bst/3
 3   0331    https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 3   0333    https://leetcode.com/problems/largest-bst-subtree/
 3   0426    https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/

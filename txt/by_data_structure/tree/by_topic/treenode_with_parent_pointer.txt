@@ -8,4 +8,6 @@ Reference:
 2   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 2   1666    https://leetcode.com/problems/change-the-root-of-a-binary-tree/
 
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0510    https://leetcode.com/problems/inorder-successor-in-bst-ii/

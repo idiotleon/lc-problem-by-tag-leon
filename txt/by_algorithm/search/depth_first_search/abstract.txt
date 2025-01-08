@@ -21,6 +21,8 @@ Reference:
 
 3   0113    https://leetcode.com/problems/path-sum-ii/
 3   0116    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0261    https://leetcode.com/problems/graph-valid-tree/
 3   0341    https://leetcode.com/problems/flatten-nested-list-iterator/
 3   0386    https://leetcode.com/problems/lexicographical-numbers/
