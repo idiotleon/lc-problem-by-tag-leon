@@ -157,6 +157,7 @@ Reference:
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2546    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
 3   0005    https://leetcode.com/problems/longest-palindromic-substring/
 3   0008    https://leetcode.com/problems/string-to-integer-atoi/

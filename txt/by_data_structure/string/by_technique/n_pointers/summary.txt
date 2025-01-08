@@ -169,6 +169,7 @@ Reference:
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 3   2381    https://leetcode.com/problems/shifting-letters-ii/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

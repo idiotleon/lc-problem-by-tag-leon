@@ -5,12 +5,13 @@ Reference:
 
 ### String
 ## By Topic
-# Prefix
+# Prefix vs Suffix
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
 1   2000    https://leetcode.com/problems/reverse-prefix-of-word/
 1   2255    https://leetcode.com/problems/count-prefixes-of-a-given-string/
 
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
 3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/

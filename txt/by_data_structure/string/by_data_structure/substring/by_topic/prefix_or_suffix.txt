@@ -11,6 +11,7 @@ Reference:
 1   2000    https://leetcode.com/problems/reverse-prefix-of-word/
 
 3   1616    https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
@@ -20,11 +21,15 @@ Reference:
 
 # Prefix
 
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
+
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/
 
 
 # Suffix
+
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
 4   0962    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1163    https://leetcode.com/problems/last-substring-in-lexicographical-order/

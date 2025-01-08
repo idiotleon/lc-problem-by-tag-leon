@@ -26,6 +26,7 @@ Reference:
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
 3   0467    https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 3   0696    https://leetcode.com/problems/count-binary-substrings/
