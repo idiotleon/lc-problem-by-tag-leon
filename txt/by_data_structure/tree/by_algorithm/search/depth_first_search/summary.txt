@@ -44,6 +44,7 @@ Reference:
 2   1430    https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/
 2   1469    https://leetcode.com/problems/find-all-the-lonely-nodes/
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
+2   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 2   1666    https://leetcode.com/problems/change-the-root-of-a-binary-tree/
 2   2265    https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 

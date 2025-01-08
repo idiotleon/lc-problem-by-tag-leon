@@ -28,8 +28,6 @@ Reference:
 3   0106    https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 3   0144    https://leetcode.com/problems/binary-tree-preorder-traversal/
 3   0173    https://leetcode.com/problems/binary-search-tree-iterator/
-3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 3   0285    https://leetcode.com/problems/inorder-successor-in-bst/
 3   0331    https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 3   0430    https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
@@ -49,3 +47,10 @@ Reference:
 4   1038    https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 
 5   0099    https://leetcode.com/problems/recover-binary-search-tree/
+
+
+
+?? search vs traversal??
+
+3   0235    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+3   0236    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/

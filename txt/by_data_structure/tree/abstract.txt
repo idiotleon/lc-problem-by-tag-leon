@@ -100,6 +100,7 @@ Reference:
 2   0814    https://leetcode.com/problems/binary-tree-pruning/
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 2   1325    https://leetcode.com/problems/delete-leaves-with-a-given-value/
+2   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 
 3   0098    https://leetcode.com/problems/validate-binary-search-tree/
 3   0101    https://leetcode.com/problems/symmetric-tree/

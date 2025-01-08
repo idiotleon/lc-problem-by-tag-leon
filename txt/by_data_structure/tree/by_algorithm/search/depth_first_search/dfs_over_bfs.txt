@@ -19,6 +19,7 @@ Reference:
 2   1022    https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 2   1026    https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
+2   1650    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
 2   1666    https://leetcode.com/problems/change-the-root-of-a-binary-tree/
 
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
