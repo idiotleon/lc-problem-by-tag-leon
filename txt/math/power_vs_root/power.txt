@@ -10,6 +10,7 @@ Reference:
 2   0326    https://leetcode.com/problems/power-of-three/
 2   0342    https://leetcode.com/problems/power-of-four/
 2   0970    https://leetcode.com/problems/powerful-integers/
+2   2501    https://leetcode.com/problems/longest-square-streak-in-an-array/
 
 3   0050    https://leetcode.com/problems/powx-n/
 

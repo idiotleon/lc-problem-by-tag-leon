@@ -180,6 +180,7 @@ Reference:
 2   2375    https://leetcode.com/problems/construct-smallest-number-from-di-string/
 2   2329    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
+2   2501    https://leetcode.com/problems/longest-square-streak-in-an-array/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/

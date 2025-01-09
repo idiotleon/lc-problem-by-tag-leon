@@ -15,6 +15,7 @@ Reference:
 2   0270    https://leetcode.com/problems/range-addition/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 2   0908    https://leetcode.com/problems/smallest-range-i/
+2   0938    https://leetcode.com/problems/range-sum-of-bst/
 
 3   0304    https://leetcode.com/problems/range-sum-query-2d-immutable/
 3   0938    https://leetcode.com/problems/range-sum-of-bst/

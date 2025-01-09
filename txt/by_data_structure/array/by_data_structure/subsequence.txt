@@ -12,6 +12,7 @@ Reference:
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2275    https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
+2   2501    https://leetcode.com/problems/longest-square-streak-in-an-array/
 
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
