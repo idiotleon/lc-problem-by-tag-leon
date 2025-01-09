@@ -7,6 +7,7 @@ Reference:
 # String Array
 
 1   0014    https://leetcode.com/problems/longest-common-prefix/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
 2   0243    https://leetcode.com/problems/shortest-word-distance/
 2   0290    https://leetcode.com/problems/word-pattern/

@@ -13,6 +13,7 @@ Reference:
 1   1688    https://leetcode.com/problems/count-of-matches-in-tournament/
 1   2053    https://leetcode.com/problems/kth-distinct-string-in-an-array/
 1   2085    https://leetcode.com/problems/count-common-words-with-one-occurrence/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 1   2595    https://leetcode.com/problems/number-of-even-and-odd-bits/
 1   2859    https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 1   3005    https://leetcode.com/problems/count-elements-with-maximum-frequency/

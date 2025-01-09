@@ -8,6 +8,7 @@ Reference:
 # Count Occurrence
 
 1   1408    https://leetcode.com/problems/string-matching-in-an-array/
+1   2185    https://leetcode.com/problems/counting-words-with-a-given-prefix/
 
 2   1180    https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
