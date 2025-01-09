@@ -33,3 +33,4 @@ Reference:
 4   0241    https://leetcode.com/problems/different-ways-to-add-parentheses/
 4   0730    https://leetcode.com/problems/count-different-palindromic-subsequences/
 4   1220    https://leetcode.com/problems/count-vowels-permutation/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/

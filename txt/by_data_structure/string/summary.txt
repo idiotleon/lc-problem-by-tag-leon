@@ -308,6 +308,7 @@ Reference:
 4   1392    https://leetcode.com/problems/longest-happy-prefix/
 4   1585    https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 4   1915    https://leetcode.com/problems/number-of-wonderful-substrings/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 4   2707    https://leetcode.com/problems/extra-characters-in-a-string/
 

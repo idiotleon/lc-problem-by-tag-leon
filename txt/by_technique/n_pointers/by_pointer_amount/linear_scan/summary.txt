@@ -375,6 +375,7 @@ Reference:
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 4   2289    https://leetcode.com/problems/steps-to-make-array-non-decreasing/
 
 5   0224    https://leetcode.com/problems/basic-calculator/

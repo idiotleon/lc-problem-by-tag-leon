@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### String
+## By Technique
+# Rolling Hash
+
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/

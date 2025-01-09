@@ -145,6 +145,7 @@ Reference:
 4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/
 4   1016    https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 4   1371    https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
 5   0224    https://leetcode.com/problems/basic-calculator/
 5   0772    https://leetcode.com/problems/basic-calculator-iii/

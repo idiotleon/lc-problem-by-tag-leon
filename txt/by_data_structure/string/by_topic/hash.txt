@@ -11,3 +11,4 @@ Reference:
 3   0890    https://leetcode.com/problems/find-and-replace-pattern/
 
 4   0249    https://leetcode.com/problems/group-shifted-strings/
+4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
