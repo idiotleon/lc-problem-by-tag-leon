@@ -334,6 +334,7 @@ Reference:
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
+3   0054    https://leetcode.com/problems/spiral-matrix/
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0059    https://leetcode.com/problems/spiral-matrix-ii/
 3   0073    https://leetcode.com/problems/set-matrix-zeroes/
@@ -415,6 +416,7 @@ Reference:
 3   1331    https://leetcode.com/problems/rank-transform-of-an-array/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1395    https://leetcode.com/problems/count-number-of-teams/
+3   1400    https://leetcode.com/problems/construct-k-palindrome-strings/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 3   1498    https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/

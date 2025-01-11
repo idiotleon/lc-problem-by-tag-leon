@@ -225,6 +225,7 @@ Reference:
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 3   1360    https://leetcode.com/problems/number-of-days-between-two-dates/
 3   1367    https://leetcode.com/problems/linked-list-in-binary-tree/
+3   1400    https://leetcode.com/problems/construct-k-palindrome-strings/
 3   1405    https://leetcode.com/problems/longest-happy-string/
 3   1461    https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/

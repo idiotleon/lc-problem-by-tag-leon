@@ -49,6 +49,7 @@ Reference:
 3   0763    https://leetcode.com/problems/partition-labels/
 3   1208    https://leetcode.com/problems/get-equal-substrings-within-budget/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+3   1400    https://leetcode.com/problems/construct-k-palindrome-strings/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 3   2981    https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/

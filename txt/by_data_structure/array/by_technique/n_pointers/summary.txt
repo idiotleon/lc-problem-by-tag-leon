@@ -196,6 +196,7 @@ Reference:
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/
+3   0054    https://leetcode.com/problems/spiral-matrix/
 3   0056    https://leetcode.com/problems/merge-intervals/
 3   0059    https://leetcode.com/problems/spiral-matrix-ii/
 3   0073    https://leetcode.com/problems/set-matrix-zeroes/
