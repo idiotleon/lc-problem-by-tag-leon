@@ -347,6 +347,7 @@ Reference:
 3   1930    https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2033    https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+3   2116    https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 3   2321    https://leetcode.com/problems/maximum-score-of-spliced-array/
 3   2326    https://leetcode.com/problems/spiral-matrix-iv/

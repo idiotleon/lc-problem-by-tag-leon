@@ -14,5 +14,6 @@ Reference:
 2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 3   1541    https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+3   2116    https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
 
 4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
