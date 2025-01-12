@@ -22,6 +22,7 @@ Reference:
 2   2373    https://leetcode.com/problems/largest-local-values-in-a-matrix/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 
 3   0006    https://leetcode.com/problems/zigzag-conversion
 3   0036    https://leetcode.com/problems/valid-sudoku/

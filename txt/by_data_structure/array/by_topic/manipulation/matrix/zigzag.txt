@@ -1,0 +1,11 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+## By Topic
+# Matrix Manipulation
+# Zigzag
+
+2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/

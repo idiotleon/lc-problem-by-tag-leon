@@ -166,6 +166,7 @@ Reference:
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
+2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

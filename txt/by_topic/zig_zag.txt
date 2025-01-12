@@ -6,6 +6,8 @@ Reference:
 ### By Topic
 ## Zig Zag
 
+2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
+
 3   0006    https://leetcode.com/problems/zigzag-conversion
 3   0281    https://leetcode.com/problems/zigzag-iterator/
 3   1144    https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/

@@ -269,6 +269,7 @@ Reference:
 3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
 2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
+2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/
