@@ -53,4 +53,5 @@ Reference:
 4   1312    https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 4   2370    https://leetcode.com/problems/longest-ideal-subsequence/
 
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   0354    https://leetcode.com/problems/russian-doll-envelopes/

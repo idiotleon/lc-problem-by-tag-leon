@@ -247,7 +247,6 @@ Reference:
 4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
-4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 4   0306    https://leetcode.com/problems/additive-number/
 4   0312    https://leetcode.com/problems/burst-balloons/
 4   0314    https://leetcode.com/problems/binary-tree-vertical-order-traversal/
@@ -345,6 +344,7 @@ Reference:
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0282    https://leetcode.com/problems/expression-add-operators/
 5   0291    https://leetcode.com/problems/word-pattern-ii/
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   0403    https://leetcode.com/problems/frog-jump/
 5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   0425    https://leetcode.com/problems/word-squares/

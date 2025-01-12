@@ -22,3 +22,5 @@ Reference:
 3   1963    https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 3   2116    https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/

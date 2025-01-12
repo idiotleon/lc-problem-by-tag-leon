@@ -151,6 +151,7 @@ Reference:
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 
 5   0224    https://leetcode.com/problems/basic-calculator/
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   0772    https://leetcode.com/problems/basic-calculator-iii/
 
 

@@ -513,6 +513,7 @@ Reference:
 
 5   0212    https://leetcode.com/problems/word-search-ii/
 5   0224    https://leetcode.com/problems/basic-calculator/
+5   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 5   0411    https://leetcode.com/problems/minimum-unique-word-abbreviation/
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
 

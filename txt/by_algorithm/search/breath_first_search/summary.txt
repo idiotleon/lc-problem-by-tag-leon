@@ -126,7 +126,6 @@ Reference:
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 4   0298    https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 4   0317    https://leetcode.com/problems/shortest-distance-from-all-buildings/
-4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 4   0407    https://leetcode.com/problems/trapping-rain-water-ii/
 4   0417    https://leetcode.com/problems/pacific-atlantic-water-flow/
 4   0428    https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/

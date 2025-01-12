@@ -266,7 +266,6 @@ Reference:
 4   0267    https://leetcode.com/problems/palindrome-permutation-ii/
 4   0294    https://leetcode.com/problems/flip-game-ii/
 4   0297    https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-4   0301    https://leetcode.com/problems/remove-invalid-parentheses/
 4   0306    https://leetcode.com/problems/additive-number/
 4   0358    https://leetcode.com/problems/rearrange-string-k-distance-apart/
 4   0395    https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
