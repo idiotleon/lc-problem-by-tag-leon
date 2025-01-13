@@ -14,6 +14,7 @@ Reference:
 
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   1023    https://leetcode.com/problems/camelcase-matching/

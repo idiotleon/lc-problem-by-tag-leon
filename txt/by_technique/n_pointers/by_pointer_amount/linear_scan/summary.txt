@@ -280,6 +280,7 @@ Reference:
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 2   3178    https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/

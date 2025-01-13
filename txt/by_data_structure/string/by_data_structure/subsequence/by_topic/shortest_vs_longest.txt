@@ -8,6 +8,9 @@ Reference:
 # Longest vs Shortest
 
 1   0521    https://leetcode.com/problems/longest-uncommon-subsequence-i/
+
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
+
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 3   0524    https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 3   2311    https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/

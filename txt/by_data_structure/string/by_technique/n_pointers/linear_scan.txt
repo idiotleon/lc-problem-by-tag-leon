@@ -116,6 +116,7 @@ Reference:
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 
 3   0006    https://leetcode.com/problems/zigzag-conversion/
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/

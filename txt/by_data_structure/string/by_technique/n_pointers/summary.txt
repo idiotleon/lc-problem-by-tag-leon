@@ -135,6 +135,7 @@ Reference:
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
 3   0186    https://leetcode.com/problems/reverse-words-in-a-string-ii/

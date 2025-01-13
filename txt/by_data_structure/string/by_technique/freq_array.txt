@@ -41,6 +41,7 @@ Reference:
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/

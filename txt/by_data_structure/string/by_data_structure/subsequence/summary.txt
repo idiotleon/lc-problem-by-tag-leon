@@ -15,6 +15,7 @@ Reference:
 2   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 
 3   0300    https://leetcode.com/problems/longest-increasing-subsequence/
 3   0522    https://leetcode.com/problems/longest-uncommon-subsequence-ii/
