@@ -271,6 +271,7 @@ Reference:
 2   2582    https://leetcode.com/problems/pass-the-pillow/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
 2   2656    https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
+2   2657    https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 2   2706    https://leetcode.com/problems/buy-two-chocolates/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/

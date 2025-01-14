@@ -4,10 +4,6 @@ Reference:
 
 
 ### Array
-## By Technique
-# Frequency Array
+# Permutation of N
 
-1   3005    https://leetcode.com/problems/count-elements-with-maximum-frequency/
-
-2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
 2   2657    https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
