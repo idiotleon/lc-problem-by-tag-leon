@@ -15,3 +15,4 @@ Reference:
 3   0554    https://leetcode.com/problems/brick-wall/
 3   0560    https://leetcode.com/problems/subarray-sum-equals-k/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
+3   2425    https://leetcode.com/problems/bitwise-xor-of-all-pairings/
