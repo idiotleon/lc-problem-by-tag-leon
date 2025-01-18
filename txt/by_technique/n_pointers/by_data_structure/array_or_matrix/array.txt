@@ -76,6 +76,7 @@ Reference:
 2   0283    https://leetcode.com/problems/move-zeroes/
 2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0290    https://leetcode.com/problems/word-pattern/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0463    https://leetcode.com/problems/island-perimeter/
 2   0475    https://leetcode.com/problems/heaters/

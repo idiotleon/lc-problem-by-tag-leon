@@ -87,6 +87,7 @@ Reference:
 2   0252    https://leetcode.com/problems/meeting-rooms/
 2   0283    https://leetcode.com/problems/move-zeroes/
 2   0287    https://leetcode.com/problems/find-the-duplicate-number/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0414    https://leetcode.com/problems/third-maximum-number/
 2   0463    https://leetcode.com/problems/island-perimeter/

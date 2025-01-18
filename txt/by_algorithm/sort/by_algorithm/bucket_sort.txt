@@ -8,6 +8,7 @@ Reference:
 
 1   2363    https://leetcode.com/problems/merge-similar-items/
 
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
 2   0362    https://leetcode.com/problems/design-hit-counter/
 2   0791    https://leetcode.com/problems/custom-sort-string/
 2   0881    https://leetcode.com/problems/boats-to-save-people/

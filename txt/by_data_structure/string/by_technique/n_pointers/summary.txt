@@ -135,6 +135,7 @@ Reference:
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 
 3   0150    https://leetcode.com/problems/evaluate-reverse-polish-notation/
@@ -171,9 +172,9 @@ Reference:
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2116    https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
 3   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2330    https://leetcode.com/problems/valid-palindrome-iv/
 3   2337    https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 3   2381    https://leetcode.com/problems/shifting-letters-ii/
-2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0030    https://leetcode.com/problems/substring-with-concatenation-of-all-words/

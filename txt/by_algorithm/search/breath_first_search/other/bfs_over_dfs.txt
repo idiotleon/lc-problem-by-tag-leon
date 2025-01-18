@@ -14,6 +14,7 @@ Reference:
 2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 
+3   0286    https://leetcode.com/problems/walls-and-gates/
 3   0310    https://leetcode.com/problems/minimum-height-trees/
 3   0365    https://leetcode.com/problems/water-and-jug-problem/
 3   0498    https://leetcode.com/problems/diagonal-traverse/

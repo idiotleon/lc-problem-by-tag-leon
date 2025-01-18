@@ -57,6 +57,7 @@ Reference:
 3   0494    https://leetcode.com/problems/target-sum/
 3   0498    https://leetcode.com/problems/diagonal-traverse/
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
+3   0542    https://leetcode.com/problems/01-matrix/
 3   0582    https://leetcode.com/problems/kill-process/
 3   0658    https://leetcode.com/problems/find-k-closest-elements/
 3   0694    https://leetcode.com/problems/number-of-distinct-islands/

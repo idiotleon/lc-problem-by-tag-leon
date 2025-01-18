@@ -3,7 +3,8 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Array
+### By Topic
+## Multiplet
 # Pair
 
 2   1877    https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
@@ -12,3 +13,4 @@ Reference:
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   2023    https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 3   2364    https://leetcode.com/problems/count-number-of-bad-pairs/
+3   2425    https://leetcode.com/problems/bitwise-xor-of-all-pairings/

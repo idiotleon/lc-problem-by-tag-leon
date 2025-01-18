@@ -106,6 +106,7 @@ Reference:
 2   0287    https://leetcode.com/problems/find-the-duplicate-number/
 2   0303    https://leetcode.com/problems/range-sum-query-immutable/
 2   0310    https://leetcode.com/problems/minimum-height-trees/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
 2   0350    https://leetcode.com/problems/intersection-of-two-arrays-ii/
 2   0362    https://leetcode.com/problems/design-hit-counter/
 2   0384    https://leetcode.com/problems/shuffle-an-array/

@@ -3,7 +3,8 @@ Reference:
     https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
 
 
-### Array
+### By Topic
+## Multiplet
 # Triplet
 
 1   2908    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/

@@ -4,7 +4,7 @@ Reference:
 
 
 ### Array
-## By Topic
-# Pair
+## By Technique
+# Frequency HashMap
 
-3   2425    https://leetcode.com/problems/bitwise-xor-of-all-pairings/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/

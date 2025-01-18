@@ -19,6 +19,7 @@ Reference:
 1   3005    https://leetcode.com/problems/count-elements-with-maximum-frequency/
 
 2   0266    https://leetcode.com/problems/palindrome-permutation/
+2   0347    https://leetcode.com/problems/top-k-frequent-elements/
 2   0447    https://leetcode.com/problems/number-of-boomerangs/
 2   0413    https://leetcode.com/problems/arithmetic-slices/
 2   0507    https://leetcode.com/problems/perfect-number/

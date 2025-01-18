@@ -7,4 +7,6 @@ Reference:
 ## Shortest Path
 # Plain BFS
 
+3   0286    https://leetcode.com/problems/walls-and-gates/
+3   0542    https://leetcode.com/problems/01-matrix/
 3   1091    https://leetcode.com/problems/shortest-path-in-binary-matrix/
