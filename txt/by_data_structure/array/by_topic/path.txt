@@ -8,3 +8,4 @@ Reference:
 # Path
 
 4   0656    https://leetcode.com/problems/coin-path/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/

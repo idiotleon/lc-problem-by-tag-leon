@@ -150,6 +150,7 @@ Reference:
 4   1293    https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 4   1298    https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 4   1345    https://leetcode.com/problems/jump-game-iv/
+4   1368    https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 4   1553    https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
