@@ -5,6 +5,6 @@ Reference:
 
 ### By Topic
 ## With Caution
-# Contains Any Duplicate
+# Array Index Out of Bound
 
-2   0760    https://leetcode.com/problems/find-anagram-mappings/
+1   0088    https://leetcode.com/problems/merge-sorted-array/
