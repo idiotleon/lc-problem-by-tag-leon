@@ -14,6 +14,7 @@ Reference:
 2   0205    https://leetcode.com/problems/isomorphic-strings/
 2   1624    https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 
 3   0763    https://leetcode.com/problems/partition-labels/
 3   1358    https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/

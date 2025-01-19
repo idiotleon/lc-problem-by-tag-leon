@@ -16,6 +16,7 @@ Reference:
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 2   2330    https://leetcode.com/problems/valid-palindrome-iv/
 2   2384    https://leetcode.com/problems/largest-palindromic-number/
+2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
