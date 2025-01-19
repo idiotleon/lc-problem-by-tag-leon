@@ -348,3 +348,4 @@ Resource:
 Edge Case
     0. lower case vs upper case
     1. is letter or digit or else
+    2. contains any other type of character, like symbols
