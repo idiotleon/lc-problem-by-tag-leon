@@ -5,7 +5,7 @@ Reference:
 
 ### String
 ## By Topic
-# Anagram
+# Anagram or Permutation
 
 1   0242    https://leetcode.com/problems/valid-anagram/
 1   1347    https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
