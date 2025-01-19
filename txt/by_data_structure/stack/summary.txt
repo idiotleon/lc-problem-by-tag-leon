@@ -30,6 +30,7 @@ Reference:
 2   1379    https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 2   1475    https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
 3   0071    https://leetcode.com/problems/simplify-path/
 3   0105    https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/

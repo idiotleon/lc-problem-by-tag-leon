@@ -32,6 +32,7 @@ Reference:
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
+2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2391    https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/

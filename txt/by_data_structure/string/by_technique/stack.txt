@@ -13,7 +13,7 @@ Reference:
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 2   1221    https://leetcode.com/problems/split-a-string-in-balanced-strings/
 2   1910    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
--2  2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
 3   2116    https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
 

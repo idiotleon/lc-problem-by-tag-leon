@@ -5,6 +5,8 @@ Reference:
 
 
 ### Stack
-# As an ArrayList
+# List
+
+2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 
 3   0962    https://leetcode.com/problems/maximum-width-ramp/

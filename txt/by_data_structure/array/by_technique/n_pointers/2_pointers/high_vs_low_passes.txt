@@ -5,7 +5,7 @@ Reference:
 
 ### Array
 ## N Pointers - 2 Pointers
-# Left or Right Passes
+# High vs Low Passes
 
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 

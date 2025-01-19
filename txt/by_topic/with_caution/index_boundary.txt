@@ -5,6 +5,8 @@ Reference:
 
 ### By Topic
 ## With Caution
-# Array Index Out of Bound
+# Index Boundary
 
 1   0088    https://leetcode.com/problems/merge-sorted-array/
+
+2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
