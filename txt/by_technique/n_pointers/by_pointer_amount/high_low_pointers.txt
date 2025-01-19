@@ -36,6 +36,7 @@ Reference:
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 2   2125    https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2   2161    https://leetcode.com/problems/partition-array-according-to-given-pivot/
+2   2379    https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
