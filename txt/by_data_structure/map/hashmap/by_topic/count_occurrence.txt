@@ -13,6 +13,7 @@ Reference:
 2   0599    https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   2244    https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+2   2661    https://leetcode.com/problems/first-completely-painted-row-or-column/
 
 3   0659    https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 3   0823    https://leetcode.com/problems/binary-trees-with-factors/

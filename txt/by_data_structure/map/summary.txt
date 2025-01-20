@@ -51,6 +51,7 @@ Reference:
 2   2349    https://leetcode.com/problems/design-a-number-container-system/
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
 2   2374    https://leetcode.com/problems/node-with-highest-edge-score/
+2   2661    https://leetcode.com/problems/first-completely-painted-row-or-column/
 
 3   0049    https://leetcode.com/problems/group-anagrams/
 3   0128    https://leetcode.com/problems/longest-consecutive-sequence/

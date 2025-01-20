@@ -21,6 +21,7 @@ Reference:
 2   2352    https://leetcode.com/problems/equal-row-and-column-pairs/
 2   2373    https://leetcode.com/problems/largest-local-values-in-a-matrix/
 2   2614    https://leetcode.com/problems/prime-in-diagonal/
+2   2661    https://leetcode.com/problems/first-completely-painted-row-or-column/
 2   2946    https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
 2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 
