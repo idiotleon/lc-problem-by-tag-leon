@@ -80,6 +80,7 @@ Reference:
 2   2501    https://leetcode.com/problems/longest-square-streak-in-an-array/
 2   2582    https://leetcode.com/problems/pass-the-pillow/
 2   2656    https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
+2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0039    https://leetcode.com/problems/combination-sum/

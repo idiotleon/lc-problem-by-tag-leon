@@ -8,6 +8,7 @@ Reference:
 
 2   1013    https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
 
 3   0918    https://leetcode.com/problems/maximum-sum-circular-subarray/
 3   1838    https://leetcode.com/problems/frequency-of-the-most-frequent-element/

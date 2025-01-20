@@ -285,6 +285,7 @@ Reference:
 2   3206    https://leetcode.com/problems/alternating-groups-i/
 2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
 2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
+2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 2   0038    https://leetcode.com/problems/count-and-say/
