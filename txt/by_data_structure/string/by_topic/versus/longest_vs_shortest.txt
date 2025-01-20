@@ -8,3 +8,4 @@ Reference:
 # Longest vs Shortest
 
 2   2414    https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
+2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
