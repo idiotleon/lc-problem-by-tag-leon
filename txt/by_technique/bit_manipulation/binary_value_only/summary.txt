@@ -19,6 +19,7 @@ Reference:
 2   1869    https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 2   1980    https://leetcode.com/problems/find-unique-binary-string/
 2   2546    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
+2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 
 3   0487    https://leetcode.com/problems/max-consecutive-ones-ii/
 3   1004    https://leetcode.com/problems/max-consecutive-ones-iii/

@@ -49,6 +49,7 @@ Reference:
 2   2657    https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 2   2661    https://leetcode.com/problems/first-completely-painted-row-or-column/
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 2   3206    https://leetcode.com/problems/alternating-groups-i/

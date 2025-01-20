@@ -9,5 +9,6 @@ Reference:
 
 2   1980    https://leetcode.com/problems/find-unique-binary-string/
 2   2546    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
+2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 
 4   0926    https://leetcode.com/problems/flip-string-to-monotone-increasing/

@@ -44,6 +44,7 @@ Reference:
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2433    https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 2   2546    https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
+2   2914    https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 
 3   0029    https://leetcode.com/problems/divide-two-integers/
 3   0050    https://leetcode.com/problems/powx-n/
