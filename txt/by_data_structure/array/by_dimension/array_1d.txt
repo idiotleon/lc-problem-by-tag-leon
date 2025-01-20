@@ -233,6 +233,7 @@ Reference:
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
 2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 
