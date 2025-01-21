@@ -8,4 +8,6 @@ Reference:
 # Matrix Manipulation
 # Order/Sequence
 
+1   3402    https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
+
 4   2392    https://leetcode.com/problems/build-a-matrix-with-conditions/

@@ -10,6 +10,8 @@ Reference:
 1   1779    https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 1   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 1   2319    https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+1   3402    https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
+1   3423    https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
 
 2   0252    https://leetcode.com/problems/meeting-rooms/
 2   0573    https://leetcode.com/problems/squirrel-simulation/
