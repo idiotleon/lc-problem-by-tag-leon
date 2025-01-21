@@ -7,6 +7,7 @@ Reference:
 ## By Technique
 # Prefix Sums
 
+2   2017    https://leetcode.com/problems/grid-game/
 2   2073    https://leetcode.com/problems/time-needed-to-buy-tickets/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/

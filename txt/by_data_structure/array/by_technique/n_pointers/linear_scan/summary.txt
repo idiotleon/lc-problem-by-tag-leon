@@ -131,6 +131,7 @@ Reference:
 2   1887    https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 2   1920    https://leetcode.com/problems/build-array-from-permutation/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
+2   2017    https://leetcode.com/problems/grid-game/
 2   2022    https://leetcode.com/problems/convert-1d-array-into-2d-array/
 2   2073    https://leetcode.com/problems/time-needed-to-buy-tickets/
 2   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
@@ -169,7 +170,6 @@ Reference:
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
-3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
 2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
@@ -232,6 +232,7 @@ Reference:
 3   2615    https://leetcode.com/problems/sum-of-distances/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 3   3011    https://leetcode.com/problems/find-if-array-can-be-sorted/
+3   3043    https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 4   0041    https://leetcode.com/problems/first-missing-positive/
 4   0057    https://leetcode.com/problems/insert-interval/
