@@ -49,6 +49,7 @@ Reference:
 2   1602    https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/
 2   1609    https://leetcode.com/problems/even-odd-tree/
 2   1625    https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+2   1765    https://leetcode.com/problems/map-of-highest-peak/
 2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   1971    https://leetcode.com/problems/find-if-path-exists-in-graph/
 2   2368    https://leetcode.com/problems/reachable-nodes-with-restrictions/

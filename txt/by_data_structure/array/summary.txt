@@ -211,6 +211,7 @@ Reference:
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+2   1765    https://leetcode.com/problems/map-of-highest-peak/
 2   1833    https://leetcode.com/problems/maximum-ice-cream-bars/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 2   1854    https://leetcode.com/problems/maximum-population-year

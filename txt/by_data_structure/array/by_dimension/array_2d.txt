@@ -46,6 +46,7 @@ Reference:
 2   1428    https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 2   1465    https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+2   1765    https://leetcode.com/problems/map-of-highest-peak/
 2   1854    https://leetcode.com/problems/maximum-population-year
 2   1926    https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 2   2017    https://leetcode.com/problems/grid-game/
