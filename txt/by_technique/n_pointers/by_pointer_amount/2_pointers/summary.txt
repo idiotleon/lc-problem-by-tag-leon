@@ -27,6 +27,7 @@ Reference:
 1   2264    https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 1   2330    https://leetcode.com/problems/valid-palindrome-iv/
 1   2395    https://leetcode.com/problems/find-subarrays-with-equal-sum/
+1   3392    https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
 
 2   0002    https://leetcode.com/problems/add-two-numbers/
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/

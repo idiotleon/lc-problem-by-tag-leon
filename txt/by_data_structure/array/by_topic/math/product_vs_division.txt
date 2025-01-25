@@ -7,4 +7,4 @@ Reference:
 ## By Topic
 # Math
 
-3   2961    https://leetcode.com/problems/double-modular-exponentiation/
+1   3392    https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
