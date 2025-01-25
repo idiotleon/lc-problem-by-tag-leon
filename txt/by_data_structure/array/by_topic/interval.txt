@@ -8,6 +8,7 @@ Reference:
 # Interval
 
 1   1450    https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+1   3386    https://leetcode.com/problems/button-with-longest-push-time/
 
 2   0252    https://leetcode.com/problems/meeting-rooms/
 2   1272    https://leetcode.com/problems/remove-interval/

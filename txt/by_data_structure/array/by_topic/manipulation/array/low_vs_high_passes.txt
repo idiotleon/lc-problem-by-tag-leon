@@ -5,7 +5,7 @@ Reference:
 
 ### Array
 ## By Topic - Manipulation
-# Left or Right Passes
+# Low vs High Passes
 
 2   0821    https://leetcode.com/problems/shortest-distance-to-a-character/
 2   1299    https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
