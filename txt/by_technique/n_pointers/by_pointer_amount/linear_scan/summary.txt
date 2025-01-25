@@ -391,6 +391,7 @@ Reference:
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
 4   2168    https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/
 4   2289    https://leetcode.com/problems/steps-to-make-array-non-decreasing/
+4   2948    https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
 
 5   0224    https://leetcode.com/problems/basic-calculator/
 5   0301    https://leetcode.com/problems/remove-invalid-parentheses/

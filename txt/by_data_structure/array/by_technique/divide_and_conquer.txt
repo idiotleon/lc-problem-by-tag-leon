@@ -5,6 +5,7 @@ Reference:
 
 ### Array
 ## By Technique
+# Divide and Conquer
 
 2   0053    https://leetcode.com/problems/maximum-subarray/
 

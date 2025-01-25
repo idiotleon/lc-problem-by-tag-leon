@@ -266,5 +266,6 @@ Reference:
 4   2009    https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
 4   2289    https://leetcode.com/problems/steps-to-make-array-non-decreasing/
 4   2398    https://leetcode.com/problems/maximum-number-of-robots-within-budget/
+4   2948    https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
 
 5   1703    https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones

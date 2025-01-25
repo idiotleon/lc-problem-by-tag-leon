@@ -47,6 +47,7 @@ Reference:
 4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 4   1793    https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 4   1950    https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/
+4   2948    https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
 
 5   0363    https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
