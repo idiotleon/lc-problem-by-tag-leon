@@ -281,6 +281,7 @@ Reference:
 2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
+2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/
 3   0036    https://leetcode.com/problems/valid-sudoku/

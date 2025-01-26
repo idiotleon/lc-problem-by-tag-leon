@@ -16,6 +16,7 @@ Reference:
 2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
+2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 
 3   0528    https://leetcode.com/problems/random-pick-with-weight/
 3   0554    https://leetcode.com/problems/brick-wall/

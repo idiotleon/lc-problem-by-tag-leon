@@ -176,6 +176,7 @@ Reference:
 2   3206    https://leetcode.com/problems/alternating-groups-i/
 2   3417    https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
+2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 
 3   0036    https://leetcode.com/problems/valid-sudoku/
 3   0048    https://leetcode.com/problems/rotate-image/

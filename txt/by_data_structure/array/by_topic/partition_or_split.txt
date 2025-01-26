@@ -11,6 +11,7 @@ Reference:
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 2   2274    https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
+2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 
 3   0416    https://leetcode.com/problems/partition-equal-subset-sum/
 3   0548    https://leetcode.com/problems/split-array-with-equal-sum/

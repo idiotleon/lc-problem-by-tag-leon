@@ -41,6 +41,7 @@ Reference:
 2   2956    https://leetcode.com/problems/find-common-elements-between-two-arrays/
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
+2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 
 3   0376    https://leetcode.com/problems/wiggle-subsequence/
 3   0377    https://leetcode.com/problems/combination-sum-iv/
