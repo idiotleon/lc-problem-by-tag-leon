@@ -7,6 +7,8 @@ Reference:
 ## Game
 # Stone Game
 
+2   3360    https://leetcode.com/problems/stone-removal-game/
+
 3   0877    https://leetcode.com/problems/stone-game/
 3   1033    https://leetcode.com/problems/moving-stones-until-consecutive/
 3   1140    https://leetcode.com/problems/stone-game-ii/

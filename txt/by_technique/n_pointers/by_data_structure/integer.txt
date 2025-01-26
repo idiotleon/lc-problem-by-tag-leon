@@ -25,6 +25,7 @@ Reference:
 2   2269    https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 2   2582    https://leetcode.com/problems/pass-the-pillow/
 2   3178    https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
+2   3360    https://leetcode.com/problems/stone-removal-game/
 
 3   0338    https://leetcode.com/problems/counting-bits/
 3   0667    https://leetcode.com/problems/beautiful-arrangement-ii/

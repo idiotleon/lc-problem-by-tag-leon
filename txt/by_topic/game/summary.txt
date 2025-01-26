@@ -10,6 +10,7 @@ Reference:
 2   0292    https://leetcode.com/problems/nim-game/
 2   0374    https://leetcode.com/problems/guess-number-higher-or-lower/
 2   1025    https://leetcode.com/problems/divisor-game/
+2   3360    https://leetcode.com/problems/stone-removal-game/
 
 3   0055    https://leetcode.com/problems/jump-game/
 3   0289    https://leetcode.com/problems/game-of-life/
