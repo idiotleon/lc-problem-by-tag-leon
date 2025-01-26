@@ -61,6 +61,7 @@ Reference:
 4   1377    https://leetcode.com/problems/frog-position-after-t-seconds/
 4   1591    https://leetcode.com/problems/strange-printer-ii/
 4   1857    https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+4   2127    https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
 4   2392    https://leetcode.com/problems/build-a-matrix-with-conditions/
 4   3203    https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
 
