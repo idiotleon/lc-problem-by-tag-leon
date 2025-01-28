@@ -524,6 +524,7 @@ Reference:
 3   2425    https://leetcode.com/problems/bitwise-xor-of-all-pairings/
 3   2593    https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 3   2615    https://leetcode.com/problems/sum-of-distances/
+3   2658    https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/
 3   2832    https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/
 3   2961    https://leetcode.com/problems/double-modular-exponentiation/
 3   2962    https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
