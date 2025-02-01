@@ -7,6 +7,8 @@ Reference:
 ## Multiplet
 # Pair
 
+1   3152    https://leetcode.com/problems/special-array-i/
+
 2   1877    https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 2   2824    https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 2   3042    https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
