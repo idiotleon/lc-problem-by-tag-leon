@@ -37,6 +37,7 @@ Reference:
 2   2393    https://leetcode.com/problems/count-strictly-increasing-subarrays/
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 2   3206    https://leetcode.com/problems/alternating-groups-i/
+2   3355    https://leetcode.com/problems/zero-array-transformation-i/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
 2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 
