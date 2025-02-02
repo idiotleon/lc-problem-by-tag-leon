@@ -26,6 +26,7 @@ Reference:
 2   1640    https://leetcode.com/problems/check-array-formation-through-concatenation/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
 2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+2   1852    https://leetcode.com/problems/distinct-numbers-in-each-subarray/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/

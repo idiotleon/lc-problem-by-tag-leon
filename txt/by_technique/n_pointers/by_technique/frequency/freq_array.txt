@@ -41,6 +41,7 @@ Reference:
 2   1525    https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 2   1657    https://leetcode.com/problems/determine-if-two-strings-are-close/
+2   1852    https://leetcode.com/problems/distinct-numbers-in-each-subarray/
 2   2182    https://leetcode.com/problems/construct-string-with-repeat-limit/
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/

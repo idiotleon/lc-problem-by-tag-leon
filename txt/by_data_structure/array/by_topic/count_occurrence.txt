@@ -22,6 +22,7 @@ Reference:
 2   1338    https://leetcode.com/problems/reduce-array-size-to-the-half/
 2   1512    https://leetcode.com/problems/number-of-good-pairs/
 2   1582    https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+2   1852    https://leetcode.com/problems/distinct-numbers-in-each-subarray/
 2   2110    https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
 2   2176    https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/

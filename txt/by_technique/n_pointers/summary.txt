@@ -274,6 +274,7 @@ Reference:
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1805    https://leetcode.com/problems/number-of-different-integers-in-a-string/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+2   1852    https://leetcode.com/problems/distinct-numbers-in-each-subarray/
 2   1854    https://leetcode.com/problems/maximum-population-year/
 2   1863    https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 2   1877    https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/

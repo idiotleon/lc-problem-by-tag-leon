@@ -33,6 +33,7 @@ Reference:
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1695    https://leetcode.com/problems/maximum-erasure-value/
+2   1852    https://leetcode.com/problems/distinct-numbers-in-each-subarray/
 2   1961    https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 2   1984    https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 2   2078    https://leetcode.com/problems/two-furthest-houses-with-different-colors/
