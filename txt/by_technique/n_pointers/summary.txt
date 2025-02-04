@@ -85,6 +85,7 @@ Reference:
 1   1779    https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 1   1784    https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 1   1786    https://leetcode.com/problems/merge-strings-alternately
+1   1800    https://leetcode.com/problems/maximum-ascending-subarray-sum/
 1   1816    https://leetcode.com/problems/truncate-sentence/
 1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1827    https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/

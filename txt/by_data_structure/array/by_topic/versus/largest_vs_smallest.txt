@@ -8,6 +8,7 @@ Reference:
 # Largest vs Smallest
 
 1   0485    https://leetcode.com/problems/max-consecutive-ones/
+1   1800    https://leetcode.com/problems/maximum-ascending-subarray-sum/
 1   2441    https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 1   2500    https://leetcode.com/problems/delete-greatest-value-in-each-row/

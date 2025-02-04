@@ -47,6 +47,7 @@ Reference:
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
 1   1779    https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
+1   1800    https://leetcode.com/problems/maximum-ascending-subarray-sum/
 1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1827    https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 1   1897    https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/

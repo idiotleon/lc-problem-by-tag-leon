@@ -9,6 +9,7 @@ Reference:
 
 1   0485    https://leetcode.com/problems/max-consecutive-ones/
 1   0674    https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+1   1800    https://leetcode.com/problems/maximum-ascending-subarray-sum/
 1   3105    https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
 
 2   0128    https://leetcode.com/problems/longest-consecutive-sequence/
