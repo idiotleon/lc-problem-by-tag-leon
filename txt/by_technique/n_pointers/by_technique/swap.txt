@@ -7,6 +7,8 @@ Reference:
 ## By Technique
 # Swap
 
+1   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+
 2   2231    https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 
 4   2948    https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
