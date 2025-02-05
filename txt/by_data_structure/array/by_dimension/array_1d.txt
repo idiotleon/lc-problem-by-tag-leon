@@ -47,6 +47,7 @@ Reference:
 1   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 1   1762    https://leetcode.com/problems/buildings-with-an-ocean-view/
 1   1773    https://leetcode.com/problems/count-items-matching-a-rule/
+1   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 1   1800    https://leetcode.com/problems/maximum-ascending-subarray-sum/
 1   1822    https://leetcode.com/problems/sign-of-the-product-of-an-array/
 1   1827    https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
