@@ -231,6 +231,7 @@ Reference:
 2   1662    https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 2   1680    https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 2   1694    https://leetcode.com/problems/reformat-phone-number/
+2   1726    https://leetcode.com/problems/tuple-with-same-product/
 2   1752    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 2   1790    https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 2   1846    https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/

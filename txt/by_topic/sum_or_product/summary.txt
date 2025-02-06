@@ -17,6 +17,7 @@ Reference:
 2   1120    https://leetcode.com/problems/maximum-average-subtree/
 2   1302    https://leetcode.com/problems/deepest-leaves-sum/
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+2   1726    https://leetcode.com/problems/tuple-with-same-product/
 2   1925    https://leetcode.com/problems/count-square-sum-triples/
 2   1945    https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 2   2219    https://leetcode.com/problems/maximum-sum-score-of-array/

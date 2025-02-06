@@ -8,3 +8,4 @@ Reference:
 # Frequency HashMap
 
 2   0347    https://leetcode.com/problems/top-k-frequent-elements/
+2   1726    https://leetcode.com/problems/tuple-with-same-product/

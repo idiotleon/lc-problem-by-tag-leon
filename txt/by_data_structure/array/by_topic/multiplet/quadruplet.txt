@@ -1,0 +1,10 @@
+@author: Leon
+Reference:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### By Topic
+## Multiplet
+# Quadruplet
+
+2   1726    https://leetcode.com/problems/tuple-with-same-product/

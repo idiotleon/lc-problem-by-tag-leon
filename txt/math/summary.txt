@@ -68,6 +68,7 @@ Reference:
 2   1588    https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 2   1619    https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 2   1689    https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+2   1726    https://leetcode.com/problems/tuple-with-same-product/
 2   1952    https://leetcode.com/problems/three-divisors/
 2   1991    https://leetcode.com/problems/find-the-middle-index-in-array/
 2   2073    https://leetcode.com/problems/time-needed-to-buy-tickets/

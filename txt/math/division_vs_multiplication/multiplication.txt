@@ -9,6 +9,7 @@ Reference:
 1   1281    https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
 2   1570    https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
+2   1726    https://leetcode.com/problems/tuple-with-same-product/
 
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
 
