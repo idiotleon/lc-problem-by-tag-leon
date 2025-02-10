@@ -17,6 +17,7 @@ Reference:
 2   1962    https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 2   1985    https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 2   2279    https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
+2   2599    https://leetcode.com/problems/make-the-prefix-sum-non-negative/
 2   3264    https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/

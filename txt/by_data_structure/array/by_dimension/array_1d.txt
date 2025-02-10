@@ -232,6 +232,7 @@ Reference:
 2   2515    https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 2   2529    https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
+2   2599    https://leetcode.com/problems/make-the-prefix-sum-non-negative/
 2   2656    https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 2   2657    https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 2   2661    https://leetcode.com/problems/first-completely-painted-row-or-column/

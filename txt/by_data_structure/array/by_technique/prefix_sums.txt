@@ -14,6 +14,7 @@ Reference:
 2   2270    https://leetcode.com/problems/number-of-ways-to-split-array/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2559    https://leetcode.com/problems/count-vowel-strings-in-ranges/
+2   2599    https://leetcode.com/problems/make-the-prefix-sum-non-negative/
 2   2996    https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
 2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
