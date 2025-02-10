@@ -74,6 +74,7 @@ Reference:
 1   2496    https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 1   2678    https://leetcode.com/problems/number-of-senior-citizens/
 1   3110    https://leetcode.com/problems/score-of-a-string/
+1   3174    https://leetcode.com/problems/clear-digits/
 
 2   0003    https://leetcode.com/problems/longest-substring-without-repeating-characters/
 2   0022    https://leetcode.com/problems/generate-parentheses/

@@ -6,6 +6,7 @@ Reference:
 
 ### Stack
 ## StringBuilders as Stacks
+1   3174    https://leetcode.com/problems/clear-digits/
 
 2   0844    https://leetcode.com/problems/backspace-string-compare/
 2   1047    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
