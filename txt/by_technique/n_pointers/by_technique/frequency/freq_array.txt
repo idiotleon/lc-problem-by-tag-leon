@@ -46,6 +46,7 @@ Reference:
 2   2248    https://leetcode.com/problems/intersection-of-multiple-arrays/
 2   2273    https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 2   2287    https://leetcode.com/problems/rearrange-characters-to-make-target-string/
+2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
 2   2405    https://leetcode.com/problems/optimal-partition-of-string/
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
