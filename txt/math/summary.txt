@@ -131,6 +131,7 @@ Reference:
 3   1247    https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 3   1286    https://leetcode.com/problems/iterator-for-combination/
 3   1291    https://leetcode.com/problems/sequential-digits/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
 3   1401    https://leetcode.com/problems/circle-and-rectangle-overlapping/
 3   1414    https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 3   1415    https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/

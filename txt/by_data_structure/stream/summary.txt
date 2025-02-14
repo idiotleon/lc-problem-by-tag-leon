@@ -11,6 +11,7 @@ Reference:
 2   0170    https://leetcode.com/problems/two-sum-iii-data-structure-design/
 
 3   0901    https://leetcode.com/problems/online-stock-span/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
 
 4   0295    https://leetcode.com/problems/find-median-from-data-stream/
 

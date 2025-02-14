@@ -44,6 +44,7 @@ Reference:
 3   0938    https://leetcode.com/problems/range-sum-of-bst/
 3   1010    https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 3   1314    https://leetcode.com/problems/matrix-block-sum/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
 3   1652    https://leetcode.com/problems/defuse-the-bomb/
 3   1814    https://leetcode.com/problems/count-nice-pairs-in-an-array/
 3   1968    https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/

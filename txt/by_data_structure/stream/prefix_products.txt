@@ -1,0 +1,9 @@
+@author: Leon
+References:
+    https://github.com/huanminwu/LeetCode/blob/master/LeetCode.xlsx
+
+
+### Array
+# Prefix Products
+
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/

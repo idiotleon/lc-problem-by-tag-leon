@@ -36,6 +36,7 @@ Reference:
 3   1229    https://leetcode.com/problems/meeting-scheduler/
 3   1244    https://leetcode.com/problems/design-a-leaderboard/
 3   1329    https://leetcode.com/problems/sort-the-matrix-diagonally/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
 3   1405    https://leetcode.com/problems/longest-happy-string/
 3   1514    https://leetcode.com/problems/path-with-maximum-probability/
 3   1792    https://leetcode.com/problems/maximum-average-pass-ratio/

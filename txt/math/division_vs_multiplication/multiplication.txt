@@ -12,5 +12,6 @@ Reference:
 2   1726    https://leetcode.com/problems/tuple-with-same-product/
 
 3   0311    https://leetcode.com/problems/sparse-matrix-multiplication/
+3   1352    https://leetcode.com/problems/product-of-the-last-k-numbers/
 
 4   1770    https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
