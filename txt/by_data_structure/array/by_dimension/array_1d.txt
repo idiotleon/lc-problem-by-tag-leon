@@ -221,7 +221,7 @@ Reference:
 2   2279    https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 2   2317    https://leetcode.com/problems/maximum-xor-after-operations/
 2   2323    https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/
-2   2342    2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
+2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2367    https://leetcode.com/problems/number-of-arithmetic-triplets/
 2   2342    https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 2   2348    https://leetcode.com/problems/number-of-zero-filled-subarrays/
@@ -248,6 +248,7 @@ Reference:
 2   3355    https://leetcode.com/problems/zero-array-transformation-i/
 2   3427    https://leetcode.com/problems/sum-of-variable-length-subarrays/
 2   3432    https://leetcode.com/problems/count-partitions-with-even-sum-difference/
+2   3740    https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
 
 3   0011    https://leetcode.com/problems/container-with-most-water/
 3   0033    https://leetcode.com/problems/search-in-rotated-sorted-array/

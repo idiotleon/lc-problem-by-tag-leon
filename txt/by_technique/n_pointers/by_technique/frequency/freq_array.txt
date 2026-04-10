@@ -52,6 +52,7 @@ Reference:
 2   2482    https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 2   2657    https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 2   3223    https://leetcode.com/problems/minimum-length-of-string-after-operations/
+2   3740    https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
 
 3   0424    https://leetcode.com/problems/longest-repeating-character-replacement/
 3   0438    https://leetcode.com/problems/find-all-anagrams-in-a-string/

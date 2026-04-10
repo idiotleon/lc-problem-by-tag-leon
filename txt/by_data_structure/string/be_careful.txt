@@ -1,0 +1,4 @@
+1. toLowercaseChar() before judging equality, lc0125
+2. boundary protection, while(lo < hi && ...){ ++lo; --hi; }
+3. isEmpty()
+4. impossible values
