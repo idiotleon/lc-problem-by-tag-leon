@@ -8,5 +8,7 @@ Reference:
 # Index HashMap
 
 2   2121    https://leetcode.com/problems/intervals-between-identical-elements/
+2   3740    https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
+2   3741    https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
 
 3   0523    https://leetcode.com/problems/continuous-subarray-sum/

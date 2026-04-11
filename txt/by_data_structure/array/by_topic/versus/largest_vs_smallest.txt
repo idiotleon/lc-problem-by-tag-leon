@@ -37,6 +37,7 @@ Reference:
 2   2706    https://leetcode.com/problems/buy-two-chocolates/
 2   2909    https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/
 2   3740    https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
+2   3741    https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
 
 3   0373    https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 3   0624    https://leetcode.com/problems/maximum-distance-in-arrays/
